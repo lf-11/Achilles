@@ -7,6 +7,9 @@ drive-download-*.zip
 extraction_results/
 page_results/
 
+# Web service runtime job data (uploads, work, output, logs)
+jobs/
+
 # Claude internals — track only skills/, ignore everything else
 .claude/*
 !.claude/skills/
