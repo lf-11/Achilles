@@ -1,0 +1,33 @@
+WITN10000100
+WITN10000100
+DocuSign Envelope ID: 81AFC40A-7FC9-42E3-966B-320BE0F2480F
+
+at their own cost, engage EY to produce such a report for the Fujitsu hosted
+Post Office systems within the scope of our annual IT General Controls audit".
+The report says that the Fujitsu ISAE 3402 report will be introduced for FY
+2012/13.
+
+57 While I cannot recall the exact chronology of the negotiations with Fujitsu about
+undertaking their own SAS70 / ISAE 3402 audit (as these were IT specific
+recommendations, the negotiations would have been led by Mike Young, then
+Ms Sewell), my view from reading the documents referenced above is that we
+took proportionate and effective steps to address EY's recommendations and
+obtain the appropriate assurance certification from Fujitsu.
+
+58 I note the comment in the minutes for the Board Meeting dated 22 September
+2011 that "the business needed to be influenced by the cost as to which route
+was pursued". I do not believe cost was the primary consideration in our
+approach to carrying out a SAS70 audit. Rather, we were led by the principle
+that Fujitsu should lead on the audit because they had ownership of the Horizon
+IT System. We did not think it was appropriate or wise to instruct a third party
+to undertake the audit without Fujitsu's input. With that in mind, we found it
+difficult to justify a significant expense (£100,000 or more) for a third party
+SAS70 or equivalent audit report when we believed Fujitsu should have taken
+responsibility for this, which they ultimately did.
+
+59 I have been asked to comment on the background to the RMG ARC Committee
+seeking input on "IT controls and the Horizon claims" [POL00295091] (email
+dated 30 November 2011 from Ms Hall) and what I reported to the RMG ARC
+Committee. I do not recall this request or the background to it, but I believe it
+
+Page 18 of 49

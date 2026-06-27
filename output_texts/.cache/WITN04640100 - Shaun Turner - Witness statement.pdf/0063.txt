@@ -1,0 +1,32 @@
+WITN04640100
+WITN04640100
+
+the PING project might mean for Postmasters and the support that would be
+made available to branches with this transition, including the communications
+that were sent to branches to advise them of the PING project rollout.
+
+206. I have been asked to expand on the conformance issues caused by the
+manual input of client data into Horizon Online. As stated in paragraph 197, I
+have reviewed document POL00001535 in relation to this issue.
+
+207. Ultimately, people are human and make mistakes. It is inevitable that
+mistakes will be made when manually inputting data from one system to
+another. System to system integration should mean that there are no
+conformance issues or disputes in relation to the accuracy of the data.
+
+208. Prior to the PING project, Camelot harvested data from its lottery
+terminals and sent it to POL, where that data was then matched against the
+information that the Postmaster had input into the Horizon accounting system.
+If the Postmaster had input the data incorrectly or not at all into Horizon, the
+data would not match, and a TC would be issued to resolve the discrepancy.
+
+209. I have been asked what the catalyst was for implementing the PING
+project, and why it was not implemented before. As stated in paragraph 197, I
+have reviewed document POL00001535, but it has not assisted my recollection
+in relation to this question. My particular interest in the PING project was in
+making processes easier for Postmasters and reducing the scope for errors. I
+would not have known the catalyst for implementing the PING project or why it
+was not implemented before, as this was not within the remit of my role at any
+time.
+
+Page 63 of 95

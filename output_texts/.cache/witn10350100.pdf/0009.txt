@@ -1,0 +1,36 @@
+WITN10350100
+WITN10350100
+
+do not know now what was "queried", how it was queried or by whom. In the
+event, I did not meet Gareth Jenkins and I cannot find any record that I had
+further discussions about it or any record of my reasoning for not doing so.
+
+22. I am also asked what, if any, discussions I had with any other individuals from
+Fujitsu during this period, and, if no discussions took place, whether this was
+something I considered. I had no discussions with anyone from Fujitsu and I
+do not recall now if I considered it. However, given the nature and scope of
+my instructions and role, I doubt I would have considered meeting anyone
+from Fujitsu.
+
+23. I am further asked to set out any information I received (whether formally or
+informally, at this time or earlier) from BD (or WBD as they became) in respect
+of any previous cases that they had been involved in where issues of bugs,
+errors or defects in Horizon had been raised. I do not recall receiving any such
+information at this time or earlier.
+
+24. I am requested to set out the names of all lawyers at BD/WBD with whom I
+discussed issues of the reliability of Gareth Jenkins (during this period or at
+any other time) and to set out my recollections of those discussions. I have no
+recollection of discussions with anyone from BD/WBD about Gareth Jenkins
+in this period or at any other time.
+
+25. I am asked about the extent to which I was aware of: (1) bugs, errors or defects
+in Legacy Horizon; (2) the Helen Rose Report; (3) the Second Sight Interim
+Report; (4) the August Clarke advice; and (5) the Detica report, and insofar as
+I was not aware of them, to set out if (and if so, when) I later became aware of
+them. I deal with each in turn:
+
+(1) I was aware of the Callendar Square/Falkirk bug as to which I had
+been given to understand a software fix had been distributed into the
+
+Page 9 of 53

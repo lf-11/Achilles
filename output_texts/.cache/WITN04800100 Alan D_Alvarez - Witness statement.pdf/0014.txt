@@ -1,0 +1,30 @@
+WITN04800100
+WITN04800100
+
+and when the earlier pilots were under way. Developing the technical control
+procedures to meet these two documents took time.
+
+b. My team also needed to clear defects raised through testing and resolve
+them prior to the go live of New Release 2. Not all defects that we had
+agreed with the Post Office should be fixed before going live had, in fact,
+been fixed in the planned timescales. I think I needed another two months
+from my original test plan to get through my defect clearance. I am not
+aware of whether sub-postmasters were informed of these defects, and it
+would not have been part of my role or responsibilities to interface with sub-
+postmasters. The Post Office had in place two people who were
+accountable for overseeing security testing. I cannot remember their
+names, though the first name of one of them may have been Cliff. They
+were accountable for reviewing all defects and agreeing the business
+priority of those defects. They also reviewed the position around unresolved
+defects at the point of exiting the security test phase, and they audited test
+results and PinlCL content for accuracy. I was not sighted on any of the
+reporting these Post Office representatives may have done (including to
+whom they reported) within the wider Post Office organisation.
+
+38. Having reviewed a copy of the Exception Plan for Delivering KMS (WITN480_01/8), I
+am reminded that a decision was made to split the delivery of the KMS into two phases
+in order to meet the New Release 2 deadline. As the Exception Plan highlights, the
+sheer volume of work resulted in the development team falling behind schedule. Three
+options were considered and the option agreed was to phase the delivery of the KMS.
+
+Page 14 of 26

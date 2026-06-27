@@ -1,0 +1,9 @@
+WITN04630100
+WITN04630100
+
+38. Regarding POL00054371 (Emails regarding Horizon dispute cases), I don't recall that there were serious concerns within POL management about the integrity of the Horizon system at that time. However, it was clearly recognized that allegations were being made about the system and as one of the writers of the emails states it was "to confirm our belief in the robustness of the system." POL had a number of in-house technical experts and I do not recall a sense that the system was being doubted by these specialists. There was also an understanding that there had been independent technical reviews at deployment of the system, such as the Gartner report referred to in POL00026572 (Horizon Response to Challenges Regarding Systems Integrity). As a finance professional, I drew comfort from in-house IT experts as regards the function of the system, and the reference to reviews commissioned such as Gartner.
+
+39. Regarding POL00026572, I confirm that I did write this report, after being asked by David Smith to conduct a review in light of the challenges being made about the system. It was a summary of existing conclusions, not a fresh investigation. The conclusions came from internal discussions with recipients of the document or with their team members that they recommended be consulted, including IT.
+
+40. The report suggested that Post Office Ltd was justified to assume that the losses identified at audit were due to theft. This statement was based on the understanding that POL management still did not have serious concerns about the integrity of Horizon and so their view regarding the past cases would not have changed. It was also made in light of the range of controls and mitigations noted throughout the document. At that time, the belief was
+Page 10 of 24

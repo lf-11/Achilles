@@ -1,0 +1,36 @@
+WITN09890500
+WITN09890500
+
+Appendix I – Case type determinations in prosecution and conviction cases
+
+| | Case type recorded on the MCS | Horizon-related (i.e. within scope of the PCDE or treated as ‘like for like’ pre-Horizon) | Shortfall-related |
+|---|---|---|---|
+| 1. | Allegations affecting or against character21 | Yes | Yes |
+| 2. | ATM (Inflated) | Yes | Yes |
+| 3. | Audit shortage22 | Yes | Yes |
+| 4. | Banking Fraud | Yes | Yes |
+| 5. | Banking Post Office Card Account Fraud23 | Yes | Yes |
+| 6. | Banking Credit / Debit Card Fraud24 | Yes | Yes |
+| 7. | Bureau Theft/Fraud25 | Yes | Yes |
+| 8. | Business Concern26 | Yes | Yes |
+| 9. | Cash Loss | Yes | Yes |
+| 10. | Cash Loss (Audit Discrepancy) | Yes | Yes |
+| 11. | Cheque (inflated) or Cheque Fraud | Yes | Yes |
+| 12. | Credit/Debit Card Fraud | Yes | Yes |
+| 13. | Crown Office or Directly Managed Branch Cash Loss27 | Yes | Yes |
+| 14. | Disputed Transaction (s)28 | Yes | Yes |
+| 15. | False Accounting | Yes | Yes |
+| 16. | Fraud (Internal)29 | Yes | Yes |
+| 17. | Lottery | Yes | Yes |
+
+21 There are a number of anomalies in this Case Type, as allegations affecting the character sometimes related to non-financial related crime such as possession of indecent images; blackmail etc.
+22 Or “Audit” or “Audit / False Accounting”.
+23 Unless it is clear from the data that it was not a ‘like for like’ or shortfall related case.
+24 Unless it is clear from the data that it was not a ‘like for like’ or shortfall related case.
+25 Or “Bureau” or “Bureau Loss / Fraud”.
+26 Unless it is clear from the data that it was not a ‘like for like’ or shortfall related case.
+27 Unless it is clear from the data that it was not a ‘like for like’ or shortfall related case.
+28 Unless it is clear from the data that it was not a ‘like for like’ or shortfall related case.
+29 Unless it is clear from the data that it was not a ‘like for like’ or shortfall related case.
+
+17

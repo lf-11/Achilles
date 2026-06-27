@@ -1,0 +1,32 @@
+WITN08350100
+WITN08350100
+
+[POL00115671] is that any failures in security, supervision, procedures or
+product integrity that were found should be included in the report submitted by
+the investigator. The templates at [POL00118102] and [POL00115672] each
+have a sub-heading under which any such findings could be recorded.
+
+61. My understanding of the relevance of paragraph 2.15 to the issue of disclosure
+is that disclosure obligations applied to any failures, including product integrity.
+
+62. The Request asks me in particular about the document entitled "Identification
+Codes" (at [POL00118104]) and if I had had any involvement in drafting or
+reviewing it. I have no recollection of seeing this document before the Request
+drew my attention to it. I had no involvement in drafting this document and I have
+no knowledge of who did.
+
+63. I did not review the document and if I had been aware of the content at that time,
+I am confident that I would have said that it was not appropriate and needed to
+be amended.
+
+64. I have no knowledge as to why investigators were instructed to assign
+identification codes to suspected offenders. The practice was in place when I
+joined the Security Team.
+
+Analysing Horizon data and requesting ARQ data from Fujitsu
+
+65. Paragraph 25 of the Request asks me to describe what analysis was done by
+Security Team investigators of Horizon data when a shortfall was attributed to
+problems with Horizon.
+
+Page 15 of 29

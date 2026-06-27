@@ -1,0 +1,32 @@
+WITN08610100
+WITN08610100
+
+47. I have considered documents POL00083966, POL00084801, POL00087627,
+POL00088745, POL00088204, POL00088252, POL00084003, POL00104821,
+POL00084977, POL00085652, POL00086765, POL00086831, POL00086839,
+POL00087716, POL00087614, POL00088628, POL00088830, POL00084979,
+POL00084978 and POL00088445 in answering questions about the audit
+process but note that several of the documents were dated after 2011 (when I
+was no longer employed by Post Office) and record processes that may have
+changed over time.
+
+48. The auditor would have been expected to access a range of reports from the
+Horizon system as set out in the Audit Process Manual at the time. The Audit
+Process Manual was written and maintained as a means to set out a process
+to be consistently used by all Post Office branch auditors across the UK. The
+type of information would have included the Last Cash Declaration and Branch
+Trading Statement, Office Snapshot, Transaction Logs, Event Logs,
+Remittances In and Out report, Transaction Correction Reports etc. Any
+variations would depend on the branch profile e.g. if the branch operated
+multiple stocks or sold foreign currency.
+
+49. Where the audit revealed a discrepancy, the lead auditor would be expected to
+double check their own figures first and then review various reports from
+Horizon that might explain the discrepancy. The sub-postmaster/branch
+manager would be advised of the outcome, confirming that all items of cash
+and stock had been provided/seen. In the event of any large financial
+discrepancy, other irregularity or admission of false accounting, an escalation
+process would be triggered. This involved immediate reporting to Network
+Management, who would decide what action to take. If there was any admission
+
+Page 16 of 34

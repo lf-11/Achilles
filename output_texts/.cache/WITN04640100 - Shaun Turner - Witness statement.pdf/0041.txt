@@ -1,0 +1,10 @@
+WITN04640100
+WITN04640100
+
+132. Whilst my recollection is vague, my understanding of global access IDs was that users with a global access ID allocated to them could access Horizon terminals in any branch in the network without having to be set up on the terminal by the relevant branch manager. The global access user would still need to physically be in front of the Horizon terminal, so this functionality did not to my knowledge allow any remote access. I think that global access IDs were introduced possibly in connection with the Horizon Online rollout during 2010, though I cannot be sure of the exact timing.
+
+133. I think my involvement related to the process of adding and removing people to the global ID list when it began being managed by the BSC, and in making sure that the BSC was clear about how to handle requests to amend the list of users with global access IDs. My recollection is that there was a specific process by which authorisation had to be requested and obtained for an individual to be assigned a global access user ID. For example, only a list of authorised requesters, such as training and audit managers, were able to ask for new people to be given global access IDs, for instance when hiring new members of staff. If the BSC received a request from someone who was not an authorised requester, they would have to reject that request and signpost the unauthorised requester to someone who was able to make such a request.
+
+134. I think I was also then involved in the process for periodic review and audit of the global access user IDs list. This looked at, for example, how global IDs should be validated and authorised and how the notification of changes or leavers should work. The aim was to make sure that only those who needed global access user IDs were on the list, such that people who no longer needed access were removed and their IDs revoked. My recollection is that global
+
+Page 41 of 95

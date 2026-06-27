@@ -1,0 +1,30 @@
+WITN09180100
+WITN09180100
+
+a range of compliance questions would be asked and if they or a member of
+their team could make themselves available for this.
+
+36. Any issues or concerns raised by a postmaster concerning reasons for any
+possible discrepancy were investigated by the auditors to source
+documentation on site and by phone calls to the relevant section at Product and
+Branch Accounting at Chesterfield.
+
+37. In certain cases, use of Horizon was not available due to fire, flood, electrical
+problems, or vandalism following a robbery. A full audit could not be completed
+by a count of all cash, stock, vouchers was made to be sent to the Cash Centre
+as the office would be defunded these would be rechecked once the system
+was up and running properly.
+
+38. As explained previously, Crown Office branches were subject to independent
+checks by the Crown Office Manager and Area Manager so 75% of counter
+stocks were checked including those that contained most of cash such as the
+main safe and those counter stocks not checked were classed as "assured". As
+part of the compliance checks it would be verified that the counter spot checks
+by the Manager and Area Manager were up to date.
+
+39. I have reviewed the following documents:
+
+i) "Audit Trail Functional Specification" (version 8.0, 18 October 2004)
+[FUJ00001894];
+
+Page 12 of 20

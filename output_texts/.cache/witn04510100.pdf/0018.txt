@@ -1,0 +1,10 @@
+WITN04510100
+WITN04510100
+
+44. The development was to be an intranet system accessible by POL management and Post Office Account staff which would provide a variety of functions. The functions that I can remember were reporting against hardware call SLTs, reporting on network reliability, real-time reporting on some system functions, and a function that would show the nearest working Post Office branch in the event of network failure causing one or more branches to cease trading. As noted in section 4 of the "Service Management Portal User Guide" dated 22 December 2005 (SMP User Guide) (FUJ00142216), the real-time reporting was a red/amber/green representation of the state of a number of system functions, including Alliance and Leicester Network Banking, overall failure count on Network Banking transactions, Transaction Enquiry Service servers and EPAY connections for E-Top Ups. In addition, there was a map of all Post Offices which were not communicating, with subsets for VIP Post Offices and Post Offices that were reliant on satellite communications. POL could also check on the current state of an individual Post Office. The data which was used to provide the information was detailed on the SMP.
+
+45. I cannot recall the names of individuals who had access to the SMP. I arranged for Fujitsu and POL staff to be given access but I would not deal directly with the individuals being given access. For example, POL would supply me a list of POL staff to be given access, and I would add these names to the SMP system and provide POL a list of usernames and passwords.
+
+46. Most of the SMP system was written by me, with assistance from SSC technicians. Data for the system came from daily extractions from Peak, Powerhelp and Tivoli.
+
+Page 18 of 54

@@ -1,0 +1,32 @@
+WITN05290200
+WITN05290200
+
+issues either through formal reporting processes or directly by Release
+Managers.
+
+12. The ultimate decision whether to release new software into the network
+was a business decision. This was taken at a Release Authorisation Board
+which I normally chaired, although very much in a non-voting capacity, my
+role being to lead the meeting through the process. The Fujitsu release
+would be just one input as invariably other systems changes would be
+involved and business as usual departments would also have deliverables
+that required "green" status for the release to be approved. The practice
+was to hold rehearsal meetings in advance of the decision point and thus
+surface early any potential no-go issues. This would include the progress
+with testing of Horizon.
+
+THE NEXT GENERATION
+
+13. I was asked to consider Post Office Ltd Board minutes dated 13/10/2004
+[POL00021485], Post Office Ltd, Horizon Next Generation Release
+Authorisation AG3 Joint Board Meeting minutes dated 28/10/2010
+[FUJ00097159] and Project Initiation Document for Post Office/Fujitsu IT
+Roadmap Feasibility Study dated 11/11/204 [POL00030559].I am asked to
+explain what the Horizon Next Generation business case was and what it
+involved.
+
+14. The business case was to extend the contract with Fujitsu on new terms
+until March 2015 and to replace the existing system. The project
+authorised sum was around £125 with annual savings of the order of
+
+Page 5 of 22

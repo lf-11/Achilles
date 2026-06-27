@@ -1,0 +1,12 @@
+WITN06160100
+WITN06160100
+
+138. I have been asked what concerns I had in relation to specific areas of the Post Office system including Mails, Camelot, DVLA, Banking etc. One of the concerns I had was that where there was a piece of technology in the branch that didn't have a direct feed from it to Horizon and relied on postmasters and branch staff to manually transfer the transactions onto Horizon, this generated the opportunity for error. This included the likes of the paystation terminals, Post and Go, ATMs, Camelot etc.
+
+139. All of these processes appeared to have been designed in isolation with the client and were constrained by the change constraints on the Horizon system. My interpretation was that the Horizon system wasn't defective, but that the process design and user experience for certain transactions was. As the optimal technical solution wasn't available for go-live for whatever reason, this had the potential to increase the operational burden into the branch.
+
+140. When Transaction Acknowledgements were introduced in 2011 for products such as Paystation and Camelot, whilst this generated an automatic feed of the sales into the Horizon system, there was still an onus on the branch to set up correct stock units to accept the TA, process it correctly and then physically transfer the takings to the Post Office cash if for example the Lottery terminal was located on the retail side of the business.
+
+141. I have been asked whether I had any concerns in relation to the in-branch technology and that it may be responsible for some of the errors. As mentioned above, I had no evidence to suggest this to be the case or have the technical
+
+Page 47 of 45

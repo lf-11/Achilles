@@ -1,0 +1,13 @@
+WITN09950100
+
+(b) KPMG
+
+25. POL's eDiscovery provider is KPMG, who are directly accountable to POL for their work. KPMG host electronic documents for POL in various databases on an eDiscovery platform known as Relativity. They also process and upload to Relativity documents harvested from POL and other sources. In addition, they are responsible for the technical elements of any document review and production. There are a number of aspects to that, but at a broad level it involves advising on eDiscovery matters, receiving search instructions, running searches over databases (or subsets of documents in one or more of the databases) in accordance with those instructions to produce a pool of documents for review, deduplicating documents and/or applying other refinements, migrating documents (e.g. from the large processing database to a 'review' database), batching documents for review, resolving technical issues, preparing document exports for production to the Inquiry and uploading productions to the Inquiry's file sharing platform.
+
+26. The KPMG team is led by Paul Tombleson and I am aware that he has also received a Rule 9 Request for the purpose of the 5 September 2023 hearing.
+
+(c) Peters & Peters
+
+27. P&P are retained by POL to provide advice and assistance in relation to criminal law and procedure, including in particular in the ongoing criminal appeals. The P&P team includes lawyers at P&P, as well as a number of junior barristers whom they instruct to undertake review work amongst other things – I use the term "P&P" to refer to the whole team.
+
+Page 8 of 63

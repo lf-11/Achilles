@@ -1,0 +1,33 @@
+WITN05210200
+WITN05210200
+
+24. For the avoidance of doubt the End to End Working Party were responsible
+for augmenting the end to end business resolution process as a result of
+introducing both Horizon and the data integrity check.
+
+Question 13: How did you envisage that POCL and ICL Pathway would manage
+the resolution of errors at a rate of 0.6% nationwide?
+
+25. Following roll out the resolution of errors would have been the role of the
+Transaction Processing Unit in Chesterfield following the Business as Usual
+process with input, as required, from the Retail Network, Finance, Internal and
+External Audit and the Internal Investigation teams. At this time, there was a
+team of around 700 people in Chesterfield within Transaction Processing
+involved in this process.
+
+Question 14: Please describe and explain the other conditions which you
+proposed as part of the resolution of Al 376 prior to acceptance?
+
+26. I believe the question refers to the 6 conditions which are referred to at page 9
+of document FUJ00079176 as being proposed by Keith Baines and I. There
+is also a reference to a document called "RH's paper" on page 9 of that
+document. I have not seen that paper and I cannot recall from memory what
+the other conditions were. These conditions and the resultant papers, were
+produced by the End to End Working Party.
+
+PLEASE CONSIDER POL00038907.
+
+Question 15: Who was responsible for determining whether or not acceptance
+of the Horizon system should take place in September 1999?
+
+Page 8 of 21

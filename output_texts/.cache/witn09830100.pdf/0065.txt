@@ -1,0 +1,10 @@
+WITN09830100
+WITN09830100
+
+128 Angela van den Bogerd and I went on to explain the process by which discrepancies in branch accounts can be addressed by way of a transaction correction. When asked whether it was now or had ever been possible for anybody from POL or Fujitsu to interfere with transactions or transaction data on a branch terminal without the knowledge of the sub-postmaster, I stated that "it is 100% true to say that we can't change, alter or modify existing transaction data so the integrity is 100% preserved." I went on to say that there was process which had only ever been used once to overcome a technical error which could not be corrected by a transaction correction or a transaction acknowledgment, called a balancing transaction. This statement reflected my understanding and knowledge of remote access at the time. The information relayed to the journalists in respect of remote access and the technical possibilities for amending branch accounts was provided by Fujitsu, as described in paragraph 62. POL was in contact with Fujitsu to obtain their assistance when preparing for the briefing meeting [POL00316805]. The Panorama episode aired on 17 August 2015.
+
+129 More generally, I have been involved with communicating with the press, but this has been more limited. I very rarely communicated with the press directly; I am sometimes asked to comment on statements prepared by POL's communication team and others.
+
+130 Following the broadcast of the BBC Panorama episode I helped draft another letter to Baroness Neville-Rolfe in early September 2015. I note in my email to Jane McCleod on 2 September at 22:16, that Baroness Neville-Rolfe was
+
+Page 65 of 168

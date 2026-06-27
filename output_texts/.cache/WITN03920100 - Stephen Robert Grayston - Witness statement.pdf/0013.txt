@@ -1,0 +1,30 @@
+WITN03920100
+WITN03920100
+
+managers and subject matter experts to analyse incidents to determine root
+cause. Incident severity was generally jointly agreed however there were
+instances where POCL had a view that incidents were more severe. As I
+understood the process ICL Pathway would develop fixes and these would be
+incorporated into testing; these could be software fixes or procedural fixes. POCL
+was involved, through Programme subject matter experts, in assuring the nature
+of the fix and closing defects via agreed test closure criteria. Given the number of
+tests and defects it was important to have a single point where all incidents,
+defects and progress to fix was held and maintained. The POCL programme
+team was also responsible for ensuring that POCL head office senior
+management and regional management was updated on progress.
+
+36. In terms of unique number referencing for defects I believe that ICL Pathway
+utilised their in-house unique referencing system for defects and that this was, for
+joint test management and reporting purposes cross-referenced to a Model
+Office testing unique reference number system. In effect a defect could have 2
+unique reference numbers.
+
+37. The development of the MiECCO automated migration tool was undertaken by
+ICL Pathway to avoid a lengthy manual in-office data migration process for larger
+Post Offices that operated the ECCO point of sale system. From a POCL
+operational perspective it was critical that data from ECCO was correctly mapped
+to the Horizon data tables such that the closing accounting position at each stock
+unit, and for the branch as a whole, could clearly be recognised in the opening
+position in Horizon stock units and overall for the office in Horizon. I was
+
+Page 13 of 32

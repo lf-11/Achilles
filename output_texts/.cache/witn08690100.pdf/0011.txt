@@ -1,0 +1,30 @@
+WITN08690100
+WITN08690100
+
+require the team contacting other support teams to provide the required
+information which could be a few days to get the data. I can see from the
+document, Post Incident Auditing without Horizon, Chapter 14 of the Audit
+Process Manual (version 1.0, Nov 2006) (POL00084003), provided to me by
+the Inquiry, that you cannot produce an audit figure without Horizon, but I do
+not recall this document and was not specifically aware of this at the time.
+
+34. The approach taken to auditing a Crown Office was based around risk as far
+as I can recall. This approach is focused on the assessment of risk to the
+cash, stock and other valued items. The approach for compliance was the
+same as far as I can recall. Crown Office branches are managed by a Post
+Office Ltd employed person who has responsibility for completing various
+management checks therefore the Audit Team's approach was to complete a
+percentage check of live counter stock units and non-counter stock units.
+There were compliance tests for Crown Offices and other branches. The tests
+performed at each branch would be decided by the Audit Leader based on
+previous audit findings and current guidelines.
+
+35. The Inquiry has asked me to consider the following documents:
+a. Audit Trail Functional Specification (version 8.0, 18 October 2004)
+(FUJ00001894);
+b. Global User Account (September 2016) (POL00002841).
+
+36. I cannot recall seeing the Audit Trail Functional Specification (FUJ00001894)
+document and I don't recall the detail from memory. In regard to the Global
+
+Page 11 of 35

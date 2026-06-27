@@ -1,0 +1,12 @@
+WITN08900100
+WITN08900100
+
+55. As above. As I did not deal with criminal enforcement proceedings I am not familiar with the Financial Investigation Unit process documentation (POL00084988 and POL00084989) which was appended to the 2009 "Former Subpostmaster End to End Debt Review" (POL00084977), as well as POL00051382
+
+Audit data from Horizon to support investigation, prosecution and / or other legal proceedings
+
+56. I cannot recall what the contractual requirements on Fujitsu were. I am aware that there were limits on the number of ARQ requests which could be made without additional costs being occurred. I do not know how any requests above the limits were dealt with or charged but this would not have been a factor taken into consideration in deciding whether such documentation should be obtained. I was not working for POL when Horizon online was introduced. I had no role in obtaining audit data. I do not know who authorised an ARQ request. I cannot recall who from Fujitsu was responsible for the provision of this data or how the data was presented. I do not know of any additional prosecution support Fujitsu was contractually obliged to provide.
+
+57. The documents titled "Conducting Audit Data Extractions at CSR" dated 4th May 2000 at POL00029169 and "Conducting Audit Data Extractions at Live" dated 27th November 2001 at FUJ00152176 are the only documents that were published whilst I was conducting POL cases. I do not recall having seen them before. The versions of the document entitled "Management of
+
+Page 20 of 50

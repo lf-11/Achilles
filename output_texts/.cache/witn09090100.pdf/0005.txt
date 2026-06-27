@@ -1,0 +1,32 @@
+WITN09090100
+WITN09090100
+
+WITN09090100
+
+answer to the question being asked. Using the 4 levels of classification,
+Remedy would then search on the KB and provide the advisor with the KB
+article relating to the classifications requested.
+
+15. An example of this could be a caller asking whether a customer is able to tax
+their motor vehicle with an insurance schedule. In this example the four levels
+of classification could be as follows – Classification 1 = DVLA – Classification
+2 = Car Tax – Classification 3 = Insurance Documents – Classification 4 =
+Acceptable Documents. In this example the KB would present an article
+explaining what the acceptable insurance documents were when taxing a
+motor vehicle.
+
+16. Predominantly Tier 1 could only answer questions that were straight forward
+and where an answer could be found on the Knowledge Base. Tier 1 could
+not make outbound calls to branches and were restricted to the amount of
+time they were on a call and were restricted to only giving answers from the
+KB. If the answer could not be found quickly by the Tier 1 advisor on the KB
+the call would be transferred through to Tier 2.
+
+17. Normally calls would be transferred live through to Tier 2 from Tier 1 but at
+busy periods where there were no Tier 2 advisor available the case would be
+assigned to the Tier 2 case stack in Remedy and the caller would get a call
+back when that case was picked up by a Tier 2 advisor. Tier 2 had an
+allocator role each day, this was a Tier 2 advisor who would monitor the Tier 2
+case stack and allocate cases to the next available advisor. This ensured that
+
+Page 5 of 33

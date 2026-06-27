@@ -1,0 +1,28 @@
+WITN08290100
+WITN08290100
+
+Management Policy (version 1.0, March 2000)) or 2002 POL00104777
+(Casework Management Policy (version 4.0, October 2002). In relation to
+POL00104747 I do not recall seeing it, but I do recall some of the details. I can
+see POL00104777 covers the practice of preparing two reports, a Legal report
+and a Discipline report. I am familiar with this process so I believe I would have
+seen this document although I cannot recall when.
+
+52. The inquiry has asked me about what I understood to be the
+instructions/guidance given in the second, third and fourth bullet points on page
+2 of the 2000 version (POL00104747) and the first, second and third bullets on
+page 2 of the 2002 (POL00104777) version and whether I understood this to
+be relevant to PO's disclosure obligations in relation to information about
+Horizon bugs, errors and defects. My understanding of these points is that they
+cover security operational procedures and ensuring weaknesses in
+transactions and/or procedures were not publicised as this could allow similar
+offences to be committed before a fix was put in place. For example, if there
+was a physical security weakness with something like a door then we would not
+want that to be in the public domain. My understanding is that these points were
+about the products and ensuring that they were protected. At no time was I
+aware of any Horizon, bugs, errors or defects so I would not have disclosed
+anything relating to that. I would assume that disclosure would have been made
+by someone in the relevant area if they were aware (Legal Team or Fujitsu) of
+any Horizon, bugs, errors or defects.
+
+20

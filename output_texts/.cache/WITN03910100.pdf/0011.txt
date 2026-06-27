@@ -1,0 +1,10 @@
+WITN03910100
+WITN03910100
+
+23. I have been asked to explain how I feel this could have been avoided. Due to the time elapsed I cannot recall the pilot being suspended or the reasons why this was suspended and I therefore cannot venture an opinion. The Programme Manager would have made this decision along with his Lead Team, Senior Post Office managers, Head of IT, Design Authority and Post Office Board including why a high-volume pilot was necessary in the first place.
+
+Bugs and Errors
+
+24. I have been asked to consider PEAK Incident Management System document (POL00000760) and comment on what I thought of the appearance of incomplete/missing transactions that I was notified of. Due to the time elapsed some 22 years, I cannot recall this specific incident or the details of any other incidents. This would have been one of many incidents that I dealt with and it would have been actioned and managed in line with the Horizon Live Trial Incident and Problem Management process. I have read POL00000760, which is the Fujitsu Helpdesk level 1 service. I am mentioned on page 4, 17 Aug 2000 at 12:52 where it states that I was provided with a BIM report 0007111299 (which has not been provided to me) and subsequently confirmed with the Postmaster that there were no missing AP transactions. It also states that all transaction data has been provided to me by Fujitsu in a spreadsheet presumably for investigative purposes. On 17 Aug 2000 at 14:48, there is a subsequent update from John Moran which states
+
+Page 11 of 17

@@ -1,0 +1,30 @@
+WITN04510100
+WITN04510100
+
+calls based on their knowledge of the areas of expertise of the SSC
+technicians, and if they were unable to determine which area of expertise
+was most appropriate for a particular call, they would speak to myself or
+the SSC technicians for guidance. Later on, I produced a skills matrix for
+all members of the SSC to assist the SSC Coordinator with the allocation
+process. The SSC Coordinator would also consider the workloads of the
+SSC technician when allocating calls—usually the number of incidents
+the technician was managing at the time, and sometimes I would tell the
+SSC Coordinator not to pass calls to specific technicians for reasons of
+workload.
+
+e. The SSC technician would then analyse the incident and attempt to
+resolve it. If the incident was resolved, it would be closed on the Peak
+system, which in turn passed the closure details back over to Powerhelp
+via the OTI. If the incident was identified as a code error by the SSC, the
+SSC would forward the call to the development team responsible for that
+part of the system, usually after discussion with the specific developer
+as to exactly what evidence would be required in order to identify the
+exact area of code in error.
+
+f. Incidents were also raised by other staff in Pathway's (later Fujitsu's)
+Customer Service team (Customer Service), and by testing and
+development teams. These were raised direct onto the Peak system. For
+example, receipts and payments mismatches would be raised by the
+MSU. In the case of the testing teams, the incident would be raised and
+
+Page 6 of 54

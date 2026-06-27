@@ -1,0 +1,33 @@
+WITN05210200
+WITN05210200
+
+was agreed by everyone including myself that acceptance be declined in
+August 1999.
+
+Question 3: What (if any) concerns did you have at this stage about ICL
+Pathway's openness and willingness to share information and data concerning
+the nature, severity and cause(s) of Acceptance Incident 376?
+
+10. Due to the passage of time is it difficult to recall how I felt in August 1999 but
+to the best of my recollection I do not recall having specific concerns at this
+time. Both parties accepted that the error rate was too high and Pathway had
+committed to continue work to reduce the error rate. Both parties committed
+to a series of workshops to work on this and a number of other issues. I was
+aware that there was a great deal of work to be done on both sides but there
+was nothing to cause me to have concern regarding Pathway's willingness
+and openness to share information and data.
+
+PLEASE CONSIDER POL00038332, POL00043711, POL00028466,
+FUJ00118144, FUJ00118146 AND FUJ00118147
+
+Question 4: What did you understand the root (cause)s of the accounting
+discrepancies revealed by Acceptance Incident 376 to be?
+
+11. Given that I do not have a technical / IT / accounting background I do not feel
+able to provide an answer. However, I would say that AI 376 was considered
+a data integrity issue rather than an accounting discrepancy.
+
+Question 5: Did you consider that ICL Pathway had an adequate
+understanding of the root cause(s) of the accounting discrepancies?
+
+Page 4 of 21

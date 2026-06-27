@@ -1,0 +1,12 @@
+WITN04650100
+WITN04650100
+
+25. Callendar Square Post Office had suffered from one such 'bug'. My involvement in this process was to assist my colleague, Shaun Turner, obtain answers from Fujitsu I don't know how the issue originally came about, what advice the branch was given beyond ensuring occurrences were logged with the HSH, why there was a communication breakdown between P&BA and Fujitsu regarding the 'BIMS' process, I don't recall a 'presentation' by Fujitsu or what follow up was undertaken, with other impacted branches or post the S90 fix. I don't even recall whether the fix was successful but reading through the email chain today it does not look like root cause of the original error was established or if it was, I was not made aware of it.
+
+Horizon Online
+
+26.As someone that worked in operational roles my involvement in requirement gathering, contract negotiation, design, build or implementation of Horizon or Horizon Online was limited to a need to understand and support the service once live.
+
+27.I believed that the support processes were sufficiently robust be that within the NBSC, Problem or MIM. My responsibility was to focus on service restoration and protection. But I also recognised that service came with risk because the service was consumed and supported by people, Training, knowledge, understanding, and effective communication were all key. With the benefit of hindsight and particularly following the subsequent public revelations of Post Office Ltd response and treatment of some SPMR's I have no doubt that open communication linked to the risk of failures could have
+
+Page 14 of 16

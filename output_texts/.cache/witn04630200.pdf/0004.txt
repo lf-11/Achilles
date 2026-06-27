@@ -1,0 +1,31 @@
+WITN04630200
+WITN04630200
+
+more complete if it had expanded on Counsel's opinion and the IT expert's
+opinion from 2004. However, the recollection in the 2010 report suggests
+that POL saw the lack of available transaction logs as the issue, and had
+subsequently taken action on that. Consequently, and perhaps wrongly,
+those external opinions had been rejected in 2004 and were probably a
+fading memory by 2010. For my own part, I expect that the Head of IT's
+rejection of them had probably diluted them in the wide range of topics in
+my head across all aspects of my job. I think that the previous Head of IT
+had also retired before 2010 and so the "corporate memory" of events in
+2004 would have been further diluted. I also stated in my 2010 report that
+"Systems issues have also arisen but again POL has been able to explain
+them and rectify them." I said that in recognition that some technical issues
+had arisen with Horizon however due to the comfort that was given to me
+by the Head of IT, who would have had a direct point of contact at Fujitsu
+with respect to Horizon, during the course of compiling this report, I was
+assured that the issues were resolvable. This position within POL was
+further amplified by the earlier feedback from the independent IT
+consultancy Gartner who had described the Horizon Online architecture as
+first rate.
+
+8. I do not know what more detailed rationale the Head of IT had, although it
+may have included the transaction logs, but I think the Gartner report on
+Horizon, which I referred to in the paper I compiled in 2010, may have first
+been mentioned to me, by him, around this time. I think, also, that I would
+have felt some reassurance regarding POL IT's stance from forums I
+attended with the NFSP (people who were users of the system and
+
+Page 4 of 61

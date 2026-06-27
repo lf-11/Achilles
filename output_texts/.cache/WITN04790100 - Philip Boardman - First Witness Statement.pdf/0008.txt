@@ -1,0 +1,35 @@
+WITN04790100
+WITN04790100
+
+Due to the limited scope of my role, I am also unable to comment on the scale,
+achievability and risks of the tasks or changes that were brought about by the
+Programme at the time, and I do not recall being involved in any discussions between
+Fujitsu and Post Office concerning these matters at the time.
+
+25. Another change involved Post Office encouraging local retailers to bank through Post
+Office, so that the overall money deposits would assist Post Office to offset cash
+required for withdrawals. It was understood that this would allow Post Office to locally
+recycle cash rather than having to source cash elsewhere, for example, through a
+loan.
+
+Post Office's back-end accounting system
+
+26. In addition to the changes to Post Office's cash flow management processes, another
+key change was made to Post Office's back-end accounting system.
+
+27. The key driver of this change was that Post Office's overnight batch accounting
+system, which had been developed by Post Office in-house, was old and in need of
+replacement. Post Office documented other considerations that were relevant to the
+development of POL-FS in the POL-FS Conceptual Design, as summarised in section
+3 of the document and further defined in subsequent sections.
+
+28. Consequently, another requirement that was identified as part of Post Office's
+business analysis was to develop a modern back-end accounting system.
+
+Changes to the cash accounting process
+
+29. It was explained to me that prior to the implementation of Horizon, Post Office's
+accounting system involved a cash flow statement (also known as the 'cash account
+form') being manually produced (i.e. by hand) at the Post Office branch. This cash
+
+Page 8 of 13

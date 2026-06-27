@@ -1,0 +1,14 @@
+WITN04800100
+WITN04800100
+
+solution. These documents outlined how the Horizon Solution would meet the contractual requirements applicable to that area. The two documents applicable to my security work stream were the Security Functional Specification and the Access Control Policy, with an additional document, Requirements for Key Management (WITN480_1/13), that was not specific to contractual requirements. These documents were reviewed by ICL Pathway and the Joint Authority. Reviewers would submit comments on a template provided with the document. The document author is required to resolve all comments submitted through the review process and agreeing resolution with reviewers prior to submitting the document for approval. The document approver is responsible for assuring that all comments received through the document review process have been satisfactorily addressed prior to approving the document. Technical designs would then be produced to conform to the requirement specification documents and these went through the same review and approval process. This process was used for both Horizon and HNG-X.
+
+ASSESSMENT OF CERTAIN ASPECTS OF THE HORIZON SYSTEM AND DEVELOPMENT PROCESS
+
+Robustness
+
+63. As a preliminary point, I note that I was not involved in the Horizon IT system throughout its life, and so I am only able assess its robustness1 from the perspective
+
+1 Defined by the Inquiry as including: "(a) the accuracy and integrity of the data recorded and processed by the Horizon IT System (b) the extent to which deficiencies in the Horizon IT System were capable of causing and / or caused apparent discrepancies or shortfalls in the branch accounts (c) the ability of the Horizon IT System to identify errors in data and discrepancies or shortfalls in branch accounts and the cause of the same and (d) the ability of the Horizon IT System to continue to operate satisfactorily in the presence of adverse conditions."
+
+Page 22 of 26

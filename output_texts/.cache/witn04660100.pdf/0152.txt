@@ -1,0 +1,15 @@
+WITN04660100
+WITN04660100
+DocuSign Envelope ID: 0B8D9A6F-D117-40AC-B8CA-9EFEBC3C2B1D
+
+344. I can see that I spoke to Lee Castleton and Richard Morgan about this on 4 January 2007 [POL00070060]. That note records that we don't disagree that there was a power failure and Ruth Simpson had to reboot, but her evidence was that she didn't log on until the afternoon because she was busy serving customers in the morning and that was why she waited until then to log on. The note records that "The events log does not show that there were massive computer failures in February 2004. Therefore this is at best a peripheral issue. It is just an immaterial event."
+
+345. On 8 January 2007 [LCAS0000478] I wrote to Mr Castleton and stated:
+
+(a) "We do not accept that the Tivoli log contradicts Mrs Simpson's evidence with respect to her actions on 1 April 2004, or that even if it does, this has "a serious impact on the integrity of the system and the balances" (or indeed any impact at all). It is irrelevant to the outcome of this case and in any event, you were suspended on 23 March 2004.
+
+(b) Similarly, Mrs Chambers previously stated in evidence that when she examined the Tivoli Event log at the time she saw "nothing out of the ordinary, only the event that gave rise to the one thing that is irrelevant". We therefore doubt that you can really raise any new relevant points with her."
+
+346. I expressed our concern about cost proportionality and relevance of recalling witnesses who had already been released. However, I explained we would not oppose his application.
+
+Page 152 of 194

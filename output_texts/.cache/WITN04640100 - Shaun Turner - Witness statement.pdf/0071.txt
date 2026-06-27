@@ -1,0 +1,31 @@
+WITN04640100
+WITN04640100
+
+establishing the content of parcels from customers in order to ensure the
+conditions of carriage are met. The training outlines the consequences of not
+following these procedures, which can lead to customers seeing their item
+delayed or destroyed or, in worst-case scenarios, parcels leading to fires or
+explosions. I understand that this is regulated by the Civil Aviation Authority.
+Financial Services compliance training covered what Postmasters could or
+could not say when introducing a product to a customer in branch. It also
+covered rules around what materials Postmasters were allowed to display in
+branch, for example Postmasters cannot display their own promotional
+materials and they have to ensure that their promotional materials are kept up
+to date and changed as required.
+
+238. There was also more general compliance training in relation to required
+procedures cutting across all products, for example in relation to anti-money
+laundering and Information Security & Data Protection.
+
+239. Whilst preparing this statement I was shown (by Herbert Smith
+Freehills) a draft business specification document for compliance training as
+part of the BTTP (POL00035756) (as described in detail in paragraph 37 above)
+and, in particular, page 6 which lists the regulatory compliance training modules
+delivered to Postmasters. Not all of the examples listed in this document were
+ultimately incorporated into Smart ID controls. The modules which were
+enforced by Smart ID controls are: (i) Financial Services; (ii) DVLA; (iii)
+Homephone & Broadband; (iv) Information Security & Data Protection; (v) Anti-
+Money Laundering; (vi) Dangerous Goods; and (vii) Mails Compliance. The
+other modules in this list were not covered by Smart ID controls, largely
+
+Page 71 of 95

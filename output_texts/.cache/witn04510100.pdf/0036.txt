@@ -1,0 +1,30 @@
+WITN04510100
+WITN04510100
+
+sometimes agree closure of the incident with the postmaster. If a workaround
+was being applied, POL would sometimes liaise with the postmaster as to when
+the workaround was to take place—for example, if messages needed to be
+inserted to the counter message store. As I recall, these types of workaround
+required liaison between Fujitsu, the postmaster and POL, because (a) the
+postmaster would have to have the Post Office branch open (otherwise
+transactions would appear after end-of-day processing and cause failures), (b)
+Post Office branch staff would have to log out of their counters (otherwise the
+Riposte sequence number would mismatch and cause error), and (c) POL
+would also be asked to confirm that the inserted transaction had been
+successful. However, workarounds that were applied to data centre systems
+were not always agreed, or discussed with POL.
+
+108. There were processes in place detailing the interface levels for normal
+communication between POL management and Fujitsu management—
+Problem Managers in each organization would communicate with Problem
+Managers at the other, Directors with Directors, and so on. I believe that the
+documentation for this was the Problem Management Process (FUJ00079953).
+I do not recall being involved in this process to a significant degree. I was
+occasionally involved in some conference calls with POL relating to problems
+or major incidents, but these were rare exceptions.
+
+109. As part of the SSC's processes, communication with POL management would
+normally go through the Business Support or Management Support Units within
+Customer Service rather than direct by SSC staff.
+
+Page 36 of 54

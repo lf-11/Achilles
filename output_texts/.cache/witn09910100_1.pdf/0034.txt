@@ -1,0 +1,29 @@
+WITN09910100
+WITN09910100
+
+71. I do not know the eventual outcome in respect of POL's position on retaining
+Horizon data held by Fujitsu beyond the normal seven year retention period once
+the Scheme had ended. However, my position at page 7 of (POL00108521) that
+a "proper retention policy exists for a purpose and I do not think we can put a
+blanket ban on destruction" needs to be read in context of the rest of that email
+chain. As a general proposition I do think that a retention policy exists for a
+reason, for example a legal reason related to Data Protection, and therefore I
+would not think it appropriate to put a blanket ban on the destruction of data and
+documents, as doing so could risk breaching legal requirements. However, when
+reading the rest of that email chain at (POL00108521), it is clear that my
+suggestion in these specific circumstances was for POL to tell Fujitsu to
+immediately stop destroying data at the end of the seven year retention period as
+a temporary measure to ensure that no data was destroyed that may be needed
+to investigate Scheme applications, and then come to a considered view about
+retention of data going forward which could be agreed with Fujitsu. I escalated
+the matter to the CIO to ensure that data destruction at Fujitsu was halted as a
+matter of urgency.
+
+72. I do not recall the Board meeting on 21 May 2014, but I have reviewed the
+minutes of such meeting at (POL00021525). I do not know what Alwen Lyons
+meant when she wrote "It's a bit smoke and mirrors but here are the minutes,
+comments asap please" at (POL00148420). From my review of the minutes, it
+seems that subject to the work of Deloitte, there remained at Board level an
+appetite for amending the Scheme.
+
+Page 34 of 68

@@ -1,0 +1,10 @@
+WITN09830100
+WITN09830100
+
+159 In his 16:07 email Andrew Parsons' appears to have taken the view that the paragraph was accurate on the basis of conversations with Fujitsu confirming that a balancing transaction allowed Fujitsu to inject a new transaction but did not allow transaction data to be edited or removed. He pointed out that the paragraph of the Scheme Report was "arguably incomplete" since it only referred to transaction corrections and transaction acknowledgments as the method of addressing accounting errors. It appears that the team accepted Andrew Parsons' view and chose not to refer to balancing transactions. I do not believe I was involved in making the decision, but I would have been reassured by Andrew Parsons' view that the paragraph was accurate as well as by the previously reasoned position he refers to that the balancing transaction process was not mentioned because "it was so rare that it is immaterial."
+
+160 Having reviewed documents while preparing this statement, I believe that aspects of Deloitte's work - in particular, regarding balancing transactions - were within my knowledge at an earlier stage, but that I did not know they arose within the context of Project Zebra, which I was unaware of until the early stages of the Swift Review (paragraph 153 above). For completeness, I can also see from [POL00117518] that in the context of my collation of information for the work to be taken forward by the Swift Review, Rodric Williams provided a very brief outline of the background information concerning the instruction of Deloitte by the Board.
+
+Remote Access - Swift Review
+
+Page 78 of 168

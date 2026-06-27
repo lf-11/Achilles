@@ -1,0 +1,33 @@
+WITN04510100
+WITN04510100
+
+(the Technical Appendix) and Appendix 2 (Summary of Bugs) of the
+judgment, save for bugs 16, 17, 21, 22 and 29; and
+
+b. any other bugs that had the potential to cause apparent discrepancies
+or shortfalls in branch accounts, or that could undermine the reliability of
+Horizon to accurately process and record transactions.
+
+85. As I explain above, I was SSC Manager from 1997 until 2009. HNGX did not
+go live until the year after I had left Fujitsu, and I do not recall being involved
+with Peaks relating to HNGX. Many of the bugs set out in the Technical
+Appendix relating to HNGX appear to have been identified or reported after I
+left Fujitsu.
+
+86. I believe that Steve Parker's evidence to the court, documented in
+POL00004075, explains that during the period January 2001 to December
+2014, 27,005 incidents were passed to the SSC at an average of 563 per
+month. As I have been away from this environment for 13 years, I regret to say
+that I have no recollection of any specific Peaks, PinICLs or KELs, including
+those that have been referenced in the Technical Appendix and Summary of
+Bugs. I have also been shown Peaks containing entries made by me, which are
+said to relate to the bugs noted in paragraph 84(a) above, and I do not have
+any specific recollections regarding these Peaks.
+
+87. In relation to bug "12. Counter-replacement Issues" in the Technical Appendix,
+I do remember there were occasions in which a counter replacement caused
+incidents which were reported to the SSC. I also remember that processes were
+put in place with the MSU for SSC to retrieve any overwritten transactions so
+that MSU could report on these to POL.
+
+Page 29 of 54

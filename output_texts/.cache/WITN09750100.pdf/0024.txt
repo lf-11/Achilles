@@ -1,0 +1,33 @@
+WITN09750100
+WITN09750100
+
+documentation to be structured from a technical rather than risk and controls
+perspective'.
+
+80. The documentation provided to us was of an operational nature i.e. how
+HNG-X worked in practice rather than covering governance and risk management.
+For example, we were provided with a number of policies and procedures relating to
+the configuration and running of the system but were not provided with the risk
+and control matrices which would have highlighted what risk management controls
+are required and why.
+
+81. As to whether it was common practice for similar projects undertaken
+by Deloitte not to include testing (see question 20d of the Request in relation
+to a quote from the Deliverable on limitations3), I would say this is not
+uncommon in reviews of this nature. However, such a short amount of time in
+which to report on complex matters is far less common. It is evident from our
+communications with POL referenced in question 20 of the Request, that we
+accommodated POL's tight timetables by focusing our Scope on part 1 Services
+(see paragraph 39 above for further details). The Scope Limitations detailed on
+pages 5 to 6 of the Deliverable were not constraints to the conduct of our work.
+
+82. The key item in the Scope Limitations which limited our ability to understand
+the facts of the full Horizon IT system, is the final bullet on page 5 of our Deliverable:
+
+'Our work was limited by significant gaps existing in the information available,
+relating to both the granularity of information and the existence of the Horizon
+Features over the entire timeline of operation of Horizon. The effect of which
+
+3 "the Assurance Work we have assessed does not completely test these features for implementation and operating effectiveness"
+
+Page 24 of 39

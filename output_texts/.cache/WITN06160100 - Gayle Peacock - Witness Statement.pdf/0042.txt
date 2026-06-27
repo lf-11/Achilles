@@ -1,0 +1,29 @@
+WITN06160100
+WITN06160100
+
+requested by the business, such as branches not logging on for a period of time,
+branches where connectivity had been lost and large numbers of reversals being
+made etc.
+
+124. In 2014 I worked with Pete Newsome and Steve Parker from Fujitsu to
+implement this system. This was a licensed based system, and the licenses and
+the tool were implemented across identified users in the branch help line,
+Product and Branch Team, Cash Management, the Security Team and other
+functions. By having this system available in the likes of the helpline, trained
+advisors could now see all of the data relating to the branch to try and help the
+branch resolve what had happened. For example, they could help pinpoint
+possible causes of discrepancies, such as a postmaster may have entered too
+many 00s when entering the amount for a bill or processing a banking
+transaction as a withdrawal rather than a deposit. Depending on what they
+identified, they could then escalate the issue to the relevant resolving team more
+quickly or advise the postmaster what steps needed to be taken in branch to
+resolve the discrepancy.
+
+125. The processes followed and improvements that I identified were based on
+the assumption that the Horizon system could not cause discrepancies and cash
+shortfalls. Had I known then about the issues with the system and the impact it
+could have had, then this would have completely changed my approach to the
+processes I was involved with.
+
+126. I have been asked to consider various documents [POL00039244,
+Page 42 of 45

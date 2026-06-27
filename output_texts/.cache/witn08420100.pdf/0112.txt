@@ -1,0 +1,40 @@
+WITN08420100
+WITN08420100
+
+Witness: Rodric David Alun Williams
+Statement Number: WITN08420100
+Exhibits: None
+Date: 11 March 2024
+
+the Horizon Issues trial,207 giving disclosure to the claimants was not always
+straightforward given some of the wide-ranging requests and at times absence
+of particulars of claim to inform the parameters of disclosure. However, as
+already noted at [193] above, POL did provide substantial disclosure to the
+claimants, which they did not take issue with through any applications to the
+court, and which enabled them to prove their case.
+
+Disclosure of KELs and PEAks
+
+222. I do not now recall any direct conversations with WBD, Fujitsu or others in POL
+concerning the KEL log or access to it, although it is clear that I was copied in
+to email correspondence about it.208 My overarching recollection about the KEL
+is that it was something which Fujitsu created, used and stored, to which neither
+POL nor anyone else outside Fujitsu had access. POL was therefore dependent
+on Fujitsu for information about and access to the KEL. The same applied to
+PEAKs, which I do not recall being aware of prior to the Group Litigation and
+whose function only became apparent to me as the litigation progressed.
+
+223. In preparing this statement, I have considered the 'Post Office Submissions in
+relation to the Fujitsu Contract' filed in the Group Litigation on 31 July 2019.209
+This fairly summarises my understanding of the position with respect to the
+KEL. It explains that POL felt disclosure of the KEL (which would not be
+straightforward given the technical means by which it was held) should be
+addressed as part of Group Litigation disclosure generally. Nevertheless, in
+
+207 Closing submissions on behalf of Post Office Ltd to the Horizon issues trial (see paragraphs 1113-
+1118) (POL00277546)
+208 For example, Email of Andy Parsons to Pete Newsome dated 19 September 2017 at 09.56
+(POL00041479)
+209 Post Office submissions in relation to the Fujitsu contract dated 31 July 2019 (POL00042858)
+
+112

@@ -1,0 +1,29 @@
+WITN03920100
+WITN03920100
+
+48. Once an office passed through its' implementation and early HFSO support
+phase it entered operational business as usual. Once in business as usual the
+Horizon system support teams would be involved in incident analysis and
+appropriate follow up. Whilst I am sure that the POCL implementation team
+continued to be aware of issues within offices, I do not believe there was any
+sense that the issues were highlighting fundamental system flaws. All issues
+raised by users were taken seriously by the POCL implementation team; there
+was no advantage to anyone in the POCL implementation team in ignoring or
+misrepresenting any issue.
+
+49. POCL senior management and the POCL Horizon team were obviously aware of
+the nature of the incidents that had been discussed at length as part of the
+contractual acceptance process. That national rollout of the Horizon system
+commenced was dependent on POCL senior management being satisfied that
+any outstanding Horizon issues were known and under control. During the rollout
+of the Horizon system senior POCL head office and regional management would
+have been updated on rollout progress and issues encountered through
+implementation and in business as usual operation. Whilst I believe that there
+must have been indicators of more fundamental issues with the Horizon system I
+find it difficult to believe that such indicators could all have been masked by the
+general noise associated with a large scale and complex system rollout.
+
+50. The original objectives of the BA/POCL programme included the implementation
+of a benefits encashment system and the removal of this functionality, in line with
+
+Page 19 of 32

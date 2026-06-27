@@ -1,0 +1,34 @@
+WITN04640100
+WITN04640100
+
+advised to carry on with balancing and produce his Cash Account. Whilst doing
+this a warning came up however the NBSC told the staff to continue to roll over."
+
+89. The visit log on 7 October 2005 refers to Sandra MacKay having "discussed
+this with Andy who has agreed to send another email relating to the shortfall
+due to the Horizon failure to Shaun Turner, meanwhile the office should
+continue to roll the loss".
+
+90. My interpretation of these logs is that the Postmaster was told to continue rolling
+the loss to allow time for an investigation to take place into whether a system
+error was causing the alleged shortfall which the Postmaster had reported to
+the NBSC. In this context, I assume rolling the loss would have meant the
+Postmaster would not have had to account for the loss at that point in time, and
+that this would then have allowed time to determine the root cause of the
+shortfall before deciding whether to hold the Postmaster responsible.
+
+Investigating and resolving the Callendar Square bug
+
+91. I have been asked what Fujitsu told me following the September 2005
+presentation regarding the potential cause of the problem or its rectification. As
+stated in paragraph 82 above, I have reviewed the documents identified in
+respect of the Callendar Square Bug, but I have not limited my answer in
+relation to this question to these documents and recalled this process before
+reading the documents.
+
+92. As a general point, my contact with Fujitsu in relation to potential causes or
+rectification of Horizon issues was indirect. The relevant service manager would
+flag issues within branches to me and I would then ensure these were logged
+efficiently with the Problem Management Team and accepted as a problem so
+
+Page 29 of 95

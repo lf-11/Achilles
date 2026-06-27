@@ -1,0 +1,33 @@
+WITN09090100
+WITN09090100
+
+WITN09090100
+
+losses. HSH was responsible for dealing with technical related issues. My
+memory of my time at NBSC was that it was always difficult to get HSH to
+investigate balancing type issues as they deemed these NBSC responsibility
+and unless there was a receipts and payment mismatch, they deemed it an
+NBSC issue.
+
+60. It is clear from reading through the HSH call logs that the majority were
+deemed by HSH as NBSC issues, and the call was closed, even when it
+stated NBSC had exhausted their checks. In these scenarios where HSH
+repeatedly passed branches back to NBSC our only option was to escalate to
+one of the Tier 2 team leaders and they would contact their counterpart at
+HSH directly via telephone. I do not recall ever making these types of calls to
+HSH, or anyone at ICL Pathway or Fujitsu, and I may not be told to the
+content of the discussion, but my understanding was these were to take a
+decision on ownership and discuss action taken. I can see from reading the
+HSH call logs that as time progressed and more calls were made to HSH they
+did escalate further for investigation (Call Log E-0402251077 (FUJ00146176))
+but reading the log it says there were no software problems found.
+
+61. I have been asked by the Inquiry to consider call reference H13137225 and
+any relevance this call log might have (Trial Bundle Index (LCAS0000365)).
+This call was relating to the swap out of a base unit and the call description
+says it was an auditor asking the question. I can see from the call log and the
+classification in the activity field that this call was transferred to HSH which
+would be the appropriate course of action as NBSC would not have this
+information and could not answer Horizon equipment related calls. From the
+
+Page 22 of 33

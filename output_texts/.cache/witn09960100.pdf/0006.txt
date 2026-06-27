@@ -1,0 +1,32 @@
+WITN09960100
+WITN09960100
+
+22. Eight of the 19 versions of Appendix 3 were in the same family group as
+Appendix 6. None of the family documents for these eight were reviewed (until
+May 2023).
+
+23. To the best of my recollection, KPMG has not had any conversations with POL
+about the review of family documents. KPMG's instructions came from POL's
+external solicitors only.
+
+Deduplication
+
+24. KPMG is hosting a wide variety of data from many different data sources in the
+Relativity eDisclosure Database. This includes email data from various
+individuals' mailboxes, SharePoint files, CDs, backup tapes and hard copy
+scanned documentation. Within this data set are a significant number of
+duplicates.
+
+25. From a Forensic Technology perspective, duplicate documents are those with
+the same MD5 Hash algorithm ("MD5#") number. The purpose of an MD5#
+number for documents is to provide a unique and fixed-size fingerprint, in the
+form of a 32-digit hexadecimal number string, that represents the content of the
+document. It is commonly used for detecting when changes have occurred to
+a document.
+
+26. Deduplication based on MD5# numbers is an important eDisclosure technique
+to reduce the number of documents prior to review. It is possible to deduplicate
+at an individual document level ("item level deduplication") or at a document
+family level ("family level deduplication").
+
+Page 6 of 15

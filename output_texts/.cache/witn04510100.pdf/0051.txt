@@ -1,0 +1,34 @@
+WITN04510100
+WITN04510100
+
+manual counting of remaining stock and cash, if the two did not balance i.e.,
+there was a discrepancy, then postmasters would call the helpdesks.
+
+167. If the call was suspected to be a software issue, the SSC would check the
+message store contents and talk to postmasters to try to resolve the balancing
+issues/accounting differences in branch accounts.
+
+Improving the advice and assistance to postmasters
+
+168. I was not directly involved with the helpdesks which were the first point of
+contact—NBSC and HSH—and had no input or involvement in their processes.
+For these reasons, I do not have direct knowledge concerning the advice which
+they gave to postmasters.
+
+169. In my opinion, and based on what I remember of the SSC workload and the
+comments from SSC staff at the time, in the early days of Horizon, I do not
+believe that there was sufficient correlation between, (a) the HSH scripts, (b)
+Post Office's procedures, and (c) what postmasters actually did. The result was
+that the helpdesks were unable to give advice to postmasters which was
+relevant to them. I also consider that the HSH, SMC and possibly NBSC were,
+initially, understaffed. Taken together, the impact was a higher than expected
+number of calls, and an unacceptable level of support.
+
+170. In my opinion, the monitoring of Tivoli, and the configuration of that software
+caused problems for all support units. Tivoli "event storms" in which a huge
+number of events were generated had the potential to overload the staff
+monitoring Tivoli, and contributed to them missing other events. I remember
+SSC staff sometimes complaining that important events were missed because
+of event storms, but I cannot remember or provide further details.
+
+Page 51 of 54

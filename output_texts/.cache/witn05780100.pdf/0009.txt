@@ -1,0 +1,44 @@
+WITN05780100
+WITN05780100
+
+matters surrounding error notices and transaction corrections as I was not
+directly involved in this area either in the design of the approach or its
+implementation.
+
+46. I have been asked to explain what role the local suspense account played
+before its removal. I have been asked to consider various documents in
+relation to losses and gains policy, accounting loss policy, liability for losses
+policy, security policy and authority to hold losses (WITN03980100,
+POL00088904; POL00086845; POL00088867and NFSP00000169).
+
+47. I was not involved with suspense accounts or their removal, so cannot
+comment with any accuracy what was actually happening in POL, and how
+whatever changes were made affected those concerned. I am not aware of
+whether any or all of the approaches in the documents were properly
+deployed. I believe that suspense accounts enabled Sub-postmasters to
+hold discrepancies in suspense until it was clear whether an error notice or
+Transaction Correction would be received correcting some or all of the
+discrepancy, be that a loss or gain.
+
+48. I have been asked if by October 2005, as set out in document Debt
+Recovery Process Under Branch Trading (POL00085794), the only option
+open to sub-postmatsres who received a transaction correction, which they
+did not understand or wished to challenge was to call the NBSC helpline. I
+cannot accurately comment as this is not an area I was involved in or had
+any oversight of.
+
+49. I have been asked if the sub-postmaster could not provide information at
+the time of the call to the helpline to show that the transaction correction
+was issued incorrectly the sub-postmaster was required to accept and
+settle centrally, whilst further investigations took place. I cannot accurately
+comment as this is not an area I was involved in or had any oversight of.
+
+50. I have been asked if from October 2005 discrepancies identified by a sub-
+postmaster which they considered to be caused by a system error the only
+option available to them was to call the NBSC helpline and seek agreement
+of Product and Branch accounting to settle centrally whilst the matter was
+investigated. I cannot accurately comment as this is not an area I was
+involved in or had any oversight of.
+
+51. I have been asked, if settling centrally signified acceptance of the debt
+liability as suggested in document, TC/Debt Recovery Review

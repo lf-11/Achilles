@@ -1,0 +1,55 @@
+WITN08130100
+
+by SPMs. Mr Clarke noted that POL generally only prosecuted for three types of
+offence: theft, false accounting and fraud. He commented that –
+
+"The detection and successful prosecution of such offences is almost always
+dependant [sic] upon the proper analysis and presentation of Horizon data
+and accordingly it is imperative that the integrity and operation of the
+Horizon system is demonstrably robust."
+
+He went on to summarise the nature of defences which either made an express
+assertion that Horizon had failed in some way, or asserted that Horizon must be at
+fault because the SPM had acted properly and the alleged shortfall was otherwise
+inexplicable. He also noted that defendants who had pleaded guilty to false
+accounting or fraud alleged that they had been covering up inexplicable losses. He
+added that in all these situations defendants often also complained about a lack of
+training on Horizon and/or inadequate customer support.
+
+83. Mr Clarke then set out the duties of an expert witness, as required by the Criminal
+Procedure Rules. He summarised the prosecution's disclosure duties under section 3
+of the CPIA.
+
+84. Mr Clarke stated that an employee of Fujitsu, Gareth Jenkins, had provided expert
+evidence as to the operation and integrity of Horizon. He referred to a number of
+statements which Mr Jenkins had provided to POL in various cases, attesting to the
+robustness and integrity of Horizon. Mr Jenkins had ended most of those statements
+as follows:
+
+"In summary I would conclude by saying that I fully believe that Horizon
+will accurately record all data that is submitted to it and correctly account for
+it."
+
+85. Mr Clarke summarised the statements as Mr Jenkins saying that there was nothing
+wrong with the system. He continued:
+
+"Unfortunately that was not the case, certainly between the dates spanned by
+the statements I have extracted here, the 5th October 2012 and the 3rd April
+2013."
+
+Mr Clarke went on to say that Mr Jenkins had been aware of at least two bugs which
+had affected Horizon Online since September 2010, one of which was still extant
+and would not be remedied before October 2013, but had failed to say anything about
+them or about any Horizon issues in his statements. He expressed the firm opinion
+that if Mr Jenkins had mentioned the existence of the bugs, that would undoubtedly
+have required to be disclosed to any defendant who raised Horizon issues as part of
+his or her defence.
+
+86. Mr Clarke advised that Mr Jenkins had failed to comply with the duties of an expert
+witness and should not be asked to provide expert evidence in any future
+prosecution. We are aware that there is an issue as to whether Mr Jenkins had been
+used by POL as an independent expert witness, a role which he could not fulfil for
+the simple reason that he was an employee of Fujitsu. We do not think it necessary
+to say anything about that issue, because whilst it may be important in other contexts,
+
+Page 66 of 75

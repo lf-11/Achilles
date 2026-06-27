@@ -1,0 +1,14 @@
+WITN09960100
+WITN09960100
+
+level, rather than a family level, to reduce the number of documents requiring review.
+
+38. Deduplication has not been applied as standard, but only on certain requests or sub-questions of requests, when instructed to do so by POL's external solicitors. MD5# item level deduplication first took place in relation to request 10 ("R9(10)") to assist HSF to reduce the number of hits requiring review.
+
+39. Based on the findings from our Internal Review, in relation to the three identical R9(11) searches that KPMG ran and the 19 versions of Appendix 3 reviewed in March, April and May 2022:
+
+The first search was run on 25 March 2022. 16 versions of Appendix 3 were responsive to the search terms. Item level deduplication was instructed to be applied to these documents and nine duplicate versions of Appendix 3 were removed before review. The seven remaining versions of Appendix 3 each had a different MD5# and were selected as having master status based on the earliest Artifact ID (as described in paragraph 33 above). These seven versions were provided to HSF for review and tagged as 'not relevant' on 28 March 2022. These seven versions comprised five standalone documents and two families. The two families were partially reviewed by HSF, but neither of the two families contained Appendix 6.
+
+The second search was run on 5 April 2022. The same 16 versions of Appendix 3 were responsive to the search terms as the first search. No item level deduplication was instructed for these documents and,
+
+Page 10 of 15

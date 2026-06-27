@@ -1,0 +1,31 @@
+WITN09950100
+
+below). We might also specify other criteria against which the search terms
+would be run, such as document date, file type and/or custodian.
+
+60. In making decisions around search criteria (including search terms), there is a
+balance between seeking to maximise the breadth of the results on the one
+hand, and, on the other hand, ensuring that the review set is manageable and
+therefore that the resulting review for relevance and privilege can be achieved
+in the time available and relevant documents can be produced to the Inquiry
+within the timeframe set. The choice as to the breadth of search terms is also
+informed by the degree of confidence held about other techniques which have
+already been utilised by POL, HSF and others including P&P (such as, for
+example, obtaining the documents directly from a discrete source, where
+available).
+
+61. The search terms used for each Rule 9 Request are not necessarily fixed: a set
+of search criteria (including search terms) will be sent to KPMG, who will
+implement them over one or more databases and send the results to my team.
+We will examine how many 'hits' are returned per term, how many items have
+been identified by KPMG for review cumulatively and whether the results might
+reflect any issues with the criteria (for example, if the terms are returning a
+significant volume of 'false positives'). If necessary, the terms will be refined
+further, to arrive at a sensible balance. The search terms are generally shared
+with POL, although I do not believe that we received specific input or feedback
+from POL in relation to the search terms now under discussion.
+
+62. The devising of search terms was usually done by senior associates in my
+team, working in an iterative way with the search results provided by KPMG as
+
+Page 23 of 63

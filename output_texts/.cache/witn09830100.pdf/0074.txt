@@ -1,0 +1,29 @@
+WITN09830100
+WITN09830100
+
+[POL00314275]. Andrew Parsons' took forward the drafting and his draft
+response to Second Sight [POL00226072] indicates that POL responded on
+that basis, as well as highlighting that the issue had been disclosed to Second
+Sight in 2013. I then sent the final version to Ian Henderson.
+
+151 These documents show the team trying to better understand what impact this
+had on remote access in the context of responding to Second Sight. It is also
+clear from the document that the team did not consider it from the point of view
+of disclosure in proceedings, which I believe POL would have undertaken
+before Mark Underwood or I had joined the business. It is also unlikely to have
+occurred to us since Second Sight were drawing our attention to documents
+POL had previously sent them and so it did not appear to be new information.
+
+152 To the extent that I understood any alteration of branch data to be possible, my
+understanding was that this could only be achieved by injecting a new
+transaction into the system, rather than changing data or entries which were
+already in the system. I understood that existing data could not be changed,
+altered or deleted. Any new entry or transaction which was added to the system
+could only be done in limited circumstances, and would leave a non-user
+identifier such that it was clear that it did not originate from the user of that
+terminal, i.e. it would be identifiable as not having been caused by the sub-
+postmaster.
+
+Remote Access – Project Zebra
+
+Page 74 of 168

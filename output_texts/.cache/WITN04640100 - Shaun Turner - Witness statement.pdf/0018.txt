@@ -1,0 +1,33 @@
+WITN04640100
+WITN04640100
+
+it would have looked different from Horizon. POL then decided to withdraw from
+the contract with IBM in around 2016, and to revert to looking at improvements
+to Horizon. It was POL's responsibility to create training materials and deliver
+training on Horizon. So the training requirements would have been different
+under the Front Office Application project as it would have involved the
+wholesale replacement of a system. Instead, as part of the BTTP we were
+looking at more incremental change, and so the training needs would have
+been smaller in scope.
+
+56. I do not recall being told the reasons for withdrawing from the IBM contract,
+though the impression I got was that there were concerns over the speed of
+delivery and the cost of the project.
+
+57. I have been asked to provide details of any changes that were made to the
+training as a result of this analysis and, in particular, whether there were any
+changes to the training provided to Postmasters in respect of (a) balancing and
+(b) identifying the cause of discrepancies. As mentioned above (at paragraph
+44), of the three strands of the BTTP that I was involved in, only the EUMP was
+ultimately implemented. Communications to branches (such as a quick
+reference guide) were prepared when the changes that were being made when
+Smart IDs were introduced, and classroom training for new Postmasters was
+adapted to include reference to Smart IDs which controlled access to Horizon,
+however none of the changes introduced under the EUMP touched directly on
+balancing or identifying the cause of discrepancies.
+
+58. I have been asked to set out any feedback that has been received by
+Postmasters following any such changes. There may have been feedback on
+the limited changes to training as a result of the EUMP, but I cannot recall any
+
+Page 18 of 95

@@ -1,0 +1,31 @@
+WITN09610100
+WITN09610100
+
+"manual error in using the screen, because of pressure, poor training or
+language difficulties", i.e. not a computer problem. Professor
+McLachlan suggested he wanted to sit beside a user who represented
+the "kind of user engaged by the Defendant". In later reports the
+Professor would continue suggesting experiments along these lines,
+without, it seemed to me, considering that a first port of call might be
+for the instructions of Mrs Misra to be taken so that she might be able
+to help him in assessing what her problems might have been and what
+losses she might have caused. I felt, rightly or wrongly, that the sort of
+experiments Professor McLachlan proposed were potentially irrelevant
+to Mrs Misra's situation and unrelated to any computer problem.
+
+b. "The Horizon system fails properly to process transactions: accounting
+systems are usually designed to ensure that accounts balance after
+each 'double entry' transaction. In particular, a database technology
+referred to as 'two-phase' is used to ensure that either both entries or
+neither entry is recorded on the system." This was a potential computer
+problem. In due course Professor McLachlan was able to satisfy
+himself, with the assistance of Gareth Jenkins, that Horizon did, as he
+in fact already assumed, have appropriate technology to guard against
+this problem (see e.g. transcript POL00001856 at p.22G-23B).
+
+58. The next disclosure request I have in the documents provided to me is
+POL00058503. From the emails it is clear that it follows another similar
+request and is dated around 28/11/09. I have provided a written Advice
+(POL00044557) in response to this Defence request and it may be helpful to
+
+Page 32 of 61

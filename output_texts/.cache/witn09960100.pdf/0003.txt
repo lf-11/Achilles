@@ -1,0 +1,18 @@
+WITN09960100
+WITN09960100
+
+The events which led to the three disclosure issues
+
+7. I became aware of the late disclosure to the Inquiry of a document from reports in the media. This document was entitled ‘Appendix 6 – Identification Codes’ (“Appendix 6”) (an example of Appendix 6 is Inquiry URN POL00115674). Mr Foat, POL’s General Counsel, gave evidence on the three disclosure issues on 4 July 2023. KPMG was not involved in providing information to support Mr Foat’s witness statement dated 21 June 2023 or his oral evidence.
+
+8. At POL’s request, we conducted an internal KPMG review (the “Internal Review”) into the events that led to the disclosure issues and this included a review of the circumstances around the delayed discovery and disclosure of Appendix 6 to the Inquiry.
+
+9. In the following sections, I address each of the three issues.
+
+Search terms
+
+10. It is commonplace for search terms and keywords to be used in eDisclosure to narrow down the population of documents requiring review. Documents that contain a search term are referred to as responsive documents or ‘hits’.
+
+11. Typically, on receipt of a new request from the Inquiry, HSF notifies KPMG and provides search instructions (which include the data sources, custodians, date ranges, search terms and other search criteria). KPMG has not had any involvement in the development of the search criteria or search terms arising from a request, aside from providing ad hoc technical assistance with the
+
+Page 3 of 15

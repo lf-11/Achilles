@@ -1,0 +1,52 @@
+WITN04540100
+WITN04540100
+
+INDEX TO FIRST WITNESS STATEMENT OF JULIE WELSH
+
+Exhibit Number
+Description
+Date
+Control Number
+URN
+WITN0454_01/1
+Service Review – April 2003
+15 May 2003
+POINQ0132282F
+FUJ00142150
+WITN0454_01/2
+Peak PC0062561
+20 Sept 2001
+POINQ0092750F
+FUJ00086579
+WITN0454_01/3
+Audit of Customer Service Support Processes v1.0
+1 Nov 2001
+POINQ0086867F
+FUJ00080696
+WITN0454_01/4
+ICL Pathway Customer Service Problem Management Process v3.0
+13 Nov 2000
+POINQ0086024F
+FUJ00079853
+WITN0454_01/5
+Interface Agreement for the Problem Management Interface v1.0
+23 Dec 2002
+POINQ0086057F
+FUJ00079886
+WITN0454_01/6
+Customer Service Complaint Procedure v2.0
+31 Jan 2001
+POINQ0086032F
+FUJ00079861
+WITN0454_01/7
+Interface Agreement for the Network Business Support Centre and Horizon System Helpdesk v3.0
+25 Sept 2002
+POINQ0086592F
+FUJ00080421
+WITN0454_01/8
+Major Incident Report for Network Banking Failures on Monday 5th January 2004 v.1.0
+6 Feb 2004
+POL-0025760
+POL00029278
+
+Page 16 of 17

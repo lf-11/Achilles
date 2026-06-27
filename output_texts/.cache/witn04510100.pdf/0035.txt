@@ -1,0 +1,16 @@
+WITN04510100
+WITN04510100
+
+103. A workaround could be offered to an identified bug in place of a code fix for a number of reasons. For example, if the code fix would take a long time to produce, if a code fix was impossible to test, or if the exact root cause of the bug could not be identified and therefore the code responsible for the bug could not be identified. As noted above, discussions concerning these issues would take place at the release management forum and the decisions taken there. A workaround could be specific to one incident, but it could also apply to other incidents with the same, or similar symptoms. The nature of the workaround could also differ depending on the nature of the problem.
+
+104. If a rectification in the form of a workaround was possible, then the SSC would use the test rig to test the workaround.
+
+Sharing information
+
+105. There were no procedures or work instructions of which I was aware that restricted the flow of information about any workaround or potential bug anywhere in Horizon.
+
+106. SSC staff would frequently discuss any reported issue at a Post Office branch with the postmaster there and would discuss any workaround or potential bug with the development staff responsible for the code. As far as I can recall, there were no instructions passed to me, nor was any pressure applied to me restricting to whom I could talk about workarounds, potential bugs or perceived failings in Horizon.
+
+107. When incidents were closed, this would be communicated to the postmaster who raised the incident by the HSH/SMC. In cases where the SSC was communicating with a postmaster about an incident, SSC staff would
+
+Page 35 of 54

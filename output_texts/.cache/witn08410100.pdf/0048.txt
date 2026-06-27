@@ -1,0 +1,31 @@
+WITN08410100
+WITN08410100
+
+had been more akin to a forensic audit it may have been appropriate for Fujitsu
+(or a third party) to play a role in the analysing the integrity of the data.
+
+117. I have been asked whether auditors had access to information to which a Sub-
+postmaster did not have access when they were conducting a branch audit.
+Auditors did not have access to any information at the branch which Sub-
+postmasters did not also have access to. There were different levels of access
+which could be granted on Horizon, so for example a clerk did not have the
+same access as a Sub-postmaster. Sub-postmasters had 'manager' level
+access, which was the same level of access which was granted to auditors by
+the Global User Account.
+
+118. Reports which may need to be printed out during an audit are listed at pages
+20 to 21 of "Audit Trail Functional Specification" (FUJ00001894). The reports
+are also listed at section 8.2 on pages 10 to 11 of Performing a Branch Audit,
+Chapter 3 of the Audit Process Manual (POL00084801). My recollection is that
+these reports were accessible through either the Global User Account or
+through the managerial access held by Sub-postmasters. I believe that it was
+best practice for an auditor to ask the Sub-postmaster to grant them access
+rather than using their Global User Account. Page 1 of POL00002841 states
+that the Audit Global User Account was to be used "if there is no one available
+in the branch with manager access to add them to the system" which accords
+with my recollection. In addition, Appendix G – Access to the Horizon System
+of version 7.3 of Performing a Branch Audit, Chapter 3 of the Audit Process
+Manual on page 33 of POL00088623 states that "You should request the
+AGENT/POSTMASTER to add you to the system, if this is not possible due to
+
+48

@@ -1,0 +1,13 @@
+WITN01020200
+WITN01020200
+DocuSign Envelope ID: D94327B5-F47E-49D0-B89C-527DDE221AEB
+
+Paragraph 1.14: POL had found no evidence that suggested that Horizon was not working as it should be during its two-and-a-half-year investigation.
+
+26. As at 10:00 on 3 February 2015, I believed it to be true that POL had found no evidence that suggested that Horizon was not working as it should be during its two-and-a-half-year investigation. My up-to-date understanding of the position was largely based on the material provided to me in advance of the BIS Select Committee hearing, set out at paragraphs 7 to 9 above. For example, see (POL00026704) at page 7, paragraph 24 and (POL00026702) at page 3, paragraph 17. I was aware that several members of the Sparrow team had had input into the briefing documents provided to me.
+
+Paragraph 1.15: There was no functionality in Horizon for either branches, POL or Fujitsu to edit, manipulate or remove transaction data once it had been recorded in branch's accounts.
+
+27. As at 10:00 on 3 February 2015, I believed it to be true that there was no functionality in Horizon for either branches, POL or Fujitsu to edit, manipulate or remove transaction data once it had been recorded in a branch's accounts. My belief was based on the material provided to me in advance of the Select Committee hearing, set out at paragraphs 7 to 9 above. In particular, see (POL00026699; POL00029809).
+
+Page 9 of 27

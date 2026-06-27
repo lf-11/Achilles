@@ -1,0 +1,30 @@
+WITN04650100
+WITN04650100
+
+don't remember how many helpdesk agents, but each Team leader had a
+small group of helpdesk agents that we looked after from a people
+management perspective and provided them with guidance in the answering
+of queries received from the Post Office network. There was also an admin
+function that was largely performance focused but included people who
+created and maintained the knowledge articles that were used by the agents
+to answer the branch queries. NBSC Helpdesk agents were not, in theory at
+least, allowed to 'guess' or use their knowledge or experience alone. The
+answer they provided had to be associated with a knowledge article. The call
+logging tool that the agents used to log incidents and create the unique
+reference numbers at the time was 'Remedy'.
+
+12.Fujitsu provided the HSH/HSD service to support the Horizon system
+technology and that for me was primarily for 'Tech that was not working,
+broken, offline or not working as expected'. I don't recollect how many NBSC
+or HSH staff there was but when the service first moved into the new office at
+Dearne house in South Yorkshire the NBSC was quite substantial, my guess
+is that it was 6 or 7 agents per Team leader so there was potentially upwards
+of 30 to 40 plus staff working in the NBSC wider team at the time.
+
+13.The type of people that were recruited to the NBSC during my time were
+experienced, counter trained staff that understood the accounting process.
+They would also need good communication skills, knowledge of the wider
+business operating model including the branch network and the roles and
+responsibilities of field support services. Training was provided, there was an
+onboarding programme for all agents this included the option of Post Office
+Page 7 of 16

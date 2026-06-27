@@ -1,0 +1,22 @@
+WITN04510100
+WITN04510100
+
+Witness Name: Michael Edward Pryor Peach
+Statement No.: WITN04510100
+Dated: 3 March 2023
+
+POST OFFICE HORIZON IT INQUIRY
+
+FIRST WITNESS STATEMENT OF MICHAEL EDWARD PRYOR PEACH
+
+I, MR MICHAEL EDWARD PRYOR PEACH, will say as follows:
+
+INTRODUCTION
+
+1. I am a former employee of Fujitsu Services Limited (Fujitsu). I left Fujitsu in September 2009.
+
+2. This witness statement is made to assist the Post Office Horizon IT Inquiry (the Inquiry) with the matters set out in the Rule 9 Request provided to me on 6 January 2023 (the Request), to the extent I have or had direct knowledge of such matters. I was assisted in preparing this statement by Morrison Foerster, who represent Fujitsu in the Inquiry.
+
+3. The topics set out in the Request concern events that occurred over 13 years ago. I have set out my best recollection of these events in this statement, which relate to (a) problem and incident management systems, (b) the Software Support Centre (SSC) at Fujitsu, (c) Escher and Riposte, (d) bugs, errors and defects (bugs, each a bug) in the Horizon IT system (Horizon), (e) remote access, and (f) the conduct of prosecutions by and on behalf of Post Office
+
+Page 1 of 54

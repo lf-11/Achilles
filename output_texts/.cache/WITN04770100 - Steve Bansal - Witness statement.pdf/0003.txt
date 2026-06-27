@@ -1,0 +1,16 @@
+WITN04770100
+WITN04770100
+
+whose name I do not remember (the "POL Training"). The POL Training was provided to a number of Peritas trainers, possibly 6 to 8 individuals. My understanding was that the POL Training was aimed at providing a flavour of the activities undertaken by sub-postmasters in the branches and allow us to appreciate the manual tasks and form filling required and better support the sub-postmasters.
+
+9. The rollout was put on hold for around a year. I do not recall if, following the training, attendees received any new counter terminals and whether the training I delivered was actually implemented. While I cannot comment on why this happened, I believe that the initial training materials that the Peritas team and I drafted were I believe replaced as the old materials possibly became obsolete or enhanced following developments from the system that came a year later. I never saw the content of the later training material so am unable to comment on which aspects of the training in particular may have possibly become obsolete.
+
+10. It was during this period of delay that I joined the testing team of ICL Pathway as a contractor around April 1998, carrying out both functional and non-functional testing.
+
+11. I left ICL Pathway from 2002 - 2007 and rejoined Fujitsu as a contractor. When I rejoined, I started in the test team and later moved to the service team as a problem manager in around 2010, when I became a full-time employee.
+
+CASH ACCOUNT
+
+12. During the POL Training, I recall learning how sub-postmasters completed the paper-based process and cash account that was used before migrating to Horizon. I believe this was done so trainers could better understand the sub-postmasters' point-of-view
+
+Page 3 of 7

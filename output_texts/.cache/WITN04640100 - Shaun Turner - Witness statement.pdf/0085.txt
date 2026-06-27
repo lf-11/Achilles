@@ -1,0 +1,31 @@
+WITN04640100
+WITN04640100
+
+teams assisting branches were kept in the loop. The document "Horizon Issue
+Management – Incident Report & Status Update" (WITN04640103) lists
+individuals who were kept up to date as the Horizon Issue Management Core
+Group: (i) Mick Mitchell, IT Security and Service Director, (ii) Julie Thomas,
+Networks Operations Director, and (iii) Rodric Williams, Head of Legal –
+Dispute Resolution & Brand). Other group attendees who would have been kept
+in the loop were: (i) Steve Bansal, Senior Service Delivery Manager, (ii) Pete
+Newsome, Post Office Account Manager, (iii) Angela Van Den Bogerd,
+Business Improvement Director and (iv) Martin Godbold, Head of IT Service
+(Retail), as well as myself and Esther Harvey.
+
+283. After the initial meetings with Fujitsu, I also recall follow up discussions
+taking place with Fujitsu in which they relayed further analysis of why certain
+scenarios caused the mismatch issue. Some of this analysis is captured in
+POL00043585, which notes that dual logins had "caused incidents to occur in
+the live estate ... if the active user session rolls over the current stock unit, and
+a locked session on another counter attached to the same stock unit is then
+resumed. This is because when the locked user session is resumed the counter
+is not aware of the rollover and continues to trade in the old trading period"
+(page 3). Whilst considering my response to this question and as mentioned in
+paragraph 123 above, I was able to locate a document entitled "EUM Locking
+Issues Technical Investigation" (WITN04640102) on the POL EUM Teams site
+which records Fujitsu's analysis into the issue and three options for the
+"proposed resolution". I believe that this document would have been issued to
+the Smart ID team by Fujitsu. I should note that this document also includes
+identical wording as quoted in this paragraph from POL00043585 and that I did
+
+Page 85 of 95

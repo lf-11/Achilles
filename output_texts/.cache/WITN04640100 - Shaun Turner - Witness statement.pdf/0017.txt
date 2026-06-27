@@ -1,0 +1,12 @@
+WITN04640100
+WITN04640100
+
+52. I have been asked to set out my role in the preparation of this Training Needs Analysis. I would have been a reviewer of this Training Needs Analysis (including later versions of the same document), which I expect was drafted by one of the training representatives working on the BTTP. My role would have been to review the sections relating to the EUMP, the EUHSP and the Screen Sharing project and provide input if anything was missing or required changing.
+
+53. I have been asked why Northern Ireland branch colleagues were assumed to require different treatment. I do not recall the specific reason why Northern Ireland branch colleagues were assumed to require different treatment. However I note that the passage on page 8 also refers to Computacenter engineers and BFPO branches (run by the Ministry of Defence) and I recall there being conversations about whether they would be migrated to the new UMS. I would imagine that there were similar questions relating to Northern Ireland branches but I cannot think of what reason that would be for. In the end, Northern Ireland branch colleagues were issued with Smart IDs, while BFPO branches and Computacenter engineers were ultimately exempted.
+
+54. I have been asked to expand on the following at page 13: "Under the original Front Office Application solution, IBM were responsible for delivering the programme of training work stream in collaboration with the BTTP training team...In the current Fujitsu solution, these training responsibilities now fall to Post Office". I have also been asked to address why Fujitsu was not providing training and whether the change in plan had any effect on training.
+
+55. Under the Front Office Application project, IBM were engaged to design and supply a replacement for Horizon. I think IBM had a contractual obligation to contribute to training on the new system that they were engaged to supply, as
+
+Page 17 of 95

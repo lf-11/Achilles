@@ -1,0 +1,32 @@
+WITN08500100
+WITN08500100
+
+WITN08500100
+
+permitting deduction from remuneration or whether it was dealt with by
+amending policy and incorporating it into the contract by way of reference.
+
+68. I do not recognise the term IMPACT programme and as such I cannot
+comment on whether I was involved in the same.
+
+69. POL00104618 is an email chain from Phil Ashley of POL branch IT to myself
+and Biddy Wyles, my line manager at the time. The handwriting on the
+exchange is not mine and it may have been dealt with in my absence. It
+sought assistance on the drafting of a response to Sub Post Offices where the
+effect of a bug may have impacted on errors. If proceedings were issued by
+legal agents on behalf of the business, they would have sought assurance
+from the business that the reports obtained from POL and Fujitsu were
+accurate at the time. Usually when a bug within the Horizon system was
+detected the "footprint" of the error was identified and a Fujitsu employee
+would look for it when investigating other cases.
+
+70. Although Civil Litigation was aware by 2008 of issues with the Horizon system
+e.g. Callendar Square I was still convinced by the assurances given by POL
+and particularly Fujitsu that the system was substantially sound and that bugs
+when they arose were unusual, confined and were resolved by the application
+of fixes. As such civil litigation cases were pleaded on the basis of the facts
+pertaining to the individual case and disclosure was limited to the documents
+and reports created for that case. Disclosure in a particular case did not
+include information about bugs that had been located in what POL and Fujitsu
+
+Page 31 of 42

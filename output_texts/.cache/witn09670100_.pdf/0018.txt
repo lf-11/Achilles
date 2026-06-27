@@ -1,0 +1,31 @@
+WITN09670100
+WITN09670100
+
+correctly, then no data should be lost.) I have not had an opportunity to examine
+the detailed logs from this period to see whether there were any issues, and any
+justifications in the claim that this resulted in apparent losses of £3,000 as
+claimed."
+
+45. I forwarded a copy of the draft report onto Mr Bradshaw for his consideration. In
+my email to Mr Bradshaw (POL00089380) I thought that the report had dealt with
+the non polling issue adequately but pointed out that "it is in fact possible for him
+(Mr Jenkins) to retrieve the actual data from this time to see what actually
+occurred at this branch." That Mr Jenkins had stated the cost of the data was
+free to POL but that the analysis was chargeable. My email continues that I had
+told Mr Jenkins that we did not wish to incur additional costs unless unavoidable,
+although I hadn't in fact said this to him. I cannot now recall why I added this
+comment. I asked Mr Bradshaw for his instructions. I emailed Mr Jenkins later
+on the 12 December 2012, to say "the investigator is happy with the report as it
+stands. Please could you proceed as before" (FUJ00153905). I do not know if Mr
+Jenkins ever conducted any analysis of the data specific to the case. Upon
+conclusion of the proceedings there seems to have been concern by Fujitsu that
+the case "might set a precedent" for comms issues to be a reason for losses.
+
+46. I received no information by anyone from Fujitsu (or the Post Office) during the
+course of the criminal proceedings against Grant Allen with regard to known
+bugs, errors or defects in the Horizon IT system, past or current.
+
+47. I would like to offer Mr Allen my apology for my part in the injustice he suffered
+and the awful impact this had upon him.
+
+Page 18 of 23

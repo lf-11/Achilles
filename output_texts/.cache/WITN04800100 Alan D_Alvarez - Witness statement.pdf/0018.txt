@@ -1,0 +1,33 @@
+WITN04800100
+WITN04800100
+
+figures from completed deliverables, (iv) the scheduling of remaining activities to
+complete outstanding deliverables, (v) a review of the schedule and an assessment
+of schedule contingency, (vi) a review of overall resource requirements and forecast
+costs, and (vii) a review and update of the programme Risk, Issues, Assumptions and
+Dependencies log against a revised schedule for completion.
+
+51. The replan involved a range of individuals over five stages:
+
+a. Stage 1: This involved all Fujitsu Horizon Online work stream leads,
+supported by their team leads. These were David Johns (HNG-X Chief
+Architect), Roger Goldsmith (Application Development Lead), Vince
+Cochrane (Infrastructure Lead), Debbie Richardson (Test and Validation
+Lead), and Lee Farnham (Post Office Test Assurance Lead). I also recall
+involvement of the Integration Lead and the Deployment Lead, but do not
+remember their names.
+
+b. Stage 2: This was an independent validation of the replan by the Fujitsu
+Delivery Assurance team
+
+c. Stage 3: These were joint sessions with the Post Office programme
+management team (led by Mark Burley). The primary focus at this stage
+was on validating customer dependencies and addressing scope and
+timelines.
+
+d. Stage 4: This was the Fujitsu governance approval process, led by the
+Assurance team.
+
+e. Stage 5: This was final approval of the replan by the Post Office.
+
+Page 18 of 26

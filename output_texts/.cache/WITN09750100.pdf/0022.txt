@@ -1,0 +1,18 @@
+WITN09750100
+WITN09750100
+
+74. I should reiterate that, being a desktop review, and as highlighted extensively in our Deliverable and other documents, our Scope excluded implementation and operating effectiveness testing. Accordingly, there was no evidence beyond the verbal assertions and documentation we received from either POL or Fujitsu of these stated measures being in place and operating. As outlined in the Deliverable, we were reliant upon the accuracy of statements made as it was not in Scope for us to '[verify] or [test] any information provided directly by POL, or directly or indirectly by third parties.'
+
+75. Our findings in relation to this were included in the Board Briefing (POL00028069) :-
+
+'We have not identified any documented controls designed to:
+
+Prevent a person with authorised privileged access from deleting a digitally sealed group of data and replacing it with a 'fake' group within the Audit Store (which could still have a valid digital signature, if they have access to keys, and a valid digital seal created using a publicly available formula).'
+
+d) Work products produced by Deloitte
+
+76. Due to changes in part 1 scope agreed in the Change Order (as detailed above) we ultimately produced the following documentation:
+
+i. A full draft report detailing the findings of our review of the Third-Party Assurance Work relating to the HNG-X System. This was referred to as the 'Deliverable' (POL00028062) in our Engagement Letter. There were
+
+Page 22 of 39

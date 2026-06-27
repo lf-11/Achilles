@@ -1,0 +1,12 @@
+WITN04510100
+WITN04510100
+
+110. I do not believe that any of these procedures or practices imposed any restriction or pressure on myself or my staff not to pass information to POL or within Fujitsu. I cannot recall any instances where either myself or my staff were restricted or pressured to not pass information to POL. There were documented "lines of communication" between POL and Customer Service as outlined in paragraphs 108 and 109.
+
+111. There were prohibitions on the viewing of diagnostic data from the system outside of the SSC secure area. It was possible, particularly after the introduction of banking applications, that the diagnostic data could contain "personal data" (which I believe was defined in relevant data protection legislation). Therefore, this data would be held in secure servers on the live system and the data could only be viewed using the purpose-built SSC PCs connected to that live estate. This meant that, in the event that a Peak was passed to development staff, they would be allowed access to the SSC secure area by the SSC staff member who had been allocated the Peak.
+
+Notes of prayers
+
+112. At the Inquiry's request, I have considered the email from Lionel Higman to myself and others dated 18 July 2005 (FUJ00086334) and the "Note of Prayers" dated 18 July 2005 attachment to the email (FUJ00086335). I cannot remember the exact purpose of the "prayers" meetings, although I have a vague recollection that they were a daily meeting to discuss development issues relating to upcoming releases. I note that a number of Customer Service managers were included on the distribution list for the Note of Prayers meeting on 18 July 2005, including testing, release and support managers.
+
+Page 37 of 54

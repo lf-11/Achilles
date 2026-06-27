@@ -1,0 +1,40 @@
+WITN08420100
+WITN08420100
+
+Witness: Rodric David Alun Williams
+Statement Number: WITN08420100
+Exhibits: None
+Date: 11 March 2024
+
+sufficiency or conclusions", which I understood would amount to an audit of the
+audit processes used, rather than a review of the assurance work itself. The
+same applies to Deloitte not being required to comment on "the integrity of the
+Horizon HNG-X processing environment (nor the legacy Horizon system)",
+which I understood was initially out of scope so that Deloitte's preliminary
+review could start with the assurance environment before turning to its actual
+operation.
+
+107. There was an impetus to proceed quickly, and I recall that, as well as Chris
+Aujard and Belinda Crowe, Lesley Sewell was involved in signing off the
+Deloitte engagement letter.90 My role in this as a POL in-house lawyer included
+recording in the engagement letter the legal context in which the instruction was
+happening, so as to support any future claim of legal professional privilege that
+could be made over Deloitte's work. As I mentioned at paragraph [105], Deloitte
+were instructed at the recommendation of Linklaters to inform Linklaters' advice
+on the legal claims and potential financial exposures raised by the PMRs' claims
+made under the Scheme, also bearing in mind that PMRs might sue POL over
+their allegations if mediation failed.
+
+My involvement with Deloitte's Project Zebra reports
+
+108. Deloitte were independent experts91 so my role in supporting their work was
+narrow. I helped them access the material they required, but otherwise left them
+
+90 Email from Gareth James to Rodric Williams and others dated 4 April 2014 at 16.20 (POL00108395),
+Email from Rodric Williams to Gareth James dated 4 April 2014 at 11.17 (POL00125760); and Email
+from Belinda Crowe to Rodric Williams and others dated 4 April 2014 at 08.31 (POL00117551)
+91 Deloitte 'Project Zebra - Phase 1 Report (Draft - For validation in advance of Board discussion on
+Wednesday 30th April)' (POL00105635) makes clear at paragraph 2 that they understood their brief to
+be independently producing reports.
+
+54

@@ -1,0 +1,34 @@
+WITN04640100
+WITN04640100
+
+think these reports would generally be sent within 24 to 48 hours of the issue
+being identified by Fujitsu.
+
+160. To fix the issue, Fujitsu implemented certain changes into branches.
+My role was to document these new requirements. Esther would then check
+whether these new requirements had worked, or whether it was necessary to
+issue advice to Postmasters on this receipts and payments issue. I was not
+personally involved in this contact with Postmasters.
+
+General Transaction Corrections process
+
+161. I have been asked to consider POL00039024, and to explain the
+purpose of this document and my role in its development. I have reviewed
+document POL00039024 in relation to this issue. I did not initially recall the TC
+process review detailed in this document or being asked for input and only
+vaguely remember it after reading the document itself.
+
+162. I recall that the TC process was one of the things considered by the
+Network Coordination Team. From reviewing the document, I think my
+contribution would have been around the data file structures in Appendices 4
+(Concurrency Report) and Appendix 5 (DFR Report). I may have made other
+contributions, but I do not recall them. However, I am able to recall that the
+purpose of both of these reports was to support Contract Advisors in
+administering the DFR process.
+
+163. The DFR process is short for "Deduction From Remuneration" which
+was one of the mechanisms for recovering money from serving Postmasters
+for shortfalls that, after investigation, were found to be the Postmaster's liability.
+My understanding is that where there was no identifiable reason for the
+
+Page 50 of 95

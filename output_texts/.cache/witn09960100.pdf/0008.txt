@@ -1,0 +1,12 @@
+WITN09960100
+WITN09960100
+
+30. If family level deduplication was applied across the dataset, the MD5# of the document families is compared and duplicates are removed. Since two families are identical (Family 4 and 5), after family level deduplication there would be four families and 14 documents remaining in the data set for review.
+
+31. If item level deduplication was applied across the hits, the MD5# of the responsive items (i.e., Attachment 1) is compared and duplicates are removed. Since all five versions of Attachment 1 are identical, after item level deduplication there would be only one version of Attachment 1 (and its family) promoted for review.
+
+32. In this example of item level deduplication, it is important to understand which version of Attachment 1 is deemed to be the 'master' and which four versions are deemed to be 'duplicates', since four of the five families are different. If the version of Attachment 1 in Family 1 is deemed to be the master, this document (and its family) will be promoted for review. However, the reviewer would not see Family 2, 3, 4 and 5 since they contain duplicate versions of Attachment 1, even though their families are different.
+
+33. KPMG uses a Relativity 'Update Duplicate Status' script as the basis for item level deduplication using MD5# values. The script tags documents as either master, unique or duplicate in order to filter out duplicates and pass only master and unique documents, and their families, for review. There are a variety of different ways to sort duplicates but the default setting is to use Artifact ID (Artifact ID is a metadata field populated by Relativity when a document is loaded into a new workspace). Hence, the first document loaded in the workspace becomes the master.
+
+Page 8 of 15

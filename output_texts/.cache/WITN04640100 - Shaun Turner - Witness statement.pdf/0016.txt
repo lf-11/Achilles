@@ -1,0 +1,16 @@
+WITN04640100
+WITN04640100
+
+47. POL00035812 is a requirements catalogue for the EUHSP which lists out the detailed requirements which could potentially improve the Help system available in branches. A summary of the deficiencies that the EUHSP was intended to address (by reference to the detailed requirements) can be found at section 2.2.2 of the Business Solution Design document (POL00027044).
+
+48. I have also been asked to consider why members of Project Sparrow were included as reviewers of this document. I vaguely recall that members from the Project Sparrow team were included as standard reviewers of the business solution design documents and related documents that were being prepared as part of the BTTP. My understanding was that the Project Sparrow team were undertaking detailed investigations of discrepancies. I think they were included to prevent any changes being made to Horizon which might increase the risk of issues occurring such as discrepancies, but I cannot recall their precise role.
+
+Training Needs Analysis
+
+49. I have been asked to consider POL00035834 and to explain the background and purpose of this document.
+
+50. I have reviewed document POL00035834 identified in respect of Training Need Analysis but have not limited my responses in paragraphs 50 to 58 below to this document. My understanding is that this document POL00035834 was looking at the portfolio of BTTP changes and identifying what the potential training requirements for branches and internal staff would be to deliver those changes, as well as the impact of those changes on existing training materials.
+
+51. While preparing this statement I was also shown document POL00036010 (by Herbert Smith Freehills), which is a later version of the same document.
+
+Page 16 of 95

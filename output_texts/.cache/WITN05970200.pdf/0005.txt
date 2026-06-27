@@ -1,0 +1,30 @@
+WITN05970200
+WITN05970200
+
+algorithms for encryption), to key management, network security and the like,
+across to data centre security and the general technical security of the
+infrastructure, very much in line with my activities in the Assurance Group.
+
+12. Once of the more visible activities of the FSG run by Gareth Lewis was to convene
+a "Security Review Panel" (SRP) on a periodic basis with representatives from
+the sponsors, both DSS/BA and POCL. I cannot recall exactly who in POCL
+would have been invited but this was an intended give transparency and get buy-
+in from the sponsors to the FSG activities. I believe both POSIS and Audit would
+have been involved in some way.
+
+POCL Investigator Experience on FSG
+
+13. Having joined the FSG, it was obvious that there was a gap in terms of any
+expertise from POCL on Security/Investigations or any link up with POCL's S&I
+functions from the FSG. This "gap" did not purely relate to potential staff/sub-
+postmaster fraud, but anything around "non-IT" security - physical security of the
+offices, vetting of Pathway staff, security during installations, etc.
+
+14. I believe I also had a concern that we needed some input from POCL regarding
+potential Benefit Payment Service (BPS) related crime in offices; by this I meant
+how POCL and BA would work together in case of any in-office BPS Benefit
+Encashment Service (BES) crime (given that the point of payment is clearly a
+vulnerability), and to avoid potential conflict with BA investigating POCL staff or
+agents.
+
+Page 5 of 14

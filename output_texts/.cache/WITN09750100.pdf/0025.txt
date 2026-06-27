@@ -1,0 +1,30 @@
+WITN09750100
+WITN09750100
+
+is that there are gaps within what we are able to comment upon over this
+timeline.'
+
+83. This limitation meant the full history of the Horizon Features could not be
+determined, in particular pre-2010 where documentation was not available and
+Fujitsu staff unable to recall or clarify key facts for us, due to the Legacy system no
+longer being available.
+
+84. I believe the assumptions on page 6 of our Deliverable (see question 20f of
+the Request) were appropriate because our Scope did not extend to detection or
+consideration of those risks; it was important to highlight this point.
+
+85. My team looked at the issues mentioned in question 20g of the Request:
+"Branch 14 Issue", "Branch 62 Issue", "Falkirk Issue" and the "Lepton Detailed Spot
+Review Infomation." As detailed in the Deliverable, these were matters we
+identified from the documents provided by POL which 'helped to provide us
+with a high-level understanding of the nature and extent of potential concerns
+with the Horizon processing environment, and thus focus our work in certain
+higher risk areas.' All these matters related to alleged processing errors and
+anomalies in the HNG-X system that resulted in accounting discrepancies.
+
+86. Such specific accusations of error (see paragraph 85) helped to inform our
+wider understanding that led to the creation of the risk diagram on page 4 of the
+final Deliverable. This part of the work was undertaken to understand potential
+risks in respect of which assurance sources may be required.
+
+Page 25 of 39

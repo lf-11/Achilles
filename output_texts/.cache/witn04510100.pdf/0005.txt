@@ -1,0 +1,33 @@
+WITN04510100
+WITN04510100
+
+staff had experience of development, (c) I had experience managing staff
+developing Helpdesk systems, and (d) the SSC staff had experience of PinICL
+and could therefore retain much of the "look and feel" of PinICL.
+
+15. The process by which a call (which we also referred to as a "Peak") arrived in
+the SSC was as follows:
+
+a. An incident would be logged by the Horizon System Helpdesk (HSH,
+later called the Horizon Service Desk or HSD) on Powerhelp (an
+externally purchased Helpdesk application). Incidents coming into the
+HSH could have originated from postmasters, other units within the Post
+Office Account, or POL. Other Fujitsu units that were dealing with
+Horizon, including MSU, development and testing would raise calls
+direct onto the Peak system. The Network Business Support Centre
+(NBSC) would send calls by contacting the HSH.
+
+b. If the incident was suspected to be a software issue, it would be passed
+to the SMC, who would perform KEL checks (i.e., check the KEL system)
+and other diagnosis.
+
+c. If, after their diagnosis, the SMC considered the incident to be a software
+issue, the incident would be passed to the Peak system via an Open
+Teleservice Interface (OTI) and arrive in the SSC.
+
+d. The SSC Coordinator would allocate the call to a member of the SSC's
+technical staff (their formal title was "Product Specialist", but we would
+often call them SSC technicians) based on their area of expertise
+(Counter, Agent, Database, etc). Initially, the SSC Coordinator allocated
+
+Page 5 of 54

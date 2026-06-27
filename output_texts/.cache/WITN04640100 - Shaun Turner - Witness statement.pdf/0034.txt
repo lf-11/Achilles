@@ -1,0 +1,12 @@
+WITN04640100
+WITN04640100
+
+107. I have been asked whether I was satisfied that the issue had been resolved. As stated in paragraph 82 above, I have reviewed the documents identified in respect of the Callendar Square Bug, but these do not assist my recollection in relation to this question. Based on my experience as Network Co-ordination Advisor at the time, I would have expected to receive confirmation from the Problem Management Team confirming that the issue had been fixed. I am unable to recall receiving any such specific communications or passing this on to anyone else, though this does not mean I did not receive such a communication.
+
+Fujitsu's response to the Callendar Square bug
+
+108. I have been asked whether I was satisfied with Fujitsu's response to this issue. As stated in paragraph 82 above, I have reviewed the documents identified in respect of the Callendar Square Bug but have not limited my response to this question to these documents. As mentioned in paragraphs 92 and 94 above, I only had indirect contact with Fujitsu through the Problem Management Team in relation to the Callendar Square bug.
+
+109. From reviewing the documents, I believe that I would have understood the S90 release to be the final fix. However, from my broader experience, I would have expected the Problem Management Team and Fujitsu to have had a monitoring process in place to identify whether the S90 fix had in fact resolved the issue successfully. My understanding is that the Problem Management Team would not have been able to log the issue as closed until they had confirmed it had been fixed post-S90, and that this would have involved some monitoring of the effect of the S90 fix in the branches.
+
+Page 34 of 95

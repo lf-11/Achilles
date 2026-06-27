@@ -1,0 +1,12 @@
+WITN08620100
+WITN08620100
+
+86. Mr Bowyer described the consequences of the integrity of the system being compromised as "catastrophic" (page 2 of POL00026567). The implications of a problem with Horizon were obvious, but at the time POL's thinking was that the Horizon system was robust. Despite the 'floodgate' risk that had been flagged during the conference with Richard Morgan QC on 12 June 2012, POL had resolved to instruct Second Sight. If there was substance to the concerns, convictions would be questioned, and unjust ones overturned. However, I understood from a conversation with Jarnail Singh, at some point in time shortly after separation, that Gareth Jenkins was the Fujitsu Horizon guru involved in the cases. Jarnail Singh also said that in 99.9% of cases there was other evidence of theft, and so it was not apparent that many cases solely relied on Horizon data (see paragraph 93).
+
+87. There is a related email chain (POL00141400), dated 16 July 2012, regarding applications for stays of prosecutions whilst Second Sight was undertaking its work. I cannot recall how these discussions concluded.
+
+88. I emailed Jarnail Singh on 16 July 2012, timed at 11:33, having considered Cartwright King's advice. I noted that I assumed that Jarnail Singh would be the single point of contact that case officers could approach, as proposed by Cartwright King i.e. a disclosure officer (page 1 of POL00143379). Jarnail Singh replied referring to a need to "provide extra evidence as defence would put us to proof as to the systems integrity" (page 1 of POL00143379) and stating that the "only way to fully comply with prosecution disclosure obligations would be to instruct an expert at Fujitsu" (page 1 of POL00143379).
+
+89. At 13:00 on 16 July 2012, Jarnail Singh emailed Susan Crichton and me, asking if we were "happy with our stance" (page 2 of POL00141400). It appears that Susan Crichton, Jarnail Singh, Alwen Lyons and I already had a meeting planned at 3:30pm on 16 July 2012, as I replied, copying Susan
+
+Page 20 of 56

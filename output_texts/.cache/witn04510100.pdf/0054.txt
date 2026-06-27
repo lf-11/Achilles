@@ -1,0 +1,52 @@
+WITN04510100
+WITN04510100
+
+Exhibit
+No.
+URN
+Document Description
+Control No.
+12
+FUJ00086335
+Note of Prayers dated 18 July
+2005
+POINQ0092506F
+13
+FUJ00086828
+Peak PC0145617
+POINQ0092999F
+14
+FUJ00120588
+Peak PC0143500
+POINQ0126780F
+15
+FUJ00084131
+Insert Corrective Transactions at
+Branch 382137 dated 2 March
+2009
+POINQ0090302F
+16
+FUJ00088036
+Secure Support System Outline
+Design dated 2 August 2002
+POINQ0094207F
+17
+FUJ00084135
+Host BRDB Transaction
+Correction Tool Low Level
+Design dated 13 November 2007
+POINQ0090306F
+18
+FUJ00086866
+Email from Mik Peach to Simon
+Ajina copying others dated 14
+January 2009
+POINQ0093037F
+19
+FUJ00087871
+Email from Matthew Lenton to
+Jonathan Gribben copying
+others dated 25 June 2019
+POINQ0094042F
+
+Page 54 of 54

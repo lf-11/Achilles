@@ -1,0 +1,30 @@
+WITN09100100
+WITN09100100
+
+the open item. Debit and Credit (loss and gain) entries appeared in this
+account when the branch had committed/confirmed a discrepancy on Horizon.
+Some branches did this daily, some weekly and some branches didn't create
+any entries. As part of the Branch Trading process once the branch
+discrepancy had been accepted and transferred to Local Suspense a
+compensating entry would appear in the Branch Discrepancy Account GL and
+the open items would clear. The entry would then appear in the Local
+Suspense Account also, an 'Open Item' account. The opposite entry would
+appear once the SPM had completed the Branch Trading process.
+
+17. In respect of Debt Recovery my experience and knowledge are limited to the
+processes in place for Multiple Partners. These branches had the option to
+'Assign to Nominee' when accepting TCs and at Branch Trading which gave
+visibility of all losses and gains in the respective branch customer account. If a
+Partner wished to dispute a TC or Branch Trading discrepancy this was
+blocked pending resolution.
+
+18. I have been referred to the Witness Statement of Susan Harding
+(WITN03980100). In respect of the Local Suspense being removed as part of
+the IMPACT Programme, my understanding is that prior to October 2005 there
+were Suspense Accounts available on the weekly Cash Account where both
+Crowns and other branches could record values (losses and gains) when they
+were authorised by the NBSC Helpline. My understanding is that these values
+would have caused high value discrepancies and the amount could be held in
+these suspense accounts pending resolution
+
+Page 8 of 19

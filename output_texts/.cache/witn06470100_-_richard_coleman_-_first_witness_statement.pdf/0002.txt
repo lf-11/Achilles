@@ -1,0 +1,12 @@
+WITN06470100
+WITN06470100
+
+BACKGROUND
+
+4. From April 1990 to June 1998 I worked for ICL in Cardiff as a hardware engineer. In June 1998 I transferred to the Fujitsu 3rd line software support team ("SSC") in Bracknell. In September 2005 I left Fujitsu to train to become a Minister of Religion within the Church of England.
+
+5. During my time in the SSC I was one of a number of support personnel working under Mik Peach, the SSC Manager. It was part of our role to try and provide solutions to issues that arose to the development team for them to validate and then supply the actual fix. This also involved on occasion working with the testing team to track down bugs as well as validating fixes from development. I don't recall any interactions personally with the development team, and whilst I don't recall any specific incidents, I do recall working with the testing team on occasion to resolve a problem.
+
+6. Mik gave us particular areas to focus on. Mine were the back end databases in the datacentres at Bootle and Wigan that were used to configure Post Office counters. Another large part of my role was in the building and configuring of workstations for new staff coming into the SSC, as well as working with Steve Parker to maintain and develop our internal website which was used as a central resource by other teams within Pathway, which included the Known Errors Log ("KEL") database, as well as other documents.
+
+Page 2 of 11

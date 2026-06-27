@@ -1,0 +1,31 @@
+WITN05290200
+WITN05290200
+
+progress reporting would include testing wherever a release/project had
+reached that stage of development.
+
+9. I also chaired monthly Release joint progress meetings with Fujitsu
+attended by their SI Director Peter Jeram. This meeting would review the
+progress with testing when the development had reached that stage and
+ensure that appropriate actions were in place to address any areas of
+concern.
+
+10. Over time the organisation I was head of expanded the number and range
+of projects it managed. As the organisation evolved so did I and I became
+less hands on. The chair roles described above passed to my direct
+reports. I introduced a weekly direct reports meeting which focused on
+progress reporting. Any significant issues with testing would be surfaced at
+this meeting.
+
+11. There were two other types of meeting which where dependant on the
+outputs of the testing process. The first of these were Acceptance Boards.
+Any gaps in planned testing coverage or significant levels or severity of
+outstanding faults would be exposed in these meetings. The practice was
+to hold rehearsal meetings before the Board proper and thus allow a
+further opportunity for the oversight of the testing process. Acceptance
+was important to Fujitsu as part of the payments due to them would be
+retained against it being granted and to POL because the new software
+could not be released into the Network without it. I did not routinely attend
+these meetings but would certainly have been updated on any significant
+
+Page 4 of 22

@@ -1,0 +1,20 @@
+WITN05780100
+WITN05780100
+
+Policy of Family Transfers
+
+92. I have been asked to consider the following documents, Agency Changes Communiqué – Family Transfers (POL00005769) and Family Transfers dated 30 October 2017 (POL00005840).
+
+93. I authored the family transfer policy in 2017 in consultation with business stakeholders.
+
+94. It was necessary to set out , “If a Postmaster has had their contract terminated by POL; or the Postmaster has resigned to avoid summary termination, or they have served notice to terminate due to contractual action being taken by POL, then the Family Transfer request should be rejected”,because the family transfer policy was a concession that POL had intended to be a supportive gesture to Sub-postmasters suffering some difficulty, for example ill health. It was not a contractual entitlement. It was not felt that termination or resignation to avoid that fell into that description.
+
+95. I have been asked if the policy documents influenced by the transfer of contract at Post Office branch, The Grange from Suzanna Palmer (see paragraph 91 above) to Kevin Palmer (see paragraph 64 above). No it was not. I have no memory of these cases and I did not consider them or any other cases when formulating the 2017 policy document.
+
+Knowledge of bugs, errors and defects in the Horizon System
+
+96. I was not aware of any issues or problems with the Horizon system, except for rare catastrophic failures in the hardware, where a swap out would be required. In my role as a Contract Manager and as an Appeals Manager in all of the cases I managed where there were discrepancies in Sub-postmasters accounts, , I cannot recall one case where the Sub-postmaster had attributed the problem to Horizon
+
+97. Where I was aware that there had been some catastrophic failure of the system, and there had then been some discrepancy at the branch that necessitated contractual action, I would have referred the matter to an internal team for further investigation.
+
+98. During the final year of my service I had heard that it was possible for Fujitsu engineers to gain ‘back door’ access into the system without the

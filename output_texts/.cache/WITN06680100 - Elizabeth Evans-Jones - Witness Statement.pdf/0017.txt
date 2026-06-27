@@ -1,0 +1,18 @@
+WITN06680100
+WITN06680100
+
+Index to the First Witness Statement of ELIZABETH JANE EVANS-JONES
+
+No URN Description Control Number
+1 FUJ00080034 PO/Fujitsu RMGA End-To-End Customer Complaints Procedure – Joint Working Document V2.0 – dated 24/12/2007 POINQ0086205F
+2 FUJ00080027 Fujitsu/PO - POA Customer Service Incident Management Process Definition V2.0 – dated 02/04/2007 POINQ0086198F
+3 FUJ00080478 Report: Joint Working Document to support the Service Desk Service provided to Post Office by Fujitsu Services – dated 04/09/2008 POINQ0086649F
+4 FUJ00080037 Horizon Support services business continuity plan, Version 5.0 – dated 24/10/2007 POINQ0086208F
+5 FUJ00080054 Fujitsu Report on POA Customer service major incident process – dated 02/09/2008 POINQ0086225F
+6 FUJ00002009 Communications Management Team: Service Description (version 1.0) – dated 09/06/2006 POINQ0008180F
+7 FUJ00002034 Message Broadcast Service: Service Description – dated 24/08/2006 POINQ0008205F
+8 FUJ00002036 Service Desk: Service Description – dated 31/08/2006 POINQ0008207F
+9 FUJ00080043 Fujitsu report on RMGA customer service problem management process (v2) – dated 22/04/2008 POINQ0086214F
+10 FUJ00080472 Report: This plan provides a summarised description of the Horizon Service Desk (HSD) which supports the POINQ0086643F
+
+Page 17 of 21

@@ -1,0 +1,32 @@
+WITN04510100
+WITN04510100
+
+Post Office branch accounts. Transactions were only inserted to make
+corrections to previous erroneous transactions, and therefore those
+transactions would be expected to impact the branch accounts. The exact
+impact of this use of the SSC's is beyond my technical knowledge. I do know
+that the SSC PCs and later laptops were "fixed build" with toolsets and audit
+requirements agreed between the SSC, Security Architects and others.
+
+SSC access rights
+
+120. SSC staff members with access to the SSC PCs had access to Horizon,
+including live Post Office branch data, from the secure area in Bracknell. The
+SSC PCs were located in the secure area. Only SSC and LST staff, and at one
+point Release Management, had access to the secure area. In order to use the
+SSC PCs, it was necessary to have log-in credentials and "key-cards" which
+generated one-time passwords for dual factor authentication. This was
+restricted to SSC technical staff only-this did not include the SSC Coordinator,
+new joiners, LST or Release Management. For example, I did not have access
+to the SSC PCs. During times of major releases, BOC Personnel would use
+SSC PCs to perform the release deployment. For this activity, they would use
+their own secure ID 2-factor authentication.
+
+121. The facilities to do all functions relating to Horizon were built into the SSC PCs,
+and I believe the nature and extent of the SSC staff member's access depended
+on their "role"-a technical term-which would distinguish between types of
+access on login to systems. I do not recall the exact details of these roles or
+their access, so I am unable to comment further on the extent to which this
+access extended to the branch accounts.
+
+Page 40 of 54

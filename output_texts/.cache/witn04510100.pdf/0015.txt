@@ -1,0 +1,14 @@
+WITN04510100
+WITN04510100
+
+33. I wrote job descriptions for Fujitsu's Human Resources team (HR) to use for external recruitment for the SSC. I can only vaguely remember the technical requirements for the SSC, but they would have included knowledge of at least two or three of Structured Query Language (SQL), AttributeGrammar, Java, C or C++ languages, and at least three years' technical support experience at the code level (meaning the ability to look at code to determine the cause of the incident).
+
+34. In addition to the technical requirements that I specified, HR had additional requirements for SSC roles relating to security and financial checks, because we worked in a secure area, but I do not know the details of these.
+
+35. Interviews with candidates for the SSC were done by me and one of the more senior SSC technicians, who prepared a set of technical questions which had to be answered correctly at the interview.
+
+36. On joining the unit, new staff members were given a "joiners pack" which included a copy of their job description, SSC work instructions, and explanations of all the jargon and mnemonics. Since work instructions, jargon, and mnemonics changed on the Horizon systems, I would produce a new pack for each joiner.
+
+37. New staff members were also allocated a "mentor" from the more senior SSC technicians. All new joiners were technically competent when we employed them. The mentor's purpose and responsibilities were to (a) train the new joiner on Riposte, (b) confirm the new joiner understood Riposte and the structure and functions of Horizon, (c) work with the new joiner and monitor their performance on incidents, and (d) generally "look after" them until they
+
+Page 15 of 54

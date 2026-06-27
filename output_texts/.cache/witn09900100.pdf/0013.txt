@@ -1,0 +1,14 @@
+WITN09900100
+WITN09900100
+
+25. The next reference that I remember to ARQ data was when Helen Rose was looking into the issues experienced at Lepton as part of the Spot Review process with Second Sight in early 2013 (Jan/Feb 2013).
+
+26. Following this, I recall that when the Initial Complaint and Mediation Scheme ("the Scheme") was established in August 2013, ARQ data was part of the data/information pack that the Case Review Advisors used to investigate the issues raised by the Scheme applications.
+
+27. With the Scheme investigations concluded, the Support Services Resolution Team was created (April 2015) to investigate any issues raised by post office branches as part of 'Business As Usual'. They used the investigation approach developed for the Scheme and ARQ data continued to be part of the data/information pack (event and transaction logs, Helpline logs, branch trading reports, training records and others depending on the issue raised) used by the team.
+
+28. I don't believe my knowledge of ARQ changed over time.
+
+29. The first time I recall becoming formally aware of any bugs, errors or defects in the Horizon IT system ("BEDS" - although this wasn't the term used at the time), was when POL disclosed to Second Sight two anomalies - 'Receipts and Payments Mismatch Problem' and the 'Local Suspense Account Problem' which were detailed in the Interim Report 8 July 2013 (POL00099063). From
+
+Page 13 of 132

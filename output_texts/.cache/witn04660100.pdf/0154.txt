@@ -1,0 +1,32 @@
+WITN04660100
+WITN04660100
+DocuSign Envelope ID: 0B8D9A6F-D117-40AC-B8CA-9EFEBC3C2B1D
+
+any relevant evidence form the recent disclosure that may be of assistance to
+the Court, given its peripheral nature."
+
+349. Despite this, POL did not oppose Mr Castleton's application. We thought it was
+irrelevant (as subsequently proved to be the case), but POL's stance was not at
+all defensive. This was a pragmatic approach for the reasons set out in
+paragraph 16 of Counsel's skeleton argument. (It was quicker and cheaper than
+arguing against the application substantively and if Mr Castleton was permitted
+to cross examine further it removed the possibility of appeal in relation to this
+(non) point).
+
+350. I can see from my letter to Mr Castleton dated 8 January 2007 [LCAS0000478]
+that we wrote to him to raise our concerns that the Tivoli logs were irrelevant
+but that we would not oppose his application to recall Anne Chambers and Ruth
+Simpson. The hearing resumed on 11 January 2007 and Mr Castleton
+examined Anne Chambers and Ruth Simpson.
+
+351. I have been asked to detail my knowledge of bugs, errors and defects in the
+Horizon IT system and whether / how this impacted in your approach to litigation
+on behalf of the Post Office including matters relating to disclosure?
+
+352. Just for clarity, I understand this question to be specifically about knowledge of
+bugs in the Horizon IT system that could cause fictitious losses at a branch. A
+bug is not defined in the question. My non-expert and imperfect understanding
+of all software is that:
+
+(a) a bug is a coding error in a computer programme; and
+Page 154 of 194

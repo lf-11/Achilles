@@ -1,0 +1,33 @@
+WITN04510100
+WITN04510100
+
+Limited (POL). While I have tried my best to recall these events, due to the time
+that has passed, there are areas where my recollection is unclear or limited.
+
+4. As requested by the Inquiry, I have reviewed the documents referenced by the
+Inquiry in the Request. I have also refreshed my memory by reviewing other
+contemporaneous documents made available to me by Fujitsu. Where my
+recollection has been either supported by or prompted by documents, they are
+referenced using the Inquiry's Unique Reference Numbers and are set out in
+the index accompanying this statement.
+
+BACKGROUND
+
+5. I was first employed by ICL PLC (ICL) in 1980. Initially, I was in regional
+technical support for customers using the Virtual Machine Environment (VME)
+operating system. Later, I transferred to the VME Network System Support
+Centre unit in Bristol as a Network Support Diagnostician. I then became
+manager of the VME Base System Support Centre unit, based initially in
+Reading and then Bracknell. Both of these units—the VME Network System
+Support Centre and VME Base System Support Centre—were part of the ICL
+Customer Service team (ICL Customer Service).
+
+6. Following my role as manager of the VME Base System Support Centre unit, I
+spent a brief period as a project manager in ICL Customer Service, introducing
+the PC-PARIS product, which was a Known Error system supplied to ICL
+support units and to VME customers. This Known Error system was unrelated
+to Horizon. Still working within ICL Customer Service, I then headed a small
+Rapid Application Development (RAD) team based in Bracknell which
+specialised in delivering short-term development projects to ICL Customer
+
+Page 2 of 54

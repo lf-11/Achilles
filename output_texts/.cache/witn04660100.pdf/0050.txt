@@ -1,0 +1,29 @@
+WITN04660100
+WITN04660100
+DocuSign Envelope ID: 0B8D9A6F-D117-40AC-B8CA-9EFEBC3C2B1D
+
+the point with the witness. Mr Booth had said in his first witness statement that
+he had not. My email records that the experience Mr Booth reported having on
+25 or 26 October 2006 suggested on the face of it that Horizon could (albeit
+rarely) lose transactions. I can see from my email that I had notified Counsel
+about this development and that Counsel asked me to ask Fujitsu to review the
+Newbury Post Office branch's Horizon data (being the branch Mr Booth worked
+at) to see if the system froze and lost the transaction and what the explanation
+was.
+
+106. In the event, having tested it, I was satisfied with how it was addressed. It did
+not prove to be a point that counted against POL. In the second statement of
+Mr Gregory Booth dated 8 November 2006 at [POL00081446], Mr Booth firstly
+described what had happened when his computer froze. Mr Booth then referred
+at paragraph 8 to the Horizon System User Guide. He cited extracts from it that
+gives guidance on what to do in the event of a system failure. Mr Booth
+concluded at paragraph 8 of his statement:
+
+"It is clear from the Guide that where the system fails part way through the type
+of transaction I was performing, the system would not record it and that
+accordingly, I should have simply re-entered the details of the transaction in
+accordance with the instructions in the Guide."
+
+107. In other words, as I understood it, this was a user error.
+
+Page 50 of 194

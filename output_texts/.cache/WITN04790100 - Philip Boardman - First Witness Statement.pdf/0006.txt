@@ -1,0 +1,32 @@
+WITN04790100
+WITN04790100
+
+a. determining the current data flows and preferred data flows to improve its cash
+and stock management;
+b. facilitating workshops;
+c. advising Post Office on how to approach business process improvement;
+d. preparing the process flow diagrams relating to cash flow management and back-
+end accounting systems, which appear in the Conceptual Design Documents;
+e. suggesting and advising on the approach of documenting the cash accounting
+and management processes; and
+f. providing advice and training on how to use these tools to document Post Office's
+requirements.
+
+18. Below I explain the changes that were made as a result of the Programme to the cash
+flow management and back-end accounting systems, and the key drivers for these
+changes.
+
+Post Office's cash flow management processes
+
+19. At the time I was engaged to work on the Programme, it was explained to me that the
+key driver for the Programme was Post Office's business needs following a decision
+by the Department for Work and Pensions (DWP) concerning the payment of benefits.
+These drivers were explained by Stephen Hirst, Post Office's Finance Director/Chief
+Financial Officer and Sue Harding, Post Office's overall manager for the Programme,
+in initial meetings.
+
+20. The DWP paid benefits by issuing weekly Giro cheques to benefits recipients, which
+could be retrieved at Post Office branches. The DWP would also advance the funds
+that were required for Post Office to pay out the Giro cheques issued to benefits
+
+Page 6 of 13

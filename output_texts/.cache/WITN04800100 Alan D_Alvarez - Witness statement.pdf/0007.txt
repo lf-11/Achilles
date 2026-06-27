@@ -1,0 +1,30 @@
+WITN04800100
+WITN04800100
+
+key card periodically to conform to the Communications-Electronic Security Group
+("CESG") guidelines which the manual recovery process would not be able to support.
+19. My understanding is that whilst the Joint Authority (Post Office and Benefits Agency)
+had signed off on the pilot of Release 1B, they would not sign off general deployment
+of the system until a more acceptable key card recovery solution was in place. I
+believe that decision was taken around the time the roll-out of Release 1B was
+approved, though my recollection is not certain.
+
+OBTAINING APPROVAL FOR A KEY MANAGEMENT SYSTEM
+
+20. I was actioned to provide a more sustainable and supportable solution for key card
+recovery, which after analysis of the operational and support requirements led to the
+proposal of implementing an automated secure key management system ("KMS").
+21. The contract for the Horizon system between ICL Pathway, the Post Office and the
+Benefits Agency (the "Horizon Contract"), and the business needs reflected in the
+Horizon Contract, were the main drivers for any design and development on the
+project, coupled with the supportability of any proposed solution. My understanding
+of the Horizon Contract was that ICL Pathway had signed up to deliver a secure
+system. The system we had in place during Release 1B was secure, but the recovery
+process for a lost key card was complex and not sustainable for a large number of
+post offices, nor would it support an estate wide key refresh.
+22. Of course, I understood that the Horizon IT Contract did not say that we specifically
+needed to deliver a KMS (and as I was not involved in the negotiations of the Horizon
+Contract, I cannot comment on why the matter was not considered as part of the
+original negotiations). However, after an assessment of the options, it was concluded
+
+Page 7 of 26

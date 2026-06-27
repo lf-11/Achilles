@@ -1,0 +1,16 @@
+WITN09090100
+WITN09090100
+
+WITN09090100
+
+10. The type of queries which NBSC would deal with ranged vastly from simple questions such as requesting a telephone number for a particular person to more complicated questions such as the process for accepting a Passport Application, or questions around how to balance.
+
+11. The helpline part of NBSC was split into two tiers of support, Tier 1 was first line support and Tier 2 second line support. Any contact made with NBSC would initially get through to Tier 1 who would try to resolve the callers query, and if they were unable to answer the question the call would be passed over to Tier 2. Tier 2 consisted of around fifty to sixty service support advisors who were split across eight teams, each with their own Team Leader.
+
+12. NBSC used a case management system called Remedy to log and record calls from branches. When a call was made into NBSC the advisor would create a new case in this system and enter the branch and caller details along with a brief description of the question being asked, further information would be added in the detailed description field to give a better overview of the reason for the call.
+
+13. Within the NBSC there was a Knowledge Base (KB) Team who were responsible for maintaining and keeping the Knowledge Base articles updated, these were used by Tier 1 and Tier 2 advisors as information sources to enable them to answer queries for branches who had rang in.
+
+14. The Remedy system had a function where the advisor could put in different levels of criteria (there were 4 classification levels) to search the KB for an
+
+Page 4 of 33

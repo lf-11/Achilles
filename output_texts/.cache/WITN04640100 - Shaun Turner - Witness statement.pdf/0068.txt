@@ -1,0 +1,16 @@
+WITN04640100
+WITN04640100
+
+227. After reviewing the document, I understand that this project intended to require Postmasters to enter their rationale behind making certain stock adjustments in Horizon. I assume that this change was taken forward because I know that this is a requirement in the version of Horizon which is currently operational, though I cannot recall the precise timing of when this change was actually deployed into branches.
+
+228. I have been asked to state whether any problems were caused by or during the implementation of this project. As stated in paragraph 218, I have reviewed document POL00001697 in relation to this issue. I do not recall any problems being caused by or during the implementation of this project. Although removing shortcuts and enforcing processes always results in some opinions being expressed, I do not recall any specific problems or complaints made by Postmasters by or during the implementation of this project.
+
+SMART ID/'ENHANCED USER MANAGEMENT'
+
+229. I have been asked to consider POL00036204, POL00036331, POL00030084, POL00036218, POL00036254, POL00036345, POL00036669, POL00036678, POL00043585, POL00038770, and POL00037819.
+
+230. I have reviewed documents POL00036204, POL00036331, POL00030084, POL00036218, POL00036254, POL00036345, POL00036669, POL00036678, POL00043585, POL00038770, and POL00037819 in relation to Smart IDs / EUM, but I have not restricted my answer to this issue in paragraphs 231 to 277 below to these documents.
+
+Explanation of the Smart ID / End User Management programme
+
+Page 68 of 95

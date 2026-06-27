@@ -1,0 +1,48 @@
+WITN05290200
+WITN05290200
+
+Index to Second Witness Statement of David Smith
+
+URN
+Document Description
+Control Number
+1
+FUJ00080526
+Fujitsu Report: Horizon Data
+Integrity v1.0 dated
+02/10/2009
+POINQ0086697F
+2
+FUJ00001817
+Fujitsu Services and Post
+Office: Testing Approach for
+the Horizon System (v.1.0)
+dated 15/08/2003
+POINQ0007988F
+3
+FUJ00001889
+Fujitsu Services: Horizon
+Generic Release Acceptance
+Process (V.1.0) dated
+13/09/2004
+POINQ0008060F
+4
+POL00021485
+Post Office Limited Board
+Minutes of 13/10/2004
+POL0000018
+5
+FUJ00097159
+Post Office Ltd, Horizon Next
+Generation Release
+Authorisation AG3 Joint
+Board Meeting minutes of
+28/01/2010
+POINQ0103330F
+6
+POL00030559
+Project Initiation Document
+for: Post Office/Fujitsu IT
+POL-0027041
+
+Page 18 of 22

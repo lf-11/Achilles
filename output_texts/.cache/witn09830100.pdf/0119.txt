@@ -1,0 +1,11 @@
+WITN09830100
+WITN09830100
+
+276 I cannot recall when I first heard about the KEL or who had told me about it. It likely was brought up during the course of a PLSG meeting, but I cannot say for sure. My understanding was that the KEL was a repository for identifying every day, non-impactful or significantly disruptive IT bugs, as and when someone came across an issue. My understanding at the time reflects what was stated at paragraphs 36 and 37 in the fourth witness statement of Andrew Parsons [POL00000444], that the KEL was more of a living document that was continuously updated and changed rather than a storage database, and that POL would not have had access to the KEL. I also understood that the KEL would not have held data on branch accounts or actual transaction data, but what I do not know is whether or not it held information which was relevant to branch accounts. I would not have had a role in determining its significance and therefore the decisions and details with respect to its disclosure.
+
+277 My understanding of the PEAK database in terms of what it was and its significance, was less well developed than in relation to the KEL. I do not recall the PEAK database being discussed in the meetings I attended during that time and I do not recall having sight of the letter from Bond Dickinson LLP dated 28 November 2018 [POL00003363] until it was shared with my solicitors within the context of this Inquiry.
+
+Common Issues trial
+
+278 In the context of my role as a programme manager of the Scheme, I was tasked with providing information about the Scheme to government stakeholders upon request. When the Group Litigation trials commenced, I continued in this role,
+Page 119 of 168

@@ -1,0 +1,31 @@
+WITN09750100
+WITN09750100
+
+final. POL never did ask for version 16 of the draft to be converted into a final version
+and instead asked us to produce the shorter Board Briefing mentioned in paragraph
+62 below. I eventually assumed this was no longer a priority for POL and thus
+version 16 is what I consider to be the final version of the Deliverable. This version of
+the Deliverable included the outputs from the Change Order.
+
+61. The Change Order is referenced alongside a document entitled
+'Deloitte – HNG-X: Review of Assurance Sources – Discussion Areas re:
+Phase 2 – Draft For Discussion' (POL00031384) in question 17 of the
+Request. This document was produced to assist in scoping further part 1
+work, as ultimately agreed and signed off by Chris Aujard following requests
+made in the Board Meeting.
+
+62. Deloitte also produced a further document for a subsequent POL Board
+meeting. In our Change Order this is referred to as a 'Board update document' but it
+was ultimately finalised under the title 'Board Briefing' (POL00028069) dated 4 June
+2014.
+
+63. The Board Briefing addressed five matters (collectively the 'Matters') where
+'the design and operation of the 'Horizon Features' were critical to supporting POL's
+legal position.' These were:-
+
+i. Horizon only allows complete baskets of transactions to be processed;
+ii. Baskets being communicated between Branch and Data Centre are not
+subject to tampering before being copied into the Audit Store (defined
+below);
+
+Page 18 of 39

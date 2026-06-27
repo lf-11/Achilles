@@ -1,0 +1,12 @@
+WITN08620100
+WITN08620100
+
+108. Susan Crichton was the contact at POL Legal who was updated formally on the progress of Second Sight's work. I recall her telling me at some point that Second Sight had not identified any issues yet but I cannot recall when this was.
+
+109. On 27 June 2013 at 19:51, Rodric Williams emailed various recipients including Lesley Sewell (CIO), Alwen Lyons, Rod Ismay, and Jarnail Singh (page 1 of POL00029622). POL, with assistance from Bond Dickinson, was preparing letters to 14 affected branches to disclose the existence of a Horizon bug. Rodric Williams stated that there was a need for POL Legal to "do a final cross check of the intended recipients to make sure they are not the subject of prosecutions/investigations" (page 2 of POL00029622). It is clear from Rodric Williams's email on 3 July 2013 (see POL00145142 at paragraph 129 below), that POL was obtaining legal advice from Cartwright King regarding the mechanics of disclosure in criminal cases to ensure that its obligations were properly satisfied (POL00145145).
+
+110. As far as I can recall, I became aware of two bugs with the Horizon system, which were subsequently mentioned in the Second Sight interim report, on or about Friday 28 June 2013. One of the bugs affected 14 branches (the 'local suspense' bug) and the other affected 64 branches (the 'receipts and payments mismatch' bug).
+
+111. On 28 June 2013, at 10:15, Lesley Sewell received information from Gareth Jenkins of Fujitsu (his witness statement from the Seema Misra case) (POL00098812). Lesley forwarded this on to Alwen Lyons, Martin Edwards (Chief of Staff to the Chief Executive) and Mark Davies (Head of Communications) at 11:30 (page 1 of POL00098812). Mark Davies wanted to establish whether the 14 and 64 bugs had been referenced in Court (page 1 of POL00098812). Alwen sent the email chain to me at 17:29 on the same day, asking if we could check if the 14 branch and 64 branch bugs had been referred to in Court or if it would be quicker to contact Gareth Jenkins (page 1 of POL00098812).
+
+Page 26 of 56

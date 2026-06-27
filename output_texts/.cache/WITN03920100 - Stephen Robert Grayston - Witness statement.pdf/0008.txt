@@ -1,0 +1,32 @@
+WITN03920100
+WITN03920100
+
+FUJ00078612, FUJ00078616, FUJ00078617, FUJ00078623, FUJ00078635,
+FUJ00078636.)
+
+19. The design of the Horizon system was documented in various high and low level
+design specifications and these were reviewed by POCL programme subject
+matter experts as well as POCL business subject matter experts. For me this is
+the first level of 'testing' that what is being built meets the contractual
+requirements. In my experience it is relatively straight forward to develop
+solutions that reflect the 'happy path' of system processing, it is critical to look at
+what happens when things go wrong, the 'unhappy path', and determine what
+steps need to be taken either manually or in system. Although I was not regularly
+involved I recall there being scenario workshops to assess the 'what if' positions
+that might arise (e.g. a Horizon system goes down mid transaction).
+
+20. I have no direct knowledge of unit testing, end to end testing, integration testing,
+assurance walkthroughs but I understood that this was covered within the POCL
+team working with ICL Pathway
+
+21. As the decision whether to proceed with implementation approached the Model
+Office / User Acceptance Testing became the point where end users and
+Business subject matter experts became involved. Obviously, the scope of
+services provided by POCL needed to be tested in a Model Office environment
+with real office staff involved. I believe that subpostmasters and staff from directly
+managed branches were involved.
+
+22. The Model Office was created in Borough High Street, South London. The setup
+of the Model Office was I believe to create a number of different Post Office
+
+Page 8 of 32

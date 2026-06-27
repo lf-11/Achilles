@@ -1,0 +1,30 @@
+WITN04800100
+WITN04800100
+
+previous pilots (Release 2 having been renamed following the Benefits Agency's
+withdrawal from the project). I address that involvement below.
+
+8. From the time I joined ICL Pathway, up to and including the release of New Release
+2, I was involved only in the security aspects of the Horizon system, and any aspects
+of this statement relating to that period are given on that basis. The team working with
+me on these security aspects numbered up to 50 people, but included Roy Birkinshaw
+(Security Development Team Lead), Dave Johns (Security Architect), Belinda
+Fairthorne (Security Consultant) and Tom Parker (Technical Security Consultant).
+
+IDENTIFYING DEFICIENCIES IN THE SECURITY OF THE HORIZON IT SYSTEM
+
+9. When I joined the Horizon IT project in March 1997, I assessed the system security
+requirements that ICL Pathway had contracted to deliver and the solution it had
+proposed to meet those requirements. I identified a number of areas where we
+needed additional or different solutions to ensure compliance with the contractual
+requirements. These were an automated key management system ("KMS") and
+processes to address requirements for access controls in relation to privileged users
+as a result of the completion of the Access Control Policy
+
+10. A key feature of the security system, when I joined the project, was that in order for a
+postmaster to access the Horizon system on their Post Office branch counter, they
+would need to have a password and a physical cryptographic memory card (a "key
+card"). This solution was to address the requirement for two-factor authentication at
+the Post Office counter.
+
+Page 4 of 26

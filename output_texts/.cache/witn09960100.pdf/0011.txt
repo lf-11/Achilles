@@ -1,0 +1,30 @@
+WITN09960100
+WITN09960100
+
+therefore, the nine unreviewed documents (that were removed as
+duplicates in the first search) were provided to HSF for review:
+
+Eight versions of Appendix 3 were tagged as 'not relevant' by HSF on
+8 April 2022. HSF did not review the families of these responsive
+documents at that time. These eight versions were in the same family
+as Appendix 6 and thus Appendix 6 was available for review in
+Relativity as described in paragraph 19 above; and
+
+The ninth version of Appendix 3 was tagged as 'relevant' by HSF on 9
+April 2022. HSF did not review the family of this responsive document
+at that time. This version was not in the same family as Appendix 6.
+
+The third search was run on 11 May 2022. This search was run following
+rectification of an issue that had arisen during the migration of a
+database of documents to KPMG from a previous eDisclosure service
+provider to POL. A further 21 versions of Appendix 3 were responsive
+to this rerun search, 14 of which were in the same family group of
+documents as Appendix 6. In line with the March 2022 search
+instructions from HSF, deduplication was applied (based on the earliest
+Artifact ID):
+
+18 versions of Appendix 3 were not made available for review by HSF
+as they were MD5# item-level duplicates of versions already reviewed
+by HSF in March and April 2022; and
+
+Page 11 of 15

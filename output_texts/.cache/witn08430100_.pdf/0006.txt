@@ -1,0 +1,32 @@
+WITN08430100
+WITN08430100
+
+28. I have been asked if it was possible to conduct a branch audit in
+circumstances where it was not possible to access the Horizon IT system. I
+cannot see how it would be possible to perform an audit without full access to
+the Horizon system.
+
+29. I have been asked to describe any variation between the audit process in
+respect of Crown Office branches and other branches. CrownOffices have
+multiple individual stock units and each one has to be checked separately
+therefore more auditors attend a Crown Office audit. In principle it is the same
+procedure as auditing a subpostoffice, just on a larger scale.
+
+30. I have been asked to consider documentFUJ00001894 - Audit Trail Functional
+Specification (version 8.0, 18 October 2004). I don't think that I have ever seen
+this document before and don't see how it might help in my role as an auditor.
+
+31. I have also been asked to consider documentPOL00002841 - Global User
+Account (September 2016). This is an account that can be obtained to allow an
+auditor access to the Horizon system in an office where no one with manager
+access to the system is available, thus enabling the auditor to perform an audit.
+
+32. I have no knowledge of any involvement Fujitsu might have in the audit
+process.
+
+33. I have been asked whether auditors had access to information to which a
+subpostmaster did not have access when they were conducting a branch
+audit. I can't think of any information auditors might have access to that the
+subpostmaster didn't have access to.
+
+Page 6 of 14

@@ -1,0 +1,12 @@
+WITN06470100
+WITN06470100
+
+KEL SYSTEM
+
+7. The Known Errors Log ("KEL") database was a collection of HTML documents stored on the SSC internal website, and was the means by which information on work arounds and solutions to issues were provided to 1st and 2nd line support. They were also used to specify the evidence we needed in order to investigate issues further should they crop up again.
+
+8. I believe KELs had 4 major sections: What the customer reported, an explanation of the problem, the solution to the problem, and any evidence that we required to help us resolve the problem. There would also have been options to add tags to the KELs, for example for a particular product or software release.
+
+9. To search the KEL database the support team would connect to the SSC website and select the "Search the KEL database" link which would then display a page where they could type in any words to be searched for. There would also be a number of options that could be selected to allow easy targeting of searches to, for example a particular product or release, in order to help the support teams find the information they needed.
+
+Page 3 of 11

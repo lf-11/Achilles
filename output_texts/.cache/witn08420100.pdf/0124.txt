@@ -1,0 +1,39 @@
+WITN08420100
+WITN08420100
+
+Witness: Rodric David Alun Williams
+Statement Number: WITN08420100
+Exhibits: None
+Date: 11 March 2024
+
+the Horizon system as operating in 2019 might have, given the loss of
+confidence that could lead to in a business-critical system being used in
+thousands of branches to process millions of transactions each day. In terms of
+any concerns about reliability of Horizon as impacting on convictions of PMRs,
+my comments about the different roles of the High Court and the CCRC at
+paragraph [205] above apply equally here.
+
+Remote access in the Horizon Issues trial
+
+242. As described at paragraph [218] above, the position on remote access changed
+over time as the Group Litigation unfolded. During the Horizon Issues trial itself
+the evidence of two Fujitsu witnesses, Stephen Parker and Torstein Godeseth,
+changed through successive witness statements and in cross-examination,
+with Mr Justice Fraser himself observing, in paragraphs 545 and 549 of his
+judgment,226 that it was only through the trial process and the evidence of
+Richard Roll that the true position on remote access became known, namely
+that transaction data can be edited by Fujitsu without the knowledge of
+PMRs.227
+
+Briefing to the Board subcommittee on the Horizon Issues trial
+
+243. The Inquiry has asked me to comment on the minutes of the Board
+subcommittee from 21 February 2019,228 at which Anthony de Garr Robinson
+KC briefed Board members about the upcoming Horizon Issues trial. At this
+point, the Common Issues trial had been held but we were still awaiting
+
+226 Bates v Post Office Ltd (No.6: Horizon Issues) [2019] EWHC 3408 (QB)
+227 At 528 and 549.
+228 Minutes of the meeting of the GLO Subcommittee of POL on 21 February 2019 (POL00006753)
+
+124

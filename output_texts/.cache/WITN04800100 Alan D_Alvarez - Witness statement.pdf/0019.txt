@@ -1,0 +1,34 @@
+WITN04800100
+WITN04800100
+
+52. In 2009 I was asked to become Programme Director, which was authorized by the
+Fujitsu Head of Core Services at the time, Peter Jeram.
+
+Initial pilot problems
+
+53. I do not recall the specific problems with the Horizon Online solution that arose during
+the initial pilots of Horizon Online, including any failures with the Systems
+Management Toolset. However, having seen an email that I sent dated 19 February
+2010, I am reminded that there were a number of issues encountered with the
+deployment process which were resolved prior to going into the large scale pilot
+(WITN480_01/5).
+
+54. I do recall that there were a number of defects going into the pilots which, I believe,
+would have been documented in a test report that was produced as part of the
+acceptance process. However, none of those defects were assessed as sufficient to
+stop the pilot. We would have assessed those defects with the Post Office for potential
+business impact and technical impact, and agreed workarounds where required.
+
+55. Incidents were raised through the service desk for any issues encountered in the pilot.
+Where the resolution required a code fix, this would be passed to 4th line support
+where a defect would be raised and tagged to the incident. The defect would be
+annotated with the cause of the defect and the resolution. I suggest that the incident
+system be searched for any ticket raised by a pilot site that has a corresponding
+defect number to identify technical issues raised during the pilot phase.
+
+Suspension of high volume pilot
+
+56. Shortly after the high volume pilot commenced, a substantial number of branches in
+the pilot reported that the Horizon Online counter had "lost connectivity" and so they
+
+Page 19 of 26

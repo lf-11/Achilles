@@ -1,0 +1,8 @@
+WITN09250100
+WITN09250100
+
+35. In the event of a Horizon system failure at a branch my understanding would be that a complete audit would not be possible due to the lack of available reports from the Horizon system. In the event of damage to the Horizon system through incidents such as fire where the building is deemed unsafe, assets would be removed to a secure location in sealed pouches and bags by Cash in Transit and held at a secure location. Where possible any documentation should be retrieved from the branch to assist in the completion of a P32 Audit of Accounts. I have no recollection of incidences of this in my time as an auditor.
+
+36. The approach to Crown Office audits is different to other branches given that it is managed by Post Office managers who have responsibilities to undertake random spot checks of counter stocks held by Post Office staff members. Checks on audit would include any stocks held by the Branch Manager including where applicable Automatic Teller Machines (ATMs), Stamp machines. Additionally, any dormant unused stocks and a minimum of 50% of live counter stocks must be checked. Any stocks with a high cash on hand figure recorded should also be checked. Where time allows additional checks of live counter stocks can be made.
+
+37. From recollection each Auditor had their own unique password to have limited access to the Horizon system when auditing a branch. In order to access the reports etc that they required; the Sub-postmaster would be required to add them to the Branch Users on Horizon where they would then log on using their password. On completion of the audit the auditor would need to log out of the Horizon system and be removed by the Sub-postmaster from the user list.

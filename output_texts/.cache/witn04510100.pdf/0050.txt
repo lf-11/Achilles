@@ -1,0 +1,16 @@
+WITN04510100
+WITN04510100
+
+162. It was necessary for the SSC to contact Post Office branches directly because no other part of the support hierarchy could view the Riposte message store. The ability to do so meant SSC technicians could match what the postmaster said they were doing over phone with the messages in Horizon.
+
+163. Such interactions were controlled at the SSC end. The SSC would phone postmasters, but were encouraged not to give out SSC phone numbers to postmasters. This was to avoid the SSC being swamped by calls which could have been resolved by the NBSC and the HSH, and to ensure all calls were logged and auditable. The support lines were structured so that customers would start at 1st line support, and the call would be progressed up the lines of support based on the nature and severity of the reported issue.
+
+Causes of problems experienced by postmasters
+
+164. I think that, certainly in the initial phases of Horizon, there was a significant "culture shock" for POL staff and Post Office branch staff, moving from a manual, paper-based operation to a computer system. This was inevitable, for some of the postmasters this was the first time that they had used any sort of computer.
+
+165. This "culture shock" was particularly true when Cash Accounts were introduced requiring the postmasters to balance their Cash Accounts every week. I recall that the SSC had to rota staff to work late, and on occasion development staff also, on Wednesday evenings, when the Cash Account was done to assist postmasters in completing the process.
+
+166. I do not recall there being significant software bugs in EPOSS, but the Cash Account process involved a cross-reference between data from the counter and
+
+Page 50 of 54

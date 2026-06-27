@@ -1,0 +1,16 @@
+WITN04120100
+WITN04120100
+
+37. My source of understanding was via the reports submitted to the POL Horizon Team Meetings.
+
+38. The Post Office and Benefits Agency by then were moving in different directions relative to an integrated solution featuring a payments card. My perception was that different positions were developing on the scope and adequacy and outcomes of testing as expressed through their Programme Board. Their major concerns appeared to be the impact of failure on the security and viability of the overall benefit payment system and its constituent parts. I believe they reserved their position on release authorisation until assurances that their concerns were addressed.
+
+39. The preparation of Post Office branches for automation was part of an extensive roll out plan, integrated with Pathways programme of logistics – particularly the assurance of the delivery of equipment to post offices as required by the roll out programme and the availability of teams to check the connectivity to each office. This sat alongside the training and communication plan, and the development and testing of user manuals
+
+40. Training had been tested ahead of the scheduling of Live Trial and there were expressed concerns by the POL implementation team about the time being made available to each office by the Pathway training schedule. This and other issues were being negotiated through the incident resolution process. The key Incident was no. 218 (referenced in para 30 above) and was increasingly a part of high-level exchanges between POL and Pathway (WITN0412_01/04; FUJ00079159). In essence we were increasingly concerned the product was not fit for purpose.
+
+41. The Pathway-developed migration tool, for transfer of office data to the Horizon platform experienced early difficulties.
+
+42. The call up and availability of Sub Postmasters and their staff in offices was also predicted to be on-going difficulty. As I recall, office closures were largely to be avoided. Migration on to the system was at risk of being drawn out and complex.
+
+Page 7 of 13

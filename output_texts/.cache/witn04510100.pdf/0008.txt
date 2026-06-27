@@ -1,0 +1,16 @@
+WITN04510100
+WITN04510100
+
+j. An incident would be considered closed once the root cause had been identified and a remedy put in place. The remedy would differ depending on the nature of the root cause. For example, an incident requiring a code fix would remain open until such time as the fix had been tested and applied to the live estate. Other closure categories may have required different closure actions.
+
+k. When an incident was resolved on Peak, it would be returned to the SSC, who would then close it. This in turn caused the incident to be reported as closed over the OTI link to Powerhelp.
+
+16. I believe the Peak system was more than adequate to manage incidents on Horizon because enhancements were made to the system that went beyond its original scope of managing incidents. Furthermore, since the Peak system was internally developed, it was also capable of rapid change should additional requirements be requested by other units in Fujitsu involved with Horizon.
+
+Service Level Targets
+
+17. I am aware that there were Service Level Targets (SLTs) in the contract between POL and Fujitsu, and I recall that the majority of these SLTs related to hardware, including timescales for replacement, engineer response times, and network availability. These would still be "service tickets" but would be handled by HSH and SMC and would only relate to PiniCL or Peak if a hardware or network call were passed to the SSC in error.
+
+18. There were SLTs relating to the processing of transaction data which indirectly impacted Peak. Fujitsu were targeted with processing high percentages of transaction data from Post Offices into the Fujitsu data centre systems within a
+
+Page 8 of 54

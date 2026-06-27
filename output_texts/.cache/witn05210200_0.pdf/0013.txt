@@ -1,0 +1,37 @@
+WITN05210200
+WITN05210200
+
+Question 26: Are these the types of daily and weekly reports to which you refer
+in paragraph 112 of your witness statement dated 13 October 2022?
+
+40. No. For an example of the reports I was referring to see page 2 of document
+POL00028559.
+
+PLEASE CONSIDER POL00043723.
+
+Question 27: At the time of the roll-out decision on or around 24 November
+1999, what was your understanding of the following:
+
+a. The ability of the integrity control to detect all data errors;
+
+41. I can only rely on what is contained within document POL00043723 to assist
+me in providing an answer to this question. POCL's position was that the
+Pathway integrity control was capable of detecting all relevant incidents. This
+is not the same as having no errors but what was required, as the document
+confirmed, was a robust process for error detection of the two data streams.
+My recollection is that the error rate must have been reduced to 0.6% or
+under which was what had been previously required.
+
+b. The level of disruption and cause of new incidents;
+
+42. I am unable to recall and the documents I have reviewed do not assist me in
+providing an answer.
+
+c. POCL's understanding of the design and operation of the emerging
+reconciliation controls;
+
+43. I am unable to provide an answer regarding design as I do not have a
+technical/IT background. I understand the purpose/operation was to enable
+the data streams to be better compared and for errors to be identified and
+
+Page 13 of 21

@@ -1,0 +1,33 @@
+WITN04640100
+WITN04640100
+
+segregated by branches before being passed to RMG, and to develop plans on
+how to improve conformance.
+
+December 2015 - March 2017: Business Readiness Lead (Operations)
+
+19. This was a Subject Matter Expert role. Initially, we were working with IBM to
+replace Horizon. After a few months, however, a business decision was made
+to withdraw from that contract with IBM, and my role instead became about
+looking for opportunities to upgrade the current Horizon system as part of the
+Branch Technology Transformation Programme ("BTTP"). I was involved in
+identifying ways of improving Horizon from the postmaster perspective, or for
+compliance and regulatory purposes. I was mainly involved in three strands of
+the BTTP: the Enhanced User Management Project ("EUMP") (described at
+paragraph 20 below), the Enhanced User Help & Support Programme
+("EUHSP") (described in paragraphs from 49 to 58 below) and the Screen
+Sharing project. The Screen Sharing project was about investigating a new
+functionality on Horizon which would allow Postmasters to share their screens
+with an NBSC advisor so that the advisor could better advise Postmasters on
+how to resolve issues they were experiencing.
+
+April 2017 – April 2019: Smart ID Product Owner, EUMP
+
+20. My next role in the EUMP arose from the analysis undertaken in my previous
+role as Business Readiness Lead in the BTTP. The context for the EUMP was
+a recognition that the way user management operated on Horizon at the time
+may not have been meeting certain regulatory obligations, as it could be difficult
+to prove who was working at a counter at any given time and that they had been
+trained to carry out transactions involving regulated products. I worked as a
+
+Page 8 of 95

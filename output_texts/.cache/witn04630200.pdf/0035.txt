@@ -1,0 +1,31 @@
+WITN04630200
+WITN04630200
+
+transaction and double entry that should have been recorded failed to be
+recorded) then we would have to explore whether the same illusory
+transaction or lost transaction would manifest itself in the same way in the
+data or paper stream to the client (and potentially to the method of
+payment processor for cheques or cards) as well as to the transactional
+data stream being harvested from Horizon to the FSC. The investigation
+process would vary between client transaction types and whether there
+was an additional off-Horizon device involved, or customer paperwork to
+be sent off or method of payment batches to be sent off. The central
+matching processes should have enabled an issue to be identified if it
+affected just one data stream, but if there were an illusory transaction
+reflected in both the POL data stream and in the client data stream, or if a
+genuine transaction were missing from both, then the FSC matching
+routine would not raise an issue as both data streams would be the same.
+
+78. I apologise that, despite my development point to be more succinct, I have
+had to use lengthy narrative above. This is, however, a necessary
+reflection of the complexity and diversity of the products and processes
+that SPMs had to manage in branch and that similarly confronted central
+processing teams. My recollection is that such processes were well
+documented, and were believed to run effectively, but were subject to
+regular update due to changes in products and branches as well as to
+matters such as LEAN process improvements, and therefore the related
+documentation would need regular update as expanded on further in a
+later section of this statement. It was complex and it again reinforces the
+challenge that Second Sight acknowledged of how hard it is to disprove a
+
+Page 35 of 61

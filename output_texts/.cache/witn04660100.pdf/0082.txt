@@ -1,0 +1,19 @@
+WITN04660100
+WITN04660100
+DocuSign Envelope ID: 0B8D9A6F-D117-40AC-B8CA-9EFEBC3C2B1D
+
+181. "Cheques were handled correctly (as far as the system is concerned). She checked the REM was correct, which it was except for one day when he forgot to cut off the cheques but she only checked back one week. She also noted that once in a while the declaration number was used incorrectly. For example if you used 01 for £10,000 and then 11 for another £10,000 the system will think that the branch had £20,000 but it only has £10,000. The daily cash handling were using a double declaration number but this does not affect the weekly balance. AC went through the transactions day by day and compared with overnight declarations. You would expect
+
+(a) a starting cash position
+(b) transactions
+(c) a system cash figure which should be close to the actual cash holding.
+
+AC was taken aback to consider that (c)" (i.e. the system cash figure) "was way out every day, above and below. There should be somewhere the other part of that transaction and what is on the system does not match what is in the drawer.
+
+There is no systems reason to explain the discrepancy. There is nothing to indicate a computer system failure or the PM had an operational problem."
+
+182. The note went on to say:
+
+"It was AC's feeling that it was sloppy inaccuracies rather than fraud. Additionally as the PM is actually declaring the discrepancies this gives the
+
+Page 82 of 194

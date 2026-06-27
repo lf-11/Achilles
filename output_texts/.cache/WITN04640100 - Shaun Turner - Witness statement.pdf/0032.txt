@@ -1,0 +1,33 @@
+WITN04640100
+WITN04640100
+
+99. Casting my mind back, I think that the BIM reports were incident reports
+prepared by Fujitsu for the P&BA team, in which Fujitsu identified system issues
+in Horizon that required P&BA investigation.
+
+100. A reference to a breakdown in processes could mean one of many
+things: (i) a BIM report was not sent by FS to P&BA when it should have been;
+(ii) a BIM was received but misinterpreted by P&BA; (iii) a BIM report was
+received but not progressed by P&BA; (iv) P&BA took the wrong action in
+relation to the BIM report without issuing a TC that would have fixed an issue
+with the branch's accounts.
+
+101. I have been asked whether there was any follow-up with this branch
+following these emails and / or the release of S90. As stated in paragraph 82
+above, I have reviewed the documents identified in respect of the Callendar
+Square Bug. In particular, POL00081928 and FUJ00083664 show that I
+explained to Sandra MacKay and Brian Trotter on multiple occasions during
+February and March 2006 that the S90 fix implemented by Fujitsu should have
+fixed the issue in branch.
+
+102. Beyond these emails, I am unable to recall whether there were any
+follow-up communications with the Callendar Square branch. This does not
+mean that these did not take place, but any communication would have come
+from someone in the service management team, in this instance Sandra
+MacKay or Brian Trotter, or Fujitsu who may also have dealt with the branch at
+this stage (especially where the branch raised calls to Fujitsu on the issue). At
+this point, in my role as a Network Coordination Advisor, my contact with
+branches was very limited, with communications being channelled through
+those who had been interacting with the branch (service managers).
+
+Page 32 of 95

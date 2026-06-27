@@ -1,0 +1,33 @@
+WITN04510100
+WITN04510100
+
+and I do not recall anyone being allowed the access within the first six months
+of joining the unit.
+
+126. As outlined above at paragraph 34, HR had specific vetting processes for
+Fujitsu staff working on the Post Office Account, and additional vetting
+processes for SSC staff. If I was ever told what those additional vetting
+requirements were, I have forgotten them. I do recall that one person who I
+interviewed for a role in the SSC was subsequently rejected by HR for having
+a County Court judgment against them which was undisclosed.
+
+Remote access procedures
+
+127. At the request of the Inquiry, I have considered the design document titled "Host
+BRDB Transaction Correction Tool Low Level Design" dated 13 November
+2007 (Design Document) (FUJ00084135). The Design Document is for a tool
+to correct transactions on the central database (Transaction Correction Tool),
+which is intended for SSC use. The document and the Transaction Correction
+Tool itself is only relevant to HNGX.
+
+128. My involvement in this process was to ensure that the tool was produced and
+delivered to the SSC for HNGX. I left Fujitsu before HNGX was implemented
+and therefore have no knowledge concerning the use of the Transaction
+Correction Tool.
+
+129. During the period Legacy Horizon was in operation, the SSC could only insert
+transactions into the counters—and therefore Post Office branch account
+data—via Riposte. There was also a separate tool, the TIP Repair tool, which
+could correct data that had been sent to POL via a data centre system. My
+
+Page 42 of 54

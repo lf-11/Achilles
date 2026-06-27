@@ -1,0 +1,33 @@
+WITN04510100
+WITN04510100
+
+recollection is that this tool generated separate correction files to POL, and not
+all of these correction files would have had an impact on branch account data.
+
+130. In HNGX, Riposte was no longer used in Horizon, and therefore the function
+needed to be transferred to the central database. As I stated in paragraph 122
+above, transactions in Riposte could not be changed or deleted.
+
+131. Although I cannot remember the technical details of the design of the
+Transaction Correction Tool, it is apparent from the Design Document
+(FUJ00084135) that the use of the tool only enables the insertion of a
+transaction, and its use is audited through the logfile, which is a part of the
+standard Oracle product.
+
+132. There would certainly have been restrictions placed on the use of the
+Transaction Correction Tool, and as suggested in the Design Document, the
+tool was restricted to a few SSC staff.
+
+133. At the request of the Inquiry, I have also considered an email exchange
+between myself and Simon Ajina from November 2008 to January 2009
+(FUJ00086866). At that time, Simon Ajina was responsible for ensuring that the
+Customer Service requirements for HNGX development were being met.
+
+134. As part of the process for design and development of HNGX, a number of
+requirements from the SSC were documented that related to tools specifically
+for SSC use (for example, documented event point in the code). The email
+exchange between myself and Simon Ajina (FUJ00086866) relates to SSC
+requirements to access the live system elements in HNGX, and not Legacy
+Horizon.
+
+Page 43 of 54

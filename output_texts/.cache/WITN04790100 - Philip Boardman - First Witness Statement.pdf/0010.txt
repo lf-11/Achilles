@@ -1,0 +1,28 @@
+WITN04790100
+WITN04790100
+
+were known as 'Release S60', 'Release S70' and 'Release S80', as proposed in the
+Conceptual Design Documents.
+
+34. As a result of the Programme, the branch trading statement was developed as part
+of Horizon, as a replacement to the cash account form. One of the principal
+differences was that branch trading statements were no longer to be printed out and
+physically sent to Chesterfield, instead the data would be electronically sent to POL-
+FS. These processes are described in the Branch Trading Conceptual Design,
+including in sections 9.1.10 and 10.1.6.6. Horizon was to be changed so that sub-
+postmasters performing the accounting process at their branch would receive a
+'confirmation' screen to record that the accounts had been finalised for that
+accounting period, with the options: 'OK' or 'Cancel'. If accepted by the sub-
+postmaster, the branch trading statement would be electronically sent to Chesterfield.
+I do not recall why the decision was made to only provide sub-postmasters the options
+of 'OK' or 'Cancel', and I do not know if other options were considered. Having
+reviewed the Conceptual Design Documents, however, I note that section 8.1.17 of
+the Branch Trading Conceptual Design contains a flow diagram noting the process
+for confirming the branch trading statement, including the 'Confirm Trading Statement
+Accuracy' decision point (i.e., the 'confirmation' screen) and two options: 'Yes' and
+'No'. It is my understanding that selecting the 'negative' option (whether it was 'No' or
+'Cancel') allowed the sub-postmaster to make adjustments before confirming the
+branch trading statement was accurate. Due to the nature of my role and involvement
+with the Programme, however, I have no knowledge concerning how the
+
+Page 10 of 13

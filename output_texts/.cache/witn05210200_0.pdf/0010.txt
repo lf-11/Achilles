@@ -1,0 +1,35 @@
+WITN05210200
+WITN05210200
+
+Working Group which I was a member of – it is very likely that I would have
+discussed it with my colleagues on the AWG, in particular Sue Harding of
+Transaction Processing, Shaun Delaney of POL Finance and Carol Pryslak
+and one other person (I do not remember their name), who represented the
+Regions of the Operational Retail Network on the AWG. Dave Smith would
+have represented this type of issue at the Automation Programme Group
+level.
+
+c. Did you consider this to be a binding recommendation by the
+independent expert? Please explain the reason(s) for your answer.
+
+30. I do not know the contractual or legal status of Peter Copping's involvement
+and therefore I do not know whether his recommendations were binding.
+
+Question 17: Why did you prefer for the data integrity control to be
+implemented prior to acceptance?
+
+31. From a common sense viewpoint I thought it was better for Pathway to
+implement the control prior to formal acceptance rather than to rely on POCL
+through the TIP process and because the TIP checking process was not
+designed to be a permanent process. I wanted to see it fixed and the target
+end to end operational process in place before acceptance.
+
+Question 18: What (if any) risks did you perceive there to be in granting
+conditional acceptance to the system prior to implementation of the control?
+
+32. To the best of my recollection, conditional acceptance wasn't something I had
+considered and I didn't know it was possible. As far as I was aware, the
+concept of conditional acceptance was introduced/raised by Peter Copping
+and the respective commercial teams. Once I understood how conditional
+
+Page 10 of 21

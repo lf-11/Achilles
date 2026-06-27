@@ -1,0 +1,12 @@
+WITN09250100
+WITN09250100
+
+38. In the event that a Sub-postmaster or a person with manager access was not present at the Branch to add the auditor to the Horizon system a phone request is made on the day to the Horizon Helpdesk to obtain a one shot password which provides the Auditor with additional access to the Horizon system which has the same as access rights of the Sub-postmaster or person with manager access. This level of access would also be required in the event that the Branch was closed or transferred.
+
+39. Checks were carried out on the Office Horizon system as part of the audit process to determine if the Office Horizon User List was up to date and reflected the current staff at the branch, and if they held the correct user level. Sub-postmasters would be asked to ensure staff had correct user levels and to remove any staff no longer employed at the Branch.
+
+40. I have been asked to consider documents, Audit Trail Functional Specification, version 8.0 dated 18 October 2004 [FUJ00001894] and Global User Account dated September 2016 [POL00002841].
+
+41. As I recall, although I cannot be certain, Fujitsu had a limited role in the auditing of branches. The only involvement I believe was providing a one shot password on request to enable an Auditor access to the Horizon system to obtain various reports.
+
+42. From memory I am not aware that Auditors had access to information that was not accessible to Sub-postmasters.

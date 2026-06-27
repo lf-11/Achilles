@@ -1,0 +1,30 @@
+WITN08410100
+WITN08410100
+
+no one in the branch having managers access, then your Global User ID should
+be used to access the system". Accordingly, given Postmasters routinely
+granted auditors access to the system, I do not believe that auditors had access
+to additional information in the branch which Sub-postmasters could not have
+accessed.
+
+119. I have been asked to explain my understanding of an Audit Global User
+Account. POL00002841 sets out some background in relation to Global User
+Accounts, and states on page 1 that field team members have two accounts:
+Trainer; and Audit (Emergency Manager). Trainer accounts were to be used in
+Counter Training Offices only and allowed the trainer to reset the kit and clear
+the transaction history. This was so that different training sessions could be run
+each day and not carry over past transactions. Audit (Emergency Manager)
+Global User Accounts are those described in paragraph 116 above and allowed
+the auditor to log on to the kit at any branch and print out the reports necessary
+for an audit.
+
+120. I have been asked to describe what, if any, audit measures were in place in
+respect of Audit Global User Accounts. My recollection is that there was a list
+which was circulated to the relevant stakeholders, such as Audit Managers,
+periodically which listed all individuals with Global User Accounts. We would
+then review these lists and confirm whether there were any individuals who no
+longer required access because, for example, they had left the business. I am
+not aware of any additional auditing or whether the usage of the Global User
+Accounts was monitored.
+
+49

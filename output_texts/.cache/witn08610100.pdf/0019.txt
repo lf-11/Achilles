@@ -1,0 +1,33 @@
+WITN08610100
+WITN08610100
+
+Horizon system. In events such as a fire or flood at the branch, there was an
+emergency process in place to count the cash, stock and other assets (agreeing
+figures with the sub-postmaster) and to secure the items off site.
+
+57. For crown offices, it was considered impractical to audit every individual stock
+unit. Therefore, there was a process where a percentage of stocks would be
+audited focusing on those containing high values of cash/stock. The risk of not
+auditing every stock was mitigated by the fact that the branch manager would
+have responsibility for randomly checking stocks held by counter staff as well.
+When auditing a sub-post office, there would usually be an audit of all the value
+assets. At some point in time, a financial assurance audit was introduced at
+sub-post offices. This would involve checking cash and high value stock items
+only. However, in the event that a large discrepancy was revealed, the audit
+would be extended to a full cash and stock audit.
+
+58. I have considered POL00002841 and FUJ00001894 in responding to questions
+about Global User Accounts.
+
+59. I am not aware of any involvement that Fujitsu had in the branch audit process
+but recall sight of documents from Fujitsu that helped outline how branch
+auditors could access the system, in branches.
+
+60. My understanding is that the branch auditor would not have access to anything
+on the system that the sub-postmaster (or any Horizon User with a manager
+access level) did not.
+
+61. My understanding is that the Global User Account enabled a branch auditor to
+access the Horizon system, using a one-time password, for occasions when
+
+Page 19 of 34

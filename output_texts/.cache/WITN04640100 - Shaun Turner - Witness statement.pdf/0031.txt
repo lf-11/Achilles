@@ -1,0 +1,12 @@
+WITN04640100
+WITN04640100
+
+95. I have been asked what was done to investigate and / or rectify the problem between September 2005 and Sandra MacKay's email of 11 January 2006. As stated in paragraph 82 above, I have reviewed the documents identified in respect of the Callendar Square Bug. In particular, documents FUJ00083664 and POL00081928 have assisted my recollection in relation to this question, beyond which I do not recall what was done to investigate or rectify the problem between September 2005 and January 2006.
+
+96. An email on 16 January 2006 from myself to Gary Blackburn (page 12 of POL00081928) refers to the fact "I had to do some chasing around with P & BA to ensure that the error notice got issued". Whilst I am unable to comment on the detail, I think this indicates that I did take some action to resolve the branch discrepancy. I may have been involved in other conversations, but I cannot recall any specifics.
+
+97. I have been asked what the "breakdown in processes between [P & BA] and FS relating to the BIM report" was. As stated in paragraph 82 above, I have reviewed the documents identified in respect of the Callendar Square Bug, but they do not assist my recollection in relation to this question. In particular, I cannot recall what a reference to a "breakdown in processes between [P&BA] and FS relating to the BIM report" could specifically be referring to in the case of the Callendar Square bug.
+
+98. However, in general terms and in no way connected to the specific Callendar Square bug, I am able to guess what the breakdown in processes between P&BA and Fujitsu Services ("FS") in relation to BIM reports might relate to.
+
+Page 31 of 95

@@ -1,0 +1,21 @@
+WITN09250100
+WITN09250100
+
+53. In the meantime, the audit of the branch continued in order to determine the true extent of the loss. This was achieved by a physical check of all cash, stock and vouchers on hand and compared to the office snapshot as provided by Mr Yates at the commencement of the audit, in order to verify they were present.
+
+54. The audit revealed a total Branch shortage of £359,325.35 which was notified to Mr Posnett, and is broken down as follows –
+
+Cash shortage - £356,541.35
+National Lottery Tickets Disallowed (out of date)
+- £483.00
+Littlewoods Tickets Disallowed (out of date) - £650.00
+National Lottery Tickets Shortage - £208.00
+Net Shortages in Stock - £1987.84
+Charge Error Notice Accounted for on audit - £112.00
+Claim Error Notice Accounted for on audit +£512.28
+Previous weeks Declared Surplus not withdrawn
++£144.20
+
+55. The size of this audit shortage was by far the largest I encountered during my audit career. At the time I would not have been aware of the circumstances that caused it, as this was for the Security Team to determine in interview, and to pursue any further enquiries.
+
+56. I cannot recall what ARQ logs are and who would have been responsible for obtaining them from Fujitsu or indeed if they were obtained.

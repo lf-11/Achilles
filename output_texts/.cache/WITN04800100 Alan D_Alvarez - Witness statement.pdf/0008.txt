@@ -1,0 +1,30 @@
+WITN04800100
+WITN04800100
+
+by the security team that an automated KMS was the appropriate way forward for
+reasons of usability and to avoid the impacts to the Post Office business of not having
+one in place (as more particularly explained at paragraphs 16 to 18 above).
+
+23. A big challenge was that we contracted to use the "Red Pike" cryptographic algorithm
+sourced from the CESG and that a KMS would need to conform to the mandated
+polices and controls applicable to cryptographic algorithms supplied by CESG.
+
+24. The KMS proposal, prepared by myself, Roy Birkenshaw and Dave Johns, was
+presented to the ICL Pathway Board that consisted of John Bennet (CEO), Tony
+Oppenheim (Finance Director), John Dicks (Requirements Director), Martyn Bennett
+(Director, Security and Risk Management), Liam Foley (Business Development
+Director), Terry Austin (Director of Delivery) and Steve Muchow (Service Director).
+This presentation occurred around July or August 1997, and I believe the proposal
+was documented in a document titled 'the KMS Solution Overview'. I recall resistance
+to the proposal and a debate with Tony Oppenheim, who questioned why ICL
+Pathway needed to absorb the cost of additional security. This would be a significant
+investment for ICL Pathway as the costs of developing the KMS would not be
+recoverable from the Post Office/Benefits Agency under the charging mechanisms in
+the Horizon Contract. In particular, his view was that the Post Office and Benefits
+Agency had signed up to a Microsoft Windows NT based solution, which included the
+limitations of that technology. Microsoft NT is a computer operating system which
+supports a computer's basic functions. Part of such systems contain an element of
+security controls to protect a device, data stored and the transfer of data. However,
+Windows NT did not support the specific requirements associated with the
+
+Page 8 of 26

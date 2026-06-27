@@ -1,0 +1,32 @@
+WITN04640100
+WITN04640100
+
+paragraphs 247 to 254 above from the initial Smart ID rollout. For example, it
+states "it might make sense to rollout the POD control element of EUM (i.e.
+everyone needs to have a POD and new Horizon User IDs set up) but not to
+have system enforcement of training controls at this stage ... This would give
+branches [the] chance to get used to the POID and RUID method of operation,
+but you do not have the risk of either locking out 30% of users on each test or
+have to expend resources in NBSC/HRSC administering training extensions".
+The "30% of users" referred to the current levels of training non-compliance
+within branches at the time. I should note that this email was written before the
+term Smart IDs was used and so refers to "POIDs" which stood for Post Office
+IDs.
+
+259. Accordingly, the Smart ID login was rolled out from September 2017
+onwards and well into 2018. It was at this later stage during 2018 that the
+training controls were then turned on. The document entitled "EUM TRAINING
+CONTROLS ENABLEMENT – GO/NO GO CRITERIA" (POL00036669) makes
+clear that the training controls rollout took place in Phases. The target dates for
+each Phase were: (i) Phase 1 (Prohibited & Restricted Goods) 7 September –
+1 October 2018, (ii) Phase 2 (Mails) between 12 October – 5 November 2018,
+and (iii) Phase 3 (Financial Services) between 7 – 30 January 2019.
+
+260. My view was that it was important to have these features, in particular
+the training notifications and local update of training records, in place before the
+training controls were rolled out. Dual login was essential from an operational
+perspective to support ways of working in branches but was not a dependency
+for the rollout of training controls in the same was as training notifications and
+local updates. I recall this view being shared by those in the Smart ID team. A
+
+Page 78 of 95

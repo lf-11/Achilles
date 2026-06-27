@@ -1,0 +1,30 @@
+WITN08500100
+WITN08500100
+
+WITN08500100
+
+35. Allegations were made about alleged faults in the Horizon system at
+Grangemouth PO in Falkirk in Scotland and I sought to investigate to
+ascertain whether there was any relevance to the issues in the upcoming trial.
+(Email from Mandy Talbot to Lesley Joyce re Grangemouth POL00070172
+and (Email Thomas Bourne to Stephen Dilley re Ferryhill POL00070175).
+These allegations by Castleton were made shortly prior to the date of the
+Castleton trial, so it was always open to debate whether any of the
+allegations, evidence or witness statements would be admitted by the Judge
+at Trial. I collected what limited evidence could be obtained from POL and
+Fujitsu as detailed in an Email from me to Stephen Dilley containing print outs
+in respect of Ferryside Post Office. (Email Mandy Talbot to Stephen Dilley re
+Ferryhill POL00070176). Further information was sent by me to Stephen
+Dilley in an Email relating to Callendar Square (Email Mandy Talbot to
+Stephen Dilley re Callendar Square re Mr Brown POL00081928). It transpired
+that there was a problem at Callendar Square as detailed in the Emails from
+Brian Trotter to Sandra MacKay (Email Mandy Talbot to Stephen Dilley re
+Callendar Square re Mr Brown POL00081928), but that it had been
+anticipated the issue would be resolved by the release of a S90 fix from
+Fujitsu. This was an error that occurred where there were multiple stock units
+in use at a Post Office. Multiple stock units were not used in Castleton's Sub
+Post Office. Anne Chambers advised that the footprint of the Callendar
+Square problem was something checked for by Fujitsu and it had been not
+present at Castleton's Post Office and hence not relevant to the issues in the
+
+Page 16 of 42

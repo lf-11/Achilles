@@ -1,0 +1,230 @@
+# WITN06430100.pdf
+
+
+=== Page 1 ===
+
+WITN06430100
+WITN06430100
+
+Witness Name: Christopher Charles French
+Statement No: WITN06430100
+Exhibits: None
+Dated: 17 February 2023
+
+Post Office Horizon IT Inquiry
+
+FIRST WITNESS STATEMENT OF CHRISTOPHER CHARLES FRENCH
+
+I, Christopher Charles French, will say as follows:-
+
+1. This witness statement has been made in response to the Rule 9 Request of 6 December 2022, which asks me to comment on four documents supplied to me.
+
+Professional Background
+
+2. I have been asked to describe my professional background. I have a degree in engineering and MSc in operational research and management studies. Before Post Office (PO) Horizon I had worked as an interim manager or a consultant for nearly twenty years often on technology related issues. I had worked on a large government system, had been an interim IT Director for a supermarket chain and later for a Dutch retailer, and had been an interim manager for a transport organisation, and project manager for the development and roll-out of a system for multiple store locations. At the time I
+
+Page 1 of 8
+
+
+
+=== Page 2 ===
+
+WITN06430100
+WITN06430100
+
+was at Post Office Counters Limited (POCL) my employer was the French
+Thornton Partnership Limited, where I was a director. I retired thirteen years
+ago.
+
+PO Horizon
+
+3. I was Horizon Programme Manager within POCL from the start of April 1999
+to the start of February 2000 with a handover period to my successor in
+January 2000. This role was over twenty two years ago and I can recall few
+details of it now and do not have access to the Post Office archives of Horizon
+or a glossary of abbreviations. I reported to the Programme Director and that
+position was filled by three different POCL staff at various times while I was
+there. I believe the Programme Manager role did not include areas such as
+Contacts, Commercial, Business Systems Management (BSM) and the
+Project Management Office which possibly managed Reference Data. The
+Programme Manager role mainly involved coordination across the
+programme.
+
+4. During 1999 the objective was to help Horizon/ICL Pathway achieve an
+implementation rate of 300 Post Offices per week. This aim would have
+required completion of Acceptance and start of a limited Roll-out. My role was
+modified over time. For example, after the contract terms were renegotiated
+and signed the programme would refocus on the next steps which would have
+taken account of any adjusted timescales.
+
+Page 2 of 8
+
+
+
+=== Page 3 ===
+
+WITN06430100
+WITN06430100
+
+5. The Horizon Management Team Meeting (HMT) included POCL and ICL
+Pathway membership and was intended to foster progress and cooperation.
+To that end Mike Coombs, the ICL Pathway Programme Director, and I would
+usually meet a few days before the meeting to get clear our respective main
+issues so that the meeting would be more productive; that is, directed towards
+progress or what was needed for progress.
+
+Function of Horizon and acceptance
+
+6. I have been asked to consider document ICL Pathway NR2 Progress
+Summary for Input to Checkpoint Meeting dated 12 May 1999 [FUJ00078742]
+and to explain what I understood about a Change Control Note. A Change
+Control Note (CCN) was I believe a proposed alteration to the contractual
+terms and could be raised by either ICL Pathway or POCL or Benefits Agency
+(BA). A CCN would usually have been preceded by Change Requests (CRs)
+for initial impact analysis. After negotiations, agreed CCNs could be
+incorporated in an amended contract or agreement. I believe there were two
+major changes to the contract during my time as Programme Manager; in May
+1999 and in September 1999. There may have been others.
+
+7. This document [FUJ00078742] is an internal ICL Pathway note of progress
+and was prepared for a wider meeting on 12 May 1999. In Section 9, ICL
+Pathway has logged delays by POCL in their response times to CCNs - some
+of which are long delays. I do not recollect why there were long delays, or
+any effects on ICL Pathway's plans that may have been reported.
+
+Page 3 of 8
+
+
+
+=== Page 4 ===
+
+WITN06430100
+WITN06430100
+
+8. I have been asked to explain why there were delays and if I felt this affected performance. There may have been many reasons for these delays and these could have included complexity of the issue, the need to involve many others in the assessment, and the availability of relevant experts. It seems likely that some CCNs would be combined if a root cause of several problems had been identified.
+
+9. An action from the previous Checkpoint Meeting states Mike Coombs was to discuss this with me, but I do not recall any discussion.
+
+10. Usually having received documents such as this they would have been addressed with the managers concerned and if necessary at the Programme Management Team (HMT) meeting with both POCL and ICL Pathway. I do not have access to the agenda or minutes of such meetings.
+
+11. The Change Request/Change Control Note (CR/CCN) status report [FUJ00078742] states this was also copied to Keith Baines who was the POCL Contract Manager for Horizon. There was a new Agreement with ICL Pathway I think at about the end of May 1999 and there was then a new timetable, which may have allowed for the effect of such CCN delays.
+
+12. I have been asked to consider an email from John Meagher to Chris French re Reference Data, dated 28 October 1999 [POL00028564]. This is a note of issues arising with Reference Data and a summary of the proposed courses
+
+Page 4 of 8
+
+
+
+=== Page 5 ===
+
+WITN06430100
+WITN06430100
+
+of action. It is addressed to me and copied to six others in PO and appears to
+be for information. Six issues are mentioned, five of which Mr Meagher
+reports he has asked the appropriate person to pursue.
+
+13. The sixth issue is more significant in that the then current Reference Data
+Design produced large volumes of data, although the process that produced
+these data was in accordance with the 'agreed design'. He reports he also
+'asked Mike Coombes to document the exact problems that ICL Pathway was
+experiencing and the associated risks they are facing. On receipt of this
+information I [Mr Meagher - my insert] will convene a session to explore the
+options available'. Mr Meagher lists likely causes, proposes to investigate
+these and possibly to expect ICL Pathway to prepare a CCN concerning the
+system design. These proposals seem appropriate to me. I would probably
+have agreed that Mr Meagher continue to carry out his proposals, but do not
+recall that or any follow-up meeting or CCN.
+
+14. I have been asked to consider Review of Horizon Performance and Problem
+Management Reporting, Post Office Network (internal Audit) dated Nov-Dec
+1999 [POL00028440]. I believe that there were several independent
+assessments of the ability of PO and ICL Pathway to start the full rollout that
+had been scheduled for the end of January 2000, for example: this PO
+Internal Audit and a PA Consulting Review mentioned in the POIA Terms of
+Reference at Appendix A.
+
+Page 5 of 8
+
+
+
+=== Page 6 ===
+
+WITN06430100
+WITN06430100
+
+15. In the POIA Review, the section headed Transaction Processing (TP)/TIP at
+3.9 indicates that 'the level of errors will return to pre-Horizon levels after 13
+weeks'. In 3.10 the Review lists the problems identified, some of which
+appear to be system related and others possibly user related. At the end of
+3.10 it states that the differences between information received by ICL
+Pathway and Cash Account information were being dealt with as Acceptance
+Incident (AI) 376. I believe this was one of the key Acceptance Incidents that
+was being addressed by ICL Pathway as part of the September 1999
+agreement. I believe the full roll out could not have started if AI 376 had not
+been agreed as lower severity at that time. It seems some issues still existed
+and were being monitored.
+
+16. This POIA Report states in 1.4 that the action plan was agreed and in section
+2.2 'the procedures for identifying problems and reporting performance was
+good'. This would have been necessary to enable residual problems to be
+addressed quickly and rectified. The report is addressed among others to
+BSM for action and I would have expected the problems listed in 3.10 to be
+investigated for their root causes and these resolved, and whether remedial
+action was already underway, such as changes already in the pipeline, or
+contained in a proposed CCN.
+
+17. I have been asked to consider a Memo from Chis Paynter to Andy Radka,
+Review of Horizon Performance and Problem Management – Post Office
+Network [POL00028699]. I assume that I would have copied this email to
+
+Page 6 of 8
+
+
+
+=== Page 7 ===
+
+WITN06430100
+WITN06430100
+
+others. I do not recognise the job title Mr Paynter ascribed to me. At the date
+of the memo, 8 February 2000, I had formally handed over my responsibilities
+as Programme Manager to my successor and I would probably have also
+handed this email to the new Programme Manager.
+
+Reflection
+
+18. I have been asked to say what with hindsight PO would have done differently
+and what I would have done differently and who is to blame for the PO
+Horizon scandal. After all this time, I cannot say what the Post Office should
+have done differently, or what if anything I would have done differently.
+Similarly I do not know who is to blame for the scandal; who made the
+decision to continue with prosecutions after the problems with the system
+were known.
+
+Statement of Truth
+
+I believe the content of this statement to be true.
+
+Signed: GRO
+Dated: 17 February 2023
+
+Page 7 of 8
+
+
+
+=== Page 8 ===
+
+WITN06430100
+WITN06430100
+
+Index to First Witness Statement of Christopher Charles French
+
+No. URN Document Description Control Number
+1 FUJ00078742 ICL Pathway NR2 Progress Summary for Input to Checkpoint Meeting 12 May 1999 POINQ0068330F
+2 WITN0643R9_01/2 POL00028564 Email from John Meagher to Chris French re Reference Data, 28 Oct 1999 POL-0025046
+3 WITN0643R9_01/3 POL00028440 Review of Horizon Performance and Problem Management Reporting, Post Office Network (internal Audit) Nov-Dec 1999 POL-0024922
+4 WITN0643R9_01/4 POL00028699 Internal Memo from Chris Paynter (PO Internal Audit) to Andy Radka(Head of Business Service Management PO Network) re Review of Horizon Performance and Problem Management Dated 08 February 2000 POL-0025181
+
+Page 8 of 8
+

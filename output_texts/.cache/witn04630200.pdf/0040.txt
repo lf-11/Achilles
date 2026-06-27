@@ -1,0 +1,30 @@
+WITN04630200
+WITN04630200
+
+draft recommendation in the table in Appendix 1 of POL00031410 could be
+read as suggesting that FSC could make adjustments to SPM ledgers and
+that FSC did reconciliations to the Audit Store, whereas I believed at the
+time (and my view has not changed) that FSC could only propose
+Transaction Corrections and Transaction Acknowledgements which would
+be sent to SPMs for their review and their acceptance or rejection in
+Horizon, rather than it being the case that FSC directly put an adjustment
+into Horizon. If FSC had been able to make adjustments into Horizon this
+would have undermined the principle of branch ownership and would have
+meant that FSC could become a bad actor or be accused of being one. It
+was always held as important that it should only be the SPM or their own
+staff who make the entries in Horizon (including formally accepting or
+rejecting TCs and TAs). FSC might spot an issue and notify the branch of
+it, but this had to be done in a way where the branch had control of any
+actual entry into Horizon. I believe that I would have seen it as
+fundamental to make that distinction and I continue to believe, based on
+the documents shared with me, that this was a wholly appropriate and
+wholly constructive proposed amendment. My proposed edit also
+explained what I understood to be the format difference between data in
+Horizon versus data in the Audit Store versus data batched by client for
+settlement routines in FSC – FSC did not do reconciliations against the
+Audit Store and I must have felt strongly that this needed clarifying too. I
+feel that I then set out an onerous and open commitment for FSC
+involvement in documentation of processes and controls in FSC and in the
+data pipeline from point of sale to central finance systems. I continue to
+
+Page 40 of 61

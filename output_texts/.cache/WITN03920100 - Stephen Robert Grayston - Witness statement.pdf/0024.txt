@@ -1,0 +1,29 @@
+WITN03920100
+WITN03920100
+
+feedback would have included comment on User Interface such as screen
+workflow, colours, positioning on screen, understanding of language used in
+instructions. There would also have been feedback gleaned from users
+interacting with the testing team with the aim of reducing the risk of errors. Whilst
+I cannot provide any specific example I am sure that not all user feedback was
+accepted; for example if a user disagreed with a fundamental aspect of the
+concept, the business design, I believe that the overall business benefit to POL
+would have been the over-riding necessity.
+
+61. General
+
+Reflecting on the testing, trial, and formal acceptance of the Horizon system I can
+say that a significant amount of effort was put in by staff in the BA/POCL
+Programme, staff in POCL regions, and office staff to support testing and trials.
+The development phase of the programme spanned years and this reflected the
+complexity of the scope of work as well as changes of sponsorship structure
+when the Benefits Agency withdrew. The formal acceptance of Horizon was also
+an extensive process with input from many Programme subject matter experts. I
+have reflected on the question of the effectiveness of the assurance and scrutiny
+that was undertaken in the Programme and, obviously, in light of the flaws that
+have been exposed in the Horizon System it was not sufficient. Being involved in
+the Programme from the Request for Proposal (RfP) stage through to
+implementation I worked with many capable people who were fully committed to
+delivering a robust system and, whilst not ignorant of the cost impacts of the time
+
+Page 24 of 32

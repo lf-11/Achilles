@@ -1,0 +1,32 @@
+WITN09960100
+WITN09960100
+
+the Rule 9 Request to be referring to the following topics: (i) search terms;
+(ii) family documents; and (iii) deduplication.
+
+4. The role of KPMG in the Inquiry is as an eDisclosure provider, supporting POL
+to respond to requests related to the Inquiry. This includes taking instruction
+from POL's relevant external solicitors, primarily Herbert Smith Freehills
+("HSF"). We were engaged by POL in January 2021 and I am the Partner
+leading the KPMG team, which comprises approximately 26 people as at the
+end of July 2023.
+
+5. There are five main components to the eDisclosure services provided to POL
+by KPMG:
+
+Data scoping, collection and migration;
+
+Data preparation;
+
+Data processing;
+
+Review and hosting using Forensic Technology Tools; and
+
+Disclosure.
+
+6. As at the end of July 2023, KPMG hosts over 29 Terabytes of data for POL
+across 19 workspaces in a database called Relativity (the "Relativity
+eDisclosure Database"). There are four main workspaces related to the
+Horizon IT Inquiry containing approximately 60 million individual documents.
+
+Page 2 of 15

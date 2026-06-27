@@ -1,0 +1,28 @@
+WITN03910100
+WITN03910100
+
+roles and responsibilities, the scope of testing, teams involved, fault resolution
+processes, testing methods, equipment, systems, test data and other
+information I cannot recall. My role also included writing test scripts in
+conjunction with Transaction Processing and Reference Data teams and
+obtaining their and wider sign-off prior to testing. The test scripts would be
+used for user acceptance and regression testing (not system testing as this is
+normally a Supplier function). Test scripts would be based on the changes
+defined in the Programme's requirements catalogue, design documents and
+interface specifications for each new test release for back end systems. The
+outcome of all the tests would be to feed evidence back to the Requirements
+catalogue to prove whether or not testing had been successful. For the
+Impact Programme this may have included some of the documents supplied
+to me by the inquiry including:- Impact Programme Horizon to MI (S70)
+Application Interface Specification (POL00038888) of which I am a named
+reviewer, Impact Programme POLFS to NS&I Application Interface
+Specification (POL00038925) of which I am a named reviewer, Accounting &
+Cash Management Programme Conceptual Design (POL00038870), I am not
+down as a reviewer, I may have seen this document but cannot recall. I note
+that it does not contain the requirements catalogue which would also be used
+to produce the test scripts. Impact Release 3 Counter Design for Balancing,
+Rollover and Stock Processing (FUJ00085124), I am not down as a reviewer,
+however I may have seen this document but cannot recall due to the time
+elapsed. Impact Release 3 Design Proposal (FUJ00090393), I am not down
+
+Page 6 of 17

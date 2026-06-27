@@ -1,0 +1,34 @@
+WITN04000200
+WITN04000200
+
+ensure that the extent of risk transfer they propose is viable, and must
+evaluate the extent of risk that they retain. Difficulties in this area can
+result in the loss of otherwise valid bids.
+
+10. The procurement of complex IT systems
+
+a. There is often understandable pressure on purchasers and potential
+suppliers to conclude a deal and to seize as soon as possible the
+benefits of the project. But it is never acceptable to sign a contract with
+fundamental "agreements to agree" the detail of the service in the
+future, even if as in this case, they are intended to be resolved quickly.
+Allowing realistic timescales for early planning and detailed
+specification will pay dividends in terms of overall project delivery and
+cost.
+
+b. Departments undertaking IT procurement projects should fully
+understand the quality and quantity of resources available which
+actually will be committed by the supplier to deliver the agreed
+services. This is particularly important where new software
+development is required. It should be agreed during the competitive
+process how resource requirements can be achieved and measured,
+and the agreement should be drafted into the contract.
+
+c. For major, mission-critical, tailored and bespoke projects, there should
+be proper piloting of technical solutions to address the full-service
+requirement, rather than reliance on part-functional demonstrations.
+Departments may have to consider part-funding such pilots and should
+also consider awarding separate contracts for the design and
+development of systems before contracting with the developer for full
+
+Page 5 of 9

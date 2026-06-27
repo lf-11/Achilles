@@ -1,0 +1,14 @@
+WITN05210200
+WITN05210200
+
+6. I consider that it was worth highlighting that there continued to be a separate supporting document stream produced by Transaction Process which fed the business ledgers and the end to end error resolution process.
+
+7. The document is produced by John Dicks of Pathway and confirms that the incident was witnessed by Martin Box of POCL. The document confirms that POCL consider the severity to be high as it "would affect POCL's ability to produce an accurate cash account". The document goes on to confirm that Pathway "accept the problem exists" but "would argue about the severity". It goes on to confirm that Steve Warwick (of Pathway) was "to provide rectification of this issue. PWY understand the problem and are currently working on the fix".
+
+8. As I do not have an IT and accounting background and was not on the End to End Working Party focusing on this issue I cannot provide a technical answer to the question. What I can say is that, to the best of my recollection, Pathway proposed a change to the TIP interface to introduce the data integrity control which was a control between the two data streams. To have that introduced on their side would have required cross party resolution as part of the business as usual end to end error resolution process, which was being worked up by the End to End Working Party.
+
+Question 2: Please explain why you considered that acceptance should be declined in August 1999?
+
+9. My recollection is that at this time the error rate was still 1.2%. Pathway themselves were not content with this error rate at this time and therefore it
+
+Page 3 of 21

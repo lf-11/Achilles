@@ -1,0 +1,12 @@
+WITN04640100
+WITN04640100
+
+210. I have been asked to set out any changes that were made to the Horizon IT System as a result of this project and how this affected SPMs. As stated in paragraph 197, I have reviewed document POL00001535 in relation to this issue, though I cannot speak to the technical changes in Horizon because these were beyond my understanding and went beyond the remit of my role at the time.
+
+211. In terms of how branches and Postmasters were affected by changes made to Horizon, after the PING project was rolled out Postmasters would log on to Horizon each morning and an information screen showing the branch transactions would appear. This did not happen before the PING project was implemented. I think that Postmasters were (and are still) able to print this information screen.
+
+212. During the rollout of the project, there was also a question around whether Postmasters should be required to accept transaction acknowledgments to verify the data that had been automatically entered into Horizon from the third party system via PING. I remember this was ultimately not implemented because of concerns that Postmasters would not accept the transaction acknowledgments either at all or in good time. This would have defeated the purpose of the project. Postmasters therefore did not have the ability to refuse to accept transactions made by PING into their accounts.
+
+213. I should note that I was not involved in the transaction acknowledgment decision making process. I picked this background up as part of the wider meetings chaired by the PING project manager about implementing the PING process in branches. Sally Rush was my contact in the PING project team, and I remember her explaining the PING process to me.
+
+Page 64 of 95

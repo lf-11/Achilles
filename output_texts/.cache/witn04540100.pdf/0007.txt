@@ -1,0 +1,33 @@
+WITN04540100
+WITN04540100
+
+had responsibility for. If a complaint had to do with a process that was owned by POL,
+I would acknowledge the complaint and forward it to the NBSC.
+
+25. As stated in WITN0454_01/6 and WITN0454_01/3, if a complaint was related to Fujitsu,
+an acknowledgement letter would be sent to the person who had complained within
+24 hours of receipt. It was my responsibility to prepare and send the
+acknowledgement letters.
+
+26. I would then also log the complaint. I do not remember exactly how complaints were
+logged or tracked. WITN0454_01/6 states that there was a complaints database on
+PowerHelp, and I recall that I may have forwarded details of complaints to the service
+control team, who would add these to PowerHelp. I think I may also have used
+PowerHelp to pull any required statistics about complaints (such as the number of
+open complaints or the complaint type).
+
+27. I would then proceed to look into the complaint. Complaints could be about a myriad
+of issues. These included allegations of rudeness by field engineers or HSH staff,
+unhappiness with the layout of particular screens on the Horizon terminal, or very
+general statements that the system simply "wasn't working properly".
+
+28. I usually started by reviewing the call history of the individual who made the complaint
+(on PowerHelp or Peak), so as to understand the issues they had raised before and
+how they were dealt with. The approach I then took to manage and close the
+complaint would depend on the nature of the complaint. For example:
+
+a. If a complaint was about a Fujitsu employee's conduct (on the phone or at the
+branch), I would identify the relevant logs or reports about the incident and
+forward those to the relevant person's manager for review and feedback. When
+
+Page 7 of 17

@@ -1,0 +1,29 @@
+WITN06470100
+WITN06470100
+
+SSC
+
+13. I was a member of the SSC from June 1998 to September 2005 working with,
+I believe, about 20 to 30 colleagues.
+
+14. The role and purpose of the SSC was to handle software issues that could not
+be handled by 1st or 2nd line support. As we had access to the source code
+when we identified a bug we were also expected, if possible, to provide a
+potential fix to the development team who would review the code and then
+supply the actual fix that would be released to the counters. We also worked
+with the testing team using their test rigs to investigate issues and at times to
+assist them in testing fixes provided by development. I do not recall what
+other teams there were within the support services structure.
+
+15. Mik Peach was the SSC Manager. Steve Parker, John Simpkins and Pat
+Carroll were the senior engineers who had worked on the project for many
+years and their knowledge of the various systems was invaluable.
+
+16. I was not involved in the recruitment of personnel and so can not comment on
+what qualifications or experience Mik required when looking to appoint
+people, but the majority were experienced developers.
+
+17. I recall going on a Visual Basic training course, but I do not recall what other
+training I received. We were expected to read the documentation provided by
+
+Page 5 of 11

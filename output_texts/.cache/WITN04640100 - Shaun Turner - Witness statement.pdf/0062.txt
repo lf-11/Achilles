@@ -1,0 +1,33 @@
+WITN04640100
+WITN04640100
+
+to recall whether it was applied to ATMs and Paystation as I do not think I was
+involved in any subsequent phases of the PING project. However, after
+reviewing POL00037733, which is an extract from the Operational Training
+Guide (September 2020), I can see that Transaction Acknowledgements were
+subsequently extended to Paystation. I should note that this document is
+otherwise not relevant to this question.
+
+202. From looking at the date of this document, 28 May 2009, I am able to
+recall that the PING project took place in parallel with the migration from
+Horizon Legacy to Horizon Online. The PING project was going to be released
+into Horizon Online. In a way, if I remember correctly, the project was therefore
+predicated on Horizon Online being successfully delivered.
+
+203. I have been asked to explain my role in relation to this project. As stated
+in paragraph 197, I have reviewed document POL00001535 in relation to this
+question. Whilst I do not remember this specific document, I recall being
+involved in meetings about the PING project in which its project manager, Sally
+Rush, would have outlined how the project would work from a branch
+perspective.
+
+204. I note that this document lists me as a reviewer and I assume that my
+role as reviewer would have been limited to picking up on anything that was
+unclear to me. I was not the project author or sponsor and was not involved in
+the technical side of the PING project.
+
+205. Beyond this document, my role as Network Coordination Advisor at
+this time in 2009 was to liaise with other internal teams working on the PING
+project, including those developing the technical side. I had to understand what
+
+Page 62 of 95

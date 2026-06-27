@@ -1,0 +1,29 @@
+WITN05970200
+WITN05970200
+
+reported into PO or POCL management. There was also a Network Audit Team,
+responsible for auditing the post office network (offices).
+
+Involvement of PO Security in BA/POCL and Horizon
+
+3. Firstly, from my recollection there was far less involvement by any representative
+from POCL Security/Investigations in the early days of Programme than there was
+by the equivalent people in DSS or BA. This was perhaps probably not
+unexpected, as for BA the "fraud free method of payment" was a top objective,
+and the Programme was introducing a totally new method of payment to pay up
+to 20M people on a regular basis, whereas POCL had no similar visible top
+objective.
+
+4. In particular, I do not remember any specific requirements emanating from the
+POCL Security/Investigations side relating to EPOSS or to supporting
+investigations, with the exception of R829 which has been discussed already (and
+which was similar to the equivalent BA requirement, albeit with one clause
+removed).
+
+5. There were of course general requirements on IT/IS Technical Security
+(confidentiality, integrity, availability, including encryption, access control, etc)
+which have already been discussed in some detail, but these did not emerge from
+PO or POCL Security or Investigations. There were also of course many business
+(and technical) requirements relating to POCL's applications, and in particular
+
+Page 2 of 14

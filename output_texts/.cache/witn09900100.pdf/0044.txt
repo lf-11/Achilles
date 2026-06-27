@@ -1,0 +1,30 @@
+WITN09900100
+WITN09900100
+
+payment was reversed and the branch was issued with a Transaction
+Correction for £76.09. However, the SPM denied reversing the transaction.
+
+91. Other than my correspondence with Helen Rose on the Lepton Spot Review
+(POL00144296 and POL00134139), discussed further below, I had no
+involvement in the creation of the Helen Rose report. I am not aware of who
+Helen shared it with, or what POL's response was to the report at the time.
+
+92. Looking at the background correspondence that the Inquiry have provided me
+with, document FUJ00229801 is an email chain in January 2013 with
+correspondence initially between Gareth Jenkins (Fujitsu IT engineer) and
+Helen Rose and then between Gareth Jenkins and myself. It concerns me
+requesting Gareth Jenkins to carry out a formal investigation into the Fujitsu
+transaction log for Lepton 191320.
+
+93. Document POL00144296 is an email from Helen Rose to me on 7 February
+2013. Here, Helen is raising concerns about the transaction log for Lepton
+about information in ARQ not being visible in Credence. She is also raising
+concerns that "the recovery session is showing as a normal existing reversal
+rather than a system recovery reversal". I have not been provided with, and
+cannot recall, my response. After this length of time, I cannot recall who I
+discussed the detail of this with. However, in trying to establish what had
+happened in this situation, I do remember discussing the issue with Ron
+Warmington (Managing Director of Second Sight) as part of the Spot Review
+process. However, I cannot remember the exact detail of those discussions.
+
+Page 44 of 132

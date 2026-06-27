@@ -1,0 +1,31 @@
+WITN08610100
+WITN08610100
+
+78. I have reviewed the witness statement WITN0398010 and POL00088904,
+POL00086845, POL00088867, and NFSP00000169 in answering questions
+about the local suspense account. From memory, the suspense account was
+originally used to account for payments and receipts that could not be
+accounted for at the end of the balancing day e.g. transactions accepted after
+a cut off time. It was also used to hold an amount (with authority) for a pending
+error notice e.g. where the branch was aware of a known and identifiable error
+but an error notice had not yet been processed/received. It may also have been
+used to account for any remittance discrepancies or a deficiency in the account
+due to a robbery or burglary at the branch (which was awaiting clearance).
+
+79. In considering the document POL00085794, I cannot recall the detail of the
+process so I am not sure if by 2005, the only option open to a sub-postmaster
+who received a transaction correction which they did not understand or wished
+to challenge was to call NBSC.
+
+80. I do not know what NBSC's processes were in respect of dealing with disputed
+transactions corrections but I would expect that the onus would have been on
+the branch to have explained why any transaction correction was being
+disputed.
+
+81. Similar to my response in paragraphs 79 and 80 above, I do not know if the
+only option available to a sub-postmaster who considered that a discrepancy
+was caused by a system error, was to contact NBSC and seek agreement with
+Product & Branch Accounting (settling centrally while the matter was
+investigated).
+
+Page 24 of 34

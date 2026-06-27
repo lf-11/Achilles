@@ -1,0 +1,18 @@
+WITN08420100
+WITN08420100
+
+Witness: Rodric David Alun Williams
+Statement Number: WITN08420100
+Exhibits: None
+Date: 11 March 2024
+
+Fujitsu, but this was cancelled and James Davidson instead sent through a note explaining how integrity in Horizon was "assured" through the Core Audit Process. In this note he stated that "Transactions as keyed in at the branch, once "committed" cannot be altered... any changes required centrally to committed Transactions can only be done via the creation of additional transactions".133 I believe in this email James Davidson was trying to emphasise the importance of Horizon's audit store as the best record of branch transactions, rather than documents derived from it which (as I believe the Helen Rose Report discussed) could present a misleading picture. It was in the context of this email from Fujitsu that I forwarded to Belinda Crowe the Spot Review Bible on 31 October 2014 and drew attention to Spot Review 5 regarding Mr Rudkin, referred to above at [53], so that his allegation of remote access could be seen at the same time.134
+
+147. The information that Fujitsu had provided to Deloitte about balancing transactions was provided to Andy Parsons in November 2014,135 and I understand he had a call with Fujitsu to discuss the remote access point. He summarised the current understanding of remote access and balancing transactions into a note that was then shared with Fujitsu to approve the content.136 The note would then be used as part of POL's response to Second
+
+133 Email from Belinda Crowe to Patrick Bourke and others dated 23 October 2014 at 07.29 (POL00091397)
+134 Email from Rodric Williams to Belinda Crowe dated 31 October 2014 at 13.45 (POL00062162)
+135 Email from Mark Westbrook to Rodric Williams and others dated 10 November 2014 at 14.02 (POL00149466)
+136 Email from Andy Parsons to Belinda Crowe and others dated 10 November 2014 at 16.44 (POL00212048) and Email from Andy Parsons to Rodric Williams on 17 December 2014 at 15.35 (POL00308936)
+
+73

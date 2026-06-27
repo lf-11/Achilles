@@ -1,0 +1,31 @@
+WITN04650100
+WITN04650100
+
+contained on that processor that potentially supported the postmaster at
+Hogsworth. Hence my reference to 'this policy could work against us' that this
+course of action could lead to an end of investigative options and establishing
+root cause. I'm afraid I don't have any recollection of how ultimately this
+matter was or if it was resolved, the email from John Breeden on 3rd July 2009
+suggests that my initial advice of obtaining evidence was taken.
+
+22. I have no recollection of the issues reported by the SPMR at Barkham
+Post Office or how this investigation concluded but from the evidence
+provided what I can say is that it was common practice to request Horizon
+transaction logs to aid accounting related investigations, I or my team could
+facilitate obtaining them and forwarding to the subject matter expert allocated
+to complete the investigation. This could include any or all: P&BA (Andy
+Winn), Fujitsu BIM, Fujitsu Incident Management Team (IMT), other Post
+Office technical or operational resources whose names I have mentioned
+earlier in my statement.
+
+Remote Access
+
+23. At the time my understanding of how Fujitsu interrogated the Horizon
+systems was limited to the procedures they documented, and we jointly
+followed. These processes were an agreed part of the end-to-end service that
+Fujitsu were asked to provide, for example OCP. I knew that Fujitsu could
+correct system errors through this procedure. I also knew that they could see
+what had happened in branch down to the detailed sequence of individual
+keystrokes. So, my relationship with Fujitsu, and based upon my lack of
+
+Page 12 of 16

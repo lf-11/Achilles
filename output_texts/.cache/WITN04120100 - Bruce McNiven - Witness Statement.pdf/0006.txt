@@ -1,0 +1,20 @@
+WITN04120100
+WITN04120100
+
+on inherited POL systems.
+
+30. As far as I recall at that stage, some of the interface issues were addressed but Pathway were reluctant to engage with a system outside their development. Training was improved and again, as I recall, additional content and time allocated for each office implementation. However, training was consistently raised as a primary concern and eventually became the core of a formal Installation Incident (" Installation Incident 218" ). These Incidents could be raised by BA and POL and were visible to all parties. They would normally address a perceived failure by Pathway to meet a required success criterion. They were then logged for discussion and resolution. A log of incidents is contained in POL00029130 (WITN0412_01/02).
+
+31. Testing continued in the Model Office environment and work on release of software for Live Trial continued. Integrated work with BA systems also progressed.
+
+32. The substance of technical difficulties is reported in the documentation (WITN0412_01/03; POL00028429). My position continued to be that of interpreting progress on problem resolution relative to moving into Live Trial and Roll Out from a logistical, support and communication perspective.
+
+33. Various forums existed; principally the Checkpoint meeting with Pathway, POL Horizon Management Team Meetings and with BA through the CAPS Board Meetings.
+
+34. As I understand, the technical issues were addressed between the Horizon testing and release team and Pathway.
+
+35. Testing continued on the functionality associated with the Pathway release for Live Trial. I believe much of the end-to-end testing was done in the model office Environment.
+
+36. I understood, that concerns remained in end-to-end testing and with the robustness of reference data for development of the migration processes.
+
+Page 6 of 13

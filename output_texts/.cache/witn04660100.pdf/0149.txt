@@ -1,0 +1,11 @@
+WITN04660100
+WITN04660100
+DocuSign Envelope ID: 0B8D9A6F-D117-40AC-B8CA-9EFEBC3C2B1D
+
+"The message store audit trail referred to as document 1 contains details of everything that is recorded at the counter by Horizon. It is located at Fujitsu. The message store itself is of considerable size and we believe that the Post Office has obtained from Fujitsu and disclosed everything from the message store that falls to be disclosed pursuant to CPR 31.6. However, if you seek any further information from it, please contact Brian Pinder of Fujitsu Services to make an appointment directly (and copy us in). Mr Pinder is at Lovelace Road, Bracknell, Berkshire, RG12 8SN. He has stated that you would need to specify precisely what information that you require from the message store as it can take some time (hours to days) to retrieve from the servers, although this would greatly depend upon the information required. As you know the Court ordered inspection of any documents to take place 7 days after disclosure."
+
+336. I have been asked whether I consider that sufficient disclosure was provided to Mr Castleton of any wider issues with the Horizon IT system?
+
+337. As I have noted above, Mr Castleton's Defence and Counterclaim alleged the losses were caused by IT issues at his branch. What POL disclosed with its Lists of Documents were those documents concerning Mr Castleton's branch as opposed to other branches. This included for example the full log of transactions at his branch, the events log at his branch (which recorded events at a terminal e.g logging on and off, printing reports) and also logs of calls to both the helplines that related to his branch. If there had been any IT issues in his branch, then the relevance was there to his Defence. It was difficult to see
+
+Page 149 of 194

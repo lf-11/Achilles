@@ -1,0 +1,29 @@
+WITN09830100
+WITN09830100
+
+branch database [POL00041040]. This was previously understood to be
+possible, but Pete Newsome was providing more detail about the necessary
+process for this. As the subsequent email chain with Mark Underwood and
+Andrew Parsons demonstrates, this information then informed the content of
+POL's response to Second Sight's Part Two Report, then in preparation.
+
+150 The email from Mark Underwood to James Davidson of Fujitsu on 7 April 2015
+reflects that in their Part Two Report, Second Sight had sent two POL / Fujitsu
+documents to POL regarding a bug from 2010, known to cause a receipts and
+payments mismatch (also known as "the 76 bug"), which had arisen in a pilot,
+and indicated that POL / Fujitsu could alter branch data to resolve the bug
+[FUJ00081944]. The documents show that Mark Underwood immediately wrote
+to James Davidson of Fujitsu to seek an explanation. I asked Mark Underwood,
+Andrew Parsons and Pete Newsome of Fujitsu to co-ordinate so that POL could
+go back to Second Sight with something meaningful and accurate
+[POL00353224]. Mark Underwood then posed a series of further questions to
+Fujitsu in light of the information contained in the documents referred to in
+Second Sight's Part Two Report. In the course of an email chain between Mark
+Underwood and Pete Newsome of Fujitsu on 8 April 2015 at 15:51
+[POL00021667], Pete Newsome indicated that the errors were resolved using
+a balancing transaction, a process POL was aware of. He stated, "There is only
+one process Fujitsu can use which is the insertion of auditable additional
+transactions described in the document so the words below must have been a
+loose business description for a meeting with non-technical attendees."
+
+Page 73 of 168

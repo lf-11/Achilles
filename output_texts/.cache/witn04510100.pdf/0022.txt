@@ -1,0 +1,14 @@
+WITN04510100
+WITN04510100
+
+SSC's relationships with other units
+
+58. Since the SSC was the 3rd line software support unit, incidents were reported to the SSC by the SMC (2nd line support unit). There was, therefore, no direct relationship between the SSC and the HSH (1st line support unit). Nor was there a direct relationship between the SSC and the NBSC.
+
+59. The SSC's "supplier" of incidents arising from postmaster calls was the SMC, and incidents were not supplied directly from HSH or NBSC. Therefore, the SSC had direct interfaces and relationships with SMC and the development teams (4th line support). Ultimately, SSC, SMC and HSH were the responsibility of the Customer Service Director.
+
+60. The relationship between the SSC and SMC was generally cordial, although I know there were concerns at times about SMC's ability to correctly filter calls, and the impact this was having on the SSC (i.e, an increased volume of incidents being raised that did not require intervention from the SSC or development teams). There were also times when SSC staff felt that important system errors in the data centres were being missed by SMC, leading to pressure on SSC staff.
+
+61. Where concerns were raised, the SSC and SMC would have meetings, and I recall meetings with SMC managers to discuss these issues. Initially this involved me specifying Service Level Agreements (SLAs) to the SMC to identify in more detail what the SSC required from the SMC, monitoring the SMC's performance against those targets, and then discussing anomalies to see if there were ways in which we could rectify them. I recall that one specific area of concern was the SMC's ability to monitor Tivoli events correctly, and
+
+Page 22 of 54

@@ -1,0 +1,33 @@
+WITN09210100
+WITN09210100
+
+a "one-shot password" which gave us access to Horizon; we could then create
+ourselves as a User and obtain the necessary reports. At the end of the audit
+(unless a suspension occurred) we would delete ourselves from Horizon.
+
+58. My recollection is that the format of the information available to an auditor may
+have been different to that available to a postmaster, but I cannot think of any
+information I had access to that a postmaster did not.
+
+59. My recollection is that I had two global user account to access Horizon. One was
+for use in Counter Training Offices to reset the terminals at the end of a classroom
+course. I also had an audit global user account which allowed me access to the
+Horizon system in branches. This was used, for example, when remitting cash
+and stock from the branch during a closure audit. This ensured any entries made
+on Horizon were attributed to the auditor. It also provided access to an icon on
+the Horizon system to transfer any final account discrepancies outside of a
+trading period to Chesterfield.
+
+60. If auditors forgot their global user password or timed out on the system, my
+recollection is that they contacted either the scheduling team or the Field Support
+Change Advisor, so I presume they controlled the issuing of global user
+passwords.
+
+61. Paragraphs 32 and 33 draw my attention to some documents and I am asked
+whether I created or contributed to policies, practices and procedures that were
+in place.
+
+62. Aside from being responsible for maintaining elements of the Audit Process
+Manual when I was a Field Team Leader (which I described at paragraph 14) I
+do recall having some input into the development of policies and practices. For
+Page 14 of 23

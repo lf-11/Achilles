@@ -1,0 +1,19 @@
+WITN08420100
+WITN08420100
+
+Witness: Rodric David Alun Williams
+Statement Number: WITN08420100
+Exhibits: None
+Date: 11 March 2024
+
+151. Sir Jonathan Swift had spoken with Second Sight, Fujitsu and Deloitte in the course of this process and reviewed information from Fujitsu. The final version of the Swift Review pointed out to POL that a Deloitte report from 2014 had flagged the theoretical possibility of Fujitsu 'superusers' making remote amendments to branch accounts, which had not been focused on before, meaning that what Fujitsu and POL had previously said about remote access was wrong. Sir Jonathan Swift therefore recommended further advice be taken on balancing transactions and Fujitsu's ability to amend and delete data in the audit store, which POL proceeded to take (see further paragraph [183] below).
+
+PART 7: POL WORK IN RESPECT OF CRIMINAL PROSECUTIONS 2014-2016
+
+Supply of Documents from Fujitsu
+
+152. The Inquiry has asked me to comment on two documents, a draft memorandum and a note on securing data for future prosecutions, both from around July 2014.145 Beyond being aware of the general need for POL to preserve data in support of its prosecution activities (e.g. as part of any IT transformation project), I do not recall having a specific role in relation to these documents, which were being managed by POL's criminal lawyers. I was aware that POL's contract with Fujitsu contained provisions concerning the court case support that Fujitsu should provide to POL, because I considered these provisions with POL's external solicitors CMS Cameron McKenna in around 2013 when the contract was updated. I did not at this time, between 2014 and 2016, know whether or not those provisions could apply to the Known Error Log ("KEL"),
+
+145 Simon Clarke 'Proposed Memorandum of Understanding POL and Fujitsu' dated 4 February 2014 (POL00113136) and Simon Clarke 'Securing Data for Future Prosecutions' dated 2 July 2014 (POL00113135)
+
+76

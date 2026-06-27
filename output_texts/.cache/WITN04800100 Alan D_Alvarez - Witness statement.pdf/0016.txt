@@ -1,0 +1,32 @@
+WITN04800100
+WITN04800100
+
+any ticket raised by a pilot site that has a corresponding defect number to identify
+technical issues raised during the pilot phase.
+
+FITNESS FOR PURPOSE OF THE HORIZON SYSTEM PRIOR TO ROLLOUT
+
+43. Before the national rollout of the Horizon system, a penetration test was conducted by
+an independent third party appointed by the Post Office in order to validate the security
+of the Horizon IT system. I do not independently recall the name of the organisation
+that conducted the penetration test, but I have reviewed ICL Pathway Change
+Proposal No. 1987 (WITN480_01/10), which indicates it was Admiral Management
+Services Limited.
+
+44. A penetration test is a test to assess the security controls implemented in the
+production or "live" environment. A report was prepared by the tester with critical, high,
+medium and low issues. I believe it was sent to Barry Proctor, who was the Chief
+Information Security Officer at ICL Pathway and the originator/sponsor of ICL Pathway
+Change Proposal No. 1987. My security team then reviewed that report with the Post
+Office and agreed with them which issues needed to be fixed. We raised defects for
+any issues that we had agreed needed to be fixed.
+
+45. I also recall that a team from Fujitsu Japan came to ICL Pathway to conduct an audit
+of the Horizon project around the time the business was negotiating the new contract
+with Post Office after the Benefits Agency had pulled out. I think, but I am not sure,
+that it was mainly a design audit and Dick Long and Dave Johns were directly
+involved. I recall being asked questions about the KMS as part of that audit. I have
+no other recollections of the audit. I do not remember receiving its outcomes or to
+whom they might have been addressed.
+
+Page 16 of 26

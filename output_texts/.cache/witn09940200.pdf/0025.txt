@@ -1,0 +1,31 @@
+WITN09940200
+WITN09940200
+
+ensuring only 1 copy of a family survives computer processing to be
+manually reviewed or produced; and
+
+(b) item-level de-duplication – only 1 copy of a document survives computer
+processing to be manually reviewed or produced, even if it appears in
+different family contexts.
+
+I now understand that item-level de-duplication is rarely used in eDisclosure
+because it can have significant, unpredictable and potentially undesirable
+impacts on document review.
+
+79 I understand from POL's external advisers that item-level de-duplication was
+applied in connection with responding to some of the Inquiry's disclosure
+requests between 18 February 2022 and 20 June 2023 (since then, only family-
+level de-duplication has been applied). Item-level MD5# de-duplication was
+applied in connection with responding to Rule 9 requests 11 and 14.
+
+80 I understand that instructions to de-duplicate were given to KPMG by HSF and
+P&P and were implemented by KPMG. I understand from HSF and P&P that
+they did not intend item-level de-duplication to be applied in connection with the
+document searches associated with responding to Rule 9 requests 11 and 14
+(or at all). My current understanding is that item-level de-duplication was
+applied as the consequence of either a miscommunication by HSF/P&P (who
+have told me that they did not intend it to be applied) or a misunderstanding by
+KPMG (who have explained that they understood that their instructions were to
+apply item-level de-duplication).
+
+Page 25 of 38

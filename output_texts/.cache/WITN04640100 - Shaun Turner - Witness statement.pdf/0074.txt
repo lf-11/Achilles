@@ -1,0 +1,33 @@
+WITN04640100
+WITN04640100
+
+terminal at any given time and the need for Postmasters working in branches
+to be able to switch quickly between different terminals.
+
+EUM Network Deactivation
+
+247. A number of compliance training controls were introduced into Horizon
+with the Smart ID project. As part of this, Postmasters had to complete various
+online training modules in Horizon within set timeframes in order to access the
+system. The system would record this training data and if a Postmaster failed
+to complete the required training in time, the Postmaster would be temporarily
+locked out of some functionality in Horizon. The functionality from which a
+Postmaster would be locked out of depended on the particular compliance
+training that was incomplete or expired. For example, if Postmasters had not
+completed Anti-Money Laundering, Information Security or Data Protection
+training, they would be prevented from transacting all products. Conversely, if
+Postmasters had not complied with their training requirements on other topics,
+they would only be prevented from transacting a certain designated list of
+regulated products. The precise scope of that list would depend on the content
+of the incomplete or expired training. These lists of designated products were
+configurable in the reference data so products could be added or removed
+easily.
+
+248. These controls could potentially cause system wide issues if, for
+example, the training data for Postmasters across the network became
+corrupted and falsely showed that none of the Postmasters had completed their
+training, the training controls would lock all of the Postmasters out of the
+system. This would prevent Postmasters from using Horizon and completing
+any transactions, which would be a major business incident.
+
+Page 74 of 95

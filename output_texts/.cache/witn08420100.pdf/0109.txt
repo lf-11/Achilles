@@ -1,0 +1,36 @@
+WITN08420100
+WITN08420100
+
+Witness: Rodric David Alun Williams
+Statement Number: WITN08420100
+Exhibits: None
+Date: 11 March 2024
+
+on remote access up to the point of receiving the Swift Review had focused on
+'balancing transactions', and not the 'superuser access' issue (first discussed
+at paragraph [144] above) which had been missed when POL was responded
+to Panorama (see paragraph [172] above), and on which the Swift Review had
+recommended further investigation (see paragraphs [181] and [183] above).
+The focus was initially on correctly expressing the position in the Letter of
+Response, but there followed a discussion about managing the impact of this
+change of position.200 The fact POL had not previously commented on Fujitsu
+'superusers', and that this possibility was inconsistent with past statements,
+was escalated to Paula Vennells by Jane MacLeod, and may have been
+escalated to the Board if thought appropriate.201
+
+219. The final Letter of Response was very lengthy at some 99 pages including
+schedules, and addressed a large number of issues. I was aware of the process
+that WBD and counsel followed to prepare this letter, namely using existing
+materials and seeking specific input from subject matter experts to prepare a
+draft, which, when sufficiently advanced, was circulated to me and others for
+comment.202 I then reviewed (as did others) advanced drafts of the Letter of
+Response and provided comments on it based on my own understanding of the
+issues it traversed. I have no reason to believe this process did not ensure the
+letter accurately reflected POL's understanding of, and positions on, the various
+issues as at that time.
+
+200 Email from Mark Davies to Jane MacLeod dated 22 July 2016 at 10.49 (POL00030002)
+201 Email of Jane MacLeod to Paula Vennells dated 25 July 2016 at 06.27 (POL00041258)
+202 Email from Andy Parsons to Thomas Moran and others dated 16 July 2016 at 14.09 (POL00243250)
+
+109

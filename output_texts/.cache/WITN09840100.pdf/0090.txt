@@ -1,0 +1,32 @@
+WITN09840100
+WITN09840100
+DocuSign Envelope ID: 35848B78-14EA-4B48-AF01-6881BFF848DD
+
+Post Office Group Litigation - SUBJECT TO LEGAL PRIVILEGE - DO NOT
+FORWARD 20 March 2019, POL00268881).
+
+350. I took this on board and remained anxious about preserving the experts'
+"relatively robust" finding, suggesting on 3 June 2019 that the GLO Sub-
+Committee should consider the HIT strategy so Mr Justice Fraser did not go
+beyond the expert witness remit of this trial (Email from Alisdair Cameron to Ben
+Foat cc'd Veronica Branton and Alan Watts re: GLO Sub-Committee - Legally
+privileged 3 June 2019 POL00275871).
+
+351. On 7 June 2019 Rod Williams reported that the Claimants' IT expert in cross-
+examination admitted that he was not aware of any instance where transaction
+data had been remotely deleted or edited, and that Fujitsu "insertions into
+transaction data... were very rare, only done when necessary and carried out
+with great care" (Email from Rodric Williams to Alisdair Cameron, Rob
+Houghton, Mark R Davies & others cc Catherine Hamilton, Mark Underwood,
+Angela Van-Den-Bogerd & others RE: Update on Horizon Issues Trial - Post
+Office Group Litigation 7 June 2019, POL00026043). This was helpful evidence
+to POL's case, although with hindsight I feel that we perhaps focused too
+greatly on good news rather than the overall direction of the HIT. The HIT was
+concluded on 2 July 2019 and we awaited the final judgment.
+
+352. On 2 October 2019, before the HIT judgment was handed down (but after the
+trial had concluded) Ben Foat reported to Nick Read, myself, Alan Watts and
+Mark Davies that there had been a disclosure incident regarding Fujitsu's
+Known Error Logs ("KELs"). POL had relied upon Fujitsu's evidence that old
+
+Page 90 of 137

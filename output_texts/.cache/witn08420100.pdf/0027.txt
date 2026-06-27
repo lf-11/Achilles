@@ -1,0 +1,42 @@
+WITN08420100
+WITN08420100
+
+Witness: Rodric David Alun Williams
+Statement Number: WITN08420100
+Exhibits: None
+Date: 11 March 2024
+
+were being identified, and that there were processes in place for identifying and
+resolving the issues.29
+
+Other BEDs
+
+52. The Inquiry has also asked me about any other BEDs I was aware of by July
+2013. At the end of July 2013, I was made aware of an issue by John Scott,
+after Dave Posnett had reported observing an anomaly at a particular Post
+Office branch during a security visit.30 I was copied into emails about this and
+asked to provide legal support as appropriate. Further emails that I was copied
+into confirmed that Steve Beddoe (Senior IT Services Manager) was looking
+into the matter, and would be passing information about it on to Fujitsu. As far
+as I was concerned given my newness to the issues, those who needed to be
+aware of the issue in order to resolve it were therefore involved.31
+
+Michael Rudkin/Bracknell allegations
+
+53. The Inquiry has asked me to comment on two further emails from mid-2013,
+sent around the same time as those mentioned above.32 I believe the first
+relates to an issue which arose out of Spot Review SR005, and involved an
+allegation made by Michael Rudkin that he had observed an individual at the
+Fujitsu office in Bracknell demonstrating an ability to alter remotely transactions
+in the Horizon system. As far as I can recall, this was the first time I encountered
+
+29 For example, this was the information conveyed to me in Email from Hugh Flemington to Rodric
+Williams dated 27 June 2013 at 18.21 (POL00296729)
+30 Email from John Scott to Rodric Williams dated 31 July 2013 at 11.37 (POL00298046)
+31 By this stage, as I discuss below, the weekly Horizon call had been established. My role was to
+ensure, in line with the objective of the weekly Horizon call, that issues like this with Horizon were
+collated in one place. See details of the weekly calls at paragraph [69] to [71] below.
+32 Email from Simon Baker to Rodric Williams dated 1 July 2013 at 10.31 (POL00060580); and Email
+from Simon Baker to Andrew Winn and others dated 22 July 2013 at 15.33 (POL00099340)
+
+27

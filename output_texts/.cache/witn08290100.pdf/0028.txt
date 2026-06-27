@@ -1,0 +1,14 @@
+WITN08290100
+WITN08290100
+
+72. As I was only the 2nd Officer, I did not have any dealings with the case prior to interview or subsequently post interview, other than to provide a witness statement (POL00047290) as to my involvement on the day.
+
+73. The Inquiry has asked me for my reflections on the way the investigation and prosecution of Mr Holmes was conducted by Post Office with regard to the Court of Appeal Judgment in Josephine Hamilton & Others v Post Office Limited. From what I can recall I did not have any concerns with the way the investigation was run at the time and as 2nd Officer I would have had limited involvement in the investigation.
+
+Prosecution of Allison Henderson
+
+74. I do not recall how I first became involved in the case. The usual procedure was for a case to be given to an Investigator by the Security Team Leader. Following an audit shortage, the decision to conduct a criminal investigation into the loss would be taken by the Security Team leader and the Contracts Team. It would then be allocated to an Investigator.
+
+75. In this case I was what was known as the 1st Officer or Lead Investigator. Various data would have been obtained from Credence, which gives the same data as ARQ but is immediately accessible to download rather than having to request from Fujitsu. Credence data covers the 3-month period prior to the current date. It's also easier to read than the ARQ data as the 'Item Long name' is shown rather than just an item ID. From Credence you can obtain transactional data and event data (back-office items).
+
+28

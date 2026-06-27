@@ -1,0 +1,18 @@
+WITN04630100
+WITN04630100
+
+release functioned, other than that it would have enabled progress on Ping.
+
+29. Regarding POL00029370 (Review of the Creation and Management of Transaction Corrections in POLFD to Correct Accounting Errors in Horizon), P&BA refers to Product & Branch Accounting which was my team at the time.
+
+30. Transactions Corrections at the time were identified either from matching processes or from queries raised.
+
+31. Matching processes were in place where there were two streams of data originating from the same transaction. One stream would be the Horizon file sent to the POLFS system in P&BA. The other stream might be a data file transmitted direct to a client, who in turn used it to send data back to P&BA. It might also be a summary derived from paperwork arising from a transaction.
+
+32. Queries raised might come from clients, branches or cash centres as explained in the document.
+
+33. There may have been scope for error in branch, at clients or in P&BA but mitigations against this included balancing routines in branch, batch controls in data transfers and the ability to request evidence to query the transaction corrections.
+
+34. Regarding POL00001697 (Royal Mail Internal Information. Back Office Efficiency Programme-Stock Adjustments), and the work related to stock adjustments, my recollection is not that it was suggesting Horizon Online functionality was causing discrepancies through the way it processed the
+
+Page 8 of 24

@@ -1,0 +1,31 @@
+WITN05810100
+WITN05810100
+
+awaiting TC (Transaction
+Correction) – Singletons
+14 POL00000304 Postmaster Contract VIS00001299
+Termination Policy (version
+3.0, undated)
+15 POL00038051 Postmaster Guide to Policies POL-0034986
+(version 1.2, undated)
+16 POL00084993 Contract Advisor Process - POL-0082051
+Audit Discrepancy (undated)
+17 POL00086044 Subpostmaster suspension POL-0083102
+(undated)
+18 POL00005856 Post Office Limited: Appeals VIS00006924
+Handbook (19 June 2008)
+19 POL00086358 Managing Shortages at Audit: POL-0083416
+Process and Policy
+Guidelines (25 July 2011)
+20 POL00086828 Subpostmaster Appeal Panel POL-0083886
+Process Review (March
+2012)
+21 POL00086116 Guiding Principles for POL-0083174
+Suspension (2 November
+2012)
+22 POL00000325 Postmaster Support Policies: VIS00001299
+Termination Decision Review
+Policy (version 2.3, 30 March
+2021)
+
+Page 7 of 7

@@ -1,0 +1,14 @@
+WITN09960100
+WITN09960100
+
+Systems and processes in place to avoid future issues of a similar nature
+
+44. The specific circumstances that led to the late disclosure of Appendix 6, based on our Internal Review, are set out above and primarily relate to search terms and review of family items.
+
+45. We are continuing to support POL's external solicitors to apply search terms and search criteria across the Relativity eDisclosure Database, but we are not involved in their development.
+
+46. We are providing POL's external solicitors with responsive items and their full families for review, and we will continue to do so unless instructed otherwise.
+
+47. I also recognise that there are risks and implications from the selection of a deduplication technique, as the example in paragraphs 27 to 35 above shows. Since 21 June 2023, HSF has instructed KPMG to only use family level deduplication, and not item level deduplication. In line with these instructions, we have not performed item level deduplication since this date. Any deduplication going forwards will continue to be in line with the instructions of POL's external solicitors.
+
+Page 13 of 15

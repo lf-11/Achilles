@@ -1,0 +1,38 @@
+WITN08420100
+WITN08420100
+
+Witness: Rodric David Alun Williams
+Statement Number: WITN08420100
+Exhibits: None
+Date: 11 March 2024
+
+witness, and Simon Clarke's advice to POL of July 2013 that his credibility as
+an expert witness had been "fatally undermined". A briefing paper to the
+Steering Group in December 2016 had also noted that Gareth's Jenkins'
+credibility had been damaged such that he could not give evidence in future.225
+My recollection of the September 2018 conference was that a firm view was
+formed that Gareth Jenkins should not be called as a witness because of his
+previous involvement as a witness in POL prosecutions, which were not the
+subject of the Horizon Issues trial. An alternative Fujitsu witness was therefore
+sought to present Fujitsu's current understanding of the problems Horizon had
+experienced, which ended up being Torstein Godeseth.
+
+Robustness of the Horizon system
+
+241. I do not recall the first expert reports of Jason Coyne and Robert Worden
+causing POL concerns about the reliability of Horizon because they were, from
+recollection, largely positive about Horizon and indeed gave POL confidence in
+its case. Robert Worden's evidence remained consistently positive, but Jason
+Coyne's supplementary report served on 1 February 2019 recast his case to
+focus on some 22 bugs identified following his review of PEAKS. I was not close
+enough to the technical or factual detail to have firm views of my own on the
+overall implications of this. It was of course ultimately a matter for Mr Justice
+Fraser to make findings based on the evidence, including that of the experts
+who were producing their own reports. I do recall that my main concern with the
+Horizon Issues trial was about the potential impact a negative judgment about
+
+225 Email from Mark Underwood to Jane MacLeod and others dated 5 December 2016 at 18.54
+(POL00246340) attaching Steering Group Meeting Discussion Paper: Approach to Fujitsu
+(POL00246342)
+
+123

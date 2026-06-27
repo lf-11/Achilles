@@ -1,0 +1,8 @@
+WITN04650100
+WITN04650100
+
+16.Almost all the queries would be answered by the NBSC agent using the knowledge articles apart from 'system faults' 'failures' or the 'system not performing as expected' which would be redirected to the HSH. The NBSC agent would try and assist in identification of root cause of branch discrepancies, but this may often have required a combination of Field support via the Retail Network Manager, P&BA, or system interrogation via Fujitsu. The request for further investigation most commonly coming from the RNM. Staff training requests would also come from the RNM.
+
+17.Whilst both the NBSC and the HSH both had continuity plans to cater for unplanned events it was entirely possible that on occasion the desk would not be accessible by the branches. This could be down to telephony technical fault, unexpected staff shortages or sometimes large spikes or peaks in call arrival patterns meant that some branches may not have been able to get through in a timely manner or at all. It is also worth noting that the service desks were not 24/7. Having said this in my opinion the NBSC, certainly in the early days was sufficiently resourced. Post my time in the NBSC there were operating model changes. The strategy was to migrate to a single point of contact for all support inquiries with an IVR hanging off the back of that single number, providing access to various other departments including the HSH. I also think that the service moved out of internal Post Office limited ownership. It was outsourced albeit to another member of the Royal Mail group (RMG) in Royal Mail themselves, who were the owners of Dearne House the location of the NBSC and already providing a host of service desk related services across the RMG.
+
+Page 9 of 16

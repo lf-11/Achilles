@@ -1,0 +1,12 @@
+WITN09680200
+WITN09680200
+
+Altman KC advised in paragraph 145 that it was not for the prosecutor to make qualitative judgements about the utility...of information to be disclosed. With the benefit of hindsight, I considered the issue of utility with regard to information provided by Mr. Jenkins in the case of R v. Ishaq and whether the issue relating to freezing screens during the pilot scheme might reasonably assist with his defence.
+
+101. In paragraph 64 Mr. Altman KC reported that, "When I queried the rationale behind the cut-off date, I was told, and entirely accept, that, prior to each branch rollout, a cash audit was done so that each branch balanced." I understand that prior to each branch being migrated to Horizon online, someone would attend on behalf of Post Office Ltd to check the requisite amount of cash was physically on the premises. Whilst I am unable to recall the conversation at this particular conference, I note that there is also a reference to 'balancing' in my typed note of the meeting on 9th September 2013.
+
+102. Mr. Altman KC referred to 'the Falkirk event raised in the Misra case'. I believe that I referred Mr. Clarke to another statement provided by Mr. Jenkins at about the time the draft Second Sight Report became available. I am, however, unable to recall any other discussions regarding this bug prior to this advice or set out my understanding of it. Similarly, I am not able to say whether I agreed it was "an isolated instance". I am also unable to recall formulating a view on whether Post Office Ltd should examine cases pre-dating the 2006 fix.
+
+103. In paragraph 129 Brian Altman KC noted that, "There is understandable concern that offenders might use the mediation scheme to gain information as a platform from which to launch a fresh or new appeal, and so CK wish to exercise a measure of control over the dissemination of information and material
+
+Page 27 of 57

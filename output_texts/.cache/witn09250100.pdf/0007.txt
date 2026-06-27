@@ -1,0 +1,12 @@
+WITN09250100
+WITN09250100
+
+23. In cases where Branches were scheduled following a request from the Security Team, discussions between the Lead Auditor and the Security Lead team member attending would be had to determine what the issue/concern was, and the approach required by the Security Team leader. Generally, these types of audits would mean the branch would remain closed until all issues had been resolved by the Security Team.
+
+24. I believe that Crown Offices were scheduled for audit every 2 years or sooner if risks/issues were identified, as I would assume they went through the same risk assessment as other Post Office Branches.
+
+The Auditing Process
+
+25. I have been asked to consider various documents in relation to the auditing process [POL00083966, POL00084801, POL00087627, POL00088252, POL00084003, POL00084813, POL00085652, POL00086765, POL00086839 and POL00087716].
+
+26. When completing an audit, a number of printouts were obtained from the Horizon system. This would be achieved by requesting the Sub-postmaster or Branch Manager with manager's access, to produce the required reports. Alternatively, as I recall, the Sub-postmaster or member of staff with managers access could be asked to create a User ID for the lead auditor to allow them access to the Horizon system to produce the required reports. In the absence of anyone being available with managers access to the Horizon system, a One- Shot password would need to be obtained via the Horizon Helpdesk to enable the Lead Auditor access to the Horizon system. As I recall this was the

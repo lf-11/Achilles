@@ -1,0 +1,18 @@
+WITN08420100
+WITN08420100
+
+Witness: Rodric David Alun Williams
+Statement Number: WITN08420100
+Exhibits: None
+Date: 11 March 2024
+
+summarised the security process for doing so (known as ‘balancing transactions’). They had only identified this occurring once since the migration to Horizon Online, in March 2010, and stated that this was covered by “an auditable log”.
+
+143. I believe, but cannot be certain, that the information that Fujitsu provided in April 2014 was shared with Second Sight. I explain this and some of the follow up work at paragraph [101]. Around the same time, POL had instructed Deloitte to undertake its desktop review of the Horizon system. The explanation that Fujitsu had given in April 2014 about the possibility of balancing transactions was also shared with Deloitte.128
+
+144. In May 2014 documents were being prepared by Deloitte for POL’s Board. The May 2014 Deloitte Report states in a table at Appendix 2 that there were database access privileges that “would enable a person to delete a digitally signed basket” and that such privileges were restricted to authorised administrators at Fujitsu. It also mentioned that there were database access privileges that would theoretically “enable a person to create or amend a basket and re-sign it with a ‘fake’ key”, again such privileges were restricted to authorised administrators at Fujitsu.129 The version of the Board Briefing shared with me by the Inquiry states that it was possible for “Fujitsu staff with suitably authorised privileged access to delete data from the Audit Store”. I do not believe that anyone within POL (and certainly I did not) properly focused on or
+
+128 As can be seen from Sean Hodgkinson’s follow-up questions in FUJ00087119.
+129 The May 2014 Deloitte Report (POL00028062)
+
+71

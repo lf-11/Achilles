@@ -1,0 +1,14 @@
+WITN09010100
+WITN09010100
+
+30. I have been asked about involvement Fujitsu had in the audit process and I am unable to say whether Fujitsu had any involvement in the audit process. In providing my response I have considered the document [FUJ00001894] Fujitsu Services Audit Trail Function Specification (v8.0), however, as this is a document I cannot recall ever seeing my answer is based only on my recollection.
+
+31. I have been asked about information an auditor may have when conducting an audit that was not available to the subpostmaster. I believe the only information an auditor may have had would have been information related to specific reasons for the audit if it had been requested by another team from POL e.g. the Security team.
+
+32. I have been asked about my understanding of the Audit Global User Account and been asked to consider document [POL00002841] in giving my response. This document is dated September 2016 so I have not considered it and can say that I have no recollection of the Audit Global User Account and therefore cannot comment on the specific workings of the tool or information contained within it.
+
+Reporting and oversight
+
+33. I have been asked about the role of the Risk and Compliance Committee and about my involvement with the committee. From recollection and by referencing relevant documents I would say that the role of the Risk and
+
+Page 11 of 28

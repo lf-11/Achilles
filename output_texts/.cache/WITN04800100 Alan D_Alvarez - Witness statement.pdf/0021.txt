@@ -1,0 +1,32 @@
+WITN04800100
+WITN04800100
+
+to the patch being deployed. The patch operated for four weeks in the live pilot, during
+which time there were no repeats of the Oracle issue.
+
+60. At the conclusion of the pilot phase, a report titled 'Acceptance Report for HNG-X
+Acceptance Gateway 4' (WITN480_01/11) was prepared to document how the
+Horizon Online system had met the relevant acceptance criteria and to support
+approval to move into the deployment phase. This report was presented to the
+Acceptance Board, which met on 29 June 2010 and approved the deployment of
+Horizon Online. I reviewed both the Acceptance Report for HNG-X Acceptance
+Gateway 4 and the minutes of the acceptance board meeting on 29 June 2010 (which
+provides details of the meeting, including attendees) (WITN480_01/12:) to refresh my
+memory of these events.
+
+GENERAL OBSERVATIONS REGARDING SYSTEM REQUIREMENTS AND DESIGN
+
+61. My understanding was that the requirements for the Horizon system were set by the
+Joint Authority (i.e. Post Office and the Benefits Agency) or, after the Benefits
+Agency's involvement ended, the Post Office. These requirements formed part of the
+contract that ICL Pathway or Fujitsu had to deliver. ICL Pathway/Fujitsu were
+responsible for producing design specifications and had to demonstrate that they met
+the requirements in the Horizon contract. These specifications were subject to
+approval by the Joint Authority or the Post Office (as applicable).
+
+62. The process followed for producing design specifications was that there were a
+number of high level requirements specification documents produced by ICL Pathway
+subject matter experts. These documents extracted the requirements from the
+various contract schedules into a single source specific to different areas of the
+
+Page 21 of 26

@@ -1,0 +1,30 @@
+WITN03920100
+WITN03920100
+
+69. In terms of the Horizon Programme and reflecting on the scope and risk involved,
+and the number of years effort invested in the change, I now wonder whether the
+risk analysis associated with the ICL Pathway approach to development and
+implementation might have driven a different approach. I have no doubt that
+POCL management at the time considered the risks associated with the
+proposed development and implementation path however one possibility would
+have been to find a way to decompose the scope of the Programme into smaller
+projects that might have carried less risk.
+
+70. In preparing this statement I feel that I am actually no wiser in understanding the
+root causes of the system instability or lack of data integrity. It seems likely that
+there were multiple causes and it is important to try and understand the detail to
+help avoid such outcomes in the future. The adverse impacts on people who
+used and trusted the Horizon System are shocking and something for which I am
+deeply sorry. Nobody in the Horizon Programme, or the IMPACT Programme,
+had any intention of designing or implementing a system that had fundamental
+flaws.
+
+Statement of Truth
+
+I believe the content of this statement to be true.
+
+Signed... GRO
+
+Dated... 14th September 2022
+
+Page 28 of 32

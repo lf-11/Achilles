@@ -1,0 +1,22 @@
+WITN08340100
+WITN08340100
+
+20 POL00002572 Fujitsu Security Management Service: Service Description v 5.0 VIS00003586
+21 POL00002666 Fujitsu/Post Office Fujitsu Services Security management service: service description VIS00003680
+22 FUJ00152212 Management of the Litigation Support Service - Fujitsu v1.0 POINQ0158406F
+23 POL00052222 Email from John Longman to Phil Taylor Re: WS for West Byfleet HSH calls. POL-0048701
+24 FUJ00156122 Email from Tom Lillywhite to Suzie Kirkham and Gareth Jenkins re Aresford Large debt outstanding , legal request for info POINQ0162316F
+25 FUJ00155399 Email to Dave Posnett from Penny Thomas re Security Incident which occurred and has been resolved with software correction POINQ0161593F
+26 FUJ00155400 Email from Thomas Penny to Pritchard Howard, Warham Wendy and Denham Steve Re: Security Incident POINQ0161594F
+27 FUJ00155409 Email to Penny Thomas to Steve Denham, Howard Pritchard, Peter Sewell and another Re: Outlet Checking List - Audit Issue POINQ0161603F
+28 FUJ00155421 Email from Thomas Penny to Denham Steve, Sewell Peter Re: FW: Security Incident POINQ0161615F
+29 FUJ00122604 Standard form Fujitsu draft Witness Statement re: extraction of audit archived data with mark-up and comments from Penny Thomas Version 7.0 (0308) (CS11A) (Slide A) POINQ0128818F
+30 POL00112919 Witness Statement of Dave Posnett POL-0110319
+31 POL00066457 David Yates case study: Memo from Paul Bosson to Dave Posnett re: Audit of Walton On Thames 090 023 POL-0062936
+32 POL00112918 Offence of two offenders - Theft/False Accounting POL-0110318
+33 POL00113159 Post Office Limited Case Files from Dave Posnett of David Peter Yates and Lindsey Susan Smale - Walton on Thames - 090 023 POL-0110543
+34 POL00047494 David Yates - Record of Tape Recorded Interview 7 March 2003 POL-0043973
+35 POL00066266 The Post Office Group Litigation, Alan Bates & Others and Post Office Ltd.: David Yates schedule of information POL-0062745
+36 POL00118519 Spreadsheet - Report of Incident IDs, SPM names, Description, Incident Log, Resolution, etc. from the Walton on Thames PO between 13/07/2000 to 31/03/2003 POL-0118449
+
+Page 46 of 48

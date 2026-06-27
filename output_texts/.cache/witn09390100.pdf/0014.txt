@@ -1,0 +1,30 @@
+WITN09390100
+WITN09390100
+
+reviewed the other versions of this document as they post-date my
+employment.
+
+v. The documents entitled "Security Management Service: Service
+Description" (SVM/SDM/SD/0017) dated 24 August 2006
+([FUJ00002033]), 31 December 2008 ([FUJ00080107]) and 15
+October 2010 ([FUJ00002264]). Please note that I have not reviewed
+the other versions of this document as they post-date my employment.
+
+41. To confirm, whenever I dealt with an investigation for a shortfall, I would
+usually request ARQ data from Fujitsu as part of my investigation. I did this as
+a matter of course, not because of any suspected issue with Horizon and in
+fact, I do not recall that I ever dealt with a case where the Sub Postmaster
+raised issues with Horizon at the time.
+
+42. I remember that there was a process to request ARQs but I cannot remember
+what it was. I remember speaking to Penny Thomas at Fujitsu but I do not
+know whether she was responsible for the provision of data or authorising an
+ARQ request.
+
+43. I think that there was a limit on the number of ARQ requests which would be
+provided by Fujitsu but I cannot recall amounts and this was not something
+that I was involved in. I remember that sometimes we were told to hold back
+requests until the following month because the data request limit had been
+reached.
+
+- 14 -

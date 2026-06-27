@@ -1,0 +1,10 @@
+WITN09910100
+WITN09910100
+
+and, as far as I was aware, POL and Fujitsu maintained the position that transaction data could not be changed remotely without the knowledge of an SPM.
+
+21. I did have a conversation with someone in Fujitsu about 'remote access' in early 2015. I cannot remember who the call was with, but I believe the conversation was prompted by a query raised by the CEO in response to briefing she had been provided with relating to her appearance before the BIS Select Committee in February 2015. I recall being told by the Fujitsu employee that there was a provision to deal with a major incident or emergency whereby a senior person at Fujitsu could access the Horizon IT system to rectify a major problem, however, this provision was subject to rigorous authorisation and audit arrangements and as far as I recall, he told me that to his knowledge this provision had never been used. He explained that POL would be involved if it were to be used, and whilst the function existed, it did not alter the basic proposition that Fujitsu could not remotely alter transaction data without the knowledge of the SPM. I would like to highlight that this may not have been the specific wording used by the Fujitsu employee during the call, but it was wording to this effect.
+
+22. As I did not recall knowing about this provision, I reported back to POL General Counsel. He confirmed that it was normal for every major IT system to have what I believe he referred to as a 'superuser facility'. Again, these may not have been the exact words he used, but it was wording to this effect.
+
+Page 8 of 68

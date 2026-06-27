@@ -1,0 +1,31 @@
+WITN04510100
+WITN04510100
+
+then passed to the development unit responsible for the part of the
+system in question.
+
+g. Prioritisation of incidents which arose from the 1st and 2nd line support
+units (HSH and SMC, respectively) was done prior to the incident arriving
+in the Peak system. So, except for incidents raised by the SSC, neither
+myself nor SSC staff were responsible for allocating the priority of an
+incident. The SSC could later change the priority if, for example, an
+incident reduced in urgency as a workaround had been put in place. The
+SSC would also upgrade a call if it became more urgent, but I do not
+recall it happening often.
+
+h. Evidence for an incident was generally obtained by SSC technicians
+accessing the live system through secure PCs (SSC PCs) attached to a
+secure Local Access Network (LAN) connecting to the data centres. The
+SSC had dedicated servers in the data centres for the storage of
+evidence, but I do not recall the exact mechanism by which the data was
+"attached" to an individual Peak. I do recall that on a number of
+occasions, development staff would visit the SSC secure area in order
+to look at evidence from the live system. When gathering evidence,
+access to the live system would be on a "read only" basis. Development
+staff did not have access to the live systems and would need to visit the
+SSC secure area to view diagnostic data.
+
+i. Where an incident was reported from development or testing teams,
+these teams were able to attach the evidence to the Peak itself.
+
+Page 7 of 54

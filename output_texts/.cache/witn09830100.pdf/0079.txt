@@ -1,0 +1,10 @@
+WITN09830100
+WITN09830100
+
+161 My understanding of remote access changed again when Sir Jonathan Swift delivered the report compiling his findings and conclusions from the Swift Review, dated 8 February 2016 (the “Swift Review Report”), to POL, which highlighted that Deloitte’s Board Briefing noted that database access privileges existed which would enable the deletion of a digitally signed basket, but which are restricted to authorised administrators at Fujitsu. Those privileges “would enable a person to create or amend a basket and re-sign it with a ‘fake’ key, detectable if appropriately checked” [POL00006355 at para 140], and Deloitte had not seen a way to prevent a person with the appropriate authorisation carrying out such an exercise in an unauthorised manner.
+
+162 Sir Jonathan Swift also commented that Deloitte noted that administrators had the ability to delete data from the audit store which could allow, “suitably authorised staff in Fujitsu to delete a sealed set of baskets and replace them with properly sealed baskets, although they would have to fake the digital signatures.”
+
+163 I understood from reading Sir Jonathan’s Swift’s report that Fujitsu accepted that Deloitte’s interpretation was technically correct, but emphasised the wide range of security measures in the software, hardware and environment which they said reduced risk of interference. Moreover, Fujitsu stressed – “properly” in Sir Jonathan Swift’s view – that there is no evidence that any such action occurred and that likelihood of all the security measuring being overcome was very small.
+
+Page 79 of 168

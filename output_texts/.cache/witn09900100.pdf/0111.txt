@@ -1,0 +1,12 @@
+WITN09900100
+WITN09900100
+
+GENERAL
+
+234. Based on my knowledge at the time, my view is that POL responded appropriately by appointing Second Sight, setting up the Scheme and making every effort to fully investigate the issues put forward by SPMs.
+
+235. However, having seen what has come out of the Inquiry and having had the opportunity to take a step back and evaluate things with the benefit of hindsight, my biggest regret is that we did not get an external IT expert, such as Deloitte (or another appropriately qualified organisation), to do a deep dive into the Horizon system to assess whether what the claimants were claiming was possible and if so, whether there was any evidence of their claims happening. The idea that Fujitsu could be going into branch accounts, altering figures and generating losses in those accounts seemed so fictitious that I do not think anyone in POL properly contemplated it as a possibility. I think this is why POL approached the cases from an operational and not a technical point of view.
+
+236. In my view, Fujitsu were being insufficiently transparent about the bugs in the system meaning that even people of my seniority were not aware of the full extent of them. Whilst making recommendations to POL during 2018/2019 I suggested that POL established a portal for SPMs to access so that they could see the characteristics of known bugs. Should a discrepancy arise, they would be able to go to the portal to see whether the problem at their branch was likely to have been caused by a bug. I wanted a more open way of
+
+Page 111 of 132

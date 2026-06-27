@@ -1,0 +1,33 @@
+WITN09750100
+WITN09750100
+
+discussed can be seen from the actions I was asked to take away (described in
+paragraph 52).
+
+c) Changes in Scope
+
+57. As mentioned above, the Scope of our work expanded following the Board
+Meeting. The change order dated 6 May 2014 (the "Change Order")
+(POL00117612) referenced in question 17 of the Request clarified further items that
+the POL Board required Deloitte to perform as part of its part 1 activities.
+
+58. The reason for this extension is summarised in the Board Briefing
+(defined below); 'as [part 1] work progressed it became apparent that in some
+key areas [Third-Party Assurance Work] was either not relevant or could not
+be located by POL. For example, because the Horizon On-Line modification in
+2010 was found to have not significantly impacted features relating to the
+integrity of processing, the scope of testing did not identify and test such
+features; nor had any work been performed to test relevant in-built controls in
+Horizon and its surrounding business controls, other than access controls.'
+
+59. On 6 May 2014, we were, therefore, instructed to extend our desktop review
+and assemble an initial schedule of key control features in HNG-X from the existing
+additional documentation received from POL and Fujitsu. For clarity, the findings
+from this extension of our Scope were integrated into version 16 of our draft
+Deliverable, mentioned above.
+
+60. A final draft of our Deliverable (version 16) was issued to the POL Legal
+Team on 23 May 2014 (POL00028062). It was described as a draft because POL
+had requested that we keep it that way until they indicated it could be marked as
+
+Page 17 of 39

@@ -1,0 +1,36 @@
+WITN05210200
+WITN05210200
+
+acceptance could work, and what the conditions could/would be, I was
+satisfied with the recommendation and did not perceive any particular risks on
+the basis that Pathway would still be required to demonstrate an improvement
+to the system to bring the error rate within acceptable limits in order for
+acceptance to take place.
+
+Question 19: To whom (if anyone) did you communicate your preference and /
+or concerns about the risks of granting conditional acceptance to the system?
+
+33. I would have discussed it with my colleagues as outlined in my answer to
+questions 16b. above.
+
+Question 20: To your knowledge, who ultimately took the final decision in
+respect of acceptance of the Horizon system?
+
+34. Please see my response to question 15 above.
+
+PLEASE CONSIDER FUJ00079316, FUJ00118143 AND FUJ00118194
+
+Question 21: What (if any) involvement did you have in scrutinising the design
+for the EPOSS / TIP Reconciliation Controls?
+
+35. The technical work of scrutinising the design for the EPOSS / TIP
+Reconciliation Controls would, to the best of my recollection, have been
+carried out by the End to End Working Party. I don't recall ever seeing any of
+the Pathway design documents. I do not know whether such document would
+have been shared with anyone on the POCL side involved in the technical
+work.
+
+Question 22: What did you understand about how these controls were
+intended to function?
+
+Page 11 of 21

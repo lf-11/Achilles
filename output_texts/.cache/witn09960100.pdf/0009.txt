@@ -1,0 +1,38 @@
+WITN09960100
+WITN09960100
+
+34. A summary of the number of documents requiring review based on the above
+example is as follows:
+
+Table 2: Review scenarios – number of documents requiring review
+
+Family level
+deduplication
+Item level
+deduplication
+
+Review of full families
+14
+2*
+*Assuming Family 1 is
+deemed the ‘master’
+
+Review of responsive
+documents
+4
+1
+
+35. There are risks and implications from both types of deduplication technique,
+with the main difference being the trade-off between the number of documents
+requiring review versus having the context from the review of full families.
+
+36. As noted in paragraph 19 above, HSF’s review strategy appears to have been
+primarily focussed on responsive documents and not their full families. We
+understand that this was in an effort to identify a review population that was
+reasonable to review within the timescales required by the Inquiry.
+
+37. In line with this approach, where deemed necessary, HSF has instructed us to
+deduplicate between responsive documents using MD5#, i.e., item level
+deduplication. We therefore undertook deduplication at a responsive document
+
+Page 9 of 15

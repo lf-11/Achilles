@@ -1,0 +1,36 @@
+WITN05210200
+WITN05210200
+
+12. I consider Pathway adequately understood this data integrity issue as it
+presented itself.
+
+Question 6: How many outlets were affected by cash account discrepancies in
+the summer of 1999?
+
+13. I don't know.
+
+Question 7: Did the control which you proposed be introduced by ICL Pathway
+address the underlying root cause(s) of the accounting discrepancies?
+
+14. My understanding is that the data integrity control was an enabler to identify
+the reason for errors between the two Pathway produced data streams and
+therefore would address the AI 376 data integrity issue.
+
+15. Following the introduction of Horizon, there was still the need for error
+resolution by the Transaction Processing Business Unit in Chesterfield and it
+was accepted that we still needed a process to manage accounting
+exceptions where transaction were not automated at the point of sale/data
+capture after the developers handed over the Horizon system.
+
+Question 8: If not, what action did you understand ICL Pathway to be taking to
+address the root cause(s) of the accounting discrepancies?
+
+16. Pathway were responsible for resolving the AI 376 data integrity issue as set
+out above. Pathway were not responsible for all POCL accounting
+discrepancies.
+
+17. In terms of the action Pathway were taking to address the data integrity issue
+at this time document POL00028332 sets out the work Pathway have done to
+identify the error and contributory problems and fixes developed and
+
+Page 5 of 21

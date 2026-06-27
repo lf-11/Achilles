@@ -1,0 +1,35 @@
+WITN10990100
+WITN10990100
+
+system was robust and that there was nothing that could undermine the
+integrity of the system. My information came from a number of sources both
+from within POL and what I had picked up from within CK. I cannot, at this
+point, remember specific conversations.
+
+25. My understanding of the Horizon system was that it was an accounting system
+used by Post Office in a couple of forms since the turn of the century. I was
+told that it processed millions of transactions each day and was capable of
+balancing the cash and the stock. I was aware of the difference between
+Horizon Online and Legacy.
+
+26. We were assured that there was no "back door" into the system for Post Office
+or Fujitsu to alter the figures unbeknownst to the Sub Postmasters (SPMs).
+The fact that there was a "back door" only came to light when we got hold of
+the Deloitte report. Again I cannot remember who told us that there was no
+"back door" but I can remember the shock when the Deloitte report said that
+there was one.
+
+27. I only heard of bugs in the Horizon system after the publication of the Second
+Sight Interim Report in July 2013. I was not aware of the extent of the bugs
+until Hamilton and others which was heard long after I left CK.
+
+28. Whilst I was at CK we were assured that the system was robust. The Second
+Sight Interim Report whilst reporting that they had come across two bugs did
+not find anything "systemic" that would account for the losses allegedly
+sustained by the SPMs.
+
+29. I was told very little about the training offered to the SPMs.
+
+30. My understanding of the difference between Horizon Legacy and Horizon
+Online is relatively limited. The main difference between the two was that
+Page 7 of 38

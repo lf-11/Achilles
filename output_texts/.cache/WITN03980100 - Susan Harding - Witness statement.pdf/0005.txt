@@ -1,0 +1,30 @@
+WITN03980100
+WITN03980100
+
+18. Deliver an integrated automated solution utilising industry standard packages
+where possible.
+a) Reduce the IT operating costs
+b) Reduce losses and improve debt recovery
+
+19. The initial concept and high level designs were developed through a series of
+workshops involving Fujitsu and Post Office experts and user representatives.
+
+20. The design of the new end to end process and systems was radical and
+complex, involving the implementation of new (off the shelf) standard
+accounting packages and the decommissioning of many "legacy" systems.
+
+21. Users representing both Post Office employees and Subpostmasters were
+engaged throughout the Programme through the Business Change Team
+which was managed by Steve Grayston (my Business Change Mabager)
+
+22. The programme took 3 years from conception to implementation and was a
+radical change for both branches and back/head office staff
+
+23. The redesign included the removal of the local suspense account.
+
+24. This decision was based on the core principle that branches (specifically
+agency branches) were accountable for the financial integrity of their accounts.
+The "suspense account", had historically been used to "balance" any
+discrepancies which covered up losses in their accounts. The processes for
+
+Page 5 of 8

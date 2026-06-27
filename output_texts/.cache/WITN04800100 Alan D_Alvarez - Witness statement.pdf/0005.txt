@@ -1,0 +1,14 @@
+WITN04800100
+WITN04800100
+
+11. This was to address Post Office security concerns around unauthorised people being able to access the Horizon counter. Specifically, a password-only system was not thought to be enough and system access requiring a physical device and a password was implemented. This decision and the discussions that led to it occurred before I joined the Horizon programme, and so I was not party to them.
+
+12. While I was not involved in the pilot of Release 1A, my understanding from my later work was that, in that pilot, there was no key card entry system at the Horizon counters. Given my lack of involvement in the Release 1A pilot, I cannot comment as to why a key card entry system was not present in Release 1A. However, by the Release 1B pilot, such a system had been added.
+
+13. Prior to the Release 1B pilot, it was identified that the recovery process in place for the pilot was not a supportable solution or operationally fit for purpose at scale. By the "recovery process", I mean the process by which a key card would be replaced if it was lost by a postmaster.
+
+14. The recovery process during the Release 1B pilot was a manual Diffie-Hellman exchange done over the phone between the postmaster and the Horizon support desk. A Diffie-Hellman exchange is a secure means of cryptographic recovery.
+
+15. If a postmaster lost their key card, they would phone the Horizon support desk. In order to go through the recovery process, the postmaster had to click through 15 screens of lengthy random alphanumeric numbers on their Horizon counter, and provide those numbers to a member of the Horizon support team within a secure location at the Horizon support desk. The support desk would, in turn, also click through 15 screens of lengthy random alphanumeric numbers and they would provide
+
+Page 5 of 26

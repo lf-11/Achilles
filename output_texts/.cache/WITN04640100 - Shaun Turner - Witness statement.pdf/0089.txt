@@ -1,0 +1,10 @@
+WITN04640100
+WITN04640100
+
+294. In terms of the particular receipts and payments mismatch issue on Smart IDs, covered in paragraphs 279 to 285 above, to which I can speak through my experience as Smart ID product owner, I remember the team reflected at the time on whether anybody could have anticipated the issue and, if so, who should have done so. Certainly, I did not have the technical knowledge to even realise that this could have happened. I would have expected Fujitsu's impact assessment of Smart IDs to have pre-empted that the mismatch issue would have been a possibility.
+
+295. I believe that this particular case reveals an issue in the wider systems in relation to the scope and scale of impact assessments done for changes being made to Horizon. The question which naturally follows is what POL could have done to make the impact assessment more comprehensive. I do not know the answer to this, but the set of checks that POL required from its IT suppliers for these complex system changes needed to be broader. In the case of Smart IDs, I think there should have been greater recognition within POL that implementing dual logins was a significant change to the Horizon system. Perhaps POL should have been more prescriptive around which areas of the change need to be assessed and how they should have been assessed depending on their complexity. I am not a technical person and I did not have knowledge of the technical aspects of Horizon. However, I think there should have been better controls in place and that POL's own technical resources should have been able to assure the change more effectively.
+
+296. More generally, Horizon does belong to POL, and I do think POL is ultimately responsible for the system that is used by Postmasters. Whilst POL worked with IT suppliers, including Fujitsu, it was POL's responsibility to
+
+Page 89 of 95

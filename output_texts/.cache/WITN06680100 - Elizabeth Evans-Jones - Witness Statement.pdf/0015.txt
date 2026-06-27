@@ -1,0 +1,31 @@
+WITN06680100
+WITN06680100
+
+of the issues or problems with the Horizon system. Where software incident
+resolution was delayed and this was escalated to me by POL, I would escalate this
+to the SDU management to ensure the correct level of focus on the Incident.
+However, as the Horizon software was not part of my portfolio, I was not involved
+in the technical analysis or resolution of the Incident.
+
+38. The information I received relating to the Horizon system incidents was provided
+from the HSD and was service level performance data for the HSD and their
+handling of these tickets. I was not aware of the nature of the issues in the system
+other than the breakdown provided by the powerhelp codes as detailed in
+FUJ00080499. It is my recollection that the software SDU would be aware of the
+exact detail of the issues as they were responsible for Incidents on the software. I
+was not aware of the impact on the wider Horizon IT system, as this was not in my
+portfolio.
+
+Capacity Reports
+
+39. I have been asked to consider various documents FUJ00116314, FUJ00116331,
+FUJ00116357, FUJ00116367, FUJ00116376, FUJ00116387, FUJ00116405,
+FUJ00116457.
+
+40. As I recall I was on the generic distribution list for the capacity reports, however
+the information contained within was not relevant to the portfolio of services I
+supported. It is my understanding that the purpose of the report was to show actual
+and forecasted transaction volumes, however I did not use nor review the
+information contained within the reports, and I was not aware of the failure rates
+
+Page 15 of 21

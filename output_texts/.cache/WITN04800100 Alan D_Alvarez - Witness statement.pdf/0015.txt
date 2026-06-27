@@ -1,0 +1,30 @@
+WITN04800100
+WITN04800100
+
+The first phase was to deliver all solution components required to support key refresh
+associated with lost/not working Post Master Memory Cards (PMCCs). The second
+phase, to be delivered post go live of New Release 2, was to deliver the additional
+functionality required to enable a global key change across the whole estate to take
+place. Global encryption key changes would be undertaken every 12 months and
+therefore the second delivery phase would need to be implemented within 12 months
+of New Release 2 going live. I recall that this second phase was delivered within the
+12 month period. The document titled 'Requirements for KMS at CSR+', which is
+referred to in the Exception Plan, is also exhibited to my statement at WITN480_01/9.
+39. Besides the matters described above at paragraphs 37 and 38 above, I do not recall
+any other matters under my supervision which caused delays to Release 1C or New
+Release 2. My recollection is that no changes were made to the original specification.
+40. However, the implementation of security was not alone in causing the delay to the
+New Release 2 pilot. While I do not recall the details, there were a number of other
+delays across the project in the run up to the New Release 2 pilot.
+
+THE NEW RELEASE 2 PILOT
+
+41. I do not recall the specific nature of problems or issues that were raised during the
+New Release 2 pilot.
+42. Generally, I understand that during the New Release 2 pilot, incidents were raised
+through the service desk for any issues encountered. Where the resolution required
+a code fix, this would be passed to 4th line support where a defect would also be
+raised and tagged to the incident. The defect would be annotated with the cause of
+the defect and the resolution. I suggest that the incident system may be searched for
+
+Page 15 of 26

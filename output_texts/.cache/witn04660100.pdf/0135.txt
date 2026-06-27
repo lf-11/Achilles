@@ -1,0 +1,31 @@
+WITN04660100
+WITN04660100
+DocuSign Envelope ID: 0B8D9A6F-D117-40AC-B8CA-9EFEBC3C2B1D
+
+1.2 how and why each of the alleged problems with the Horizon
+system mean that the losses in question were allegedly theoretical rather
+than real."
+
+308. The relevant part of Mr Castleton's Part 18 Reply [POL00069298] dated 10 April
+2006 stated as follows:
+
+"1.1 The problems that the Defendant encountered with the Horizon system
+and the occasions on which he encountered them were as follows:
+
+(i) Not communicating properly. The Horizon system, as installed at
+the Marine Drive branch, included 2 computer terminals with touch
+screens and keyboards, together with bespoke software
+developed and maintained on behalf of the Claimant by Horizon
+Systems. One of the terminals was known as the base unit, which
+the Defendant believes had a small amount of internal memory,
+and had an ISDN, (subsequently broadband), connection off-site
+to a central monitoring and/or data storage and/or controlling
+station, which was maintained on behalf of the Claimant by Fujitsu
+Services. The other terminal was known as node unit, which the
+Defendant believes had no separate internal memory, was
+connected to the base unit and communicated to it such data as
+might be input to it. The Defendant believes that periodically,
+several times throughout a day's trading, the base unit would then
+transmit data input both to it and through the node unit, onwards
+to the central station. On occasions too numerous to recall during
+Page 135 of 194

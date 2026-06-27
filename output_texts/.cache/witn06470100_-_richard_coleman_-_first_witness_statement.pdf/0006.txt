@@ -1,0 +1,30 @@
+WITN06470100
+WITN06470100
+
+development and by other SSC members for the various products that we
+were tasked with learning. We were also required to train others, that Mik
+identified, in our own areas of responsibility so that knowledge was shared
+around the SSC.
+
+18. My own area of expertise was the configuration databases in the data centres,
+ACDB and OCMS were two of them, if I remember correctly.
+
+19. As far as I can recall we were expected to carry out our work with due
+diligence and where possible to correct the issue and to close calls accurately
+with the correct response code. There were times when an issue would cause
+a red alert and there would of course be pressure to meet the SLA. However if
+we were unable to meet the SLA, which may involve a financial hit on Fujitsu,
+Mik always handled that pressure from senior management so that we could
+focus on getting the incident resolved, and to accurately document the issue
+and its resolution both in the PinICL and in a KEL.
+
+20. As far as I can recall the SSC had a good working relationship with all the
+other support teams, and I don't recall there being any issues with SMC and
+the volume of calls raised.
+
+IDENTIFICATION AND RECTIFICATION OF BUGS, ERRORS OR DEFECTS
+
+21. A number of the bugs listed in Appendix 2 of Bates and others v Post Office
+Limited (No. 6) "Horizon Issues" [2019] EWHC 3408 (QB) that I have been
+
+Page 6 of 11

@@ -1,0 +1,16 @@
+WITN04630100
+WITN04630100
+
+for their assurance too while the solution was being clarified
+
+54. Regarding Changes in Branch Database in 2014, I cannot recall what changes were made, nor whether I would have known at the time. My recollection is that I had understood that Fujitsu could not "correct" or "inject" transactions whereas FUJ00087118 (Emails: Branch Database and Change Management Additional Questions) indicates that some form of entry was possible.
+
+55. POL00031410 (Post Office Ltd Risk and Compliance Committee. Project Zebra Horizon review by Deloittes) explains that Deloitte had been commissioned by General Counsel and CIO to conduct a desktop review related to challenges that Horizon was defective. I cannot recall anything to cause me to suggest any other description for their involvement than is given in the introduction to that document
+
+Audits
+
+56. I did not personally carry out audits. I was, however, responsible early in my time at Post Office Ltd for the Branch Audit Team whose members carried out audits at branches. These involved physical audits of cash and stock as well as compliance audits of processes. The cash audit would involve a temporary closure of the post office while a full asset check was conducted, counting cash and stock at the counter and in the safes. Compliance audits would involve discussion and review of processes which might range from branch opening through Horizon password security and to product compliance.
+
+57. Regarding document POL00047544 (Post Office branch auditing- Period 6
+
+Page 14 of 24

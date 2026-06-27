@@ -1,0 +1,33 @@
+WITN04640100
+WITN04640100
+
+reviewed the documents identified in respect of the Smart ID discrepancy issue.
+Please read my answer in relation to this question in conjunction with
+paragraphs 278 to 288 above. I recall that Fujitsu and the Smart ID project
+manager agreed a process for flagging new cases which had been identified by
+the monitoring system that had been put in place and was being managed by
+Fujitsu. All of these new cases were then captured in status reports and the
+Smart ID team were updated on these new cases on a weekly basis.
+
+292. I should note that although POL00037819 is referenced in relation to
+this question, this document is not related to the technical receipts and
+payments mismatch issue which arose in late 2018 and which I discuss in
+response to this question. Instead, POL00037819 was prepared in response to
+feedback from the NFSP on how the multiple login functionality of Smart IDs
+had caused operational (not technical) issues for Postmasters in branches (as
+explained in paragraph 271 above).
+
+GENERAL
+
+293. I have been asked who and / or what I think is responsible for the
+problems in the Horizon IT system. I think there was a baseline assumption
+within POL that Horizon was a robust accounting system. Although there was
+some identification, monitoring and resolution of issues in Horizon, which I have
+discussed in this statement, I believe that this underlying assumption meant
+that POL was not always as attuned to the concerns raised by Postmasters as
+it should have been. Generally, I think the ways in which changes were made
+to the system were not always communicated clearly enough to Postmasters
+and that this led to confusion in branches, calls to the NBSC and greater
+potential for errors to be made by Postmasters.
+
+Page 88 of 95

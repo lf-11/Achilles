@@ -1,0 +1,33 @@
+WITN04630100
+WITN04630100
+
+user transaction, but rather that it created an opportunity for a sales icon on
+screen to be used for unintended purposes.
+
+35. My recollection is that branches would sometimes select "other postage" as
+a fast way to process a more complex transaction, with the expectation that
+later in the day they would reverse the "other postage" transaction and put
+the correct transaction through. They might also correct it by way of stock
+adjustment. Horizon would accurately reflect the incorrect transaction they
+entered. It could in turn have issues for sales data where sales were based
+on stock movements.
+
+36. My recollection is that the other issue in this area was in branches which
+had a separate retail business as well as a Post Office. Customers obviously
+only want to queue once and pay once, even if they were buying items from
+both the retail side and the Post Office side. Branches therefore sometimes
+used "other postage" as a way to process retail sales through the Post Office
+side, with the expectation that they would reverse it and align the Post Office
+and Retail tills later on. Again, Horizon would accurately record what the
+user keyed as "other postage" and if, and until, it was corrected it would be
+a "genuine error" in terms of genuine retail sales proceeds temporarily
+recorded in the wrong till system.
+
+37. My recollection is that the stock adjustment project sought to resolve this. It
+was tackling a consequence of operational challenges for retail branches
+and customer service, not a functionality issue in terms of Horizon data
+processing.
+
+Review of Horizon Integrity
+
+Page 9 of 24

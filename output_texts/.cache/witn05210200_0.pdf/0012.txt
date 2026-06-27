@@ -1,0 +1,20 @@
+WITN05210200
+WITN05210200
+
+36. As I do not have a technical/IT/client accounting background this is not within my knowledge.
+
+Question 23: Were you satisfied that these controls were sufficiently rigorous to address the accounting integrity issues identified y Al 376? Please explain the reason(s) for you answer.
+
+37. Again, I am unable to provide an answer from a technical/IT perspective. The implementation of data integrity controls was focused on ensuring that the error rate of the Al 376 data integrity issue was reduced to 0.6% or less, otherwise Core System Release would not take place.
+
+Question 24: Who within POCL was responsible for investigating and resolving the manual error reports produced by ICL Pathway pursuant to these controls?
+
+38. The Transaction Processing Business Unit in the first instance. Depending on the nature of the issue there may have been a need for involvement from the Operational Retail Network Management, the Finance Executive, Pathway and the Investigations Department.
+
+Question 25: How were accounting discrepancies caused by POCL Reference data intended to be resolved?
+
+39. To the best of my recollection, this would have been the work of the Reference Data Project Team (Ted Baldwin and Geoff Darby) in conjunction with John Meagher of the Horizon Product Assurance Team. I was not part of either of these teams.
+
+PLEASE CONSIDER FUJ00118176 AND FUJ00118171
+
+Page 12 of 21

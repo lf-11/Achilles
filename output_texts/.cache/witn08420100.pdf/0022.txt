@@ -1,0 +1,40 @@
+WITN08420100
+WITN08420100
+
+Witness: Rodric David Alun Williams
+Statement Number: WITN08420100
+Exhibits: None
+Date: 11 March 2024
+
+paragraphs [43] to [57] the issues that I was asked to look into as part of this
+work, and then set out at paragraphs [58] to [60] my work assisting with liaison
+with senior management.
+
+Knowledge of BEDs
+
+43. It was the imminent publication of the Second Sight Interim Report that focused
+attention on bugs, errors and defects ("BEDs") in Horizon and through this, I
+learned that POL was aware of two 'bugs', which had been raised with Second
+Sight and would be discussed in their Interim Report. The information I saw
+indicated that these bugs had all been identified and resolved, and relevant
+affected parties had been, or were now being, informed. I discuss this further in
+paragraphs [44] to [54] below. It was also through the Second Sight process
+that I recall first becoming aware of issues relating to criminal prosecutions and
+duties of disclosure relating to BEDs. I discuss this further at paragraphs [72]
+to [75] below.
+
+The Callendar Square bug and Horizon issues in litigation
+
+44. I have been asked to comment on some 1 July 2013 emails concerning the
+'Callendar Square bug' (sometimes called the 'Falkirk' bug).20 These events
+happened over 10 years ago, so I do not now have a firm recollection of how
+they unfolded. As far as I recall, I was asked by Simon Baker to find out whether
+Horizon bugs had been referred to in any previous court actions, in anticipation
+
+20 Email from Jarnail Singh to Hugh Flemington and others dated 1 July 2013 at 16.47 (POL00062368);
+Email from Andy Parsons to Rodric Williams dated 1 July 2013 at 14.49 (POL00060590); Bond Pearce
+document 'Horizon is free from defects' (POL00060591); Bond Pearce Memo 'Misra transcript' dated
+October 2011 (POL00060592); Bond Pearce document 'POL Training Adequate' (POL00060593); and
+Bond Pearce document titled 'POL Helpline Adequate' (POL00060594)
+
+22

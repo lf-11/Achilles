@@ -1,0 +1,27 @@
+WITN03910100
+WITN03910100
+
+as a reviewer, however I may have seen this document but cannot recall due
+to the time elapsed some 18 years.
+
+12. My role also included logging any defects identified by the back-end teams
+involved in user acceptance and regression testing in line with the Testing
+Team fault resolution process which was managed by the Testing Team
+Leader. My role would include arranging for any agreed defect fixes to be re-
+tested in the subsequent phases of the testing cycle by back-end teams and
+to obtain sign-off by them at the end of the test release.
+
+13. I have been asked to comment on whether or not I feel that the IMPACT
+Programme was successful. I was not involved in the production of the
+business case, design, or setup of this Programme as I was a junior manager.
+This would have been done by the Programme Manager, Head of Design and
+the Senior Leadership team at the time. I cannot recall seeing any of the Post
+Implementation Review documentation for this Programme which was some
+18 years ago. This would be one of the factors used by Post Office Ltd to
+determine whether or not the Programme was successful.
+
+14. I have been asked to comment on the suggestion that the IMPACT
+Programme led to sub postmasters unfairly being held responsible for
+disputed sums of money. I cannot recall any system issues at the end of
+
+Page 7 of 17

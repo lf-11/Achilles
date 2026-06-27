@@ -1,0 +1,12 @@
+WITN04510100
+WITN04510100
+
+122. I do recall that no SSC staff members, nor indeed anyone else, could change or delete transaction data in the counters. Transactions in Riposte were immutable—they could not be changed or deleted.
+
+123. If a postmaster made a mistake, a transaction could be “reversed” (by inserting a “reversal” or “corrective” transaction) but it could not be deleted. There were processes by which SSC staff could, under instruction or approval from POL and with assistance from the postmaster, insert corrective transactions, and I recall that there were processes in place to control this rare occurrence, involving dual-person sign-off on the Peak and approved OCP requests for the SSC to do the work, which I believe had to be approved by POL as well as Customer Service. An example of this process is OCP 21918, titled “Insert Corrective Transactions at Branch 382137” dated 2 March 2009 (OCP 21918) (FUJ00084131). My recollection is that the process was technically complex and could only be done in agreement with the postmaster and was extremely rare.
+
+124. As documented in “Secure Support System Outline Design” dated 2 August 2002 (System Outline Design) (FUJ00088036), prior to the introduction of Network Banking, the SSC could only do the activity with cooperation from counter staff. Once Network Banking was in place, then Secure Shell (SSH) software was implemented, and everything that the SSC did had a full audit trail.
+
+125. Not all SSC staff had such access. As I note at paragraph 37 above, new staff joining the unit were allocated a “mentor” from the experienced SSC staff. Only when the mentor felt that they were technically ready were they allowed access
+
+Page 41 of 54

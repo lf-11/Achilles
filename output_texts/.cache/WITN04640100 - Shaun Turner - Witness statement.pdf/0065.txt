@@ -1,0 +1,14 @@
+WITN04640100
+WITN04640100
+
+214. I have been asked to state whether any problems were caused by or during the implementation of this project. As stated in paragraph 197, I have reviewed document POL00001535 in relation to this issue.
+
+215. I have a vague recollection that there were some calls from branches at the beginning of the PING rollout. From my limited memory, there was an interface within Horizon whereby Postmasters had to map Camelot transaction acknowledgments to the Camelot stock unit. I think the calls from Postmasters was where this mapping process had not been set up or had been done incorrectly, resulting in transaction acknowledgments being applied to the wrong stock unit, such that the branch overall stock unit was correct but individual units, including Camelot stock unit, would be incorrect.
+
+216. There was also one other issue caused by the changes made by the PING project. Transaction acknowledgments would appear on screen to the first individual logging in to Horizon each day (regardless of terminal) and would then disappear from the terminal screen. The first individual logging in was not always the Postmaster or manager responsible for balancing the Camelot stock unit and checking the transaction acknowledgments. I am unable to recall how this was ultimately resolved but I expect there would have been further communications on this.
+
+217. However, overall, I do not remember there being a lot of calls from branches in relation to problems caused by or during the implementation of the PING project. There were teething problems as Postmasters became familiar with the change in process, not long term issues.
+
+Stock Adjustments project
+
+Page 65 of 95

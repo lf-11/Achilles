@@ -1,0 +1,40 @@
+WITN08420100
+WITN08420100
+
+Witness: Rodric David Alun Williams
+Statement Number: WITN08420100
+Exhibits: None
+Date: 11 March 2024
+
+understood this until they were highlighted in the context of a later internal
+review carried out by Sir Jonathan Swift (see below at [150]-[151]).
+
+145. The Inquiry has asked me to comment on an email exchange I had with Mark
+Westbrook at Deloitte on 20 May 2014 in relation to a version of Deloitte's draft
+update to the board.130 The reason for the exchange was that I had gathered
+that Deloitte had identified that a specific control on the audit store was not as
+secure as understood by POL, and I wanted to know a bit more about it in case
+it raised a "red flag" which required escalation. Mark's reply was that it a
+theoretical possibility for which there were other controls, that Deloitte was
+looking into it further and continuing to ask questions of Fujitsu and that Deloitte
+would address it in their final report. As with other Horizon related technical
+information, the detail of this audit store issue was outside my area of expertise,
+and in light of Mark's response I do not recall giving this further consideration.
+
+Balancing transactions and Second Sight in Autumn 2014
+
+146. I am referred by the Inquiry to correspondence from Fujitsu forwarded to me
+and others on 23 October 2014 by Belinda Crowe.131 The context for this was
+that the issue of access to Horizon data had arisen again in relation to two
+cases in the Scheme on which Second Sight had completed a report, and
+Belinda Crowe sought to form a common understanding of what was and was
+not possible with "remotely accessing" Horizon in order to appropriately
+respond to these allegations.132 It was intended that a meeting be held with
+
+130 Email from Mark Westbrook to Rodric Williams on 20 May 2014 at 12.44 (POL00029728)
+131 Email from Belinda Crowe to Patrick Bourke and others dated 23 October 2014 at 07.29
+(POL00091397)
+132 Email from Belinda Crowe to Angela van den Bogerd and others dated 21 October 2014 at 16.34
+(POL00307607)
+
+72

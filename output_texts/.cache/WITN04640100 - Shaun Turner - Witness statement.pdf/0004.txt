@@ -1,0 +1,12 @@
+WITN04640100
+WITN04640100
+
+Sept 1999 – Sept 2001: NBSC Incident Analyst
+
+9. In September 1999, I then moved to the role of Incident Analyst at the Network Business Support Centre ("NBSC"). I held this title during the period in which Horizon was rolled out across the POL network. As part of the Horizon rollout, POL migrated all of its pre-existing helplines into one single helpline for Postmasters which, at the time, was called the NBSC.
+
+10. The NBSC was the helpline within POL that was responsible for dealing with operational queries from branches, for example in relation to products or transactions. Conversely, the Horizon Service Desk ("HSD") was the helpdesk within Fujitsu that was responsible for dealing with technical issues experienced in branch, for example those relating to printer or Horizon equipment failures. Both the NBSC and HSD were expected to log calls from Postmasters into their respective call logging systems. If a Postmaster contacted the wrong help centre, the call was either directly transferred to the correct help centre or the Postmaster was told to which help centre they should reach out.
+
+11. Given their different remits, the NBSC and HSD therefore each had a separate knowledge base of articles and other documents that advisers could use to answer queries from branches. However, the NBSC and HSD were able to share information with one another in relation to capacity issues (for example where one or both help centres were receiving large call volumes) and I think also known issues (for example problems logged in a Known Error Log). My recollection is hazy and I cannot recall the precise details, but I think that the HSD shared a spreadsheet of Known Error Logs with managers and team leaders in the NBSC for awareness, so that if the issue arose on a call it could be redirected to the HSD, which was responsible for dealing with system issues.
+
+Page 4 of 95

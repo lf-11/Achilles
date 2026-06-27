@@ -1,0 +1,34 @@
+WITN09750100
+WITN09750100
+
+engagement to Paula Vennells, POL Chief Executive. My POL points of contact
+throughout the project were Chris Aujard and Rodric Williams in POL Legal ("POL
+Legal Team") and the majority of meetings and conference calls (as per (vi) above)
+were only attended by POL Legal Team representatives.
+
+41. There were a number of limitations to the work Deloitte was able to conduct
+which are reflected in the Scope. These have been mentioned above and detailed
+further below in the statement, but include:
+
+(i) a review of the HNG-X System which was introduced in 2010 but excluding a
+review of the Legacy Horizon System;
+
+(ii) excluding testing and implementation of the HNG-X processing environment
+to determine whether risk related control measures were sufficient to confirm
+the reliability of the HNG-X System in practice as a result of time constraints;
+and
+
+(iii) as a result of (ii) above, only conducting a desktop review of the Third-Party
+Assurance Work already undertaken in relation to the reliability of the HNG-X
+System and not testing the quality, completeness or accuracy of this advice.
+
+42. As a result of limitations, the work conducted by Deloitte had to be
+based upon a number of assumptions, most importantly, those detailed in
+paragraph 41 above. This meant that the work conducted by Deloitte had to
+presume the accuracy of statements made and information provided by third parties
+as to the design of the system and how this worked in practice; Deloitte was not
+instructed to question or test the accuracy of such statements or information.
+
+43. I was the Deloitte Partner responsible for provision of the Services.
+
+Page 12 of 39

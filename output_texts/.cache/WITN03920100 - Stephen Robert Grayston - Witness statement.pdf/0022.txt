@@ -1,0 +1,27 @@
+WITN03920100
+WITN03920100
+
+planning aligned to Programme milestones (for example managing people
+released from roles that no longer existed; or recruitment to new roles).
+54. The IMPACT Programme changed the way that users interacted with the Horizon
+system in respect of changes to the Cash Account process and move to Branch
+Trading; the change to an automated process for the management of office
+discrepancies. I believe there were some enhancements to other areas of the
+Horizon system that would be noticeable by users (recognition beeps in the EMV
+card slot, British Forces Post Office [BFPO] selection in SmartPost) however not
+all changes involved a change of process and some changes related to creating
+enablers for future transactions (handling bank Smart cards for payments).
+55. With regard to CR272 I am unable to provide an explanation of the background
+to the specified changes; this would have been developed by the POCL design
+team as part of the process associated with developing the Change Work
+Package 0290 (reference FUJ00090315). I can confirm that the nature of the
+changes would have been evaluated by the business change team to confirm
+any people or process impacts.
+56. With regard to CR276 I am unable to provide an explanation of the background
+to the specified changes; this would have been developed by the POCL design
+team as part of the process associated with developing the Change Work
+Package 0290 (reference FUJ00090315). I confirm that the nature of the
+changes would have been evaluated by the business change team to confirm
+any people or process impacts.
+
+Page 22 of 32

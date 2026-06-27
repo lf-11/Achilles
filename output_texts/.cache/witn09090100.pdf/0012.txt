@@ -1,0 +1,29 @@
+WITN09090100
+WITN09090100
+WITN09090100
+
+33. The next step in the balance process would be to make a stamp declaration
+for other stamps, this was postage stamps with a set value of 1p to £5 (this
+did not include first class and second-class stamps and stamp books). This is
+done by going into the declare stamps screen and entering the number of
+stamps for each denomination. The reason other stamps are treated
+differently than the rest of the stock items is because Horizon just gives one
+total value figure for all these stamps, this is to make the sales process easier
+when customers are sending mail items and many different denominations of
+stamps are affixed.
+
+34. Following on from the stamp declaration the branch would declare the foreign
+currency on hand figure (this is only for branches who sold foreign currency).
+This consists of counting each type of currency on hand and declaring the
+value of that currency.
+
+35. The final declaration to be made as part of the balance process was to
+declare the cash, this is done twice on balance day, once as part of the daily
+process making the daily cash declaration, and then once as part of the
+weekly balance process. When declaring the cash, the branch would enter
+the value of each denomination of note and coin. It was important that the
+balance cash declaration was the last thing to be done as making changes in
+any of the steps before this could alter the system derived cash figure and a
+new declaration would have to be made.
+
+Page 12 of 33

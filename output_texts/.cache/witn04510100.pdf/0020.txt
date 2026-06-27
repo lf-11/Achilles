@@ -1,0 +1,14 @@
+WITN04510100
+WITN04510100
+
+Recollections of my time in the SSC
+
+50. I remember on my first day thinking that running a software support team which, at that time, did not have adequate access to the system to gather evidence, nor the Fujitsu-written source code that we were supporting, was going to be an impossible job. It left me wondering what on earth I had taken on. It also came with a very long “to do list”.
+
+51. This situation did improve rapidly. The SSC was given greater (but not full) access to the system—parts of the system were still not accessible, for example, the audit server. The SSC was also given read access to the source code. The relationships between the different support units (i.e., the HSH, SMC, SSC and development teams) were defined, additional staff were recruited and we moved to a secure location in Bracknell. We also developed a specification of the equipment required for a test rig specifically for SSC use, which the SSC would use to recreate problems reported on Horizon. Over time, I was able to complete all the items on my “to do list”.
+
+52. Overall, I suspect that, like everyone else in every other job, there were some good days and some bad days. I remember thinking that I did a good job of treating my staff with respect and managing the team, and getting the software problems with the system managed properly.
+
+53. I believe that the SSC provided a professional and competent service, both to POL and to Fujitsu. The unit regularly hit or exceeded the targets which we were set, developed and maintained support tools for the SSC and for other support teams, and provided a service to POL for management information
+
+Page 20 of 54

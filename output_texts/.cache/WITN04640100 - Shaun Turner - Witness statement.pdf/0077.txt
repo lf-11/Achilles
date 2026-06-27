@@ -1,0 +1,33 @@
+WITN04640100
+WITN04640100
+
+identified bugs, errors and / or defects in the Horizon IT System. As stated in
+paragraph 229, I have reviewed the documents identified in respect of this
+question. Please read my response to this question in conjunction with
+paragraphs 229 to 254 above 247 to 250 above.
+
+256. To my knowledge, there were no bugs or defects in the pilot build and
+the existence of possible bugs or defects was not a driver in the implementation
+of these Smart ID features. Instead, these were pursued to address operational
+concerns of how the new system would work in branches and to provide
+appropriate support to Postmasters.
+
+257. The dual login capability was designed to address a particular
+operational issue about needing to switch quickly between terminals and for
+which the restricted ID solution was only a temporary solution. This is where
+the change request (POL00036254) came from originally.
+
+258. The other features described in paragraphs 247 to 254 were largely
+connected to the training controls. The Smart ID project was implemented in
+two stages. The login side of the Smart ID functionality was implemented first
+and the training controls were added on later. My recollection is that the initial
+pilot took place in mid-2017 and then a decision was made around September
+2017 to decouple the login functionality from the training controls to allow more
+time to work on the training controls and related features. Whilst preparing this
+statement, I remembered an email on 25 August 2017 from me to Julie Thomas
+(Smart ID project sponsor) in relation to Smart ID implementation and, in
+particular "concerns about EUM training controls where training lapses"
+(WITN04640105). The email provides context for the decision which I
+remember Julie ultimately taking to descope the training controls discussed in
+
+Page 77 of 95

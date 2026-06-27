@@ -1,0 +1,14 @@
+WITN04640100
+WITN04640100
+
+197. I have been asked to consider POL00001535, and to explain the background and purpose of the PING project. I have reviewed document POL00001535 in relation to this question. Whilst I do not recall this specific document, I have broader memories in relation to this project and have not limited my answers in paragraphs 198 to 217 below to this document.
+
+198. My understanding is that the general purpose of the PING project was to automate the process by which transactions were entered from some other third party terminals/devices used in branch into Horizon. This was intended to reduce risks of human error and ultimately the number of TCs issued to branches.
+
+199. An example of this is Camelot, which is a lottery terminal used in branches to sell lottery and scratch cards. Before the PING Project, Postmasters had to log their branch's lottery transactions on a separate Camelot terminal. At the end of the day, Postmasters would then have to translate those transactions onto Horizon for accounting purposes. It was a manual process.
+
+200. Instead, the PING mechanism worked electronically by automatically sending information from the Camelot system to Horizon in the form of a transaction acknowledgment. Postmasters would not have to enter manually figures into Horizon and the third party system and Horizon should match.
+
+201. Other terminals/devices to which the PING process could be applied were ATMs and Paystation. Paystation is a payment device predominantly used to accept bill payment transactions from customers. I remember, though, that the first system that the PING project was applied to was Camelot. I am unable
+
+Page 61 of 95

@@ -1,0 +1,39 @@
+WITN04120100
+WITN04120100
+
+were tracked through a change control system. Overall, the core elements of live
+status were reported as satisfactory, as far as they went at that stage.
+
+15. As I recall, the impact of the PA report began to see the migration of functions and
+staff back into their host organisations and the role of the PDA as a joint body,
+reduced.
+
+16. The testing of functionality, security and end to end processes was increasingly
+undertaken by additional resource within Post Office responsibilities, involving
+contractors and staff diverted from other parts of the business structure.
+
+17. New POL forums were established, such as the Release Authorisation Board and
+the Automation Transformation Steering Group. There was an increasing
+requirement for acceptance to have clear separation of boundaries between BA and
+POL within Pathway systems. I believe functionality testing followed that change.
+
+18. The Horizon implementation team was set up in POL, in which I continued to have a
+general management role. I attended authorisation and development meetings with
+Pathway from a planning and roll out timescale perspective.
+
+19. My understanding of technical difficulties was gained from attendance at progress
+meetings with Pathway. I still retained a relationship management and
+communications role with BA, so understood the implications attendant to the issues
+at the interface of CAPS and Pathway releases, but not at a level of technical
+granularity.
+
+20. The IT development issues and risk were retained by Pathway and, as I recall, not
+visible to Post Office people or in combined risk registers.
+
+21. The forums for addressing technical difficulties set up within the POL Horizon
+hierarchy were the Release Authorisation Board, Transformational Steering Group
+and ongoing progress meeting with Pathway. Horizon testing was on the
+Transformation Steering Group agenda from July 1998. There were reports feeding
+into these bodies providing impact assessment in a traffic light risk format.
+
+Page 4 of 13

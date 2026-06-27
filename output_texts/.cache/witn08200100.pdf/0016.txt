@@ -1,0 +1,31 @@
+WITN08200100
+WITN08200100
+
+availability of important evidence and data was becoming more and more
+important. If we had been given direct access to the data, it would have
+greatly assisted the initial stage of any investigation where data was required
+as we would not have had to go to Fujitsu to acquire it. Conversely, having
+access would have required finding the necessary trained resource to access
+it and provide it in a useable form to investigators. This would have been
+difficult in the prevailing circumstances.
+
+35. I am unable to remember any specific cases, though in audit shortage cases
+where any comment was made about the accuracy of Horizon, I believe that
+audit data would have been requested, in order that it could be examined for
+any indication of spurious transactions. I have no recollection as to whether
+ARQ data was disclosed in prosecution cases.
+
+36. I have been asked to explain the contents of document FUJ00171998. It looks
+to me like there was a discussion about the destruction of data relating to an
+office that DWP were conducting a prosecution in relation to. DWP were
+demanding that data destruction cease and Fujitsu seem to be saying that
+they have no contract with DWP and thought they can cease temporarily, they
+are a commercial organisation and can act in accordance with their contract.
+
+37. During my time with POL Investigations, I had little contact with Fujitsu and I
+do not recall meeting Gareth Jenkins or Penny Thomas. I did meet with Bill
+Mitchell and some other Fujitsu colleagues and I visited Fujitsu for meetings
+on occasion. I also undertook a joint presentation with Fujitsu at the Stock
+Exchange, where I gave a description of how we used Horizon data in
+
+Page 16 of 33

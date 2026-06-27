@@ -1,0 +1,27 @@
+WITN03910100
+WITN03910100
+
+that the incident had been discussed with myself, it states that all transactions
+have been reported to POCL.
+
+25. I have been asked to explain what steps I took as part of the Live Trial Team
+to investigate the problem (refer to point 24.) or rectify it. Due to the time
+elapsed some 22 years, I cannot recall this specific incident or in fact any
+others and it would have been one of many that I was involved with. I
+therefore cannot explain the actual steps taken for this particular branch to
+investigate and rectify this particular issue. This issue would have been
+actioned and managed in line with the Horizon Live Trial Incident and Problem
+Management process outlined below in point 26. to the best of my
+recollection.
+
+26. I have some recollections of the role in general terms which was as the CM2
+Live Trial Incident Manager for Transaction Processing (TP). This junior
+manager role would have been to ensure that live trial incidents for TP were
+logged, tracked, investigated, resolved and reported on to the Project Team.
+This role reported into the Problem Manager on the Live Trial project Team.
+My role and responsibilities would have been defined in the Live Trial Incident
+and Problem Management Procedures document. POL00000760 mentions
+that I was sent a BIM0007111299 report. This was a Fujitsu document
+reporting an incident and then used by them to explain an incident and its
+effects on a branch. Investigations would have been completed by myself and
+Page 12 of 17

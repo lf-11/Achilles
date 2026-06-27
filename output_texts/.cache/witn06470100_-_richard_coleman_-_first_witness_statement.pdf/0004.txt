@@ -1,0 +1,12 @@
+WITN06470100
+WITN06470100
+
+PINICL AND PEAK SYSTEMS
+
+10. PinICL was the system used by the support and development teams to record and manage calls. I do not recall any issues with it that prevented me from doing my job, but there clearly were issues with it as PEAK was developed to replace it, and I recall John Simpkins being heavily involved in its development. I don't recall ever using it and so cannot comment on it.
+
+11. Before her retirement, Barbara Longley was the PinICL administrator for most of my time in the SSC, and she had a list of products and abilities for each member of the SSC and she would assign calls as per their skill set and workload. I do not recall who took over from Barbara when she retired, nor do I recall how PinICLs were prioritised.
+
+12. The closing of calls would depend on the reason why the call had been raised in the first place and whether that call needed to be passed on to another team. For example, where a bug had been identified then I believe calls would only be closed once a solution had been identified and the fix had been tested and made available. Sometimes duplicate PinICLs would be raised for the same problem and they would be closed as duplicates. There were a range of codes used when closing calls to, I assume, enable management to gather statistics on the types of calls that were being raised and why they were closed. I recall that there was at least one team, though I do not recall the name of the team, where we had to close the call on PinICL with a particular response code for it to be passed on to them.
+
+Page 4 of 11

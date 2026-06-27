@@ -1,0 +1,29 @@
+WITN06160100
+WITN06160100
+
+was branch data that related to all the keystrokes on the system that somebody
+in branch had undertaken. This would provide more detailed information
+regarding which users were doing what on the system and when. The data
+available in the ARQ process was also available for a larger date range than the
+teams in Product and Branch Accounting Team had add access to.
+
+119. I believe this process and the request for the data was managed by the
+Security and Investigations Team. I was aware that if the Post Office exceeded
+the request for ARQ data above the agreed allocation, then this was a charge to
+the Post Office. I can't remember the exact amount but understand it was in the
+region of £400 per request. If a request needed to be made, this had to be done
+via the Security Team and therefore I didn't have any dealings with Fujitsu as
+part of this process.
+
+120. I have been asked whether there were any improvements that could have
+been made to this process. In my role as Head of Network Co-ordination, there
+were process improvements that were identified and discussed with Product and
+Branch Accounting. One of these was the consistency with which supporting
+evidence was provided when Transaction Corrections issued to branches.
+
+121. Another issue which was raised with the team was the timing of the issuing
+of the Transaction Correction and the length of time branches had to resolve the
+dispute. Part of the Horizon balancing process was that all Transaction
+Corrections had to be accepted and processed before the branch completed its
+balance, otherwise the branch could not complete the required procedures to roll
+Page 40 of 45

@@ -1,0 +1,30 @@
+WITN05970200
+WITN05970200
+
+member of the Demonstration and Evaluation Team (as I did). Once we got into
+the Assurance phase, Gareth Lewis headed up a Fraud and Security Group
+(FSG) on the Programme, with I think a primary focus on the Benefit Payment
+Service (BPS), which of course included both BA and POCL components.
+Having an FSG, led by a BA manager, made some sense given that there was
+every expectation that criminals involved in fraud around the legacy manual order
+book ("foils") and giro cheque methods of payment would naturally migrate to any
+new method of payment, so that the security and fraud resistance of the BPS was
+clearly of importance to the Programme. This FSG I believe sat as part of the
+Assurance activity but with some separate reporting into interested parties in BA.
+
+10. As mentioned in my first witness statement (WITN0597_02/1, WITN05970100) at
+para 74 at some point I joined Gareth Lewis's team (from my POCL
+Infrastructure/Technical Assurance role) to provide focus on technical security. I
+cannot be sure when I started formally in the FSG, probably in 1997, and I believe
+the team was disbanded in autumn 1998 when Gareth Lewis left the Programme
+(following a reorganisation when the PDA morphed into the POCL-led Horizon
+programme). From what I remember I effectively worked wearing two (not
+incompatible) hats, one working on technical assurance and one into the FSG.
+This is borne out by some of my reports at the time being reporting both work for
+John Meagher and for Gareth Lewis.
+
+11. My role, as noted before was effectively around the Technical Assurance and
+specifically for the FSG in the IT security area. This included liaison with CESG
+(Communications Electronics Security Group) at Cheltenham (for use of approved
+
+Page 4 of 14

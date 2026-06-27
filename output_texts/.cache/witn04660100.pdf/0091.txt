@@ -1,0 +1,11 @@
+WITN04660100
+WITN04660100
+DocuSign Envelope ID: 0B8D9A6F-D117-40AC-B8CA-9EFEBC3C2B1D
+
+(a) "Mr Castleton's solicitors state that according to the final cash account generated at Marine Drive Post Office for week 42, total receipts of £176,291.15 were paid in during the course of that week and that the end figure carried over from week 41 was £54,170.49. They state that as a consequence, £122,120.66 was received during week 42. However, they state that a manual reconciliation of the figures contained in the Horizon transaction log this week gives a figure for monies received of £125,013.90, an apparent difference of £2,893.24.
+
+(b) They also state that an analysis of the figures relating to payments (i.e. monies leaving the Marine Drive Post Office during week 42) shows a discrepancy. The figure for stock carried over for week 41 was, according to them, £92,374.74. They state that if this is deducted from the receipts of £176,291.15, this leaves a balance of £83,916.41 in respect of payments made (I am not sure whether they are right about that figure because if you add the payments on the CAP at page 5, they seem to come to £82,673.51). In any event, they state that a manual reconciliation of all the transactions showing in the transaction logs gives a figure of £83,707.07 and state that the difference was not allocated in the week 42 cash accounts.
+
+(c) They then go on to assert that there is £1,706.64 in unallocated cash as being paid out of the Marine Drive branch. They think the computer system during the end of week balancing offsets this unallocated cash
+
+Page 91 of 194

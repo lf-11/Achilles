@@ -1,0 +1,32 @@
+WITN09750100
+WITN09750100
+
+items with Sub-postmasters but these items were not always cleared on a timely
+basis.
+
+91. With reference to the Board Briefing, question 23c of the Request asks
+that I consider a particular quote5 and clarify what is meant by 'the matters
+explicitly drawn out in [the] full report' that I considered went against the stated
+objectives. Here the Board Briefing is referring to the 'Matters for Consideration'
+contained in Section 6 of the Deliverable.
+
+92. I am also asked to provide a view on the extent to which the findings in
+our Deliverable and other work products, such as the Board Briefing, cast any
+doubt over (a) the integrity of the Horizon IT System or (b) the safety of past
+convictions that relied on data produced by the Horizon IT System (HNG-X or
+Legacy). On (a) I have tried to explain in this statement the limitations on what
+we were asked or indeed could do both in the time we had and in the absence
+of more data and information relating to Legacy. That is why I was careful in
+the Engagement Letter and Scope to have clarity and acknowledgement. The
+Board Briefing provides the best summary of what we were able to conclude.
+On (b) we were never asked to address that question and I am not qualified or
+competent to express a specific view but in general terms I do not think our
+work cast doubt, rather it stopped short of confirming that assurance sources
+were in place to provide comfort that the system was operating reliably, and
+went on to recommend further areas of work, targeting key potential risks, to
+
+5 "Based on the desktop review we have performed, except for the lack of monitoring controls and the matters explicitly drawn
+out in our full report, we have not become aware of anything to suggest that the system as designed would not deliver the
+objectives of processing of baskets of transactions and keeping copies of them in the Audit Store with integrity" .
+
+Page 27 of 39

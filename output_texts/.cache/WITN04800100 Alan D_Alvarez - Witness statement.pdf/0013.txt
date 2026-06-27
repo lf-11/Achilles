@@ -1,0 +1,33 @@
+WITN04800100
+WITN04800100
+
+was Martyn Hughes. Martyn reported to Terry Austin who oversaw software
+development, test and deployment. He would oversee all software development up
+to acceptance into service.
+
+35. I am not aware of any changes to the acceptance criteria for the security of the
+Horizon system during the period I was involved in the development of the KMS or at
+any other time.
+
+Delays
+
+36. The Post Office and Benefits Agency allowed the pilot of Release 1C to go ahead
+without the KMS being deployed, though I have no knowledge as to why that decision
+was made. However, the KMS was required for the larger scale pilot of New Release
+2.
+
+37. From my perspective, the security and development of the KMS contributed to the
+delay of the New Release 2 pilot and the subsequent roll out of Horizon for two major
+reasons:
+
+a. We had to implement the security requirements from the Access Control
+Policy (WITN480_01/2) and the Security Functional Specification
+Document (WITN480_01/3), which described the technical security
+specifications for the Horizon system. I note that I reviewed the Pathway
+Security Policy dated 8 October 1996 (WITN480_01/4) in order to assist
+with my recollection of the two documents just mentioned. Many of these
+requirements were not previously implemented in Releases 1A, 1B, and 1C,
+but they were required for New Release 2. In fact, I believe the Access
+Control Policy had not even been signed off when I joined in March 1997
+
+Page 13 of 26

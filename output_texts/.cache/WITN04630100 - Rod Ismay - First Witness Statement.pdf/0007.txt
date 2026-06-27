@@ -1,0 +1,32 @@
+WITN04630100
+WITN04630100
+
+terminal and then key specific data from it into Horizon. In practice there
+were a lot of conformance errors including confusion about which data,
+which time period and also not entering the data at all.
+
+26. The Camelot terminal was the prime source of transactional data. This was
+the device where the customer had been served, it was the source of data
+sent to Camelot and the source of the same data for branches to enter into
+Horizon.
+
+27. Ping proposed to make the process easier by sending a Transaction
+Acceptance to the branch, based on the Camelot data, and prompting the
+branch to run a receipt from the Camelot terminal which would enable them
+to assure themselves that the data in the TA was correct and consistent with
+their own in branch Camelot terminal. Given that many branches had been
+unsure how to generate the data before and how to record it, this new
+opportunity seemed to be a very positive step to help branches
+
+28. My teams primarily worked using a central SAP finance system, not Horizon,
+and so we would not have had direct user experience to inform views on
+Horizon except in so far as transaction corrections suggested opportunities
+for improvement at the counter, or to the limited extent that we actually
+worked in branch to help at Christmas or during strikes. Based on document
+FUJ00097480 (HNG-x Release 2 Implementation Plan), the ability to deploy
+"Ping" and the list of other changes appeared to be dependent on the
+progress of the Horizon releases. With the passage of time, however, I am
+afraid I cannot remember what I thought, nor what my level of awareness
+would have been, about Horizon Online and HNG-X Release 2 and how the
+
+Page 7 of 24

@@ -1,0 +1,12 @@
+WITN04510100
+WITN04510100
+
+135. I do not recall the full details of the system checks put in place to control remote access. I do recall that Horizon's processes involved using only "defined-build" (or "fixed build") PCs and latterly for out-of-hours call-out laptops (the SSC build specification was held as a document in the Fujitsu document system and would have been approved by development, support, security and senior managers). I remember Glenn Stevens (who has sadly died) from design/development being the SSC's interface. I also recall that the process for using these PCs involved a two-stage login process involving a one-time password generator, and that the PCs were connected to a dedicated, secure, LAN and that links were encrypted.
+
+136. My role would have been to review and approve the documents relating to the SSC PC build. Whenever there was to be any correction to any data, the process involved the raising of an Operational Change Proposal (OCP), which usually had a number of signatories. I cannot recall the full list of possible signatories, but I was certainly one.
+
+The System Outline Design
+
+137. At the request of the Inquiry, I have considered the System Outline Design (FUJ00088036). I do not know what the Tivoli remote console was and I do not recall SSC staff using Tivoli "Remote Console". The System Outline Design refers to support tools for all support units, including the SSC. As I have mentioned above at paragraph 25(b), Tivoli software was used by the SMC and SSC did not use the software directly. Tivoli monitored servers in the Horizon system and it generated alerts to indicate the possibility of errors, which Tivoli would pick up from operating system events logs. As I understand it, Tivoli was
+
+Page 44 of 54

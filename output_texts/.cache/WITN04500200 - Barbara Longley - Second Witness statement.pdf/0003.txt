@@ -1,0 +1,12 @@
+WITN04500200
+WITN04500200
+
+7. I remember that, as SSC Co-ordinator, the process for receiving and assigning calls was as follows:
+
+a. The first line support team at Fujitsu (known as the "Horizon Helpdesk") would put calls on my 'stack' in the form of Peaks/PinICLs. The calls would come in on my screen, and I would read each call and allocate it to an SSC technician.
+
+b. The SSC technicians were specialised in different areas of Horizon, and I would allocate the call to an SSC technician based on the area that the call appeared to relate to. I would try and determine this by looking for key words in the Peak/PinICL. I knew which SSC technicians did what, and I would check with them before allocating the call. If I was unsure of which area of the system a call related to, I would ask an SSC technician to clarify. There were generally multiple technicians who specialised in each area, so other factors I would consider were their workload, and whether they were on personal leave or annual leave at the relevant time.
+
+c. I do not recall there being any particular challenges to allocating calls because I could always check with the SSC technicians or SSC manager if I was unsure about whether I was allocating the call to the right SSC technician. Sometimes, the SSC technicians would let me know that they wanted to work on a particular call, because they were interested in the problem or issue that was reported, or because it related to work that they had done previously.
+
+Page 3 of 12

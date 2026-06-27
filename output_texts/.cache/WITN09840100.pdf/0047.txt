@@ -1,0 +1,31 @@
+WITN09840100
+WITN09840100
+DocuSign Envelope ID: 35848B78-14EA-4B48-AF01-6881BFF848DD
+
+including Andrew Parsons, Belinda Crowe, Chris Aujard, Mark Davies, Angela
+van den Bogerd and over time, Jane MacLeod. They seemed convinced that
+Second Sight was acting beyond the scope of the work it had been hired to do.
+The position at POL was that Second Sight would seek evidence to support its
+hypotheses rather than drawing proofs from individual cases and then seeking
+to prove or disprove them.
+
+195. Paula seemed open to the idea that we were taking too legalistic an approach in
+dealing with Second Sight (Email from Paula Vennells to Alisdair Cameron re:
+Mediation Scheme 30 January 2015, POL00109933). However, I don't recall us
+discussing it specifically and I assume that, ultimately, she agreed with her
+team's consensus above.
+
+OUTREACH BRANCH REMITTANCE ISSUE (2015)
+
+196. The Outreach Branch remittance issue was escalated following an article in
+Computer Weekly. In summary, the article had described a warning issued by
+the Communication Workers Union ("CWU") to members regarding issues in
+Horizon which had been sent by the POL IT Help Desk.
+
+197. It described circumstances where it was possible for an operator error to
+duplicate a transaction between an Outreach branch and Central hub. Chris
+Broe, the Interim CIO, informed me that the issue was known about, was
+relatively rare and a change had been agreed to Horizon in order to mitigate
+operator errors likely to cause the problem.
+
+Page 47 of 137

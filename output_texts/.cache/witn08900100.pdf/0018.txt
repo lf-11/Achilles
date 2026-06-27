@@ -1,0 +1,12 @@
+WITN08900100
+WITN08900100
+
+47. Other than the case of Carl Page I cannot now recall any other case I dealt with where a discrepancy was attributed to problems with the horizon IT system in the Defence statement. Pension and Allowance order books were still in existence up to 2003 and as such many of the cases up to that time would have involved the wrongful encashment of orders from those books. Cases solely involving a discrepancy between Horizon generated cash and stock and the actual physical position determined following an audit increased after order books were phased out. In such cases the Defence statement would be forwarded to Dr Jenkins who would, if necessary, make a further statement addressing the issues raised. Were Dr Jenkins aware of any information which would undermine his evidence he had a duty to inform the prosecutor who would in turn have to disclose such information to the Defence. The disclosure officer would also be asked to look into any matter raised and obtain any relevant material. I cannot now recall whether ARQ logs were always requested from Fujitsu.
+
+48. At no time that I dealt with POL cases was I aware of any potentially relevant known bugs, errors or defects in the Horizon IT system. Had I known that any such bugs, errors or defects existed then such an allegation in a Defence Case Statement or Defence Statement would clearly have triggered an obligation to disclose such information.
+
+Experts
+
+49. I do not know what information was provided to experts instructed by the prosecution as to their role, including, in particular, their duty to the court and
+
+Page 18 of 50

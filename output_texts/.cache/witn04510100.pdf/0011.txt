@@ -1,0 +1,16 @@
+WITN04510100
+WITN04510100
+
+g. SSC staff reviewed technical documents relating to design, software development and support of new facilities and applications within Horizon because once the developed products were released to the live estate, the SSC would be responsible for supporting the code in those products. The SSC would provide written feedback (usually via me) to the document author.
+
+h. SSC staff reviewed Change Proposal (CP) documents relating to changes in the functionality in the Horizon applications. As with technical documents, the SSC would be responsible for supporting any code that resulted from such CPs, and written feedback would be given (again, usually via myself) to the document author.
+
+i. SSC staff designed and tested workarounds for reported issues on the live system.
+
+j. SSC staff actioned corrections to data on the live system.
+
+25. The SSC was/is the 3rd line software support unit. I was not involved in producing the processes for the other support units, and the extent of my understanding and recollection of these other units is as follows:
+
+a. 1st line support was performed by HSH based in Stevenage. Their role was to respond to the call, identify the broad area of the issue and to check the KEL system. If the call was a hardware problem, they would pass the call to the engineering team; if the call was a network issue, to the network team. HSH would try to resolve the issue with the caller. If
+
+Page 11 of 54

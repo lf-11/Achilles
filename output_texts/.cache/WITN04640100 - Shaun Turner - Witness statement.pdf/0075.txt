@@ -1,0 +1,14 @@
+WITN04640100
+WITN04640100
+
+249. The EUM Network Deactivation was a fail-safe solution which could be used in such scenarios to disable the training controls across Horizon. This would mean that Postmasters would no longer be locked out of Horizon and could continue to complete transactions. Senior stakeholder authorisation from the business would be required before the EUM Network Deactivation could be used.
+
+250. Once the cause of the data corruption was investigated and resolved, the EUM Network Deactivation would be turned off and the training controls would be reapplied.
+
+The creation of a counter training role
+
+251. The creation of a counter training role was Fujitsu's way of handling the conundrum that if Postmasters let their training lapse, they would be locked out of the system (as described in paragraph 247 above), but then they would be unable to rectify this as the training had to be done online on Horizon. The counter training role put Postmasters temporarily into a training mode on Horizon in which they only had access to training functions. Whilst in this training mode, it would be clear to branches that they were locked out of transacting certain products (as explained in detail in paragraph 247 above) but I do not believe that the counter training mode displayed a particular message or actively notified Postmasters that they were temporarily in a training only mode. Once complete, Postmasters would again have access to the rest of the system after logging off and back on.
+
+Local update of training records
+
+Page 75 of 95

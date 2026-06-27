@@ -1,0 +1,33 @@
+WITN03920100
+WITN03920100
+
+on the offices live with Horizon and there was a caveat that any new and
+significant arising from the live trial offices could be added to the acceptance
+incident list if it was sufficiently significant. As a result of calls to the HSH tickets
+were being raised and these were under scrutiny by POCL and in fact
+acceptance incident 408 shows that the analysis of incidents had resulted in
+POCL requiring improvements to HSH support to end users.
+
+33. POCL and ICL Pathway had a significantly different view of the severity of the 9
+contractual acceptance incidents. Owners were assigned to each incident and
+whilst I can only comment on the closure of incident 218 I can say that POCL
+senior management would have needed to formally accept that rectification of all
+the incidents had either been achieved or that an acceptable rectification plan
+was in place.
+
+34. With regard to the 3 acceptance incidents that POCL deemed to be high severity
+it was my understanding that these needed to be resolved by ICL Pathway
+before POCL would consider the commencement of the national rollout of the
+Horizon system.
+
+35. Action Taken By ICL
+
+(Reference FUJ00078607, FUJ00078728, FUJ00023989, FUJ00024674,
+POL00028342, POL00028478)
+
+During the period of Model Office testing and Live Proving (offices operating
+Releases IGL and 1b, and subsequently 1c) there was joint working to record
+testing defects, through the Model Office testing process, and incidents arising at
+Live offices, through the HSHD process. ICL Pathway had appointed relevant
+
+Page 12 of 32

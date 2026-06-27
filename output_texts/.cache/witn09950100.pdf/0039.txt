@@ -1,0 +1,31 @@
+WITN09950100
+
+Request (14) (INQ00002008) had deadlines of one month or less (save for Rule
+9 Request (31)). Many had deadlines of a few days.
+
+101. The approach was not intended or thought to detract from the fulfilment of POL's
+disclosure obligations. To the contrary, it meant that the search terms could be
+calibrated in a way that ultimately enabled more keyword responsive
+documents to be reviewed, which was thought conducive to the fulfilment of
+POL's disclosure obligations. In other words, focusing on keyword responsive
+documents would be more likely to result in the identification of relevant
+documents than reviewing non-keyword responsive family documents.
+
+102. It was considered not to be feasible in the time allowed by the Inquiry for
+responding to the Rule 9 Requests to review family documents, at least without
+recalibrating the search terms in order to generate fewer keyword responsive
+documents. As I have noted above, it is not unusual for a single document to
+have dozens of family documents, and some can have hundreds of family
+documents.
+
+103. To place this discussion in the particular context of Rule 9 Request (11)
+(INQ00002007) Questions 15 and 46(a), when my firm ran the search terms I
+describe in paragraph 71 across the databases, there were around 10,000
+responsive 'hit' documents, which expanded to approximately 75,000
+documents when family members were included. The number of 'hits' that were
+reviewed by my firm, after KPMG applied item level deduplication, was around
+5,000. Looking at the data on Relativity, there were around 35,000 documents
+in that set when families are included, i.e. if all families were reviewed, the size
+of the review would have increased by a multiple of seven. This was the context
+
+Page 39 of 63

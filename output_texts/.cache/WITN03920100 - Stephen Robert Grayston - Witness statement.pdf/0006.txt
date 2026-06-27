@@ -1,0 +1,31 @@
+WITN03920100
+WITN03920100
+
+long lead-time of activities and the anticipated office dropout rate a larger number
+of offices entered the pipeline to ensure the maintenance of the required weekly
+implementation output beat rate.
+
+14. To make an office Live on Horizon required the successful installation and
+activation of hardware, the recognition of the office at the ICL Pathway Data
+Centre, the successful completion of training by the office manager and staff, and
+the migration of stock / accounting data from the legacy process to create a
+known and agreed starting position for the office on the Horizon System. To
+facilitate this process ICL Pathway developed 2 solutions, known as MiMan and
+MiECCO.
+
+15. MiMan was the process to be used for an office that did not have the legacy point
+of sale computer system; the vast majority of offices were required to utilise the
+MiMan data migration process. In simple terms, the MiMan migration required the
+manual preparation of stock unit and office balances and the manual entry of
+relevant stock and value data to the Horizon system. The establishment of
+Horizon through MiMan was to create the equivalent number of stock units in
+Horizon as had operated before Horizon. The overall stock, value, and
+accounting position once created in Horizon by the HFSO was validated with the
+office manager and formally agreed.
+
+16. MiECCO was a system deployed in a relatively small number of larger directly
+managed Post Offices, approximately 700. Due to the fact that these offices
+already had an in office integrated point of sale system that managed
+transactions through to stock unit and office balancing; and the fact that these
+
+Page 6 of 32

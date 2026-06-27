@@ -1,0 +1,14 @@
+WITN04510100
+WITN04510100
+
+95. The release management forum was an internal Fujitsu meeting. Input was sought from POL regarding the business impact of specific incidents, which would be relayed to the release management forum by one of the attendees. From this discussion would come a schedule for the production, testing and release to the live estate of any fixes.
+
+96. The release and implementation of all code fixes to the live estate was the responsibility of the release management team. My recollection of the process is that any fixes required to be applied to Horizon's code would go through the release management process, and these code fixes would be implemented using Tivoli software.
+
+97. There were different types of releases: major releases and interim maintenance releases. Major releases were fixes to known bugs plus new functionality, for example, a change of data centre, while interim releases were bug fixes that could not wait until a major release because of business impacts. I recall POL was involved in the release process, certainly in the early stages regarding the content of releases, but I cannot recall exactly how the process was managed. For major releases, POL was very involved, to the extent that POL staff would be on site in the SSC secure area in Bracknell monitoring the progression on the release deployment. I can recall attending one major release with John Bruce from POL, but I cannot remember the details.
+
+Code fixes and workarounds
+
+98. Whenever a code fix was to be sent to the live estate to rectify a bug, it would be tested by the LST. The LST used a test rig with "live keys" in order to make it as close as possible to the systems used in the live estate. The LST and SSC
+
+Page 33 of 54

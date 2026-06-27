@@ -1,0 +1,31 @@
+WITN10400100
+WITN10400100
+
+Label Case File" was to advise of any identified failures in security as shown
+as the second from last point on document ([POL0011802]) after copy reports
+and tape summary. This could be where passwords for the Horizon system
+had been shared, high levels of cash held in the counter tills, sharing of dates
+stamps, safe door left open/unlocked etc. I do not know who drafted the
+document entitled "Identification Codes," but I do recall seeing it. I do not
+recall anyone ever raising the question if the document should be amended or
+suggesting it was inappropriate. My understanding of assigning identification
+codes to suspected offenders was the information was required to complete
+documents for Non Policing Authorities for entry onto the PNC (Police
+National Computer).
+
+Analysing Horizon data, requesting ARQ data from Fujitsu and
+relationship with Fujitsu
+
+34. When I held the position of Investigator/Fraud Manager within the Security
+Team and any SPM/SPMs manager(s) or assistant(s)/ Crown Office
+employee(s) attributed any discrepancy to the Horizon system, I would have
+asked them to give details of the problems and if the matter had been
+reported to the Helpdesk or their Area Manager. The matter would be raised
+with my line manager and Casework Manager and a decision would be made
+to request Horizon data to be reviewed for the period in question. From my
+recall Horizon transactions could be viewed on Credence but only a few
+months. An ARQ needed to be authorised if you needed to view further back
+than this. During my work as a Post Office Investigator I was unaware of any
+issues relating to the Horizon system that could cause balancing
+
+Page 19 of 46

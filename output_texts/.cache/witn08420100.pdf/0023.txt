@@ -1,0 +1,40 @@
+WITN08420100
+WITN08420100
+
+Witness: Rodric David Alun Williams
+Statement Number: WITN08420100
+Exhibits: None
+Date: 11 March 2024
+
+of the publication of the Second Sight Interim Report. This led me to put this
+question to WBD and DAC Beachcroft, given that to the best of my knowledge
+they were the POL external lawyers most likely to have supported POL in any
+civil action.
+
+45. This activity made clear to me that Horizon bugs had been discussed in two
+court cases, namely the 2007 civil case of Post Office Limited v Castleton
+[2007] EWHC 5 (QB) and the 2010 criminal prosecution of Seema Misra. In the
+context that I was looking at them in mid-2013 however, there was no reason
+for me to look into this further. That was because the cases had concluded quite
+some time earlier and there were no indications from those I was supplying the
+information to that anything further was required.
+
+The local suspense and receipts and payments mismatch bugs
+
+46. I have been asked to comment on my knowledge in mid-2013 of the 'local
+suspense bug' (sometimes called the '14 Branch bug' or 'B14', reflecting the
+number of branches believed to have been affected). I have been referred by
+the Inquiry to some emails mentioning it from around the same time as those
+relating to the 'Callendar Square bug', referred to above.21 I believe that POL
+had brought the 'local suspense bug', along with the 'receipts payments
+mismatch bug' (sometimes referred to as the '64 Branch Bug', again reflecting
+the number of affected branches) to Second Sight's attention. The context in
+
+21 Email from Rodric Williams to Lesley Sewell and others dated 27 June 2013 at 18.51 (POL00144855);
+Draft letter to J Mistry 'Re Branch Discrepancies' (POL00144856); Draft letter to D Cheape 'Re Branch
+Discrepancies at Dundas Post Office' (POL00144857); Email from Rod Ismay to Rodric Williams and
+others dated 28 June 2013 at 14.01 (POL00029622); 'Branch Accounting Incidents' (POL00029623);
+Draft letter to J Mistry v2 'Re Branch Discrepancies' (POL00141543); and Email from Hugh Flemington
+to Susan Crichton dated 4 July 2013 at 07.51 (POL00098969)
+
+23

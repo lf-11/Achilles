@@ -1,0 +1,29 @@
+WITN06430100
+WITN06430100
+
+15. In the POIA Review, the section headed Transaction Processing (TP)/TIP at
+3.9 indicates that 'the level of errors will return to pre-Horizon levels after 13
+weeks'. In 3.10 the Review lists the problems identified, some of which
+appear to be system related and others possibly user related. At the end of
+3.10 it states that the differences between information received by ICL
+Pathway and Cash Account information were being dealt with as Acceptance
+Incident (AI) 376. I believe this was one of the key Acceptance Incidents that
+was being addressed by ICL Pathway as part of the September 1999
+agreement. I believe the full roll out could not have started if AI 376 had not
+been agreed as lower severity at that time. It seems some issues still existed
+and were being monitored.
+
+16. This POIA Report states in 1.4 that the action plan was agreed and in section
+2.2 'the procedures for identifying problems and reporting performance was
+good'. This would have been necessary to enable residual problems to be
+addressed quickly and rectified. The report is addressed among others to
+BSM for action and I would have expected the problems listed in 3.10 to be
+investigated for their root causes and these resolved, and whether remedial
+action was already underway, such as changes already in the pipeline, or
+contained in a proposed CCN.
+
+17. I have been asked to consider a Memo from Chis Paynter to Andy Radka,
+Review of Horizon Performance and Problem Management – Post Office
+Network [POL00028699]. I assume that I would have copied this email to
+
+Page 6 of 8

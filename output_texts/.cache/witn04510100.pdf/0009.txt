@@ -1,0 +1,33 @@
+WITN04510100
+WITN04510100
+
+certain number of days. My recollection is that when it was recognised that a
+Post Office branch had not reported their “end of day”, a Peak would be raised
+and passed to SSC to investigate the reason. I recall that SSC staff developed
+a script to run on one of the data centre servers to report all missing “end of
+day” markers.
+
+19. I recall that all of the SLTs in the contract contained penalties, but I was only
+indirectly involved in the monitoring of these, there was a unit inside Customer
+Service which monitored, and reported on all of these SLTs.
+
+20. There were no SLTs relating to the management of software incidents or the
+production of code fixes.
+
+SOFTWARE SUPPORT CENTRE (SSC)
+
+21. As I state above at paragraph 7, I was the SSC Manager from 1997 to 2009.
+
+22. The SSC’s initial role was to provide 3rd line software support to Fujitsu-written
+software in the live estate, to accept incident calls from 2nd line support (SMC)
+in the PinICL (later Peak) systems. This involved analysing incidents, closing
+and returning those incidents that were not software related. For those that
+were software related, the SSC was to identify as closely as possible the root
+cause of the incident and pass the incident to the unit which could resolve it
+(usually in the development team), and thereafter to monitor the incident to
+completion.
+
+23. The role of the SSC changed from this initial brief in a number of ways, under
+different Customer Service Directors.
+
+Page 9 of 54

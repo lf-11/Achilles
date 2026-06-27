@@ -1,0 +1,32 @@
+WITN04660100
+WITN04660100
+DocuSign Envelope ID: 0B8D9A6F-D117-40AC-B8CA-9EFEBC3C2B1D
+
+been over or under stated there will be either a claim or charge error
+respectively."
+
+366. The note goes on to record that we discussed NBSC call logs the Castleton
+case. Finally, Mr Wise comments on Mr Castleton's Part 18 Reply. The note
+records:
+
+(a) "PC is not communicating properly when it comes to doing a report. PC
+will indicate whether it is not communicating, this will be indicated on the
+report also. If double entering has occurred you will get an error
+recorded. Error notices are inputted at the other end.
+
+(b) Terminals freezing and re-boot. This means you won't be able to
+complete the transaction and will usually lose the transaction. A loss of
+transaction may give you a gain as you got money for not giving
+something out.
+
+(c) Allegation of the system failing to record transactions he knew he had
+put on the system. Whenever something is put on the system the system
+will always reconcile this.
+
+(d) The only transactions where you give cash out is card cash withdrawals
+on line. If you use a card for taking out £50 and this is not recorded it
+may never be flagged up, the customer gets a receipt. However the
+system communicates also to the banking engine and there would need
+to be an error there too, you cannot draw money if the PC is not
+connected to the banking engine.
+Page 159 of 194

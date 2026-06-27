@@ -1,0 +1,28 @@
+WITN03920100
+WITN03920100
+
+undertaken. All significant incidents needed to be resolved through re-test and
+agreed clearance. Some minor defects would have deferred fixes agreed to be
+implemented post go-live, e.g. spelling errors or colour changes.
+27. At the conclusion of the Model Office test phase a Business decision has to be
+made as to whether the system is sufficiently stable to allow a release into an
+operational environment. Safeguards should exist in the form of soft launch to
+small numbers of offices to ensure confidence before ramping up software
+rollout. There should also be a rollback plan available for an agreed period of
+time.
+28. Ahead of the soft launch or Live Trial of Horizon ICL Pathway had to demonstrate
+that all defects that were agreed to be a priority had been fixed. There would
+have been a list of deferred fixes and these should have had details of when they
+would be fixed
+29. Summer of 1999
+(Referring to POL00028475, POL00028478, POL00039646)
+By the Summer of 1999 ICL Pathway were pushing for contractual acceptance
+as this would trigger the commencement of Horizon national rollout; POCL were
+conscious that contractual acceptance was a major step and the granting of
+acceptance would remove significant leverage for changes and improvements
+ahead of a national rollout of Horizon. The number and categorisation of the
+significant defects had been the subject of continuous debate between the POCL
+and ICL Pathway management teams. The offices that were already live, the live
+proving offices, continued on Horizon and whilst there were early life challenges I
+
+Page 10 of 32

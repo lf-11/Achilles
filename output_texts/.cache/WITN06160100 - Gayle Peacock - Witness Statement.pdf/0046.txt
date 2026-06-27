@@ -1,0 +1,29 @@
+WITN06160100
+WITN06160100
+
+135. If there was an opportunity to improve the transaction process on Horizon,
+then this was reported to the Product Owner, and it was agreed what could be
+done to improve it and remove errors. An example of this was an issue raised in
+processing of bureau de change transactions. The process required the printing
+of two receipts to record evidence of personal identification, with the second
+being required should the transaction turn out to be fraudulent. This wasn't
+automatically printed and therefore required the branch colleague to remember
+to print it. There were instances of the customer transactions being fraudulent
+and branches being required to stand the loss as they couldn't produce the
+second receipt. The project team worked with the Product Manager, the Finance
+Service Centre and Fujitsu to implement the change on Horizon to auto-generate
+two receipts to prevent mistakes from happening.
+
+136. I have been asked how this knowledge impacted on how I interacted with
+postmasters or Post Office managers working in branch. This question is a bit
+ambiguous, and I have made the assumption that "this knowledge" refers to what
+my understanding was regarding what was causing the balancing errors to be.
+My knowledge was based on the assumption that Horizon could not cause these
+issues and therefore were down to operator error.
+
+137. The impact this had on my interaction was to try and understand what could
+be done to prevent these issues happening in the first place, and how to get
+branch colleagues involved in change earlier on in the process to make it easier
+to complete transactions.
+
+Page 46 of 45

@@ -1,0 +1,14 @@
+WITN05210200
+WITN05210200
+
+3. I am providing this statement following receipt of a second Rule 9 Request dated 30 November 2022 from the Post Office Horizon IT Inquiry asking me to provide a written statement regarding issues falling within Phase 2 and Phase 3 of the Inquiry. This Request contains 41 questions which the Inquiry have asked me to address in my statement. For ease of reference, I have written out each question with its corresponding question number.
+
+PLEASE CONSIDER POL00083922 AND FUJ00000485.
+
+Question 1: Please describe and explain how ICL Pathway proposed to rectify Acceptance Incident 376 in early August 1999?
+
+4. FUJ00000485 is a Change Control Note ("CCN"). I understand this to be a contractual document between ICL Pathway Ltd ("Pathway") and Post Office Counters Ltd ("POCL"). I understand this CCN is the first of a number of CCNs. I have not seen this document before. I was not involved in agreeing contractual provisions. I believe this would have involved Dave Miller and Keith Baines rather than myself.
+
+5. POL00083922 contains a number of documents regarding a number of acceptance incidents. As I have explained in my first statement, my work was primarily focused on Acceptance Incident 376 ("AI 376"). This was a data integrity issue between the electronic summary cash account stream and the individual transactions which made up that cash account. Both streams of data were produced by Pathway. The error was identified when comparing these data streams with the information available to TIP (the Transaction Information Processing project). This was designed as a temporary check to ensure that TIP could receive a complete data set from Pathway.
+
+Page 2 of 21

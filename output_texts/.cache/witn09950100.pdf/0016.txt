@@ -1,0 +1,21 @@
+WITN09950100
+
+g. working with POL's other current advisers, such as P&P;
+
+h. conducting searches across previously harvested documents hosted on Relativity (across the databases described in paragraph 39 above), using date ranges, custodians and/or parties, keywords and/or any other relevant search parameters, as appropriate;
+
+i. searching across POL's Mimecast database (POL's email archiving system);
+
+j. harvesting any new repositories and custodian mailboxes;
+
+k. searching hard copy archives, such as those operated by Oasis Group and at the Postal Museum;
+
+l. searching sites across the POL network at which hard copy documents are or were stored;
+
+m. considering metadata (e.g. coding applied in respect of the Group Litigation) and secondary records (e.g. database summaries shared by POL);
+
+n. using functionality which is built into Relativity (the eDiscovery platform on which we review documents), such as its ability to detect similar documents so that they may be grouped together and ranked by similarity; and
+
+o. 'dip' samples of repositories and/or investigative search results (this could be used, for example, to target searches and/or refine search parameters).
+
+Page 16 of 63

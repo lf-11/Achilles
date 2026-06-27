@@ -1,0 +1,12 @@
+WITN04800100
+WITN04800100
+
+were not able to trade. This issue would recur about two or three times a week, impacting a significant number of post offices in the pilot, and it would last about 10 to 20 minutes.
+
+57. There was an intermittent issue encountered where the Branch Data Base locked, which stopped communications between the central database and the branch, so no transactions were able to be processed at the impacted pilot offices. As such, the high volume pilot was extended until the issue was resolved. After assessment, we quickly traced it to the Oracle code in use on Horizon Online.
+
+58. An incident was raised against Oracle and we initially had to demonstrate that it was not an issue with the way we had implemented the solution. Oracle provided us with enhanced diagnostic tools and we fed diagnostic data back to them. We also had Oracle consultants from the Netherlands and the United States fly in to look into the issue. I also invited James Stinchcombe, an employee of Fujitsu though not working on Horizon Online at the time, to review the issue due to his knowledge of the Horizon architecture.
+
+59. Once Oracle accepted that the fault was in their code they provided a technical patch to fix the issue within a week. The patch tested positively in terms of resolving the issue. There is a very technical explanation on why the patch worked, and I do not understand it fully. Even though the patch worked, we undertook a full regression test to ensure that we did not break anything else on Horizon Online by adding the patch. We then applied the patch to the pilot Post Office branches and we monitored the outcomes with the Post Office. It took about 8 weeks from the incident first occurring
+
+Page 20 of 26

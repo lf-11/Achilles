@@ -1,0 +1,35 @@
+WITN09750100
+WITN09750100
+
+116. In relation to the extract quoted in question 13b of the Request6, I would say
+this is standard for a review of the nature agreed and the timetable available,
+however it is worth re-iterating that the limited time to finalise the Deliverable was not
+typical. This type of desktop assessment approach is a standard method of
+commencing a complex assurance requirement which may involve the need for
+multiple, agile stages of work.
+
+117. Question 13d of the Request asks that I consider a specific quote from
+the Engagement Letter regarding legal privilege7 and relay my understanding
+as to how the Deliverable would be used in relation to any ongoing litigation or
+potential future litigation. As mentioned above, I did not know the specifics of
+the litigation our engagement related to as this was not relevant to the work we
+were engaged to undertake. We were asked to perform our work under legal
+privilege and to mark our reports appropriately; that was an instruction rather
+than a discussion and, given the sensitivities around the Horizon IT system
+and the fact we were reporting into the POL Legal Team, the instruction did
+not strike me as unusual. As clearly stated in our Engagement Letter, our work
+products were not designed to be used as expert evidence.
+
+118. As I have stated at paragraph 23, I do not think that I can provide an
+opinion as requested in question 20d of the Request, on the robustness of the
+review with regards to (a) management or statutory accounts or (b) prosecutions
+or defending litigation.
+
+6 "You do not require Deloitte to comment on or test the quality of the assurance work performed, nor opine on either its adequacy,
+sufficiency or conclusions, or the integrity of the Horizon HGN -X processing environment (nor the legacy Horizon
+system)".
+
+7 "You have advised us that all correspondence and all preparatory papers for any report we might make are legally privileged,
+as they are being prepared in relation to ongoing litigation and linked to the provision of legal advice "
+
+Page 34 of 39

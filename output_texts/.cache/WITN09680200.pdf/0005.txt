@@ -1,0 +1,30 @@
+WITN09680200
+WITN09680200
+
+preparation of this advice or discussing the issues referred to therein with Mr.
+Clarke. It was not uncommon for Mr. Clarke to prepare a document and to ask
+either myself or another member of staff to take a look at it before it was
+dispatched. In such instances he would often explain the reasoning behind his
+advice.
+
+14. Mr Clarke referred to two bugs – B63 and B14. I had not appreciated at the time
+that I might have already been provided with some information about the latter.
+Following the submission of my first witness statement to the Inquiry I was
+provided with a number of documents to consider. Although my recollection is
+limited due to the passage of time, I believe that I may previously have had sight
+of an earlier version of the Peak Incident Management System Report
+(FUJ00084852) or something very similar. I also believe that I concluded that
+the error referred to therein would not have affected the integrity of the Horizon
+data i.e. the record of transactions securely locked away, on the basis of the
+description of the operation of the system provided by Gareth Jenkins in his
+witness statements. I did not, at the time, fully appreciate the disclosure
+obligations which arose. I was unaware of the post-conviction duty of disclosure
+under common law.
+
+15. Mr. Clarke also advised that considerations as to the selection of the start-date
+“included proportionality, resourcing, transparency and POL reputation.” He
+went on to note that he had “come to the view that all of these considerations
+militate in favour of a date close the initial HOL migration date of 2010, perhaps
+using the 1st January of that year.”
+
+Page 5 of 57

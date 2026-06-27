@@ -1,0 +1,12 @@
+WITN09830100
+WITN09830100
+
+167 I explain above that my understanding of remote access evolved over the period of time covered by this witness statement. The early Group Litigation phase saw a significant evolution in my level of knowledge and understanding.
+
+168 On 13 July 2016, I received an email from Andrew Parsons with a summary of the Deloitte Preliminary Report [POL00029990]. I recall reading this email and it being significant as it represented a real-time extension of my understanding of what was, and was not, possible for Fujitsu employees to do with respect to branch accounts.
+
+169 The email explained that Deloitte identified that a small number of users, called super-users, did in fact possess the ability to delete and edit transactions in branch accounts although it appeared that this would leave an identifiable digital footprint. This ran counter to my and the wider POL business' understanding at that time that it was only possible to add or inject a new transaction into branch accounts. For example, if I put in £100 into the system instead of £1000, my understanding was that you could not change or fix this original transaction. Head Office would have to send me a new, separate transaction (a transaction correction) for £900 which I would accept to correct the mistake and remedy the difference.
+
+170 This was the view I had also shared during the Panorama interview in June 2015. On the face of it, this email indicated that my knowledge and that of my colleagues (based on what we had previously been told by James Davison and others of Fujitsu) was materially inaccurate.
+
+Page 81 of 168

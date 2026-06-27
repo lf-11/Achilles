@@ -1,0 +1,37 @@
+WITN08420100
+WITN08420100
+
+Witness: Rodric David Alun Williams
+Statement Number: WITN08420100
+Exhibits: None
+Date: 11 March 2024
+
+application in the Group Litigation was heard and determined (on 10 and 17
+October 2018 respectively) and the Common Issues trial commenced (on 7
+November 2018). This was therefore a very busy time. I now understand that
+PEAKs were an internal log of the fixes applied to known Horizon errors which
+was kept by Fujitsu. I do not recall these specific letters and, as I note below at
+[237], I was less involved in the Horizon Issues trial preparation given its subject
+matter and other demands. In light of that, and the issue appearing to be an
+interlocutory one being progressed by the external legal team, it may not have
+required or been given my attention. Reviewing the position now, it seems the
+existence of PEAKs had been confirmed to Freeths in December 2017 and,
+following a request to access them on 4 June 2018 from the claimants' expert,
+Jason Coyne, POL made arrangements for both parties' experts to have access
+at Fujitsu's premises on 15 June 2018. In September 2018, once technical
+issues with extracting them from the Fujitsu database had been resolved, the
+PEAKs were disclosed without affecting the trial timetable.
+
+PART 10.5: PREPARATION FOR THE COMMON ISSUES TRIAL
+
+My involvement in preparation for the Common Issues trial
+
+229. As I explained at paragraph [204] above, I believe POL wanted the Group
+Litigation to resolve the PMRs' Horizon complaints. Determining the Common
+Issues and confirming the legal relationship between POL and the PMRs was
+an essential step towards this, given that it would bridge the gap between the
+parties' often diametrically opposed positions on them. WBD and the counsel
+team were responsible for preparing the case for the Common Issues trial. My
+role was as described at paragraphs [185] to [188] above.
+
+116

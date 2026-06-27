@@ -1,0 +1,30 @@
+WITN09080100
+WITN09080100
+
+check that the discrepancies were correct. During the audit the
+subpostmaster would be given the time he needed to check the discrepancy
+amounts but I am unsure whether they had the opportunity to provide any
+further information or undertake their own investigation into the discrepancies
+as this would be dealt with by the Security/Investigation team and the Contract
+Team after the audit was complete.
+
+28. I have been asked by the Inquiry if it was possible to conduct a branch audit
+in circumstances in which it was not possible to access the Horizon IT System.
+Assets could be physically counted and then recorded on Branch Auditors'
+computers to be verified once the Horizon system was re-instated.
+
+29. The Inquiry has asked me to consider the documents Audit Trail Functional
+Specification (version 8.0, 18 October 2004) (FUJ00001894) and Global User
+Account (September 2016) (POL00002841). I cannot recall seeing or using
+FUJ00001894 and I was not in post as Branch Auditor when POL00002841
+was in place.
+
+30. The Inquiry has also asked me whether Fujitsu were involved in the audit
+process. As far as I can remember Fujitsu were not part of any audits I was
+involved in and I am not aware of any involvement they had in the audit
+process.
+
+31. The Inquiry has also asked me to comment on the Audit Global User Account.
+I do not recall the Audit Global User Account or any audit measures that were
+
+Page 12 of 30

@@ -1,0 +1,32 @@
+WITN08610100
+WITN08610100
+
+the sub-postmaster was not present (and the branch auditor could not be added
+to the system) or where the branch auditor needed to close a branch.
+
+62. From memory, there would have been a process to formally request a new
+Global User Account (or delete a user) but cannot recall what controls were in
+place to monitor these accounts.
+
+Reporting and oversight
+
+63. I have considered POL00047544, POL00021419, POL00021420,
+POL00021421 and POL00033398, POL00085619 POL00085431 in
+responding to questions about reporting and oversight, noting that
+POL00088887 was written over 10 years after I left Post Office.
+
+64. A variety of different stakeholders in Post Office were provided with branch
+audit findings and these stakeholders changed over the years of different
+organisational structures. Aside of the verbal escalation process on the day of
+the audit (to network management and investigation managers), written reports
+were submitted to network management after each individual audit and
+(monthly/quarterly) summarised findings were provided to senior managers in
+a range of relevant functions, enabling any key trends or concerns to be raised.
+
+65. The Risk and Compliance Committee ("R&CC") was a subcommittee of the
+Post Office Executive Team, meeting on a quarterly basis. There were regular
+attendees as well as invited members on a meeting-by-meeting basis. The role
+of the R&CC was to provide oversight and scrutiny to a range of risks being
+managed in the business and this would often prompt further activity. My
+
+Page 20 of 34

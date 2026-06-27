@@ -1,0 +1,14 @@
+WITN04640100
+WITN04640100
+
+218. I have been asked to consider POL00001697, and to explain the background and purpose of the Stock Adjustments project. I have reviewed document POL00001697 in relation to this issue. I have no broader recollections of the Stock Adjustments project beyond my review of this document.
+
+219. From reviewing this document, a "Back Office Efficiency Programme – Stock Adjustments Project Definition Document" dated 19 March 2010, I think the Stock Adjustments project was trying to implement better controls around stock adjustments in branches in a way that attempted to minimise inaccuracies in stock figures and opportunities for fraud.
+
+220. More generally, there were various ways that Postmasters could legitimately adjust stock in branches: (i) remitting in new stock received from the stock centre; (ii) selling stock; and (iii) reversing any incorrect sales. Postmasters would have to declare their stock when balancing their branch accounts and this would be compared with stock levels in Horizon.
+
+221. It seems that there was a concern that stock adjustments were being undertaken to correct a branch stock position when one of the three options (paragraph 220 above) would have been more appropriate. My understanding was that such stock adjustments were causing issues in tracking stock movement and sales.
+
+222. From the document and, in particular, the comment that "The objective of this project is to enhance the current Horizon Online functionalist so that, where stock adjustments are made or discrepancies confirmed, the clerk will be forced to supply a reason where these breach the tolerances set within
+
+Page 66 of 95

@@ -1,0 +1,29 @@
+WITN09250100
+WITN09250100
+
+procedure for all audits. The following reports were obtained from the Horizon
+system –
+
+*   Previous Branch Trading Statement (Reprint.
+*   Office Snapshot
+*   Overnight Cash Holding Declaration
+*   Suspense Account
+*   Remittances In and Remittances Out
+*   Reversals
+*   Transaction Corrections Processed
+*   Transaction Corrections Outstanding
+*   User Summary
+*   Transaction Log over £5k
+
+27. In the event of an unexplained discrepancy being discovered on the audit which
+the Sub-postmaster could not explain, and could not be attributed to any
+obvious error in the transactions or cash and stock declaration completed by
+the branch in the week the audit was conducted, or there was evidence of
+fraudulent activity discovered, this would be escalated to the Security Team,
+Network Retail Manager, and the appropriate line manager of the Lead Auditor
+for advice and any ongoing actions.
+
+28. Errors made in transactions reported from the branch would, once reconciled
+by receiving departments result in error notices being issued to correct the error
+and enable the branch to offset losses or surpluses caused in their accounts as
+a result.

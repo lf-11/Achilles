@@ -1,0 +1,30 @@
+WITN09170100
+WITN09170100
+
+variation I am aware of is that Crown Office Branches carry out extra internal
+audits by their managers, as well as the external audits that the Post Office
+Audit Team carry out. At a standard post office branch, audits are rarely carried
+out internally. I have learned from document (POL00083966) that Crown Post
+Office branches have to complete an annual certificate of compliance after
+carrying out self-assessments. Whilst I was aware that self-assessments were
+carried out, I was not aware that the results were then reported until reading
+document (POL00083966).
+
+55. I have been asked to consider the following documents:
+
+a. "Audit Trail Functional Specification" (version 8.0, 18 October 2004)
+(FUJ00001894); and
+
+b. Global User Account (September 2016) (POL00002841).
+
+56. The first document noted above sets out the types of reports that Auditors are
+able to obtain from the Horizon IT system. It is important to note that over the
+years, report types have been added and taken away from this list, but I cannot
+specifically recall what specific documents and when. The second document
+noted above sets out the basis by which Auditors are able to access the Global
+User account on the Horizon IT system.
+
+57. Other than providing the relevant kit, Fujitsu had no involvement in the audit
+process. If there is a problem with the kit itself, for example, it has frozen, I
+
+Page 19 of 32

@@ -1,0 +1,30 @@
+WITN06900100
+WITN06900100
+
+5. I have been asked to consider the agenda for a meeting on 28 October 1999
+entitled "Horizon: Management of Security in the Live Environment"
+(WITN05970148), and in particular item 3g "Fraud Investigations Interface". I have
+no recollection of this meeting, the discussions that took place or its outputs. I had
+been in post in POL less than a month at this point. I have been asked "how was
+the transition to Horizon live expected to impact upon fraud investigation?" I
+cannot answer this in the context of this meeting, but in more general terms I
+believe that, as the initial iteration of Horizon was an automation of much of the
+accounting and balancing process for branch and sub-post offices, the impact was
+expected to be a variation in where evidence on stock, cash and accounting
+reports for an office would come from, from hand-completed paper records to
+computer-stored data, which would be produced by the Horizon system, although I
+did not know then nor did I ever learn exactly how evidence from Horizon was
+obtained.
+
+6. I have been asked to consider two documents, references FUJ00001986 (Fujitsu
+Services/Post Office Ltd Operational Business Change -Branch Interface
+Agreement) and FUJ00001999 (Operational Business Change - Branch, Service
+Descriptions and schedule of service prices) and to explain my involvement in the
+agreements detailed in these documents and agreements relating to Fujitsu's
+contractual obligations more generally. As the Head of the Network
+Implementation and Security Team at this time, members of my team were
+responsible for negotiating and agreeing very detailed system changes to
+coordinate with changes in the Post Office Ltd network of offices. As the Head I
+was the designated approval authority for POL but I gave my approval having
+
+Page 4 of 48

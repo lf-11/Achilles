@@ -1,0 +1,14 @@
+WITN04790100
+WITN04790100
+
+My role and involvement with the Programme
+
+14. At the relevant time, I was part of the Requirements, Architecture and Systems Design team (known as RASD), reporting into the Post Office Account Chief Architect. I had a good working relationship with both Post Office and Fujitsu colleagues and collectively we had good interactions with colleagues more widely across both Post Office and Fujitsu.
+
+15. I became involved in the Programme in my capacity as a Business Process Consultant to help Post Office improve its cash flow management and back-end accounting processes and understand the resulting changes that would be required to Horizon. The particular skills I provided were in relation to business process analysis, workshop facilitation and requirements identification and elaboration, and supporting Post Office business analysts (in particular, Dave Parnell) in defining and documenting Post Office's requirements in the Conceptual Design Documents.
+
+16. I initially assisted Post Office to conduct a business process flow analysis to understand its business requirements, predominantly for improved cash flow management and back-end accounting.
+
+17. Much of my involvement in the Programme and the business process analysis was concerned with providing advice and guidance to help Post Office understand what could be done to improve the flow of information to then improve Post Office's cash flows. Post Office's requirements to change the cash accounting process were identified and developed as part of this process. The Programme was driven and shaped by Post Office's business needs, as were documented in section 3 of each of the Conceptual Design Documents. My work on the Programme included:
+
+Page 5 of 13

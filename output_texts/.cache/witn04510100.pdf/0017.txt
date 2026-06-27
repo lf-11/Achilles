@@ -1,0 +1,33 @@
+WITN04510100
+WITN04510100
+
+between the SSC and development team. There was always a section relating
+to any major incidents reported in the system (those incidents which had been
+forwarded to the SSC with a high priority). Later reports would also include
+details of staff time and activity, any ad-hoc data requests made by POL and
+any transaction recovery actions which had been taken. Where relevant,
+information in the SSC monthly reports would feed into Problem Management
+meetings and Service Reviews with POL.
+
+41. The SSC did not undertake trend analysis to determine whether the same
+issues were recurring, as this was the responsibility of other Customer Service
+staff based on data supplied by the HSH and SMC (i.e., the calls in Powerhelp).
+The SSC were only supposed to receive the first instance of a new software
+issue. If there were multiple calls, there was a facility for the HSH/SMC to
+identify those calls onto the Peak system.
+
+42. If the SSC recognised that a particular problem could have implications for
+multiple branches, this was added to the Peak and the KEL. It is important to
+note that problems which occurred in overnight processing sometimes had the
+potential to affect all Post Office branches, but not every potentially affected
+branch would be listed on the Peak.
+
+Service Management Portal
+
+43. The Service Management Portal (SMP) was an initiative proposed by the then
+Customer Service Director (Dave Baldwin), to be written by the SSC as
+something completely separate from the live estate and the formal development
+of Horizon. It was created in about 2006, and it was a prototype to demonstrate
+the ways in which Fujitsu could display data of interest to POL.
+
+Page 17 of 54

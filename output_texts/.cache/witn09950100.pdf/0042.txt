@@ -1,0 +1,29 @@
+WITN09950100
+
+KPMG to a review team for review along with its family (if applicable). All other
+duplicates will not be identified for review, including their families which may be
+different to the family of the 'chosen' version.
+
+109. So if a particular attachment (say, a pdf note of a meeting) is included in the
+data set 27 times; and each time it occurs, it is an attachment to a unique,
+different email (say, between different senders and recipients, sent and
+received on different dates over a 5 year period) and none of the other emails
+or their attachments respond independently to the search terms – the effect of
+item level deduplication will be that 26 of those emails, and any other
+attachments they may have, will be withheld from the review teams. It therefore
+excludes not only duplicate documents but also non-duplicative documents.
+From a practical point of view, this has a number of consequences. For
+example, reviewers will only be able to consider the context set out in the one
+parent email (and any other family members) related to the "chosen" duplicate
+in their "review batch". We understand from KPMG that the instance of the
+attachment ultimately promoted for review is selected based only on the fact
+that it was the first iteration of that document ingested into the database.
+
+110. Where the review team only wishes to consider one iteration of a particular
+document in their review batch in the first instance, it is conceivable that they
+may wish to change their approach after the review commences, or has
+completed, so that they can review multiple iterations (including duplicates) of
+particular documents with their family members. It is therefore important that,
+to the extent that item level deduplication is applied, it is done in a way that the
+
+Page 42 of 63

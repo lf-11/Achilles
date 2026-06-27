@@ -1,0 +1,31 @@
+WITN07760100
+WITN07760100
+
+sub post office off the A30 near Oakhampton their paper records did not
+balance as the cash figure was incorrect by £1,500. In that case the sub
+postmaster had to contact their area manager for authority to include new
+balancing data into their paper records before I was authorised to proceed to
+migrate it on to the Horizon system.
+
+23. To migrate stock and financial balances to the Horizon system I would take all of
+the lines of data for the paper records and copy them into Horizon. This data
+included things such as cash, stamp quantities by class, postal orders, licences
+such as tv or dog licences, utility payments, postal transactions, etc. Sub post
+offices typically carried out around 30-40 transaction types compared to around
+110 product lines in main branches. Each sub post office's product lines were
+different. Horizon had fields to complete for each product line and the sub post
+masters could simply ignore the fields that were not relevant to them.
+
+24. Once I had completed migration of the paper records to Horizon I would print the
+Horizon ledger and staple it to the paper ledger that I had copied the data from. I
+would then leave this with the sub postmaster so that they had a record of the
+successful migration to Horizon. I was not required to keep a copy of those
+records and I did not.
+
+25. On the days following migration days I would spend two to three days with each
+sub postmaster watching them using the horizon system and assisting them if they
+were having any difficulty so that they could operate it after I had left. My role was
+to observe the sub postmaster doing their job, supervise their use of Horizon and
+answer any questions they may have as they learned to use Horizon.
+
+Page 7 of 15

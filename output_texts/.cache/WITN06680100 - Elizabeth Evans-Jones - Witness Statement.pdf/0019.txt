@@ -1,0 +1,50 @@
+WITN06680100
+WITN06680100
+
+No URN Description Control Number
+19 FUJ00080501 Report: report details the POINQ0086672F
+prioritisation and call codes
+for Branch Network
+Resilience, Closure,
+Postshop, Kiosk, Non
+Polling, Other Queries,
+Environmental,
+Inappropriate Helpdesk and
+Security incidents logged on
+PowerHelp – dated
+17/04/2007
+20 FUJ00096658 RMGA Document POINQ0102829F
+Reviewers/Approvers Role
+Matrix – dated 19/01/2010
+21 FUJ00117290 BSI Assessment Report – POINQ0123461F
+dated 29/05/2007
+22 FUJ00002061 Management Information POINQ0008232F
+Service: Service Description
+– dated 20/02/2008
+23 FUJ00002056 Calculating Mean Time POINQ0008227F
+Between Failure and
+Availability – dated
+12/09/2007
+24 FUJ00002051 Service Level Target and POINQ0008222F
+Liquidated Damages
+Exclusions – dated
+19/06/2007
+25 FUJ00081017 Quarterly Log of PO Branch POINQ0087188F
+Calls to Helpdesk following
+moneygram pilot – dated
+02/05/2007
+26 FUJ00081046 Spreadsheet Quarterly Log POINQ0087217F
+of Calls from PO Branches
+to Helpdesk following
+Moneygram Pilot – dated
+10/05/2007
+27 FUJ00002010 Closure of Associated NBX POINQ0008181F
+Circuits – dated 18/07/2006
+28 FUJ00080024 Fujitsu End to End POINQ0086195F
+Reconciliation Reporting
+Service Description - V1.0 –
+dated 02/02/2007
+29 FUJ00080033 Fujitsu/PO AP Client File POINQ0086204F
+Re-Send: Joint Working
+
+Page 19 of 21

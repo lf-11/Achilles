@@ -1,0 +1,46 @@
+WITN08130100
+it does not affect our consideration of POL's breach of its disclosure obligations.
+That is because the following conclusions expressed by Mr Clarke are equally
+applicable whether Mr Jenkins prepared his statements as an independent expert or
+as an employee of Fujitsu with particular knowledge of Horizon:
+"- Notwithstanding that the failure is that of [Mr Jenkins] and,
+arguably, of Fujitsu Services Ltd, being his employer, this failure has
+a profound effect upon POL and POL prosecutions, not least because
+by reason of [Mr] Jenkins' failure, material which should have been
+disclosed to defendants was not disclosed, thereby placing POL in
+breach of their duty as a prosecutor.
+- By reason of that failure to disclose, there are a number of now
+convicted defendants to whom the existence of bugs should have
+been disclosed but was not. Those defendants remain entitled to have
+disclosure of that material notwithstanding their now convicted
+status. (I have already advised on the need to conduct a review of all
+POL prosecutions so as to identify those who ought to have had the
+material disclosed to them. That review is presently underway.)
+- Further, there are also a number of current cases where there has been
+no disclosure where there ought to have been. Here we must disclose
+the existence of the bugs to those defendants where the test for
+disclosure is met."
+87. Given that SPMs had been complaining about Horizon for well over a decade, we
+are bound to say that we find it extraordinary that it was necessary for Mr Clarke to
+advise in those terms. We commend him for expressing himself as clearly and firmly
+as he did. But it should not have been necessary for him to have to give such basic
+advice to a prosecuting authority about its duty in respect of disclosure.
+88. Mr Clarke wrote a further advice on 2 August 2013. From this it is apparent that,
+before sending his earlier advice, he had advised POL in conference on 3 July 2013.
+At that conference he had advised the creation of a single hub to collate all Horizon-
+related defects, bugs, complaints, queries and Fujitsu remedies, so there would be a
+single source of information for disclosure purposes in future prosecutions. POL had
+accepted his advice and had set up a weekly conference call, three of which had
+taken place by the time Mr Clarke wrote his later advice. After the third, he said, the
+following information had been relayed to him:
+"(i) The minutes of a previous call had been typed and emailed to a number
+of persons. An instruction was then given that those emails and minutes
+should be, and have been, destroyed: the word 'shredded' was conveyed to
+me.
+(ii) Handwritten minutes were not to be typed and should be forwarded to
+POL Head of Security.
+(iii) Advice had been given to POL which I report as relayed to me
+verbatim: 'If it's not minuted it's not in the public domain and therefore not
+disclosable.' 'If it's produced it's available for disclosure - if not minuted then
+technically it's not.'
+Page 67 of 75

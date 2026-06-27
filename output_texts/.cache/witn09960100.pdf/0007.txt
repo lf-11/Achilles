@@ -1,0 +1,47 @@
+WITN09960100
+WITN09960100
+
+27. I have provided an example below of each form of deduplication based on five
+document families (Family 1-5). Four of the document families have a different
+parent email (Family 4 and 5 have the same parent email). All five families
+contain the same Attachment 1, four families contain the same Attachment 2,
+three families contain the same Attachment 3, and two families contain the
+same Attachment 4.
+
+28. In this example, search terms are run across the data set and only Attachment
+1 (highlighted in red) is responsive to those terms. Therefore, there are five
+responsive documents across the data set, since Attachment 1 is a child in
+every family.
+
+Table 1: Deduplication example
+
+Family 1
+Family 2
+Family 3
+Family 4
+Family 5
+Email 1
+Email 2
+Email 3
+Email 4
+Email 4
+Attachment 1
+Attachment 1
+Attachment 1
+Attachment 1
+Attachment 1
+Attachment 2
+Attachment 2
+Attachment 2
+Attachment 2
+Attachment 3
+Attachment 3
+Attachment 3
+Attachment 4
+Attachment 4
+
+29. KPMG is routinely asked by POL's external solicitors to report statistics on the
+number of hits and (in some cases) the number of hits and families. In the
+example above, there are five hits and 19 hits with full families.
+
+Page 7 of 15

@@ -1,0 +1,16 @@
+WITN04510100
+WITN04510100
+
+68. As I specify above at paragraph 15, incidents were reported to the SSC by the SMC (2nd line support). Major incidents (i.e., "A" priority) which were being sent from SMC to SSC would be preceded by a phone call alert from SMC to SSC.
+
+69. I reported on any incidents which were major-i.e., any incidents which were "A" or "B" priority in the SSC monthly report. In general, major issues were those that had the potential to affect a number of Post Offices, or which had a significant impact on the functioning of servers in the data centres and therefore were reported by the Tivoli monitoring software. The SMC were responsible for the monitoring of Tivoli, and therefore the incidents would be raised by them.
+
+Prioritising incidents
+
+70. The input that I had to the prioritisation of calls in HSH was limited to software calls. Although my name is shown as author of the "Call Enquiry Matrix and Incident Prioritisation - Software" specification dated 23 April 2007 (FUJ00080499), I have no recollection of this document, and I must have had significant input from elsewhere, because I never used the Powerhelp system and would not have known the "Cause Codes" or "Repair Codes" used in the document.
+
+SSC resources
+
+71. The rate at which incidents were presented to the SSC fluctuated greatly. This could be due to, for example, reference data changes, new functionality being introduced to the system, software releases. All of these had the ability to increase the number of incidents being reported to the SSC. Sometimes I felt that I did not have enough time or resources, at other times, overtime claims
+
+Page 25 of 54

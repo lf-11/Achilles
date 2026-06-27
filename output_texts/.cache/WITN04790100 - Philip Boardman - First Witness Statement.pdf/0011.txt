@@ -1,0 +1,31 @@
+WITN04790100
+WITN04790100
+
+'confirmation' screen and any associated options were presented in the Horizon user
+interface that was subsequently developed as a result of the Programme.
+
+35. I am also aware that as a result of the Programme, the cash accounting period was
+changed from weekly to monthly. This change is noted in the Conceptual Design
+Documents. However, I cannot recall why the cash accounting period was changed.
+
+THE LOCAL SUSPENSE ACCOUNT FUNCTION
+
+36. As part of my work on the Programme, I can see that there were a number of
+requirements around suspense accounts documented in the Branch Trading
+Conceptual Design. It is likely that I had several detailed conversations about
+suspense accounts in the context of the changes made as part of the Programme,
+however as these conversations occurred 18 to 19 years ago, I cannot recall what
+was said or any actions that may have followed directly as a result of those
+conversations. Having reviewed the Conceptual Design Documents, however, I am
+reminded that the changes to be made to the usage of the local suspense account
+function as a result of the Programme are documented in section 3.2.1, in particular
+in sub-paragraphs 11, 12, 18 and 21, and in section 6.7 of the Branch Trading
+Conceptual Design. It is documented that these changes included a new facility of
+'Transaction Corrections', which were to be created centrally by Chesterfield staff in
+POL-FS, before being transferred to Horizon to be transacted in the Post Office
+branch. The 'Transaction Corrections' facility was implemented to correct
+discrepancies in Post Office branch accounts in a more timely manner than the
+process that was in use before the facility was implemented, which involved
+transmittance of physical 'Error Notice' documents or vouchers. It is also documented
+
+Page 11 of 13

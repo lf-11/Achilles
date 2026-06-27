@@ -1,0 +1,31 @@
+WITN08590100
+WITN08590100
+WITN08590100
+
+i) An email from Jan Holmes to Keith Banes, copied to me amongst others
+dated 3 August 2004 (FUJ00121686), ii) An email from Jam Holmes to David
+Barker, copied to me dated 10 August 2004 (FUJ00121702), iii) Email from Jan
+Holmes to me dated 11 August 2004 (FUJ00121704) with attachments
+(FUJ00121705, FUJ00121706, FUJ00121707) and iv) An email from Jan
+Holmes to me and William Mitchell dated 20 August 2004 (FUJ00212724).
+
+28. My view on the outcome of the Cleveleys case was that the outcome was
+a matter for POL.
+
+29. I have been asked if it could be constructed from the documents listed at
+paragraph 27 above that POL bought off Mrs Wolstenholme rather than
+defend their system, no and the way that POL decided to conduct and
+settle the case was a matter for POL.
+
+30. I have been asked to consider and email to me dated 2 September 2004
+seeking approval of the Fujitsu report on Cleveleys Post Office
+(FUJ00121746) with attachment (FUJ00121747).
+
+31. The retention period for TMS transaction data in 2000 was 18 months
+after which the data was deleted as per the then terms of the Horizon
+contract with POL. TMS transaction data was no longer deleted after 18
+months for data archived after 18th May 2002 which then made data
+available for audit purposes. This is described in the Report on Cleveleys
+Post Office section 3.2 POA Involvement (FUJ00121747).
+
+Page 10 of 17

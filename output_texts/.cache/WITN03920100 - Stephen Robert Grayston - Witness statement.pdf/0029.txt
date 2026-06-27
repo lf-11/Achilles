@@ -1,0 +1,26 @@
+WITN03920100
+WITN03920100
+
+INDEX FIRST WITNESS STATEMENT OF STEPHEN ROBERT GRAYSTON
+
+Exhibit number Document Description Control Number URN
+WITN0392_01/1 Phase 1c Post Implementation Report (version 1.0). POINQ0064519F FUJ00058348
+WITN0392_01/2 ICL Pathway Implementation Strategy Release 1c (version 1.0). POINQ0064504F FUJ00058333
+WITN0392_01/3 Post Office establishment Process Release 1c (version 1.1). POINQ0064502F FUJ00058331
+WITN0392_01/4 ICL Pathway Implementation Strategy for Release 1b POINQ0067702F FUJ00078114
+WITN0392_01/5 High Level Counter Infrastructure Rollout Strategy POINQ0067750F FUJ00078162
+WITN0392_01/6 Collated NR2 Progress Reports - Week ending 13 November 1998 POINQ0067979F FUJ00078391
+WITN0392_01/7 Progress Report for Model Office Testing - Day 3 on 19/02/1999 POINQ0068147F FUJ00078559
+WITN0392_01/8 Incident Log for Model Office Testing as at Day 3. POINQ0068148F FUJ00078560
+WITN0392_01/9 Progress report for Model Office Testing - Day 6. POINQ0068160F FUJ00078572
+WITN0392_01/10 Model Office Testing Incident Log Final Pass - As at Day 6 of Testing POINQ0068161F FUJ00078573
+WITN0392_01/11 Progress report for Model Office Testing - Day 7.® POINQ0068169F FUJ00078581
+WITN0392_01/12 Incident Log for Model Office Testing - As at Day 7 Report POINQ0068170F FUJ00078582
+WITN0392_01/13 Progress report for Model Office Testing - Day 8 POINQ0068175F FUJ00078587
+WITN0392_01/14 Incident Log for Model Office Testing - As at Day 8 POINQ0068176F FUJ00078588
+WITN0392_01/15 Progress Report for Model Office Testing - Day 9 POINQ0068180F FUJ00078592
+WITN0392_01/16 Incident Log for Model Office Testing - As at Day 9 POINQ0068181F FUJ00078593
+WITN0392_01/17 Progress Report for Model Testing - Day 10 POINQ0068194F FUJ00078606
+WITN0392_01/18 Incident Log for Model Office Testing - As at Day 13 POINQ0068200F FUJ00078612
+
+Page 29 of 32

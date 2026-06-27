@@ -1,0 +1,12 @@
+WITN04790100
+WITN04790100
+
+a. The first conceptual design was for Post Office's new back-end accounting system to be known as the Post Office Limited Financials System (POL-FS). This conceptual design was known as 'PO Ltd Financial Systems Release 3 Conceptual Design' dated 1 June 2004 (POL-FS Conceptual Design) (WITN0479_01/3).
+
+b. The second conceptual design concerned the changes that Post Office required Fujitsu to make to the existing Horizon system to enable the interactions with this POL-FS system and with Post Office's cash management and distribution system, the SAP Advanced Distribution System (SAPADS), that Post Office was also developing at the time. This conceptual design was known as the 'Branch Trading Reporting, Management and Control and Transaction Management Conceptual Design' document dated 3 March 2004 (Branch Trading Conceptual Design) (WITN0479_01/4).
+
+(together, the Conceptual Design Documents)
+
+13. Fujitsu was not involved in the development of POL-FS or SAPADS, which were delivered by the Prism Alliance. SAPADS was being developed by the Prism Alliance before my involvement with Post Office Account, and I have no direct knowledge of the procurement relating to SAPADS. I recall there was a form of competitive tendering process for the work to develop POL-FS and I assisted in preparing Fujitsu's proposal into that process (i.e., the Fujitsu Proposal), however I have no direct knowledge as to the basis upon which Post Office selected Prism Alliance to perform the work relating to POL-FS, rather than Fujitsu.
+
+Page 4 of 13

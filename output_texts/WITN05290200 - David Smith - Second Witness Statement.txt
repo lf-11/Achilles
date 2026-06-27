@@ -1,0 +1,742 @@
+# WITN05290200 - David Smith - Second Witness Statement.pdf
+
+
+=== Page 1 ===
+
+WITN05290200
+WITN05290200
+
+Witness Name: David Smith
+Statement No: WITN05290200
+Dated: 07/02/2023
+
+POST OFFICE HORIZON IT INQUIRY
+
+SECOND WITNESS STATEMENT OF DAVID SMITH
+
+I, DAVID SMITH, will say as follows:
+
+INTRODUCTION
+
+1. This statement is in response to the Rule 9 request dated 23rd January
+2023. It is in relation to Phase 3 of the Horizon IT Inquiry and in particular
+the Operation; training, assistance, resolution of disputes, knowledge and
+rectification of errors in the system and to Phase 4 and in particular action
+against Sub-postmasters and others; policy making, audits and
+investigations, civil and criminal proceedings, knowledge of and
+responsibility for failures in investigation and disclosure.
+
+LEGACY HORIZON
+
+2. I was asked to explain the purpose of Horizon Data Integrity report dated
+02/10/2009 ]FUJ00080526] and my role in reviewing it. I cannot be
+completely sure but I believe this document was produced as a follow up
+to a telephone conversation I had with Gareth Jenkins. I had been asked
+
+Page 1 of 22
+
+
+
+=== Page 2 ===
+
+WITN05290200
+WITN05290200
+
+to meet with Ernst & Young Partners in the light of articles appearing in the
+media where a group of sub-postmasters were asserting that Horizon was
+creating false office balances. The sub-postmasters had no hard evidence
+that Horizon had produced false balances but there were suggestions that
+power interruptions might have been the cause. In preparation for the
+meeting with Ernst & Young I wanted to ensure that the recall I had of the
+process around audit files and the way in which Horizon dealt with
+transaction recovery was accurate. I believe that I asked Gareth to
+document the verbal briefing he gave me. I would not have reviewed the
+document which I would have retained in case I needed to refer to it at a
+later date.
+
+3. I was asked to explain my relationship with Gareth Jenkins and what I
+thought of him. Whilst I knew of Gareth Jenkins the call referred to above
+was the only interaction with him that I can recall. He may have been
+present in larger meetings at which I was an attendee, but I couldn't put a
+face to the name. So, I knew of him by reputation only - that reputation
+was of someone respected for their technical knowledge of the Horizon
+system.
+
+4. I cannot recall how I understood the "without prejudice" mark up of this
+document and the reference to "legal case" at page 5.
+
+5. I was asked to explain whether I understood from this report that there
+were no issues with Horizon's data integrity. That was not the question I
+asked Gareth to brief me on and I would, therefore, not have understood
+
+Page 2 of 22
+
+
+
+=== Page 3 ===
+
+WITN05290200
+WITN05290200
+
+the document in that context. I would add that I understand data integrity
+to be a wider issue than the areas covered in this document.
+
+6. I was asked to consider Fujitsu Testing Approach for the Horizon System
+dated 15/08/2003 [FUJ00001817] and Fujitsu Services Horizon Generic
+Release Acceptance Process dated 13/09/2004 [FUJ00001889] and to
+explain the testing process for Legacy Horizon after the roll out. The
+second document describes the approach to contractual Acceptance to
+which testing is an important feed but which I would not term part of the
+testing process per se.
+
+7. The former document is a detailed description of the testing process jointly
+agreed between POL and Fujitsu. In practice it applied from the S60
+Release onwards although the POL process was based on that developed
+for S50. This document and the joint working behind it was part of a
+substantial piece of joint work defining the processes through the entire
+development lifecycle. POLs input to this initiative was enhanced by the
+experienced contractors/consultants that it engaged to supplement its own
+resources across the project disciplines both to lead activities and to
+transfer skills.
+
+8. I was asked to explain my involvement in overseeing the testing process. I
+chaired a weekly meeting called the Automation Working Group. All
+Release and project managers would attend or their delegate. They would
+have previously tabled a progress report raising issues and risks and
+reporting on solutions or the actions being taken to arrive at solutions. This
+
+Page 3 of 22
+
+
+
+=== Page 4 ===
+
+WITN05290200
+WITN05290200
+
+progress reporting would include testing wherever a release/project had
+reached that stage of development.
+
+9. I also chaired monthly Release joint progress meetings with Fujitsu
+attended by their SI Director Peter Jeram. This meeting would review the
+progress with testing when the development had reached that stage and
+ensure that appropriate actions were in place to address any areas of
+concern.
+
+10. Over time the organisation I was head of expanded the number and range
+of projects it managed. As the organisation evolved so did I and I became
+less hands on. The chair roles described above passed to my direct
+reports. I introduced a weekly direct reports meeting which focused on
+progress reporting. Any significant issues with testing would be surfaced at
+this meeting.
+
+11. There were two other types of meeting which where dependant on the
+outputs of the testing process. The first of these were Acceptance Boards.
+Any gaps in planned testing coverage or significant levels or severity of
+outstanding faults would be exposed in these meetings. The practice was
+to hold rehearsal meetings before the Board proper and thus allow a
+further opportunity for the oversight of the testing process. Acceptance
+was important to Fujitsu as part of the payments due to them would be
+retained against it being granted and to POL because the new software
+could not be released into the Network without it. I did not routinely attend
+these meetings but would certainly have been updated on any significant
+
+Page 4 of 22
+
+
+
+=== Page 5 ===
+
+WITN05290200
+WITN05290200
+
+issues either through formal reporting processes or directly by Release
+Managers.
+
+12. The ultimate decision whether to release new software into the network
+was a business decision. This was taken at a Release Authorisation Board
+which I normally chaired, although very much in a non-voting capacity, my
+role being to lead the meeting through the process. The Fujitsu release
+would be just one input as invariably other systems changes would be
+involved and business as usual departments would also have deliverables
+that required "green" status for the release to be approved. The practice
+was to hold rehearsal meetings in advance of the decision point and thus
+surface early any potential no-go issues. This would include the progress
+with testing of Horizon.
+
+THE NEXT GENERATION
+
+13. I was asked to consider Post Office Ltd Board minutes dated 13/10/2004
+[POL00021485], Post Office Ltd, Horizon Next Generation Release
+Authorisation AG3 Joint Board Meeting minutes dated 28/10/2010
+[FUJ00097159] and Project Initiation Document for Post Office/Fujitsu IT
+Roadmap Feasibility Study dated 11/11/204 [POL00030559].I am asked to
+explain what the Horizon Next Generation business case was and what it
+involved.
+
+14. The business case was to extend the contract with Fujitsu on new terms
+until March 2015 and to replace the existing system. The project
+authorised sum was around £125 with annual savings of the order of
+
+Page 5 of 22
+
+
+
+=== Page 6 ===
+
+WITN05290200
+WITN05290200
+
+£55m. The baseline for evaluating the proposition was the existing
+contract terms and so the savings were roughly evenly split between a
+reduction in monthly charges and the avoidance of baked in cost
+increases.
+
+15. Pages 71 to 99 of the document The Story of Horizon and Horizon Online
+dated 02/07/2010 [FUJ00098040], which was written by me, gives an
+account of the events leading up to the business case and its approval. It
+was written in 2010 when my memory of events was considerably fresher
+than it is today.
+
+16. I was asked to explain my role in the development of Horizon Online. Mark
+Burley was the POL Programme Manager for HNGX. As such he
+managed Fujitsu's performance on a day today basis. Mark reported
+progress to me via weekly direct reports meetings, our monthly one to one
+meetings and more or less daily as issues arose.
+
+17. HNG X dominated my meetings with the Fujitsu Account Manager of which
+there were no less than six during my tenure. Initially the focus was
+commercial and specifically about getting the right financials and solution
+on the table. Once a deal was in place and the development proceeded
+the focus changed to the concern that Fujitsu were not on top of the plan
+nor being open about the true state of progress. Twice during
+development, I asked for independent reviews of progress. I also
+negotiated revised terms which included, inter alia, that benefits due to
+POL were tied to the original delivery date in the contract irrespective of
+when the new system was actually delivered.
+
+Page 6 of 22
+
+
+
+=== Page 7 ===
+
+WITN05290200
+WITN05290200
+
+18. I was asked to explain what the Joint Board was and who made up its membership. This Joint Board's focus was the fitness of the solution to proceed to the next stage of implementation. I have little recollection of the detail of these meetings or indeed if I attended all of these as a matter of routine. However, these meetings operate at a level of considerable detail reviewing outstanding issues and faults and assessing whether these represent an obstacle to progress and if not under what conditions. I do not recall the exact role of this board in the decision process but from the POL point of view that decision rested with its own Release Authorisation Board consisting of senior representatives from across the directorates.
+
+19. Membership of the Joint Board was made up of senior representatives of Development (Programme Management) and Service Management from both Fujitsu and POL. The list of attendees and those tendering apologies probably defines in detail the full list of those invited and their roles.
+
+HORIZON ONLINE
+
+20. I was asked to consider various Post Office Ltd and Fujitsu meeting of minutes for Horizon Next Generation Joint Progress Meetings [FUJ00092617, FUJ00092754, FUJ00092898, FUJ00093056, FUJ00094192, FUJ00094359, FUJ00094472, FUJ00094484, FUJ00097159], Fujitsu RMGA Internal Programme Board Presentation dated 11/02/2010 [FUJ00092960] and Acceptance report for HNG-X Acceptance Gateway dated 23/02/2010 [POL00032999]. I was asked to comment on the issues, errors, and defects that I was aware of in Horizon
+
+Page 7 of 22
+
+
+
+=== Page 8 ===
+
+WITN05290200
+WITN05290200
+
+Online. I have little or no recollection of these and any comments I would
+make would be a repeat of what is contained in the above documents.
+Many, if not all, of the items in these documents were "headlines" with
+considerable detail lying beneath them.
+
+21. I was asked to set out set out my views, at the time, as to whether Horizon
+Online was fit for purpose. My knowledge of the progression of the
+implementation of Horizon comes to and end on 31st March 2010 and I
+consider events and knowledge accumulated after this date essential to
+forming an informed answer to this question and indeed some subsequent
+questions. It is also the case that my recollection of the events during the
+crucial first quarter of 2010 quarter is not at all good.
+
+22. The above documents provide evidence of rigorous process and that the
+solution was in a fit state for roll out to commence. It would have been
+remarkable had roll out progressed without the emergence of some faults.
+The nature, however, of a number of faults that surfaced when live running
+commenced did cause me concern. Unfortunately, I remember the
+concern but not the events. My recollection is that these were not fully
+explained at the time I left. So, to summarise whilst the rigorous process
+followed prior to entering pilot evidenced fitness for purpose there were
+unanswered questions hanging over the solution at the time I left the Post
+Office
+
+23. I was asked to describe the process of Acceptance of Horizon Online and
+any issues you saw with Acceptance at the time. The process of
+Acceptance would have been based upon the document FUJ00001889
+
+Page 8 of 22
+
+
+
+=== Page 9 ===
+
+WITN05290200
+WITN05290200
+
+(mentioned at paragraph 6 above). I believe POL00032999 is evidence of
+this process being followed. A significant issue with the Acceptance
+process, which I would define as one that caused lack of confidence in the
+process, would have been a major issue. I can recall no such issue.
+
+24. I was asked to explain whether I felt that Fujitsu adequately disclosed the
+information the Post Office needed to evaluate the system. The evidence
+the Post Office needed to evaluate the system was laid out contractually
+as per the generic approach to Acceptance, FUJ00001889. Any deficiency
+in this evidence would have been disclosed in the Acceptance report –
+POL00032999. The question arises, however, as to whether there is
+evidence that lies outside POL's requirements and whether this was
+disclosed. The fact that such evidence exists is acknowledged at the foot
+of Page 9 of the Acceptance report. This note also discloses the
+mechanism by which this information would be shared. There was nothing
+to suggest, at the time I left, that Fujitsu had failed to disclose relevant
+information. I cannot, of course, comment on anything that may or may not
+have surfaced after I left the Post Office.
+
+PILOT OF HORIZON ONLINE
+
+25. I was asked to consider an email dated 32/03/2010 from Gavin Bounds to
+Dave Smith, Andy McLean, Nick Gittens and Mark Burley re HNGX data
+centre continuity [FUJ00095048]. I was asked to explain the issues that
+were encountered in the pilot of Horizon Online. As explained above I
+have little or no recollection of the issues that arose during pilot. The Joint
+
+Page 9 of 22
+
+
+
+=== Page 10 ===
+
+WITN05290200
+WITN05290200
+
+Progress Meetings minutes do refer to a number of issues, but I cannot
+elaborate further on the minutes. The emails which form FUJ00095048
+were exchanged on my last day of service. It is clear from the e mails that
+branches were impacted and it is clear that the Post Office believed that
+the solution specified should not have been impacted in the way it was by
+the storm. I would not have dismissed this as a one off incident caused by
+a freak storm as root cause analysis might have exposed a wider
+vulnerability. I had of course left the Post Office before this analysis was
+available.
+
+26. I was asked to explain whether I felt that HNG-X was in a fit state to roll
+out. Had I felt that the solution was not fit to roll out prior to roll out
+commencing I would have expressed that view to the business. I repeat
+that I was concerned about the accumulation of issues that arose during
+pilot. There is evidence in FUJ00094484 that there were issues that had
+the potential to delay further progress. Minute 145.04 refers to an issue
+that required business agreement to a workaround otherwise a Hot Fix
+would be required. Minute 145.14 relates to High severity Security
+incidents which would prevent further progression if not fixed. My email in
+FUJ00095048 refers to confidence being low. With my recall of events
+hazy to say the least and my understanding of the various issues as a
+result minimal it would be quite wrong of me to make judgements in
+retrospect.
+
+INVOLVEMENT IN PROCEEDINGS AGAINST SUBPOSTMASTERS
+
+Page 10 of 22
+
+
+
+=== Page 11 ===
+
+WITN05290200
+WITN05290200
+
+27. I was asked to consider an email dated 22/11/2005 from Mandy Talbot to
+Tom Breezer and Stephen Dilley re Lee Castleton papers and next steps
+[POL00070492].
+
+28. It was towards the end of 2004 (not completely sure about this) when
+completely out of the blue I received a telephone call from Mandy Talbot.
+She explained that she worked for the Group Solicitors team and had
+recently been assigned to POL cases. She was dealing with a civil case
+referred to as Cleveleys which the Post Office was on its way to losing.
+She was most concerned that this would create a precedent which could
+be used in future cases. She wanted to know if I could suggest a way to
+retrieve the situation.
+
+29. The defendant and Post Office had agreed to jointly appoint an expert.
+This expert reported back to the court that Horizon could have caused the
+cash discrepancy. The only way to counter this, in my view, was to
+demonstrate that Horizon had not created the discrepancy and the only
+way to do that was the audit file. Unfortunately, Cleveleys dated back to
+the very early days of Horizon when the audit trail was retained for a short
+period of time. The audit trail was no longer stored, and the case was lost.
+
+30. My exchange with Mandy led me to discussions with the Post Office
+security team member who looked after audit trail based investigations.
+Security led on criminal cases. Where a Sub-postmaster pleaded not guilty
+and used Horizon as part of their defence security would extract the audit
+file to prove the Horizon balance. All cases pursued on this basis were
+found in favour of the Post Office. Through my exchange with security, I
+
+Page 11 of 22
+
+
+
+=== Page 12 ===
+
+WITN05290200
+WITN05290200
+
+learned that both Fujitsu and Transaction Processing would support the
+effort in court in these cases.
+
+31. The obvious way forward was for the audit trail approach to be extended to
+civil cases and this I recommended to Mandy. In the course of our
+discussions two other areas for consideration arose. The first was the lack
+of a database of all cases being pursued through the courts. The second
+was the idea that the Post Office's case would be strengthened by the
+injection of an independent witness into proceedings. This latter idea was
+never fully articulated nor was it obvious how this might happen - a Post
+Office appointed independent witness didn't sound particularly
+independent.
+
+32. A meeting was convened of all those involved in pursuing cases through
+the courts. The proposal to extend the use of the audit trail was to be put
+to this meeting. I didn't attend this meeting personally, my commercial
+manager attended on my behalf as he would have been the person to take
+action were a way forward agreed. The proposition was supported by the
+meeting who turned to security expecting them to pick up the extra activity.
+Security responded by pointing out that they were contractually limited to
+one hundred inquiries per annum and had neither budget nor manpower to
+extend their existing reach. My commercial manager would have advised
+the meeting of the expected cost of additional inquiries. The line
+representatives resolved to go away and attempt to get budget allocated
+for the task.
+
+Page 12 of 22
+
+
+
+=== Page 13 ===
+
+WITN05290200
+WITN05290200
+
+33. I was asked to explain whether I remembered the meeting with Mandy
+Talbot, Litigation Team Leader at the Post Office in November 2005 to
+discuss the "Castleton" case. I don't recall the meeting at all. I do recall
+being kept abreast with the progress of this criminal case where the audit
+trail was a central part of the Post Office's case. Mandy was pleased with
+the outcome and in particular the judges words - see POL00090575. After
+Castleton I don't recall any further activity on this matter until the second
+half of 2009.
+
+34. I was asked to explain my involvement in these types of proceedings,
+typically. I was never personally involved in proceedings against Sub-
+postmasters. Neither was I asked for or gave advice to either Security or
+line teams pursuing Sub-postmasters through the courts.
+
+35. I was asked if I was provided with the spreadsheet of "all Horizon related
+cases" referred to in the email. I don't recall having received this.
+
+36. I was asked to explain what I thought about the integrity. Horizon is one
+element of an end to end process designed to maintain accounting
+integrity for Sub-postmasters, clients and ultimately customers. The
+declared cash balance is subject to change as a result of back office
+checks designed to correct errors no matter how they are created. My
+confidence in this end to end design was reinforced by the fact that
+whenever a Sub-postmaster had cited Horizon as part of their defence in
+pleading not guilty the Post Office, using the audit trail, had always
+prevailed.
+
+Page 13 of 22
+
+
+
+=== Page 14 ===
+
+WITN05290200
+WITN05290200
+
+37. I was asked to explain what steps, if any, I took in light of the Castleton case. I took no action as I was not involved in any way in the prosecution. Exchanges between myself and Mandy Talbot were for the purpose of briefing me on progress of the case.
+
+INTEGRITY OF LEGACY HORIZON SYSTEM
+
+38. I was asked to consider document Horizon Integrity – Dave Smith [POL00090575]. I was asked to explain why I wrote this slide show. There was growing interest in the assertion being made by a group of sub-postmasters that Horizon was the cause of errors in their calculated office cash balance. This attracted the interest of Group Public Relations who were concerned about this and were trying to get some traction with senior Post Office management in framing a response. I can't be sure but I think it was they who convened a meeting to bring interested parties together to discuss the situation and frame a response. This meeting fell sometime between the last week in February and the first week in March (I am certain of this as I was in Mexico during this period and have date stamped photos).
+
+39. I prepared this document as an input to that meeting. In my last few days at the Post Office, I used a version of this document to urge my Director to raise this matter with colleagues. I will have previously briefed him on this matter and as both Service Management and Security reported to him he was well placed to gain others input.
+
+Page 14 of 22
+
+
+
+=== Page 15 ===
+
+WITN05290200
+WITN05290200
+
+40. I was asked to explain what I meant by "in order to win the argument we
+have to focus it on what actually happened and not allow others to conduct
+the debate around speculation about what might have happened". What
+did you consider had "actually happened".
+
+41. Firstly, my reference to "what actually happened" meant using the audit
+trail to reconstruct the office balance and prove that in fact Horizon had not
+caused an error in the office balance. I had a further discussion with the
+security lead on audit trail. He confirmed that all cases where the audit trail
+had been put to use had been found in the Post Offices favour. He also
+mentioned that in a number of cases disclosure to the defence of the
+intention to extract the audit file and the use to which it was put caused the
+Sub-postmaster to change their plea from not guilty to guilty.
+
+42. Secondly this refers to the fact that, with the exception of Castleton, I did
+not know the detailed background to the cases of the small group of Sub-
+postmasters who first raised the issue. I had assumed that they all had
+been pursued through the courts. This understanding changed, at least in
+one case, when I was asked to support the Chairman of the Welsh Postal
+Board in a meeting with the MP to whom Mr Bates had written raising the
+issue of Horizon. To say we received a hostile reception would be an
+understatement. However, between the Chairman and the retail line
+representative the MP listened to a very detailed description of the history
+of the Post Office's interaction with Mr Bates. The MP completely changed
+his stance. From my point of view I learned that understanding what had
+
+Page 15 of 22
+
+
+
+=== Page 16 ===
+
+WITN05290200
+WITN05290200
+
+happened with each complainer would be an important consideration in
+defending the Post Office position.
+
+REFLECTIONS
+
+43. I was asked what, if anything, I think I would have done differently with the
+benefit of hindsight, who I thought was responsible for the Post Office
+scandal and what I thought the Post Office could have done differently?
+
+44. The events on which I have been asked to comment happened
+somewhere between 13 and 26 years ago. My recall of much of this is at
+best hazy and were it not for the documents I have been asked to consider
+I would have had very little to say. The documents which I have been
+asked to consider are but a small selection of the documentation that I
+know existed at the time. Many of these documents refer to issues in
+headline terms and give little information about the issue to which they
+refer. I also have no knowledge of how the Post Office handled this matter
+after I left its employ.
+
+45. Given these circumstances I do not believe I could give a properly rounded
+and considered answer to the above questions based on all the facts
+necessary to do so.
+
+Page 16 of 22
+
+
+
+=== Page 17 ===
+
+WITN05290200
+WITN05290200
+
+Statement of Truth
+
+I believe the content of this statement to be true
+
+Signed: GRO
+
+Dated: 07/02/2023
+
+Page 17 of 22
+
+
+
+=== Page 18 ===
+
+WITN05290200
+WITN05290200
+
+Index to Second Witness Statement of David Smith
+
+URN
+Document Description
+Control Number
+1
+FUJ00080526
+Fujitsu Report: Horizon Data
+Integrity v1.0 dated
+02/10/2009
+POINQ0086697F
+2
+FUJ00001817
+Fujitsu Services and Post
+Office: Testing Approach for
+the Horizon System (v.1.0)
+dated 15/08/2003
+POINQ0007988F
+3
+FUJ00001889
+Fujitsu Services: Horizon
+Generic Release Acceptance
+Process (V.1.0) dated
+13/09/2004
+POINQ0008060F
+4
+POL00021485
+Post Office Limited Board
+Minutes of 13/10/2004
+POL0000018
+5
+FUJ00097159
+Post Office Ltd, Horizon Next
+Generation Release
+Authorisation AG3 Joint
+Board Meeting minutes of
+28/01/2010
+POINQ0103330F
+6
+POL00030559
+Project Initiation Document
+for: Post Office/Fujitsu IT
+POL-0027041
+
+Page 18 of 22
+
+
+
+=== Page 19 ===
+
+WITN05290200
+WITN05290200
+
+Roadmap Feasibility Study
+(V.4.0) dated 11/11/2004
+
+7
+FUJ00098040
+Presentation on Horizon and
+Horizon Online dated
+02/07/2010
+POINQ0104211F
+
+8
+FUJ00092617
+Meeting minutes of Horizon
+Next Generation Joint
+Progress/Release dated
+14/01/2010
+POINQ0098788F
+
+9
+FUJ00092754
+Meeting minutes of Horizon
+Next Generation Joint
+Progress/Release dated
+28/01/2010
+POINQ0098925F
+
+10
+FUJ00092898
+Meeting minutes of Horizon
+Next Generation Joint
+Progress/Release dated
+04/02/2010
+POINQ0099069F
+
+11
+FUJ00093056
+Post Office Meeting minutes
+re Horizon Next Generation
+Joint Progress/Release dated
+11/02/2010
+POINQ0099227F
+
+12
+FUJ00094192
+Post Office Meeting minutes
+re Horizon Next Generation
+POINQ0100363F
+
+Page 19 of 22
+
+
+
+=== Page 20 ===
+
+WITN05290200
+WITN05290200
+
+Joint Progress/Release dated
+18/02/2010
+
+13 FUJ00094359 Post Office Ltd Horizon Next POINQ0100530F
+Generation Joint Progress
+Meeting 147 Minutes of
+04/03/2010
+
+14 FUJ00094472 Post Office Ltd and Fujitsu POINQ0100643F
+meeting minutes for Horizon
+Next Generation Joint
+Progress Meeting 148. Dated
+11/03/2010
+
+15 FUJ00094484 Post Office Ltd and Fujitsu POINQ0100655F
+meeting minutes for Horizon
+Next Generation Joint
+Progress Meeting 149 dated
+18/03/2010
+
+16 FUJ00097159 Post Office Ltd, Horizon Next POINQ0103330F
+Generation Release
+Authorisation AG3 Joint
+Board Meeting minutes of
+28/01/2010
+
+17 FUJ00092960 Fujitsu RMGA Internal POINQ0099131F
+Programme Board
+
+Page 20 of 22
+
+
+
+=== Page 21 ===
+
+WITN05290200
+WITN05290200
+
+Presentation dated
+11/02/2010
+
+18 POL00032999 Acceptance Report for HNG- POL-0029934
+X Acceptance Gateway 3
+(v.2.0) – APPROVED dated
+23/02/2010
+
+19 FUJ00095048 Email from Gavin Bounds to POINQ0101219F
+Dave Smith, Andy McLean,
+Nick Gittens and Mark Burley
+re: HNGX Data Centre
+continuity issue dated
+31/03/2010
+
+20 POL00070492 Email from Mandy Talbot to POL-0067055
+Tom Beezer and Stephen
+Dilley re: Lee Castleton
+papers and next steps dated
+22/11/2005
+
+21 POL00090575 Horizon Integrity - Dave POL-0090096
+Smith
+
+Page 21 of 22
+
+
+
+=== Page 22 ===
+
+WITN05290200
+WITN05290200
+Page 22 of 22
+

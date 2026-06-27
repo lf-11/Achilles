@@ -1,0 +1,14 @@
+WITN04510100
+WITN04510100
+
+76. With high priority incidents, there was always a degree of “pressure” to establish a root cause for an incident, and, if possible, produce a workaround, or at least mitigate its impact. Under these circumstances, SSC technicians may well have felt that they wanted more time, and more resource to resolve the incidents, and may well have told me so. The SSC technicians working on the problem could have access to resources that they needed to resolve the problem, and during my time as SSC Manager, I do not recall any occasions where I denied requests for additional resources, or any occasions where my requests for additional resources were denied.
+
+ESCHER AND RIPOSTE
+
+77. Incidents relating to third party software were handled in the same way as any potential software error. The SSC would thoroughly analyse the evidence obtained from Horizon in order to establish the root cause. The only difference in the process would be that the SSC would not have access to the source code. However, it was possible to establish that the root cause was related to third party software by looking at the points of interaction between the Horizon code and the third party supplier’s code.
+
+78. My recollection of the process is that the Peak would be transferred to the development unit responsible for the support contract with the third party supplier and that the development team would manage the interface with the supplier.
+
+79. This was certainly the case with Escher with regard to potential defects in the Riposte system. The support contract with Escher mandated that only certain
+
+Page 27 of 54

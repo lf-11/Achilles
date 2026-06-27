@@ -1,0 +1,17 @@
+WITN09840100
+WITN09840100
+DocuSign Envelope ID: 35848B78-14EA-4B48-AF01-6881BFF848DD
+
+198. We agreed the lack of escalation until that point was a concern. Chris was also determined that the Communications team discuss IT issues with him before they responded to journalists (Email from Alisdair Cameron to Neil Hayward, Jane MacLeod, Paula Vennells re Outreach Branch Remittances 12 November 2015, POL00153623).
+
+199. I do not recall whether this correspondence was followed up or if any further actions were taken. I do not recall whether we made any investigations into the potential implications on Postmasters of this issue.
+
+HORIZON ISSUE IN (2016)
+
+200. On 9 May 2016 there was a failure of Horizon which meant that a significant number of branches were unable to enter transactions. As part of business continuity testing, Horizon had been operating for a short period on its secondary server and had on the previous day been brought back to its primary server. This test was intended to give confidence (or learn lessons) in case this was ever required after a server failure.
+
+201. However, on the morning of 9 May 2016, the primary server failed, and a reboot of the primary server was required. This was resolved 90 minutes later, by approximately 10.30am, and there was no further disruption to service.
+
+202. I provided a note to the GE on the same day summarising the issue, the next steps and the importance of ensuring there was no adverse impact for Postmasters such as if the outage led to incomplete or unbalanced transactions
+
+Page 48 of 137

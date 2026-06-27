@@ -1,0 +1,10 @@
+WITN08290100
+WITN08290100
+
+This was later relaxed to two. The search PO Security Rules stated that the subject could have a PO friend present. That person had to be a PO employee, not involved in the inquiry, or a representative from a recognised union. This was later extended to include a friend or neighbour for house searches.
+
+47. Investigators had a duty to investigate a case fully. During an investigation any evidence / information that came to light would be looked and assessed and reported, whether it pointed to or away from the suspect. Also, every line of enquiry that was reasonable would be followed. I would have been aware of this process through the polices that were in place and training that was provided although I can no longer remember the specifics.
+
+48. In regard to obtaining evidence in the course of an investigation usually a branch would have come to the attention of the Branch Analysis Team due to abnormal transactions or cash levels that were increasing and a branch not returning excess cash when requested, excess spoiled labels or other issues. I would check the data requested which usually was the last 3 months of Credence to confirm these potential issues. I would also check for suspicious transactions, which I had seen previously, such as excessive reversals or spoiled postage. In order to have information as evidence a statement would need to be obtained in order for it to be allowed in Court. The Legal Team would advise if there was something specific needed to satisfy the requirements for building a case for prosecution. Fujitsu supplied archive data (ARQ) for data older than three months as that could not be obtained from Credence. With a request for ARQ data there was a provision that Fujitsu would provide a witness statement for the data produced if needed for Court. PO Security had a process
+
+18

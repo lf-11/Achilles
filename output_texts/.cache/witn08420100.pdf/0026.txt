@@ -1,0 +1,19 @@
+WITN08420100
+WITN08420100
+
+Witness: Rodric David Alun Williams
+Statement Number: WITN08420100
+Exhibits: None
+Date: 11 March 2024
+
+49. I have been referred by the Inquiry to an email exchange with Simon Clarke of Cartwright King on 3 and 4 July 2013, following a meeting I attended with him.26 I do not recall that meeting but it seems my email attempted to summarise it and the actions arising from it. My email refers to the Costcutter prosecution that had been affected by the 'local suspense bug'. The Inquiry has also shown me an email chain from 4 July 2013, which includes information provided by Gareth Jenkins at Fujitsu about when the 'local suspense bug' was raised.27 My role in this was again I believe concerned with ensuring that relevant information was shared with those who might need to act upon it. In this case, that seemed to be providing to Cartwright King the information collated on the 'local suspense bug' to enable them to provide their advice to POL.
+
+50. I have also been asked to comment on an email sent by Hugh Flemington to Cartwright King, copying me, at 08:01 on 4 July 2013.28 I believe this shows Hugh undertaking the same role as I described above, namely ensuring that they had the relevant information (in this case, Andy Winn's update to the 'local suspense bug' timeline I had sent to them earlier). I do not know but suspect that Susan Crichton forwarded the email chain to Simon Baker so that he was similarly "joined up" on what was being said about the 'local suspense bug'.
+
+51. The Inquiry has also asked me to comment on any concerns I had, arising from what I knew about the 'local suspense bug', about the overall reliability of the Horizon IT system. From my involvement, my understanding was that Horizon had some errors, but these were few, affected a small number of branches, and
+
+26 Email from Rodric Williams to Martin Smith and others on 3 July 2013 at 19.50 (POL00145130); and Email from Simon Clarke to Rodric Williams dated 4 July 2013 at 11.03 (POL00145145)
+27 Email from Susan Crichton to Simon Baker dated 4 July 2013 at 12.49 (POL00029648)
+28 Email from Hugh Flemington to Simon Clarke dated 4 July 2013 at 08.01 (POL00145142)
+
+26

@@ -1,0 +1,30 @@
+WITN03540100
+WITN03540100
+
+said, from a commercial perspective, it was still important to understand what new
+business opportunities may be available in due course.
+
+ERRORS OR ISSUES WITH THE HORIZON SYSTEM
+
+42. During my time at Fujitsu, I do not recall being made aware of any fundamental
+defects with either Legacy Horizon, which was operating in steady state, or in
+respect of HNG-X which was in development. Bugs, errors and defects are not
+unusual in large IT systems like Horizon, especially as systems go through the
+testing and integration cycles. Given the senior nature of my roles at Fujitsu, the
+only technical issues I would have expected to be brought to my attention would
+have been fundamental defects escalated to me in order to navigate any impact on
+the timing of delivery or on cost, for example if the defect might lead to a costly
+dispute.
+
+43. In respect of information that was escalated to me internally during my three months
+as MD of the PSD, I recall receiving emails containing 'Amber Alerts' in respect of
+the POA, which provided updates relating to activity being done to address issues
+that had been RAG (Red-Amber-Green) rated as amber (see, for example,
+WITN0354_01/24 to WITN0354_01/27). I would have read these alerts in order to
+interrogate the corrective actions being taken. For HNG-X, the problem details in
+the Amber Alerts were as follows: "[t]here is a concern regarding the quality of the
+deliverable impacting timescales and cost. No of bugs is significantly higher than
+anticipated." This statement would not have caused me undue concern at this stage
+in the project, being relatively early in the testing cycle.
+
+Page 14 of 18

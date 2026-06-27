@@ -1,0 +1,31 @@
+WITN08200100
+WITN08200100
+
+complied with. Bullet 3 of page 2 suggests that Legal Services are the
+decision maker with regards what items are disclosable in a prosecution case.
+Bullet 4 of page 2 is an instruction as to what to include on an operational or
+procedural failures report and where to put this on the disclosure forms. I
+believe this would have applied to any Bugs errors or defects in the Horizon
+system that could have had an impact on a prosecution. Compliance checks
+were undertaken in all cases to ensure that content requirements were met,
+reports were set out correctly and contained the necessary sections and case
+files and appendices were set out correctly. They were carried out by the
+casework team. I have no knowledge of the document entitled "Identification
+Codes" (POL00118104) being in existence during my time in the Investigation
+team. I do not consider the description of the codes to be appropriate. The
+assignation of identity codes to offenders was a requirement throughout my
+time as an investigator and I think it was to do with reporting offenders to
+PNC.
+
+Analysing Horizon data, requesting ARQ data from Fujitsu and relationship
+with Fujitsu
+
+32. I am asked what analysis would be undertaken of Horizon data by
+investigators when a shortfall was claimed to have been caused by Horizon. I
+have no recollection of what analysis would have been undertaken, as this
+would depend on the individual case. The cases I dealt with were
+predominantly about suppressing of transactions or fraudulent transactions
+such as double counting or encashing stolen benefit books. In these cases we
+would want to have evidence of what transactions took place, when they took
+
+Page 13 of 33

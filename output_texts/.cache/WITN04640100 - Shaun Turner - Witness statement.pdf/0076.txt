@@ -1,0 +1,16 @@
+WITN04640100
+WITN04640100
+
+252. In scenarios where the user had either not completed or let compliance training lapse, it was necessary to have a way of restoring their ability to carry out all of the Horizon transactions that were previously restricted (on account of their lapsed training) once they had completed the necessary training. The user's main training record was updated with any training they passed overnight using a batch process, so this local update ensured their access to transactions could be restored without waiting for that batch process to run. All the Postmaster would need to do following completion of training was to log off Horizon and then log back in and their transactional access would be restored.
+
+Screen messaging for training reminders
+
+253. I remember both myself and others pushing for screen messaging for training reminders. It was not in the original Smart ID build. In fact, none of these changes that I have addressed in this question were in the original build.
+
+254. As explained in paragraph 251, the Smart ID programme introduced training controls which could lock Postmasters out of certain functions within Horizon in relation to regulated products, if they had not completed the required training in time. It was important to have a notification users would see to flag that they were approaching the deadline to complete their training. This was achieved by displaying training reminders to Postmasters which were displayed upon logging into Horizon. These screen messages confirmed the training which was outstanding and the deadline for training completion.
+
+Role of bugs, errors and / or defects
+
+255. I have been asked to set out whether the implementation of (a) to (e) in paragraphs 241 to 254 above was pursued to address any service problems or
+
+Page 76 of 95

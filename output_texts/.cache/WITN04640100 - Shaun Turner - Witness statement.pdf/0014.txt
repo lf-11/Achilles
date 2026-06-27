@@ -1,0 +1,33 @@
+WITN04640100
+WITN04640100
+
+39. I have been asked to consider POL00035811, POL00035812 and
+POL00027044, and to explain the background and purpose of the Enhanced
+User Help and Support programme ("EUHSP").
+
+40. I have reviewed documents POL00035811, POL00035812 and POL00027044
+identified in respect of the EUHSP but have not limited my responses in
+paragraphs 41 to 48 below to these documents.
+
+41. The EUHSP was a strand of the BTTP which was looking at ways that the
+Horizon Online Help function could be improved. Horizon Online Help is a
+function available through Horizon that those in branch could use when they
+are having difficulties with a transaction or questions from a customer. One of
+the focuses for improvements was on speed of access to the right information,
+so that Postmasters and others could find the information they needed quickly
+without having to call the NBSC helpline. In order to find information on Horizon
+Online Help, users could either use the search function or navigate through the
+menu hierarchy for different product areas. However, there was some concern
+that neither method provided the information needed quickly enough. I recall
+that there was no ranking or prioritisation in the search results, all relevant
+pages were simply listed, so users still needed to spend time navigating the list
+to find the page or information they were looking for. If navigating through the
+menu hierarchy, it could take a lot of clicks to get to the page the user was
+looking for, particularly if they started down the wrong menu path.
+
+42. Another concern was that the user would have to leave the transaction screen
+in order to look at Horizon Online Help, rather than being able to check Horizon
+Online Help in a pop-up or overlay so that they could look back at the
+transaction screen more easily. A list of the perceived deficiencies in Horizon
+
+Page 14 of 95

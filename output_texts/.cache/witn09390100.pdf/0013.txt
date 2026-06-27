@@ -1,0 +1,33 @@
+WITN09390100
+WITN09390100
+
+38. I can also recall having training on how the Horizon system worked and that it
+essentially worked as a giant calculator.
+
+39. As referenced above, 3.1 of the Casework and Management Policies
+([POL00104747] and [POL00104777]) laid out what needed to be included in
+the legal report. You would have to assume that the legal team knew nothing
+about the Post Office so would explain everything from the background of the
+case, to the resultant shortage. You would then make recommendations and
+say whether you had identified any weaknesses in the case.
+
+Analysing Horizon data and requesting ARQ data from Fujitsu
+
+40. In answering the Inquiry's questions on this subject matter, I can confirm that I
+have reviewed the following documents:
+
+i. The document entitled "Conducting Audit Data Extractions at CSR"
+dated 4 May 2000 at [POL00029169];
+
+ii. The document entitled "Conducting Audit Data Extractions at Live"
+dated 27 November 2001 at [FUJ00152176];
+
+iii. The document entitled "Management of the Litigation Support Service"
+dated 27 October 2009 ([FUJ00152212]). Please note that I have not
+reviewed the other versions of this document as they post-date my
+employment.
+
+iv. The document entitled "Audit Data Extraction Process" dated 13
+September 2010 ([FUJ00152216]). Please note that I have not
+
+- 13 -

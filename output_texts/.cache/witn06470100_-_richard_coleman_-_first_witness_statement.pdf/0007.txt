@@ -1,0 +1,30 @@
+WITN06470100
+WITN06470100
+
+asked to comment on relate to Horizon Online of which I have no experience
+as I only worked on what has come to be known as Legacy Horizon and so I
+am unable to comment on those bugs. This leaves bugs 2, 6, 9, 10, 11, 12,
+15, 18, 23, 24, 26, and 27.
+
+22. Having reviewed the Technical Appendix supplied to me which goes into
+detail on these bugs, whilst I recognise the majority of bugs I do not believe
+they were ones that I investigated, and so can not comment on that, or if or
+when they were reported to the Post Office, SPMs, etc. I do not recall being
+involved in the investigation of calls to do with the branch accounts as there
+were others, such as Anne Chambers and John Simpkins, who tended to
+handle those types of calls. But once a solution had been identified I would
+expect to have been allocated one or more calls and would simply have
+followed the solution or work around as recorded in the relevant KEL. For the
+bugs listed above I do not recall what those solutions were or how they were
+to be actioned, or indeed whether I actioned any calls on them.
+
+23. As far as I can recall, when a bug was identified the SSC would look to
+provide a solution to the development team. If it was not possible for the SSC
+to posit a solution the call may still be sent over to development with all the
+evidence that we had collected for them to provide a solution, or the call
+would be closed and a KEL created detailing the evidence we would require
+to investigate further. Any solution from development would then be passed to
+the testing team who would then test that it did actually fix the bug as
+recorded in the PinICL. Once the fix had passed the testing team it would then
+
+Page 7 of 11

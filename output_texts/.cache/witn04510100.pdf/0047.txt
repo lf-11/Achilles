@@ -1,0 +1,18 @@
+WITN04510100
+WITN04510100
+
+CONDUCT OF PROSECUTIONS
+
+147. I was not involved in the case of POL v Lee Castleton, and I did not know of this case before receiving the Request.
+
+148. Anne Chambers was one of the most experienced and technically competent of the SSC staff during my time as SSC Manager. As such she reported directly to me.
+
+149. Of the staff who were on the highest grade within the unit, Ms Chambers was the "lead" on counter software (including, for example, Riposte and EPOSS). My relationship with her was always positive and professional and I do not recall any negative comments that I wrote about her on my annual reviews of her performance in which, to my recollection, she always scored highly.
+
+150. I always found Ms Chambers to be dedicated to finding and resolving incidents, and thoroughly professional.
+
+151. I was aware at the relevant time that Ms Chambers was asked to give evidence at the prosecution of a postmaster. This was the only time that I am aware an SSC staff member gave evidence at such a case and it was done despite my strong objections, which I explain below.
+
+152. Fujitsu's security team, which sat within Customer Service, were responsible for the "Litigation Support" service. My understanding is that the process would generally involve the security team obtaining evidence for any litigation from the audit server. The SSC did not support this server and did not have access to it.
+
+Page 47 of 54

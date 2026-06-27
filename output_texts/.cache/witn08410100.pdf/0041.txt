@@ -1,0 +1,31 @@
+WITN08410100
+WITN08410100
+
+above the threshold, the auditor would then follow a process set out in the Audit
+Process Manual described at paragraph 61 above and speak to the Contract
+Advisor. It was not the responsibility of the auditors to investigate the cause of
+the discrepancy (for example POL00083966 at section 2 states: "The [audit]
+role is not an investigative one nor is its primary function to detect fraud"). The
+auditor's role was limited to checking the assets and verifying the figures
+against Horizon data. If any investigation into the cause of the discrepancy was
+required, that would be conducted by teams other than the auditors. If it was
+clear that the discrepancy related to a specific product, the investigation was
+likely to be carried out by the product team in P&BA.
+
+107. I have been asked to consider if auditors were explicitly instructed not to
+consider the cause of incorrect Branch Trading Statements, discrepancies and
+shortfalls. I do not recall any such explicit instructions being given, although I
+note that in section 3.1 in POL00084801, auditors were required not to
+"speculate" on the cause of the outcome of the audit or the honesty of agents
+or staff either overtly or by implication. As stated in paragraph 106 above, the
+auditors were there to verify the branch assets against Horizon data. It was not
+the auditor's responsibility to investigate the cause of any discrepancy.
+
+108. With reference to the email dated 26 March 2020 at POL00088823, I have been
+asked if I am aware of a practice in which auditors asked Postmasters to make
+good discrepancies on the day of audit. If there was an unexplained
+discrepancy and the Contract Advisor was contacted by the auditor to inform
+them of the discrepancy, it was common practice to ask for the Contract Advisor
+to ask the auditor to ask the Postmaster if they could make good the shortfall
+
+41

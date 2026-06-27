@@ -1,0 +1,14 @@
+WITN09090100
+WITN09090100
+
+WITN09090100
+
+28. The cheques listing report was a little more complicated. After checking the initial report and agreeing the physical cheques agree with what the report says the branch would have to do a remittance out to the value of cheques. Once the remittance out is completed the cheque list report is printed again, this time showing the remittance at the bottom, at this point the cheques listing report would be cut off.
+
+29. The only other difference to the above is the Automated Payment report. This is printed and cut off in the same way as the other reports but there is nothing to despatch. Following an Automated Payment transaction (this was barcoded bills and magnetic payment cards) an officer copy receipt is printed, and it is this receipt which is reconciled against the report, and nothing is despatched. As transactions changed over the years more bill payments became automated to the point at today, we have very few if any actual bills where we retain the counterfoil.
+
+30. Another daily procedure was the daily cash declaration. Each branch was required to complete an accurate daily cash declaration each day on the Horizon system as close to closing as possible. This was a mandatory process and enabled the Post Office Cash Management teams to track how much cash was in the network and request excess cash back.
+
+31. The weekly balance procedure was a little more involved than the daily procedures. When undertaking the weekly balance, the first step would be to print, despatch and cut off all the daily reports as described. They would then follow a similar process for what are classed as weekly reports, these include
+
+Page 10 of 33

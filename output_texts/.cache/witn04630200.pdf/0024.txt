@@ -1,0 +1,30 @@
+WITN04630200
+WITN04630200
+
+solutions' without first establishing the underlying root cause of the
+problem" I agree that, in isolation, the explanation of the cases does sound
+like that. However, in a wider context, I would say that significant effort was
+already being put into, and continued to be put into, eliminating the scope
+for errors and complexity in the first place. I would say that the priority
+given to me regarding loss reduction in my time at POL was by way of
+eliminating loss making products and making customer transactions and
+end of day routines (such as cheque despatch) easier to transact. It was
+not about 'asset recovery' as the priority - it was about prevention in the
+first place and this spirit was reflected in articles that I initiated in POL's
+branch publications and in articles that I contributed to the NFSP
+Subpostmaster magazine. The Back Office Efficiency Programme and
+other central initiatives had a focus on ceasing certain problem products
+(primarily Post Office Saving Stamps) and on providing an easier and
+clearer data flow for "off-Horizon" services (products served through stand-
+alone equipment), to enable branches to examine, challenge and accept
+the transaction summaries via "Ping" (a topic that I addressed in my first
+witness statement). "Off-Horizon" products meant products such as
+Camelot and PayStation whereby batch summaries could be sent as
+"Transaction Acknowledgements" (TA's) to branches which the branch
+could validate against local receipts before accepting the TA, rather than
+the branch have to remember to do the weekly processes such as
+Camelot cut-off. These central initiatives directly match to the issues
+included in some of the spot reviews referred to in POL00090567 as they
+were already more widely recognised as complicated routines.
+
+Page 24 of 61

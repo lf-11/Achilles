@@ -1,0 +1,29 @@
+WITN04650100
+WITN04650100
+
+technical knowledge was one of having to trust the supplier and following
+Post Office Ltd contractually agreed procedure, I did not challenge as I didn't
+feel that it was my place to do so but nor did it occur to me that it was
+necessary, it was BAU. I have no recollection of this capability being
+communicated to Branch staff or how this capability was controlled or audited
+beyond documentation of the corrections being made. OCP 17510 is an
+example of how such corrections were recorded for audit purposes, but I don't
+recall having seen this specific document before. I can't recall me or my
+team's role specifically but communication of the correction details to the
+Branch was not part of our responsibilities. Communication with branch would
+fall to P&BA on occasions but normally the appropriate RNM. I have
+considered Peak Incident Management log [POL00001313] this is another
+example of the BAU process in operation but I'm afraid that I have no
+recollection of the detail or whether the branch was informed.
+
+Bugs, error and defects
+
+24.Whilst Fujitsu services were both accountable and responsible for both
+proactive and reactive identification and correction of bugs, errors and defects
+my awareness of them would have been via the Incident, Problem or Major
+Incident Management procedures. Whilst I can't remember specifics Post
+Office Ltd had technical resources working alongside Fujitsu in the
+remediation activities which included coordination of the release containing
+fixes.
+
+Page 13 of 16

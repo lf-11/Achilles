@@ -1,0 +1,33 @@
+WITN09900100
+WITN09900100
+
+amend live transactional or stock data without the knowledge of the
+Subpostmaster or their staff."
+
+e. 13 October 2014: Approved POL messaging from POL Comms team
+(POL00091394) – "Our current line if we are asked about remote
+access potentially being used to change branch data/transaction is
+simply: 'This is not and never has been possible'. There is no remote
+access for individual branch transactions. Fujitsu has support access to
+the 'back-end' of the system used for software updates and
+maintenance. This is of course strictly controlled with security
+processes in place, but could not, in any event, be used for individual
+branch transactions – there is no facility at all within the system for
+this."
+
+f. January 2015. POL written submission to the Department of Business,
+Innovation and Skills ("BIS") (now known as the Department for
+Business, Energy and Industrial Strategy) Select Committee – "There
+is no functionality in Horizon for either a branch, Post Office or Fujitsu
+(suppliers of the Horizon system) to edit, manipulate or remove
+transaction data once it has been recorded in a branch's account. It is
+possible for Fujitsu to view branch data in order to provide support and
+conduct maintenance but this does not allow access to any
+functionality that could be used to edit recorded transaction data."1
+
+g. March 2015: POL's draft response to Second Sight's Thematic Issues
+Report (POL00022382) – "There is no functionality in Horizon for the
+
+1 https://committees.parliament.uk/work/1803/post-office-mediation/publications/
+
+Page 17 of 132

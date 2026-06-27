@@ -1,0 +1,33 @@
+WITN08060100
+WITN08060100
+
+29. I have been asked if I ever felt under pressure to avoid finding bugs, errors
+and defects in the Horizon IT software. It certainly seemed like that. The
+approach was to keep everything going rather than reporting back. There
+seemed to be a pressure to get a fix in and keep going. For overnight
+transactions, there seemed to be an approach of finding a quick fix and
+getting everything working, even though it didn't seem that the issue had been
+resolved.
+
+30. I have been asked whether any pressure was placed upon me or colleagues
+not to pass information to Post Office in relation to potential bugs, errors and
+defects within the Horizon IT System. I don't know, but the protocol was that
+we kept it confidential within the system.
+
+Remote access
+
+31. I do not recall anything about remote access.
+
+General
+
+32. I didn't know what happened on the SPM end so I do not know if SPMs had
+access to adequate advice and assistance in how to use the Horizon IT
+System.
+
+33. I think a cause of the problems experienced in using the Horizon system was
+the worry about keeping the system running at all costs.
+
+Statement of Truth
+I believe the content of this statement to be true.
+
+Page 5 of 6

@@ -1,0 +1,12 @@
+WITN09750100
+WITN09750100
+
+29. The 'assurance and other work undertaken, over [POL's] current day Horizon HNG-X system' that Deloitte was engaged to review is detailed in Appendix 1 to the Engagement Letter (the "Third-Party Assurance Work").
+
+30. 'Desktop review' in this context means that Deloitte was not engaged to conduct testing of the HNG-X system necessary to provide an opinion on the completeness, accuracy and quality of the Third Party Assurance Work, but instead and as per the Engagement Letter the 'work [was to be] preformed through a combination of a desk-based inspection of documentation, corroborative enquiry and through third party-provided evidence or contact...' in order to provide an overview of the Third-Party Assurance Work already undertaken.
+
+31. The reference made to 'Horizon HNG-X' in the Engagement Letter is important. It is clearly stated that '[only] matters relating to the Horizon HNG-X processing environment will be considered in our review. We will not consider any information relating to the legacy Horizon system...' This makes it clear that the scope of our work only related to the HNG-X system. The Legacy Horizon System was excluded from our Scope (defined below) as we were informed that all data from the pre-2010 system had been deleted.
+
+32. Prior to finalising the Engagement Letter, my team and I considered possible assumptions or conclusions that might be reached by POL in error or by overestimating the nature and extent of our work, as a result of the instructions and how to address them.
+
+Page 8 of 39

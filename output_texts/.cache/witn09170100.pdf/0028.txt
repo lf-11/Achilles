@@ -1,0 +1,31 @@
+WITN09170100
+WITN09170100
+
+89. I have been asked to consider the Judgment of the Court of Appeal in
+Josephine Hamilton & Others v Post Office Limited [2021] EWCA Crim
+(particularly paragraphs 347 to 352) at (POL00113278), and to provide my
+reflections on the investigation that was done in Mr Blakey's case. I would like
+to emphasise to the Inquiry that I do not feel that I can offer any valuable
+reflection on this as I am unfamiliar with how an investigation is carried out by
+the investigations team and what actions are considered appropriate or not.
+Auditors are not involved in the investigation process.
+
+General
+
+90. By the time of the audit of Riby Square in May 2004, I cannot ever recall a
+challenge to the Horizon IT system being raised. I cannot recall when I first
+heard about any potential issues with Horizon, but I can recall that we were
+reassured by the Post Office regarding the integrity the Horizon IT system.
+
+91. I am unable to comment on whether the Post Office carried out sufficient
+investigation into bugs, errors and defects in Horizon, nor as to whether
+information regarding bugs, errors and defects in Horizon was sufficiently
+passed to the Post Office by Fujitsu. I simply have no knowledge in relation to
+this. All I can say is that if bugs, errors and defect were discovered and known
+about by the Post Office then I believe that the Audit Team should have been
+informed about this.
+
+92. I believe that matters concerning information passed between the Post Office
+Limited and Fujitsu about bugs and defects with the Horizon IT system, and
+
+Page 28 of 32

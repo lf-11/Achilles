@@ -1,0 +1,34 @@
+WITN04510100
+WITN04510100
+
+c. 3rd line support—software support—was provided by the SSC with
+similar filtration targets to 4th line support.
+
+d. 4th line support was provided by the development team, which
+developed code fixes, or arranged for such fixes to be developed by
+external software suppliers.
+
+26. These processes were the subject of Information Technology Infrastructure
+Library (ITIL) and British Standards Institution (BSI) audits. While I cannot recall
+specific audits, for BSI audits, I remember sitting with the auditor and
+responding to questions about processes, procedures, work instructions and
+relevant documentation, and the auditor would then spend time with one or
+more members of my team asking more questions. I also recall the SSC would
+receive observations and comments that would come out of the audits. I recall
+one ITIL audit where I had a long discussion with the auditor about the
+relationship between "incidents" and "problems" in ITIL terminology. The SSC
+passed this audit with no significant comments.
+
+SSC staffing and roles
+
+27. In 1997, when I joined, I recall that the SSC had 6 staff including contractors,
+and had only been recently set up in order to support the initial roll-out of
+Horizon to 10 Post Offices in the Stroud area. When I left in 2009 the number
+of staff was 25. I recall that at one point the staff level was close to 30, but I
+cannot recall when this was.
+
+28. All of the people in the SSC reported to me—a flat structure. All but one, the
+SSC Coordinator, were tasked with diagnosing reported incidents in the live
+estate. When I left, the SSC technicians were graded the same as development
+
+Page 13 of 54

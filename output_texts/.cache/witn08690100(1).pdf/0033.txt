@@ -1,0 +1,27 @@
+WITN08690100
+WITN08690100
+
+Index to First Witness Statement of Glyn Allan Burrows
+
+No. URN Document Description Control Number
+1 POL00032698 Assurance Review - Recruitment (Vetting & Training) (version 1.0, 27 October 2009) POL-0029633
+2 POL00086765 Network auditing approach, methods and assurance" (2013) POL-0083823
+3 POL00088453 Training & Audit Advisor (undated) POL-0085511
+4 POL00088557 Audit Advisor (undated) POL-0085615
+5 POL00084650 Audit Plan & Scheduling, Chapter 1 of the Audit Process Manual (Version 8) (2010) POL-0081708
+6 POL00083966 Audit Charter (version 4.0, undated) POL-0081024
+7 POL00084801 Performing a Branch Audit, Chapter 3 of the Audit Process Manual (version 5.1, May 2010) POL-0081859
+8 POL00085534 Core & Outreach Audit Process, Chapter 3a of the Audit Process Manual (version 1.0, 27 May 2011) POL-0082592
+9 POL00087627 Follow Up Audit Process, Chapter 3b of the Audit Process Manual (version 3.0, May 2015) POL-0084685
+10 POL00088252 Performing a Cash Centre Audit, Chapter 7 of the Audit Process Manual (version 5.0, Aug 2016) POL-0085310
+11 POL00087672 Quality Assurance, Chapter 11 of the Audit Process Manual (version 5.0, Apr 2015) POL-0084730
+12 POL00084003 Post Incident Auditing without Horizon, Chapter 14 of the Audit Process Manual (version 1.0, Nov 2006) POL-0081061
+13 POL00084813 Condensed Guide for Audit Attendance (version 2, Oct 2008) POL-0081871
+14 POL00085652 Requirement of Network Field Support Advisors at audit, following discovery of discrepancy (version 1.0, Oct 2011) POL-0082710
+15 POL00086765 Network auditing approach, methods and assurance (2013) POL-0083823
+16 POL00087688 Training Guide: Compliance Audit Tool (Sep 2015) POL-0084746
+17 POL00087716 Training-Aide for Branch Asset Checking (version 1.7, Nov 2014) POL-0084774
+18 POL00087614 Terms of Reference Audits (version 1, April 2015) POL-0084672
+19 FUJ00001894 Audit Trail Functional Specification (version 8.0, 18 October 2004) POINQ0008065F
+
+Page 33 of 35

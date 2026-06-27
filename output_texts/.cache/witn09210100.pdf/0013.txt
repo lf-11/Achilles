@@ -1,0 +1,33 @@
+WITN09210100
+WITN09210100
+
+stock units, the result of each stock unit checked would be communicated as it
+was completed. The postmaster was at liberty at any point during the audit to ask
+questions about the process.
+
+54. In respect of audits being conducted in circumstances when it was not possible
+to access the Horizon IT system, it was possible to undertake a verification of
+assets even if it was not possible to produce the reports needed for the audit. For
+example, a fire or flood might have damaged any Horizon kit beyond repair. On
+these occasions, the assets (cash and stock) could be physically counted, but a
+balance could not be completed.
+
+55. The only variance in the audit process in respect of Crown Office branches and
+other branches that I can think of is that the amount of a reportable discrepancy
+was larger for a Crown Office branch. I cannot remember the actual amounts and
+do not know why a different amount was reportable in a Crown Office as opposed
+to other branches.
+
+56. Paragraph 27 draws my attention to the documents at FUJ00001894 and
+POL00002841 and I am asked to give an account of Fujitsu's role in the audit
+process; whether auditors had access to information which postmasters didn't;
+and my understanding of the Audit Global User Account and any audit measures
+in place in respect of this.
+
+57. The only Fujitsu involvement in the audit process that I can recall was if a one-
+shot password was required. Auditors required access to Horizon to obtain
+reports required for an audit. If the postmaster, or a member of staff with
+manager-level access to the system, was on duty they could add you to Horizon
+as a User. But if no one was on duty with manager-level access, we could ask for
+
+Page 13 of 23

@@ -1,0 +1,21 @@
+WITN09890500
+WITN09890500
+
+12. Generally speaking, POL has less data for cases prior to 2003, therefore such a comparison is not straightforward. Specifically, in attempting to respond to various FOIA requests asking for comparative pre and post-Horizon data 10 it became clear that, beyond looking at total numbers for all case types (which would include e.g. robberies and burglaries with no apparent connection to Horizon), it was not easy to compare the number of Horizon-related cases (post-Horizon installation) with the number of 'like for like' cases prosecuted pre-Horizon installation.
+
+13. At Appendix II, I include a table created by P&P that is based on the data in the MCS containing information currently known to POL regarding prosecution and conviction data 11 from 1990 to 2020. This is broken down by:
+
+a. All cases;
+
+b. Horizon-related cases (i.e. cases within scope of the PCDE and all 'like for like' pre-Horizon cases as defined in Appendix I); and
+
+c. Shortfall-related cases (i.e. all cases of the types defined as 'shortfall-related' in Appendix I).
+
+Use of case creation dates
+
+14. The table at Appendix II distinguishes between pre and post-Horizon cases by comparing the case creation date with the Horizon installation date as explained at footnote 8. Where the case creation date is prior to the Horizon installation date, the case is considered to be pre-Horizon.
+
+10 As I explained in my Second Witness Statement, POL has received a number of FOIA requests with different parameters which produced different results depending on the date range and, for example, on whether they asked about numbers of prosecutions or only convictions; all types of defendants or only sub-postmasters etc.
+11 (This data is limited to cases prosecuted by POL in England and Wales and does not include cases prosecuted by other prosecutors or those in Scotland and Northern Ireland.
+
+7

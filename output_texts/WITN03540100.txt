@@ -1,0 +1,547 @@
+# WITN03540100.pdf
+
+
+=== Page 1 ===
+
+WITN03540100
+WITN03540100
+
+Witness Name: Peter John Rowley
+Statement No.: WITN03540100
+Exhibits: WITN0354_01/1 to WITN0354_01/29
+Dated: 25 January 2023
+
+POST OFFICE HORIZON IT INQUIRY
+
+FIRST WITNESS STATEMENT OF PETER JOHN ROWLEY
+
+I, MR PETER JOHN ROWLEY, will say as follows:
+
+INTRODUCTION
+
+1. I am a former employee of Fujitsu Services Limited ("Fujitsu"). I currently hold a part-time position as Chairman of Thales Pension Trustees Limited.
+
+2. This witness statement is made to assist the Post Office Horizon IT Inquiry (the "Inquiry") with the matters set out in the Rule 9 Request provided to me on 17 November 2022 (the "Request") and subsequent questions asked of me by the Inquiry, to the extent I have or had direct knowledge of such matters.
+
+3. I note that the topics set out in the Inquiry's Request relate to events that took place over 12 years ago. I have set out my best recollection of those events, which relate to the negotiation, development, re-baseline and management of Horizon Online (or "HNG-X"), as well as the relationship between Fujitsu and Post Office Limited ("POL") at the relevant time. As I mention below, my period of employment at Fujitsu ran from 2005 to 2009. I have tried to remember relevant events to the best of my ability. However, there are areas where my recollection is unclear or limited.
+
+Page 1 of 18
+
+
+
+=== Page 2 ===
+
+WITN03540100
+WITN03540100
+
+4. As requested by the Inquiry, I have refreshed my memory by reviewing the contemporaneous documents brought to my attention by the Inquiry in the Request. Where relevant, I have also drawn on other contemporaneous material made available to me by Fujitsu. Where my recollection has been either supported by or prompted by such documents, they are referred to using references WITN0354_01/1 to WITN0354_01/29 and are listed in the index accompanying this statement.
+
+PROFESSIONAL BACKGROUND
+
+5. I qualified as a practising solicitor in England and Wales in 1980. I started my in-house legal career in 1981 before moving to the General Electric Company PLC in 1990, where I held a number of senior managerial positions (including a four-year relocation to Pittsburgh U.S.A.). I returned to the UK in 2004 and joined Thales UK as Commercial Director.
+
+6. I joined Fujitsu in 2005 as the Group Legal and Commercial Director, reporting directly to the CEO of Fujitsu, David Courtley. On or around 1 April 2009, I then became the interim Managing Director ("MD") of the Private Sector Division of Fujitsu UK and Ireland ("PSD"). My tenure in this role lasted just over three months, ending in July 2009 when Duncan Tait was appointed as my permanent replacement. I left Fujitsu in September 2009 and, shortly after, returned to Thales UK as Commercial Director responsible for the business' commercial activities internationally. This included an 18-month secondment to Thales Australia. I retired from full-time employment at Thales in 2018 but continued my part-time role as Chairman of Thales Pension Trustees Limited.
+
+Page 2 of 18
+
+
+
+=== Page 3 ===
+
+WITN03540100
+WITN03540100
+
+My Involvement in relation to Horizon
+
+7. By way of background, throughout my time at Fujitsu, the Post Office Account
+(“POA”) predominantly operated out of Fujitsu’s Bracknell office, and the team
+located there was responsible for managing day-to-day operations of the POA. This
+team included, (i) David Baldwin as the Account Director, (ii) Liam Foley as the POA
+Sales Director, and (iii) Colin Lenton-Smith as the POA Commercial Director. During
+my time as Group Legal and Commercial Director, Colin Lenton-Smith reported to
+the Commercial Director of the PSD at the time, Clive Bailey, who in turn reported
+to me. Colin Lenton-Smith handed over to Guy Wilkerson towards the end of my
+tenure as Group Legal and Commercial Director, although I do not recall when.
+
+8. My involvement in relation to the POA differed between my role as Group Legal and
+Commercial Director and my role as MD of the PSD. These roles are addressed in
+turn below. However, in neither role was I involved in detailed technical issues
+(either in relation to the POA or any other account) unless such technical issues
+were likely to result in a dispute with the relevant customer. In those circumstances,
+I would rely on the expertise of the relevant technical teams.
+
+Group Legal and Commercial Director
+
+9. As Group Legal and Commercial Director, I was responsible for legal and
+commercial activities across all Fujitsu’s accounts. The POA was only one such
+account. Until I joined Fujitsu in 2005, the Legal and Commercial functions worked
+as separate teams. One of my first acts upon joining Fujitsu was to integrate these
+two teams into one function.
+
+Page 3 of 18
+
+
+
+=== Page 4 ===
+
+WITN03540100
+WITN03540100
+
+10. In light of the above, I had very limited involvement in the steady state services operating in respect of the Legacy Horizon system or in the negotiations surrounding, and development of, HNG-X. My role in respect of the POA during this time related largely to reviewing and approving bid proposals and Change Control Notes (also referred to as CCNs). The negotiation of contractual amendments or changes to the Horizon system was largely undertaken by members of my team, although I was available to answer any questions that the team might have. Discussions with my team would typically relate to the status of negotiations with a customer, with particular reference to requests that a customer might make during negotiations for commercial concessions or commitments.
+
+11. Although I was aware of delays in the delivery of HNG-X, nothing reported to me in respect of the POA during my time as Group Legal and Commercial Director caused me undue concern. The type of issues that would have been brought to my attention during this time were typically those that might lead to serious commercial disputes with the customer. I do not recall receiving any such reports in relation to the POA at this time.
+
+Managing Director of the PSD
+
+12. As noted above, on or around 1 April 2009, I replaced Michael Stares as interim MD of the PSD. I held this position until July 2009.
+
+13. The PSD had oversight of the Fujitsu accounts responsible for delivering services to customers in the private sector. Despite having a UK Government stake, the POA fell within the remit of the PSD and was treated as a commercial account. During my time as MD of the PSD, the POA therefore ultimately reported to me. As MD of
+
+Page 4 of 18
+
+
+
+=== Page 5 ===
+
+WITN03540100
+WITN03540100
+
+the PSD, I also amended the reporting lines so that the POA reported directly to me.
+POL were pleased with this change as it meant there were no intermediary levels of
+management between me and the POA Account Director (see, for example,
+WITN0354_01/1).
+
+My Working Relationship with Post Office
+
+14. As noted above, during my time as Group Legal and Commercial Director, I had
+limited involvement with the POA and, as such, do not recall having a working
+relationship with POL.
+
+15. By the time I became MD of the PSD, Fujitsu's relationship with POL had
+deteriorated due to delays in the delivery of HNG-X. This deterioration can be seen
+from the reports generated as part of Fujitsu's 'Customer Satisfaction Interview
+Programme', which POL took part in during at least 2008 and 2009 (see, for
+example, WITN0354_01/2 to WITN0354_01/4). The main reason I recall for delays
+in the delivery of HNG-X when I took over as interim MD of the PSD were the
+programme management issues described in this witness statement.
+
+16. I have been provided with documents which show that I did meet with Mike Young
+and David Smith of POL during my three months as MD of the PSD (see, for
+example, WITN0354_01/5 to WITN0354_01/10). While these documents have not
+prompted my recollection of any specific meetings, in reviewing the documents, I
+can see that I became more involved in the POA to, (i) provide some assurance to
+POL that the issues they had identified in relation to the HNG-X programme were
+being addressed, (ii) take accountability for fixing these issues, and (iii) meet Mike
+Young to provide updates on the steps being taken to improve the programme's
+
+Page 5 of 18
+
+
+
+=== Page 6 ===
+
+WITN03540100
+WITN03540100
+
+performance. As I note below, I was also involved in other meetings with POL,
+including in relation to specific reviews and 'Amber Alerts'.
+
+17. In 2008 and 2009, I recall that POL took part in Fujitsu's 'Customer Satisfaction
+Interview Programme'.
+
+HORIZON ONLINE/HNG-X
+
+HNG-X Bid and Subsequent Negotiations
+
+18. The Inquiry has asked about my involvement in relation to the HNG-X bid and my
+understanding of the reasons why POL wanted to migrate to an online version of
+Horizon. The bid for HNG-X took place early on in my tenure as Group Legal and
+Commercial Director. In accordance with the description provided above in respect
+of my involvement in the POA more generally at this time, I do not recall being
+involved in the bid itself or the resulting contractual negotiation. These activities
+would have been managed on a day-to-day basis by members of my team, with
+external legal advice being sought where appropriate. I would, however, have been
+part of a senior management review team for the bid along with, amongst others,
+David Courtley and Brian Harris, then Chief Financial Officer of Fujitsu (the "Senior
+Management Review Team").
+
+19. The Inquiry has referred me to an email from David Jones, Head of Legal for the UK
+Commercial Business Unit (as it was at the time), to a Jeff Triggs dated 15 May
+2006 and with subject line "HNG-X Conditionality" (the "Conditionality Email")
+(WITN0354_01/11). I am copied to this email with a number of other recipients. I do
+not recall what is meant by "HNG-X Conditionality" or what the associated issues
+were. The Conditionality Email does, however, demonstrate the involvement of
+
+Page 6 of 18
+
+
+
+=== Page 7 ===
+
+WITN03540100
+WITN03540100
+
+David Jones and Colin Lenton-Smith from my team in negotiations surrounding
+HNG-X, who I would have supported if any issues arose. The email also copies
+Myles Blewett of Pinsent Masons LLP. I do not recall having any dealings with Myles
+Blewett but Fujitsu had a longstanding relationship with Pinsent Masons in respect
+of work on the POA.
+
+20. The Inquiry has also pointed me specifically to item one of the Conditionality Email
+and asked if I am aware of what the "issue" being discussed might be. I do not recall
+what this might be a reference to, neither is it clear to me from the face of the
+document what the "issue" might have been.
+
+21. I do not believe that I would have reviewed the contract relating to HNG-X from end
+to end at the relevant time. I would have reviewed the contract if I received specific
+requests for clarification or direction in relation to particular aspects of the contract,
+or as a result of an action relating to a 'Group Review'. An example of document
+listing such 'Group Review Actions' is noted below at paragraph 22.
+
+The HNG-X Re-Baseline
+
+22. The Inquiry has referred me to a contract approval 'Group Review Actions'
+document dated 18 September 2008 which relates to the HNG-X re-baseline (the
+"HNG-X Re-Baseline Review") (WITN0354_01/12). At this time, I would have been
+Group Legal and Commercial Director. The HNG-X Re-Baseline Review is a typical
+example of my involvement in approving contractual amendments during that time.
+The Senior Management Review Team met frequently each week in relation to
+these types of Group Review Actions. I do not therefore have any specific
+recollection of the meeting that the HNG-X Re-Baseline Review relates to.
+
+Page 7 of 18
+
+
+
+=== Page 8 ===
+
+WITN03540100
+WITN03540100
+
+23. As stated in the HNG-X Re-Baseline Review, by that time, the HNG-X programme had suffered a 12-month slippage, having a significant impact on the project and lifetime profit and loss ("P&L"). As a result, modifications and updates had to be made to the original baseline P&L agreed for the project. In addition to updating the baseline P&L, my understanding is that the HNG-X re-baseline also contained increased functionality. It is for this reason that I referred to the HNG-X re-baseline as a "key win" in a presentation I gave to the PSD when I took over as MD at the end of financial year 2008/2009 (WITN0345_01/13).
+
+24. In the HNG-X Re-Baseline Review, there was one action point listed under my name. This was "to review the cure periods and termination risk". Although I do not recall the specific termination risks considered in respect of HNG-X, ordinarily, if a project does not complete within the agreed time frame, there is a risk that this delay will lead the relevant customer to seek termination of the contract. To mitigate this risk, suppliers will attempt to negotiate a lengthy cure period to enable them to remedy any bugs, defects or delays before the customer has a right to terminate the contract.
+
+25. In light of the above, by the time I became MD of the PSD in or around 1 April 2009, the HNG-X contract had already been signed, and the re-baselining of the project was complete. My focus as MD of the PSD was therefore to ensure that Fujitsu could deliver HNG-X to time and cost.
+
+Page 8 of 18
+
+
+
+=== Page 9 ===
+
+WITN03540100
+WITN03540100
+
+HNG-X Business Assurance Review
+
+26. In order to respond to questions regarding the delivery of HNG-X, the Inquiry has pointed me to documents WITN0354_01/10 and WITN0354_01/13 to WITN0354_01/20.
+
+27. From handover discussions with Michael Stares shortly before my commencement as MD of the PSD, I understood that there were issues on the POA which had led to delays in the delivery of HNG-X. In order to better understand those issues and how best to address them, one of my first acts as MD was to commission a review of the HNG-X programme by Fujitsu's central Business Assurance team (the "Business Assurance Review"). The Business Assurance Review included not only interviews with Fujitsu staff but also with employees of POL, who were well aware that the Business Assurance Review was being undertaken.
+
+28. As is apparent from the face of the 'PSD Review Pack' from May 2009 at WITN0354_01/14, the commencement of the Business Assurance Review and the reasons behind it should provide some explanation as to why the HNG-X delivery plan is described as a "Problem Contract" and one of the immediate priorities listed is to "get underneath HNGx and fully understand delivery and integration issues". This was a presentation given by me and my colleague Gareth Pugh (then Financial Director of the PSD) to Roger Gilbert upon taking over the PSD.
+
+29. The findings and recommendations resulting from the Business Assurance Review are set out in a report dating from June 2009 (the "Review Results") (WITN0345_01/18). Having refreshed my memory by considering the Review Results whilst preparing this statement, the main findings of the Business Assurance
+
+Page 9 of 18
+
+
+
+=== Page 10 ===
+
+WITN03540100
+WITN03540100
+
+Review appear to relate to issues with internal communication and programme
+management. The Review Results do not appear to raise any fundamental technical
+issues or defects with the HNG-X programme, with the ‘Technical’ findings in the
+Review Results relating largely to programme management issues. If there were
+such fundamental defects with the HNG-X programme, I would expect them to have
+been raised in the Review Results.
+
+30. In addition to the above, I have also been provided with a copy of a presentation
+titled “HNG-X, Release 1, Re-plan Presentation”, which I gave to POL on 9 June
+2009 along with colleagues Lester Young, Mike Wood, Alan D’Alvarez and Andrew
+Hall, who by that time had taken over from David Baldwin as the POA Account
+Director (the “Re-Plan Presentation”). Attendees from POL appear to have been
+Mike Young (Operations Director), David Smith (Head of Change) and Mark Burley
+(Programme Manager) (WITN0354_01/7 and WITN0354_01/8).
+
+31. One of the first items addressed in the Re-Plan Presentation is a summary of the
+failures identified by the Business Assurance Review. The Re-Plan Presentation
+then goes on to describe the “Way Forward”, which included a “[m]ajor re-planning
+exercise”. My understanding is that this ‘re-planning exercise’ was not a re-plan of
+the programme as a whole, but a re-validation of the plan. If the Business Assurance
+Review raised a major flag in relation to the current delivery plan and date, that
+would have needed to be raised with POL. The primary purpose of the review was
+to validate and make sure that we had the right people and processes in place to
+secure the revised delivery date.
+
+Page 10 of 18
+
+
+
+=== Page 11 ===
+
+WITN03540100
+WITN03540100
+
+Development of HNG-X
+
+32. The Inquiry has asked me a number of questions in relation to my role in respect of the development and rollout of HNG-X. At no point during my time at Fujitsu was I involved in the day-to-day development of HNG-X, neither was I involved in considering technical aspects of the system (I was not qualified to do so). The only instances where I might have worked with members of the development teams working on HNG-X would have been if fundamental defects were identified that may have impacted the POA's ability to meet the delivery timetable or led to a dispute with POL. I do not recall any such issues being escalated to me by the POA during my time at Fujitsu.
+
+33. As described above, during my time as Group Legal and Commercial Director, I had very limited involvement in the HNG-X programme. As MD of the PSD, however, my focus was on ensuring that the delivery of HNG-X ran to time and in accordance with agreed budgets, and on ensuring that suitable and sufficient resources were available to do so. It is for this reason that I sought to strengthen the POA team through a number of new recruitments, both at the POA level and at a PSD level. These recruitments included Alan D'Alvarez as POA Programme Director and Mike Wood the Head of Programmes for the PSD.
+
+34. The recruitment of new resources was only part of the solution, however. This was a very busy period in the delivery of HNG-X which, in combination with previous programme management issues, had led to issues with staff morale among the POA team. The other part of the solution was therefore to retain talented members of staff
+
+Page 11 of 18
+
+
+
+=== Page 12 ===
+
+WITN03540100
+WITN03540100
+
+on the POA and to avoid them either looking for new opportunities with other Fujitsu
+accounts or leaving Fujitsu altogether.
+
+35. At the Inquiry's suggestion, I have reviewed the actions from the PSD Retail, Royal
+Mail and Technology Business Review in May 2009 (WITN0354_01/20). The Inquiry
+has pointed me to one of the actions listed which asks, "how do we reward people
+working on the project to keep them motivated?" This question is seeking to address
+the matter of retention I describe above. In order to retain members of staff who
+were key to the success of the delivery of HNG-X, it was necessary for there to be
+a reward scheme in place. These sorts of incentive schemes are not unusual, as
+they mitigate the risk of suffering a high turn-over of staff in crucial roles at critical
+stages of a project.
+
+36. At the time I joined the PSD, the focus was not on reducing the costs of delivering
+HNG-X but was instead on, (i) how the POA could deliver the programme to time,
+and (ii) how to deliver in line with forecasts for the financial year 2009/2010. I was
+not put under any pressure to reduce the number of Fujitsu staff working on the
+project, nor was I put under any pressure to increase the speed with which HNG-X
+was rolled out and bring forward the delivery date. Roger Gilbert and I agreed that
+we commit to an achievable delivery date, as I would have been criticised had I
+brought forward the delivery date only then to miss it.
+
+37. The Inquiry has also asked me to review a Bid Approval Review titled "HNG-X
+Release 2" and dated 3 July 2009 (the "Release 2 BAR") (WITN0354_01/10). In
+particular, the Inquiry has asked me to consider the following extract:
+
+Page 12 of 18
+
+
+
+=== Page 13 ===
+
+WITN03540100
+WITN03540100
+
+"Contractually, no funding for the maintenance of a test and development facility
+beyond the requirements for the delivery of the current HNG-X Release 1 (Horizon
+On Line) and POLSAP programmes"
+
+38. I do not recall the Release 2 BAR from the relevant time. However, having reviewed
+it for the purpose of preparing this statement, the above extract appears to relate to
+concerns that no funding was available under the contract to maintain the testing
+facilities at Bracknell beyond HNG-X Release 1.
+
+The Globe Opportunity
+
+39. I have been asked by the Inquiry about my understanding surrounding the 'Globe
+Opportunity'. To refresh my memory, the Inquiry has pointed me to documents
+WITN0354_01/21 to WITN0354_01/23.
+
+40. These documents have not assisted my recollection of the Globe Opportunity,
+although I can see from the Release 2 BAR (WITN0354_01/10) that Mike Wood,
+Andrew Hall and I presented to Mike Young of POL that "Globe enablers would be
+part of Release 2". I do not recall this presentation. I can also see that I am copied
+to a 'Bid Review Action' for the Globe Opportunity dating from 6 July 2009
+(WITN0354_01/23). It appears, however, that David Roberts was given my
+delegated authority for the review. It may therefore have been that this bid was
+submitted for review following the end of my tenure as MD of the PSD.
+
+41. Given that my priority as MD of the PSD was to ensure that HNG-X was delivered
+to time and cost, I would not have approved any new business with POL during that
+time which would have drawn resources away from the main deliverable. That being
+
+Page 13 of 18
+
+
+
+=== Page 14 ===
+
+WITN03540100
+WITN03540100
+
+said, from a commercial perspective, it was still important to understand what new
+business opportunities may be available in due course.
+
+ERRORS OR ISSUES WITH THE HORIZON SYSTEM
+
+42. During my time at Fujitsu, I do not recall being made aware of any fundamental
+defects with either Legacy Horizon, which was operating in steady state, or in
+respect of HNG-X which was in development. Bugs, errors and defects are not
+unusual in large IT systems like Horizon, especially as systems go through the
+testing and integration cycles. Given the senior nature of my roles at Fujitsu, the
+only technical issues I would have expected to be brought to my attention would
+have been fundamental defects escalated to me in order to navigate any impact on
+the timing of delivery or on cost, for example if the defect might lead to a costly
+dispute.
+
+43. In respect of information that was escalated to me internally during my three months
+as MD of the PSD, I recall receiving emails containing 'Amber Alerts' in respect of
+the POA, which provided updates relating to activity being done to address issues
+that had been RAG (Red-Amber-Green) rated as amber (see, for example,
+WITN0354_01/24 to WITN0354_01/27). I would have read these alerts in order to
+interrogate the corrective actions being taken. For HNG-X, the problem details in
+the Amber Alerts were as follows: "[t]here is a concern regarding the quality of the
+deliverable impacting timescales and cost. No of bugs is significantly higher than
+anticipated." This statement would not have caused me undue concern at this stage
+in the project, being relatively early in the testing cycle.
+
+Page 14 of 18
+
+
+
+=== Page 15 ===
+
+WITN03540100
+WITN03540100
+
+44. During my time as MD of the PSD, I also received daily milestone reports from Alan D'Alvarez, who applied a RAG rating to each of the milestones. I do not recall these milestone reports and do not believe that I would have read them as a matter of course. I would, however, have reviewed any of the reports flagging potential delay (see, for example, WITN0354_01/28 and WITN0354_01/29).
+
+45. In addition to any internal escalation either through the above means, the Business Assurance Review or otherwise, were there to have been any fundamental defects in either Legacy Horizon or HNG-X, I would have expected those to be flagged by POL in the Customer Satisfaction Interview Programme reports described above.
+
+GENERAL
+
+46. In the Request, the Inquiry has asked whether I consider the management of the HNG-X programme was adequate with hindsight, and what I would have changed. I was not sufficiently close to the HNG-X development programme until I became MD of the PSD to critique the early stages of the programme. However, I do believe that HNG-X would have been delivered earlier and at a lower cost if the actions that resulted from the Business Assurance Review to strengthen the management of the project had been taken earlier in the project.
+
+Statement of Truth
+
+I believe the content of this statement to be true.
+
+Signed: GRO
+
+Dated: 25 January 2023
+
+Page 15 of 18
+
+
+
+=== Page 16 ===
+
+WITN03540100
+WITN03540100
+
+INDEX TO THE FIRST WITNESS STATEMENT OF PETER JOHN ROWLEY
+
+Exhibit No. URN Document Description Control Number
+PROFESSIONAL BACKGROUND
+WITN0354 FUJ00126069 Email chain between Clive Bailey, POINQ0127351F
+_01/1 Peter Rowley and others with subject
+'Account Positioning and Peter
+Rowley'
+WITN0354 FUJ00126071 Fujitsu Services Customer POINQ0127353F
+_01/2 Satisfaction Interview Programme –
+Interview date 29 May 2008
+WITN0354 FUJ00126073 Fujitsu Services Customer POINQ0127355F
+_01/3 Satisfaction Interview Programme
+– Interview date 5 November 2008
+WITN0354 FUJ00126075 Fujitsu Services Customer POINQ0127358F
+_01/4 Satisfaction Interview Programme –
+Interview date 31 July 2009
+WITN0354 FUJ00126076 Email from Andrew Hall to Peter POINQ0127359F
+_01/5 Rowley and others with subject
+'Meeting with Mike Young
+Operations Director POL'
+WITN0354 FUJ00126077 Email chain between Peter Rowley POINQ0127360F
+_01/6 and Ian O'Driscoll with subject 'Post
+Office – HNGX'
+WITN0354 FUJ00126078 Email from Andrew Hall to Peter POINQ0127361F
+_01/7 Rowley and others with subject
+'Meeting with Post Office 9/6/09'
+WITN0354 FUJ00126079 HNG-X Release 1 Re-plan POINQ0127362F
+_01/8 Presentation
+WITN0354 FUJ00126081 Email between Peter Rowley, Mike POINQ0127364F
+_01/9 Wood and others with subject
+'HNGX update'
+HORIZON ONLINE/HNG-X
+WITN0354 FUJ00116738 Bid Approval Review presentation POINQ0122909F
+_01/10 titled 'HNG-X Release 2'
+WITN0354 FUJ00116293 Email from David Jones to Jeff POINQ0122464F
+_01/11 Triggs with subject 'HNG-X
+Conditionality'
+WITN0354 FUJ00116552 HNG-X Group Review Actions POINQ0122723F
+_01/12
+
+Page 16 of 18
+
+
+
+=== Page 17 ===
+
+WITN03540100
+WITN03540100
+
+Exhibit No. URN Document Description Control Number
+WITN0354 FUJ00116659 Presentation titled 'Private Sector POINQ0122830F
+_01/13 Division: Review of 2008/9'
+WITN0354 FUJ00116684 Presentation titled 'PSD Review POINQ0122855F
+_01/14 Pack'
+WITN0354 FUJ00116693 Private Sector Division POINQ0122864F
+_01/15 Commercial Function Report
+WITN0354 FUJ00116722 Presentation titled 'PSD BU POINQ0122893F
+_01/16 Review'
+WITN0354 FUJ00116731 Email from Pandora Ward to Peter POINQ0122902F
+_01/17 Rowley, Lester Young, Mike Wood
+and others with subject 'Final
+HNG-X report from Business
+Assurance'
+WITN0354 FUJ00116732 Presentation titled 'Phase 2 POINQ0122903F
+_01/18 Delivery Assurance Review'
+WITN0354 FUJ00116808 Business Unit Review – Actions POINQ0122979F
+_01/19
+WITN0354 FUJ00116682 Actions from PSD RRMT Business POINQ0122853F
+_01/20 Review May 2009
+WITN0354 FUJ00116701 PBU Bid Review Actions POINQ0122872F
+_01/21
+WITN0354 FUJ00116689 Presentation titled 'Multiple POINQ0122860F
+_01/22 Opportunities'
+WITN0354 FUJ00116743 PBU Bid Review Actions POINQ0122914F
+_01/23
+ERRORS OR ISSUES WITH THE HORIZON SYSTEM
+WITN0354 FUJ00126082 Email from Amber Alerts to POINQ0127365F
+_01/24 multiple FSL employees with
+subject 'Amber Alert Ref 1053 –
+Post Office (HNG-X) – Update
+Report (Including plan)'
+WITN0354 FUJ00126083 Spreadsheet containing Milestones POINQ0127366F
+_01/25 and agreed plan execution dates
+WITN0354 FUJ00126084 Email from Amber Alerts to Clive POINQ0127367F
+_01/26 Bailey and others with subject
+'Amber Alert Ref 1053 - Post Office
+(HNG-X) - Update Report'
+WITN0354 FUJ00126085 Spreadsheet titled 'Ref 1053 HNG- POINQ0127368F
+_01/27 x extended milestones 090612'
+WITN0354 FUJ00126086 Email between Peter Rowley, Mike POINQ0127369F
+_01/28 Wood and others with subject 'FW:
+
+Page 17 of 18
+
+
+
+=== Page 18 ===
+
+WITN03540100
+WITN03540100
+
+Exhibit No. URN Document Description Control Number
+Milestones Update'
+WITN0354 FUJ00126087 Spreadsheet with filename 'Ref POINQ0127370F
+_01/29 1053 HNG-x extended milestones
+090707'
+
+Page 18 of 18
+

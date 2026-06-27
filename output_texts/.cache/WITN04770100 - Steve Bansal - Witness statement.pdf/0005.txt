@@ -1,0 +1,10 @@
+WITN04770100
+WITN04770100
+
+Testing ("CIT") (testing interactions between the software components). This was followed by Integration testing (testing of software modules together) and would then move into System Validation and Integration ("SV&I") and live systems testing ("LST") for functional testing such as, Unit test (testing of small/single software modules), Smoke test (testing stability ready for next phase), Regression test (testing existing code has not been impacted by changes in code) and non-functional testing such as, Failover (testing ability to move functions), Disaster Recovery (testing continuation of operations following a serious interruption to service), Performance (testing speed, responsiveness and stability), and Volume (testing large volumes of data).
+
+16. I was not involved in the entire end-to-end test lifecycle but would only be involved in the aspects that were relevant to my role at the time. In my role as trainee tester, I was given scripts to run in order to test the equipment and/or counter. I would then record the result of the test and feed the results back to the Fujitsu test manager. It is my understanding that the Fujitsu test manager would communicate the results of the tests with the relevant Post Office test manager.
+
+17. Although I was new to testing at the time, with hindsight, the testing process seemed thorough from what I can remember. For example, there were regular reviews, which would highlight any areas that required further work, retesting and/or rescripting. When I ran the scripted tests that were assigned to me by my manager, I recorded those that passed, those that deferred (not able to run at the time) and those that failed, along with the results of each test. Where and when required, I gathered and recorded as much evidence as I could to support any failed tests. In some cases, I would consult with the Fujitsu test team or test manager and occasionally request
+
+Page 5 of 7

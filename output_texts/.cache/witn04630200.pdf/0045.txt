@@ -1,0 +1,33 @@
+WITN04630200
+WITN04630200
+
+and a culture whereby an SPM or other branch manager feels absolutely
+supported and knows what to do to raise an issue.
+
+99. Then, if a situation arises whereby the SPM feels that the Horizon
+accounting record is not accurate (presumably due to an actual transaction
+not having been recorded at all, not having been recorded properly,
+perhaps having been recorded in duplicate, being delayed or perhaps a
+feeling that a transaction which did not happen at all is actually featuring in
+the records) then I would suggest that between the SPM and a POL
+support team there needs to be a prompt and thorough analysis to pinpoint
+the following:
+
+99.1 The last date and the balances when the SPM was happy with the
+records – given that branches typically “cash up” each day, this
+could therefore become an almost real-time process
+
+99.2 The full list of transactions, remittances and other events recorded
+in Horizon since that date
+
+99.3 Exactly which of the transactions, remittances and other events in
+the list were felt by the SPM to have been recorded wrongly, or
+which such items had failed to be recorded
+
+99.4 This would then enable a prompt investigation and response to the
+concerns noted. This would be an improvement on the situation
+described by some SPMs where they felt that there had been a long
+period of no support and where everyone’s memories would
+probably have been challenged by the prospect of proving what
+
+Page 45 of 61

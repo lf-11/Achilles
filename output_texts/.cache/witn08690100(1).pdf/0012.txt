@@ -1,0 +1,28 @@
+WITN08690100
+WITN08690100
+
+User Account (POL00002841) I think there was a process for onsite branch
+Auditors to follow if they needed access to the Horizon IT system and I think
+you had to phone the Helpline to get a password
+
+37. The Inquiry has asked me to describe any involvement Fujitsu had in the audit
+process. As far as I can remember Fujitsu had no involvement in the audit
+process during my time in the team.
+
+38. I have also been asked by the Inquiry whether Auditors had access to
+information which a subpostmaster did not have access to when they were
+conducting a branch audit. Auditors had information available to them from
+within the Audit Planning File as far as I can remember. This was an internal
+model used by the Audit Team only. They also had the previous audit report.
+This information would not be available to subpostmasters.
+
+39. If my memory is correct and I am thinking about the same thing, the Audit
+Global User Account was available at every branch. This could only be
+accessed by Audit Team members as far as I'm aware. I think the Auditor who
+needed to use this had to phone up the Helpline and was given a one-use
+password but I could be mistaken with my memory of this.
+
+40. I can't remember anything about any audit measures that were in place in
+respect of Audit Global User Accounts.
+
+Page 12 of 35

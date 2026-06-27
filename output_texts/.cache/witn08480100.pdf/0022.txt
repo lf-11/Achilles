@@ -1,0 +1,19 @@
+WITN08480100
+WITN08480100
+
+April 2015)
+19 FUJ00001894 Audit Trail Functional Specification (version 8.0, 18 October 2004) POINQ0008065F
+20 POL00002841 Global User Account (September 2016) VIS00003855
+21 AMCL0000031 The audit report p176 to p188 AMCL0000031
+22 AMCL0000014 The Interview Transcript AMCL0000014
+23 POL00113386 The incident log POL-0110794
+24 AMCL0000031 The email from Graham Ward to Suzanne Winter, dated 22 September 2004 p156 AMCL0000031
+25 AMCL0000031 The statement of complaint p257 to 260 AMCL0000031
+26 AMCL0000034 The indictment dated 26 April 2004 AMCL0000034
+27 AMCL0000031 The list of witness statements (which appear to have been filed at the same time as the statement of complaint) p262 to 293 and p312 to 326 AMCL0000031
+28 AMCL0000031 The list of exhibits p.367 to 373 AMCL0000031
+29 AMCL0000031 The letter from Richard Gardiner of McClure Watters, Chartered Accountants, to John J Rice & Co Solicitors enclosing his draft report (dated 22 December 2004) p33 to 65 AMCL0000031
+30 AMCL0000033 The case result form AMCL0000033
+31 AMCL0000036 The certificate of conviction dated 4 November 2021 AMCL0000036
+32 AMCL0000037 The Court of Appeal judgment in R v McLaughlin AMCL0000037
+33 AMCL0000040 Alan McLaughlin statement – Prepared for Northern Ireland Court of Appeal Application AMCL0000040

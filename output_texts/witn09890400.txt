@@ -1,0 +1,1146 @@
+# witn09890400.pdf
+
+
+=== Page 1 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+Witness Name: Simon Recaldin
+Statement No: WITN09890400
+Dated: 15 May 2024
+
+POST OFFICE HORIZON IT INQUIRY
+
+FOURTH WITNESS STATEMENT
+OF SIMON RECALDIN
+
+I, Simon Recaldin, of 100 Wood Street, London say as follows:
+
+Introduction
+
+1 Except where I indicate to the contrary, the facts and matters contained in this witness statement are within my own knowledge. Where any information is not within my personal knowledge, I have identified the source of that information or the basis for my belief. In particular, the content of this statement is substantially informed by the enquires and disclosure review of Burges Salmon LLP and their contractor Fieldfisher LLP (together "BSFf"), who are instructed by Post Office Limited ("POL") and who represent POL in the Inquiry. The facts in this witness statement are true to the best of my knowledge and belief.
+
+2 I have provided three previous witness statements to the Inquiry. I continue to be employed by POL as Remediation Unit Director, leading the business unit which POL established to administer its redress schemes. This is now known
+
+Page 1 of 28
+
+
+
+=== Page 2 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+as the Remediation Unit (or ‘RU’) but was previously known as the Historical
+Matters Unit (sometimes also referred to as the Historical Matters Business Unit
+or ‘HMU’).
+
+3 This witness statement has been prepared in response to paragraph 3(c) of
+Annex A to the Notice given by the Inquiry on 9 October 2023 pursuant to
+Section 21 of the Inquiries Act 2005 ("Notice No.8"). Notice No.8 was amended
+by the Inquiry’s letter of 23 October 2023. Its terms were amended so that
+references to a “Convicted SPM” were replaced with references to a Potential
+Future Appellant “PFA”, meaning an appellant or potential future appellant as
+defined in paragraph 15 to 16 of my first witness statement to this Inquiry. The
+Inquiry also amended the time for compliance with Notice No.8 so that all limbs
+of that notice were required to be complied with by 4pm on 15 November 2023¹.
+
+4 This witness statement briefly sets of the scope of Notice No.8, the scope of
+enquiries undertaken to comply with it, the resulting document review, the
+results of that review and the information sought at paragraphs 3(a) and (b) of
+Annex A of the Notice.
+
+Notice No.8
+
+5 Paraphrasing and adopting the same defined (capitalised) terms of Notice No.8,
+it required that POL provide (or if already provided identify):
+
+1 This was via its letter of 23 October 2023 extending the deadline to 13 November
+2023, and email of 09 November 2023 extending the deadline by a further 48 hours.
+
+Page 2 of 28
+
+
+
+=== Page 3 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+(a) Any Relevant Documents or Redacted Relevant Documents sent by
+POL2 to a PFA, pursuant to POL's duty of post-conviction disclosure,
+between 1 January 2000 and 16 December 2019.
+
+(b) Any correspondence3 sent by POL, to a PFA or their agents, with or
+further to the disclosure of such Relevant Documents or Redacted
+Relevant Documents that provided details of: (i) the nature or content of
+the disclosure; (ii) the reason for the disclosure; (iii) the timing of the
+disclosure; or (iv) the existence of or reason for any redactions.
+
+(c) A statement with a schedule setting out, for each Relevant Document
+and Redacted Relevant Document, and for each piece of
+correspondence, to which PFA it was sent and on what date.
+
+The scope of enquiries undertaken
+
+6 The scope of the post-conviction duty applies to any material affecting the safety
+of a conviction of a PFA. There are known to be some 700 PFAs and the scope
+of Notice No.8 applies to a period just short of 20 years.
+
+7 To respond to Notice No.8 POL (internally and through BSFf) has undertaken
+enquires of relevant personnel and organisations to establish whether any such
+
+2 In 6(a) and 6(b) the references to POL should be read as including any of its
+predecessor organisations or parent companies, or its agents.
+
+3 Paragraph 4 provided that where there are multiple identical (save for addressee and
+date) or materially similar letters, POL is only required to produce one version of that
+letter.
+
+Page 3 of 28
+
+
+
+=== Page 4 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+post-conviction disclosure exercises or instances had taken place, and then
+conducted targeted searches in response to the exercises and/or instances
+identified.
+
+8 Enquiries were made of:
+
+(a) Peters & Peters ("P&P") and Simon Baker KC, who as explained in my
+first witness statement to the Inquiry were instructed by POL to conduct
+the post-conviction disclosure exercise (or 'PCDE') following the Horizon
+Issues judgment4, and who have acted for POL during the Inquiry;
+
+(b) Herbert Smith Freehills ("HSF") as the former recognised legal
+representative of POL in previous phases of the Inquiry;
+
+(c) The firm which now trades as Cartwright King solicitors ("Current CK"5).
+Cartwright King was instructed by POL in relation to a large number of
+prosecutions during the period covered by the scope of Notice No.8;
+
+(d) Andy Cash, formerly of Cartwright King who has been assisting P&P with
+its enquiries in relation to Cartwright King's work for POL; and
+
+4 Bates & Others v Post Office Limited [2019] EWHC 3408 (QB) which was handed
+down on 16 December 2019.
+
+5 Cartwright King Ltd went into Administration in 2022 and the entity which now trades
+as Cartwright King is a phoenix company. To reflect this I refer to the entity which now
+trades as Cartwright King as 'Current CK' in distinction to the original entity which I
+refer to as 'Cartwright King'.
+
+Page 4 of 28
+
+
+
+=== Page 5 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+(e) Simon Clarke, formerly of Cartwright King, who had deep involvement in
+Cartwright King's work for POL for a large part of the period covered by
+Notice No.8.
+
+9 In addition, enquiry has been made of relevant individuals/repositories of data
+within POL.
+
+Summary outcome of enquiries
+
+10 As a result of these enquiries POL can confirm that one post-conviction
+disclosure exercise was undertaken during the relevant period. This exercise
+was conducted by Cartwright King in two phases between 2013 and 2015 and
+is known as the Cartwright King Sift Review (the "CK Sift").
+
+11 The scope, process and outcomes of the CK Sift are described in the following
+contemporaneous documents:
+
+(a) A Cartwright King document titled "Observations and analysis of the
+Cartwright King Prosecution Review Process" dated 5 December 20136
+(the "2013 CK Observations");
+
+(b) A document titled 'General Review' dated 15 October 20137 produced by
+Brian Altman QC8; and,
+
+6 POL00040194.
+7 POL00040042.
+8 As he then was.
+
+Page 5 of 28
+
+
+
+=== Page 6 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+(c) An update to the 2013 CK Observations document also titled
+“Observations and analysis of the Cartwright King Prosecution Review
+Process” dated 19 September 2014 (“2014 CK Observations”)9.
+
+12 In addition to these documents, Simon Clarke prepared a document titled “The
+Sift Review – an Explanation” dated 15 July 201910. Whilst not
+contemporaneous to the CK Sift being conducted, this document is, I believe,
+useful in establishing that no similar review exercise was conducted after the
+CK Sift concluded in late 2014. I am informed by BSFf that Mr Clarke has
+confirmed that this is correct.
+
+13 Having identified the CK Sift, I am informed that BSFf sought to identify both:
+
+(a) whether any post-conviction disclosure exercises or instances were
+known to have been undertaken other than the CK Sift; and,
+
+(b) where documents relating to the CK Sift and any post-conviction
+disclosure instances would now be located.
+
+14 None of the parties of whom enquiries were made were, to the best of their
+knowledge and belief, aware of any post-conviction disclosure review or
+exercise other than the CK Sift. Supporting this position, BSFf did not identify
+
+9 POL00169034: “Observations and analysis of the Cartwright King Prosecution
+Review Process” dated 5 December 2013.
+
+10 POL00169024: “The Sift Review – An Explanation”.
+
+Page 6 of 28
+
+
+
+=== Page 7 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+any other post-conviction disclosure exercises or instances during the course of
+its review of relevant documents/document repositories.
+
+15 In relation to the location of documents:
+
+(a) it was identified that all of Cartwright King's electronic and hardcopy files
+relating to instructions by Royal Mail Group ('RMG') and POL, insofar as
+still retained by Cartwright King at the date of request, had been
+requested by one or other of HSF and P&P during the Inquiry such that
+all of those files now exist in POL's Relativity Platform (the "CK Files").
+This includes:
+
+(i) two very large single pdf extractions of what Current CK believed
+to be the electronic client matter files for the each phase of the CK
+Sift (the "CK Sift Files"); and
+
+(ii) either hardcopy or electronic files for some of those individuals in
+whose cases post-conviction disclosure had been advised by
+Cartwright King (the "CK's Individual Files"), although BSFf and
+POL were not able to locate files for all such individuals.
+
+(b) Further hardcopy files labelled with the names of some individuals where
+post-conviction disclosure had been advised by Cartwright King were
+also held by POL's hardcopy archive provider Oasis (the "POL Individual
+Files").
+
+Page 7 of 28
+
+
+
+=== Page 8 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+The CK Sift
+
+16 As summarised in the 2013 CK Observations document and its subsequent update:
+
+(a) the CK Sift involved 533 cases, within which 83 cases were subjected to a ‘full review’;
+
+(b) the CK Sift was conducted on the premise that, if post-conviction disclosure was to be provided, the documents that would be disclosed were the Second Sight Interim Report and potentially also the Helen Rose Report;
+
+(c) disclosure of the Second Sight Interim Report was advised in 36 cases11;
+
+(d) in a subset of 12 of those 36 cases12 it was also advised that the Helen Rose Report should be disclosed13; and
+
+11 The 2013 and 2014 CK Observations documents report that disclosure was advised in 36 cases. However, for the reasons explained below there is some uncertainty as to exactly how that figure is derived.
+
+12 The 12 cases shown in Appendix 1: Allen, Boyle, D'Arcy, Dixon, Hirani, Hutchings, Ishaq, Robinson, Sefton, Neild, Threlfall and McQue, all of which were ‘first phase’ cases save for McQue.
+
+13 For an example of a case in which disclosure of the Second Sight Interim Report and Helen Rose Report were advised, and were disclosed in correspondence, see document POL00040055 / POL00029112 / POL00029128 / POL00091391 which is a signed version of the post conviction disclosure letter from Cartwright King to the solicitors of record for Susan Knight and which encloses copies of both reports. The
+
+Page 8 of 28
+
+
+
+=== Page 9 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+(e) in one case it appears that disclosure of materials relating to the
+Callendar Square bug (also called the Falkirk bug) was advised.
+
+17 In seeking to identify all cases in which post-conviction disclosure was provided
+to a PFA, BSFf undertook a manual document-by-document review of both CK
+Sift Files. In doing so, it identified what appeared to be 36 cases in which
+disclosure was advised by Cartwright King during the CK Sift, of which 26 were
+advised in the first phase of the review, and the further 10 cases during the
+second phase.
+
+18 In the case of each individual listed in the CK Sift Files as being a person in
+whose case post-conviction disclosure was advised BSFf looked at the list of all
+CK Files and POL Individual Files identified and undertook a full manual review
+of each of those files.
+
+19 BSFf also reviewed the POL mailboxes14 of the following members of POL's
+legal team: Susan Crichton, Chris Aujard, Jarnail Singh and Rodric Williams.
+This is because BSFf had identified during the document reviews summarised
+above that correspondence on the CK Sift Files concerning the outcomes of
+
+Helen Rose Report was redacted to remove the name of the author and of the
+postmaster involved.
+
+14 For the avoidance of doubt, mailboxes here means both the emails stored in
+Mimecast and in Exchange, save in the case of Jarnail Singh where, at the time of
+review, Mimecast emails had been extracted but not Exchange data. Based on the
+material found on Mimecast, a review of Exchange data once available is not
+expected to identify further relevant material.
+
+Page 9 of 28
+
+
+
+=== Page 10 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+these file reviews was primarily between Cartwright King and Jarnail Singh, but
+often also copying one or more of Susan Crichton, Chris Aujard, and Rodric
+Williams.
+
+20 As a 'sweeper search' BSFf then undertook a further review of all documents
+within the CK Files (excluding the CK Sift Files and CK Individual Files which
+had been reviewed manually) applying the keywords at Appendix 2, and
+reviewing responsive documents.
+
+Post Conviction Disclosures to PFAs as a result of the CK Sift
+
+21 Before explaining the outcome of the CK Sift, it is useful to explain that when
+counting the number of instances for disclosure there is a distinction to be made
+between:
+
+(a) the number of cases and the number of individuals (because some cases
+involved co-Defendants); and
+
+(b) instances in which disclosure was advised and instance in which it was
+given (because there was one case in which disclosure was advised but
+not given).
+
+First Phase
+
+22 There are 16 cases, concerning 17 individuals15, in which post-conviction
+disclosure was provided (being the first 17 listed individuals in Appendix 1).
+
+15 Angela Sefton and Ann Neild were co-Defendants, treated as a single case (see for
+example the Full Review Case Note / Opinion at POL00168974) but each individual
+received separate post-conviction disclosures (see Appendix 1).
+
+Page 10 of 28
+
+
+
+=== Page 11 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+23 Although not requested by the terms of the Notice No.8, because they are not cases of post-conviction disclosure, I am informed by BSFf that there are 9 cases concerning 12 individuals where disclosure was advised as follows:
+
+(a) five further cases (involving five individuals) in which it appears from contemporaneous documents that disclosure of the Second Sight Report was advised and provided during an ongoing prosecution, and that in each case those prosecutions were then either discontinued or the prosecution offered no evidence and a not guilty verdict was therefore entered16.
+
+(b) one case (involving one individual) in which disclosure was advised but the case was discontinued before disclosure was given17;
+
+(c) three cases (involving six individuals) which were, at the time, at a pre-trial stage, in which POL was not the prosecuting entity, this being either the Crown Prosecution Service (CPS) or Procurator Fiscal, and in which
+
+16 These cases concerned Rita Threlfall, Susan Knight, Nicola Grech, Danielle King and Balvinder Kaur Samra. For completeness, I understand from BSFf that voluntarily disclosure has been included within the documents produced in response to Notice No.8 which evidence both the advice given by Cartwright King concerning disclosure of the Second Sight Interim Report and Helen Rose Report in these cases, and the letters or attendance notes of oral disclosures made in these cases.
+
+17 In the case of George Thomas Brown disclosure of the Second Sight Interim Report and Helen Rose Report was advised (see POL00168896) but did not occur in light of the decision to discontinue that case (see POL00168901 and POL00169054).
+
+Page 11 of 28
+
+
+
+=== Page 12 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+POL made the disclosure to the CPS or Procurator Fiscal for the relevant
+prosecuting body to make disclosure to the PFA or their legal adviser18.
+
+24 We note this appears to be confirmed by paragraphs 31 and 32 of the 2013 CK
+Observations document which states:
+
+"There are a number of cases which have been prosecuted by the Crown
+Prosecution Service. ...we have ensured that the Crown prosecution
+Service Branches are aware of the issues with which the review process
+is concerned and have disclosed to them copies of the Second Sight
+Interim Report and the Helen Rose Report."
+
+25 The above gives rise to some uncertainty as to how Cartwright King came to
+summarise the number of disclosures advised as being "26", as it appears that
+disclosure was advised in respect of 29 individuals in 25 cases, and disclosure
+was then given to 28 individuals in 24 cases19.
+
+18 These cases concerned individuals called: (1) Gould, Townley, Renshaw &
+Renshaw, (2) Rerrie and (3) Ali. For completeness, I understand from BSFf that
+voluntarily disclosure has been included within the documents produced in response
+to Notice No.8 which evidence the disclosure of information from POL to the CPS and
+Procurator Fiscal respectively in these cases. Further I understand from BSFf that it
+is understood that Renshaw & Renshaw may be treated as a single case (being the
+same family) which is why this is reported as a total of 26 cases in which disclosure
+was advised, rather than 27. See in particular CK's internal summary at
+POL00169021 which lists these three cases and six individuals, and provides details
+of the ways in which disclosure was provided.
+
+19 Per paragraphs 23 and 24 above:
+
+Page 12 of 28
+
+
+
+=== Page 13 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+Second Phase
+
+26 The 10 cases in which disclosure was advised by Cartwright King during the second phase are those 10 individuals listed as such in Appendix 1. However, despite the searches described above, POL (and BSFf) has been unable to locate a letter or other evidence of any post-conviction disclosure being provided to Jerry Kwame Hosi (one of the PFA's) although BSFf have identified the opinion document produced by Cartwright King in which it was advised disclosure should be given20.
+
+27 During the manual review of the CK Sift Files and the wider review described below, BSFf did not identify any cases other than those listed in Appendix 1 in which it appeared post-conviction disclosure had been given, nor to the best of my knowledge and belief is POL aware of any such further cases.
+
+Letters to PFAs or their legal advisers
+
+28 I am informed by BSFf that:
+
+(i) 16 + 5 + 1 + 3 = 25 cases in which disclosure was advised, within which disclosure was given in 24 cases.
+(ii) 17 + 5 + 1 + 6 = 29 individuals in respect of whom disclosure was advised, within which disclosure was given to 28.
+
+20 In particular, it was advised that disclosure should be given not only of the Second Sight Interim Report and Helen Rose Report but also materials relating the Callendar Square bug.
+
+Page 13 of 28
+
+
+
+=== Page 14 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+(a) The letter that went from Cartwright King to a PFA or their legal adviser was materially the same letter in all instances, tailored to the post-conviction disclosure provided in that instance;
+
+(b) Save for the case of Jerry Kwame Hosi referred to above, BSff have been able to locate unsigned letters to a PFA or their legal adviser providing post-conviction disclosure in all cases;
+
+(c) It was not the practice of Cartwright King to retain copies of signed letters to PFAs or their legal advisers as proof that such disclosure had been provided. Rather, BSff inform me that the Cartwright King practice was that an unsigned copy of a letter to a PFA or his or her legal adviser would stand as the 'office copy' record of the letter that was sent. I am informed Cartwright King sought to operate a paperless office and that this approach was part of that practice;
+
+(d) Cartwright King produced two schedules to record progress of the CK Sift, the relevant extracts of which have been disclosed as POL00169054 (First Phase CK Sift) and POL00169055 (Second Phase CK Sift). In most cases21 these record: (i) its advice as to whether or not post-conviction disclosure should be provided and, if so, what the disclosure should be; and (ii) whether or not the disclosure was provided. Accordingly, in those
+
+21 Both schedules are incomplete in some respects.
+
+Page 14 of 28
+
+
+
+=== Page 15 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+cases where the schedules are complete, they serve as a useful way of
+checking whether post-conviction disclosure was in fact provided.
+
+(e) In 3 cases BSFf has located a signed letter to a PFA or their legal adviser.
+It appears that POL holds these signed copies only as a result of the
+relevant legal advisers to those PFAs providing them to POL as
+enclosures to correspondence flowing from POL's post-conviction
+disclosure.
+
+29 In all the circumstances there are therefore reasonable grounds for POL to be
+confident that post-conviction disclosure was provided as described above, to
+the 29 individuals listed in Appendix 1 of this statement. As I have noted above,
+although the CK Sift resulted in disclosures being made in 36 cases, the
+remaining seven cases were pre-trial disclosures.
+
+Information sought by Notice No.8
+
+30 I am advised by BSFf that the tables in Appendix 1 below contain all information
+POL has been able to obtain responsive to the requests at paragraphs 3(a) and
+3(b) of Annex A to the Notice.
+
+Statement of truth
+I believe the content of this statement to be true.
+
+Signed:
+
+GRO
+
+Dated: 15 May 2024
+
+Page 15 of 28
+
+
+
+=== Page 16 ===
+
+WITN09890400
+WITN09890400
+WITN09890400
+Appendix 1
+The 17 Cases from the First Phase of the Cartwright King Review
+Name of PFA
+Document Reference
+Document Description
+Name of PFA's Solicitors
+Date of Letter and Reference
+1.
+Khayyam Ishaq
+POL00132862
+POL00060711
+POL00066786
+POL00157189
+Unsigned Draft Letter enclosing the Helen Rose Report (HRR) and Second Sight Interim Report (SSIR)
+Musa Patels Solicitors
+12th July 2013
+Ref number: MS2/24676
+2.
+Jamie Dixon
+POL00168971
+Substantively identical to Susan Knight letter22.
+Brewer Harding & Rowe
+17th July 2013
+Ref Number: MS2/37142
+3.
+Grant (Ian) Allen
+POL00089682
+Enclosures not actually attached but inferred to have been attached as they were in the case of the Susan Knight letter above.
+Linda Pennington Maidments Solicitors Ltd
+25th July 2013
+Ref number: MS2/37142
+4.
+Hitesh Hirani
+POL00168973
+Davies & Jones Solicitors
+12th July 2013
+Ref number: MS2/37142
+5.
+Angela (Mary) Sefton
+POL00066798
+Hogan Brown Solicitors
+24th July 2013
+Ref number: MS2/37142
+6.
+Ann Neild
+POL00066799
+Lawrence Lee & Co Solicitors
+25th July 2013
+Ref number: MS2/37142
+22 The Susan Knight version of this letter is a signed version and includes the enclosures for both the Helen Rose Report (HRR) and Second Sight Interim Report (SSIR) - POL00040055 / POL00029112 / POL00029128 / POL00091391.
+Page 16 of 28
+
+
+
+=== Page 17 ===
+
+WITN09890400
+WITN09890400
+WITN09890400
+LML.BW.JW.N
+EI
+7.
+Lynette
+Hutchings
+POL00060945
+POL00066843
+POL00066834
+Messrs.
+Coomber
+Rich
+8th October
+2013
+Ref:
+MS2/22796
+8.
+Deborah
+D'Arcy
+POL00168972
+Only content
+which differs
+from the above
+letters are the
+details of the
+PFA's solicitor,
+letter date, and
+reference
+number (each
+shown right).
+However, the
+introductory
+paragraph
+summarising the
+PFA's offence
+and associated
+sentence is
+unique in each
+letter. The
+located
+(unsigned)
+copies of these
+letters are
+disclosed to the
+Inquiry therefore.
+Teign
+Advocates,
+123 Queen
+Street,
+Newton
+Abbot,
+TQ12 2BN
+12th July 2013
+Ref number:
+MS2/37142
+9.
+Robert
+John Boyle
+POL00169005
+Broadbents
+Solicitors
+Opas House
+DX 24814
+Sutton-in-
+Ashfield
+30th August
+2013.
+Ref:
+MS2/24676/LP
+1
+10.
+Della
+Robinson
+POL00169011
+Messrs.
+David
+Phillips and
+Partners, DX
+13017
+Birmingham
+8th October
+2013.
+Ref:
+MS2/25271
+11.
+Jahira
+Begum
+POL00169019
+The content of
+these letters is
+substantively the
+same as those
+above save for:
+Messrs.
+Pattichi, Hill
+& Croques
+13th December
+2013
+Ref:
+MS2/22796
+Page 17 of 28
+
+
+
+=== Page 18 ===
+
+WITN09890400
+WITN09890400
+WITN09890400
+[i] the details of
+details of the
+PFA's solicitor,
+letter date, and
+reference
+number (each
+shown right).
+Ref:
+28/07/10/130
+12.
+Allen John
+Reynolds
+POL00169020
+Messrs.
+Canter Levin
+& Berg
+20th December
+2013.
+Ref: MS2/
+22796.
+Ref: PM/VL
+[ii] The
+introductory
+paragraph
+summarising the
+PFA's offence
+and associated
+sentence is
+unique in each
+letter.
+13.
+Rajesh
+Lakhanpaul
+POL00169017
+Messrs.
+Maidments
+13th December
+2013
+Ref:
+MS2/37142
+NK/RD/LAK000
+4/0001
+[iii] In these
+cases only the
+SSIR was
+disclosed and
+not the HRR or
+any other
+document.
+14.
+Mohammed
+Naveed
+Anwar
+POL00169018
+Cohen
+Cramer
+13th December
+2013
+Ref Nos:
+MS2/37142
+JSG/180811/30
+2
+The located
+(unsigned) copy
+of these letters
+are disclosed
+therefore to the
+Inquiry.
+15.
+Damian
+Peter Owen
+POL00168865
+Tudor Owen
+Roberts
+Gynne & Co
+13th December
+2013
+Ref Nos:
+MS2/37142
+BW/LH/10821
+In Mr Hussain's
+case there is
+also a follow-up
+letter
+(POL00168867)
+in which the only
+substantive
+paragraph is a
+confirmation from
+CK that "Our
+Client has
+confirmed that
+the West
+16.
+Neelam
+Shanez
+Hussain
+POL00168866
+B. H.
+Mohammed
+13th December
+2013
+Ref Nos:
+MS2/37142
+NI/181010/009
+Page 18 of 28
+
+
+
+=== Page 19 ===
+
+WITN09890400
+WITN09890400
+WITN09890400
+Bromwich Post
+Office was
+unaffected by the
+two defects
+referred to in the
+Second Sight
+Interim Report
+previously
+disclosed to
+you."
+17.
+Kangasund
+aram Prince
+POL00168881
+Final signed
+letter located and
+is the same for
+as 13 to 18
+above.
+My Brief
+Solicitors
+13th December
+2013
+Ref Nos:
+MS2/37142
+JJB/MB/PRINCE
+The 10 Cases from the Second Phase of the Cartwright King Review
+Name
+Ref
+Summary
+Name of
+Solicitors
+Date of
+Disclosure (per
+the letter)
+1. Katherine
+McQue
+POL00169051
+Substantially
+identical to cases
+1 to 8 above (i.e.
+disclosing both
+the SSIR and
+HRR). The only
+content which
+differs from the
+above letters are
+the details of the
+PFA's solicitor,
+letter date, and
+reference
+number (each
+shown right).
+However, the
+introductory
+paragraph
+summarising the
+PFA's offence
+Lewis Rogers
+25 September
+2014
+Ref No:
+MS2/44948
+Page 19 of 28
+
+
+
+=== Page 20 ===
+
+WITN09890400
+WITN09890400
+WITN09890400
+and associated
+sentence is
+unique in each
+letter. The
+located
+(unsigned)
+copies of these
+letters are
+disclosed to the
+Inquiry therefore.
+2. Jerry
+Kwame
+Hosi
+N/A
+As at the date of
+this BSFf
+statement
+neither BSFf nor
+POL has been
+able to locate a
+copy of the post
+conviction
+disclosure letter
+provided to Mr
+Hosi. What has
+been located is
+an opinion by
+Cartwright King,
+advising POL
+that Mr Hosi
+should receive
+post conviction
+disclosure of the
+SSIR, HRR and
+materials relating
+to the Falkirk /
+Callendar
+Square bug.
+Erica Peat &
+Diable / Peat
+Diable
+Solicitors.
+Unknown
+3. Daljit Singh
+Benning
+POL00169044
+The content of
+these letters is
+substantively the
+same as those
+above save for:
+[i] the details of
+details of the
+PFA's solicitor,
+letter date, and
+Thomson,
+Webb &
+Corfield
+25 September
+2014
+Ref: MS2/44948
+4. Angela
+Jane
+Hodgson
+POL00169045
+Michael J
+Fisher & Co
+5. Jacqueline
+McDonald
+POL00169049
+Marsden
+Rawsthorn
+Page 20 of 28
+
+
+
+=== Page 21 ===
+
+WITN09890400
+WITN09890400
+WITN09890400
+6. Siobhan Sayer POL00169047 reference number (each shown right). [ii] The introductory paragraph summarising the PFA's offence and associated sentence is unique in each letter. Messrs Fraser Dawbarns Solicitors
+7. Rabina Shaheen POL00169048 Coomber Rich Solicitors
+8. Senapathy Narenthiran POL00169043 Messrs Raja & Co
+9. Peter Huxham POL00169052 [iii] In these cases only the SSIR was disclosed and not the HRR or any other document. The located (unsigned) copy of these letters are disclosed to the Inquiry therefore. Messrs Nunn Rickard
+10. Alison Henderson POL00169050 As per immediately above but we have also noted a response to the letter from Norman Lamb MP of 19 December 2014, which has also been disclosed to the Inquiry (POL00168874). Messrs Belmores Solicitors
+Page 21 of 28
+
+
+
+=== Page 22 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+Appendix 2 – Keyword Search terms
+
+[First CK Sift Case Names and their Solicitors]
+
+1. Khay*am w/3 Ishaq OR Musa w/2 Patel*
+2. Rita w/3 Threlfall OR Lawrence w/2 Lee
+3. Jamie w/3 Dixon OR Brewer w/2 Harding
+4. Susan w/3 Knight OR Howell w/2 Hylton
+5. Deborah w/3 D*Arcy OR Teign w/2 Advocates
+6. Grant w/3 Allen OR Linda w/2 Pennington
+7. Hitesh w/3 Hirani OR Davies w/2 Jones w/5 solicitors
+8. Angela w/3 Sefton OR Hogan w/2 Brown
+9. Ann w/3 Nield OR Lawrence w/2 Lee w/5 solicitors
+10. Robert w/3 Boyle OR Broadbents
+11. Della w/3 Robinson OR David w/2 Phillips w/50 Robinson
+12. Lynette w/3 Hutchings OR Coomber w/2 Rich
+13. Jahira w/3 Begum OR Pattichi w/2 Hill
+14. Allen w/3 Reynolds OR Canter w/2 Levin
+15. Kang* w/3 Prince
+16. Rajesh w/3 Lakhanpaul OR Maidments
+17. Mohammed w/3 Anwar OR Cohen Cramer
+18. Damian w/3 Owen OR (Tudor w/2 Owen) OR (Roberts w/2 Gynne)
+19. Neelam w/2 Hussain OR "B. H. Mohammed" OR "B*H*Mohammed"
+
+Page 22 of 28
+
+
+
+=== Page 23 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+[Second CK Sift Case Names and their Solicitors]
+
+1. Daljit w/3 Benning OR Thomson w/2 Webb w/2 Corfield
+2. Angela w/3 Hodgson OR Michael W/2 Fisher
+3. Katherine w/3 McQue OR Lewis w/2 Rogers
+4. Jacqueline w/3 McDonald OR Marsden w/2 Rawsthorn
+5. Jerry w/3 Hosi OR (Erica w/2 Peat) OR (Peat w/3 Diable)
+6. Siobhan w/3 Sayer OR Dawbarns
+7. Rabina w/3 Shaheen OR Coomber w/2 Rich
+8. Senapathy w/3 Narenthiran OR (Raja w/2 company) OR (Raja w/2 co)
+9. Peter w/3 Huxham OR Nunn w/2 Rickard
+10. Alison w/3 Henderson OR Belmores
+
+[CK Sift Case Names where POL was not prosecutor and with uncertain outcomes]
+
+1. (Gould OR Townley OR Renshaw OR Renshaw) AND (CPS OR "South Wales" OR "Second Sight Interim")
+2. (Rerrie) AND (CPS OR Hirst OR Newcastle)
+3. (Ali) AND ("KC13001814" OR "Tracy Plant" OR "Tracey Plant" OR Dunfermline)
+
+[Generic Phases appearing in disclosure letters]
+
+1. "We have thorougly reviewed" OR "We have thoroughly reviewed both the prosecution case" OR "We would also remind you of your duty not to disclose this material"23
+
+23 There is a deliberate misspelling of "thorougly" (without an "h") as it was only corrected to "thoroughly" in some of the later disclosure letters.
+
+Page 23 of 28
+
+
+
+=== Page 24 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+Index to Fourth Witness Statement of Simon Recaldin
+
+No URN Description Control no.
+1. POL00040194 Observations and analysis of the Cartwright King Prosecution Review Process POL-0036676
+2. POL00040042 Post Office Ltd, General Review POL-0036524
+3. POL00169034 The Cartwright King Review re Post Office Ltd and the Royal Mail Group Ltd: Observations and Analysis of the Cartwright King Prosecution Review Process relating to duties of disclosure in Criminal Prosecutions POL-BSFF-0132625
+4. POL00169024 The Sift Review – An Explanation by Simon Clarke – 15th July 2019 POL-BSFF-0132615
+5. POL00040055 Email from Martin Smith to Hylton Howell RE: Susan Knight (and attachments) POL-0036537
+6. POL00029112 Bundle of Documents containing: Email from Martin Smith to Howell Hylton, re: Susan Knight; Letter from Cartwright King Solicitors to Howell Hylton Solicitors, re: Susan Knight; Interim Report into alleged problems with Horizon System. POL-0025594
+7. POL00029128 Email from Martin Smith to Howell Hylton re Susan Knight POL-0025610
+8. POL00091391 Bundle of Documents containing: Email from Martin Smith to Howell Hylton, re: Susan Knight; Letter from Cartwright King Solicitors to Howell Hylton Solicitors, re: Susan Knight; Interim Report into alleged problems with Horizon System. POL-0090413
+9. POL00168974 Case Review re R. v Angela Sefton and Ann Nield by Simon Clarke – 17th July 2013 POL-BSFF-0132565
+
+Page 24 of 28
+
+
+
+=== Page 25 ===
+
+WITN09890400
+WITN09890400
+WITN09890400
+10. POL00168896 Case Review re R. v Thomas George Brown by Simon Clarke – 15th July 2013 POL-BSFF-0132487
+11. POL00168901 Email chain from Susan Crichton to Rodric Williams , Martin Smith, Hugh Flemington and others RE: Kevan Jones MP and the Thomas Brown case POL-BSFF-0132492
+12. POL00169054 Table of cases Filtered by Disclosure Required POL-BSFF-0132645
+13. POL00169021 POL Cases in which disclosure has taken place table: showing defendant name, date of disclosure, solicitors receiving disclosure POL-BSFF-0132612
+14. POL00169055 Table of live cases POL-BSFF-0132646
+15. POL00132862 Letter from Simon Clarke to Musa Patels Solicitors re: Khayyam Ishaq - 12th July 2013 POL-0125260
+16. POL00060711 Letter from Simon Clarke to Musa Patels Solicitors re: Khayyam Ishaq - 12th July 2013 POL-0057190
+17. POL00066786 Letter from Simon Clarke to Musa Patels Solicitors re: Khayyam Ishaq - 12th July 2013 POL-0063265
+18. POL00157189 Letter from Simon Clarke to Musa Patels Solicitors re: Khayyam Ishaq - 12th July 2013 POL-0145651
+19. POL00168971 Letter from Harry Bowyer to Brewer Harding & Rowe Solicitors RE: Jamie Dixon - Second Sight Interim Report. POL-BSFF-0132562
+20. POL00089682 Letter from Simon Clarke to Linda Pennington re : Grant Allen Chest Crown Court -24th January 2013 POL-0086657
+21. POL00168973 Letter from Harry Bowyer to Davies & Jones Solicitors re: Hitesh Hirani Plymouth Crown Court - 8th February 2013 POL-BSFF-0132564
+Page 25 of 28
+
+
+
+=== Page 26 ===
+
+WITN09890400
+WITN09890400
+WITN09890400
+22. POL00066798 Angela Sefton Case study. Letter from Simon Clarke to Hogan Brown Solicitors re: Angela Sefton outcome and potential grounds to appeal POL-0063277
+23. POL00066799 Ann Nield Case Study: Letter from Simon Clarke to Laurence Lee& Co Solicitors Re Anne Nield Liverpool Crown Court POL-0063278
+24. POL00060945 Lynette Hutchings case study: Letter from Simon Clarke to Messrs. Coomber Rich re: Lynette Hutchings POL-0057424
+25. POL00066843 Lynette Hutchings case study: Letter from Simon Clarke to Messrs. Coomber Rich re: Lynette Hutchings POL-0063322
+26. POL00066834 Letter from Simon Clarke to Messrs. Coomber Rich re: Lynette Hutchings POL-0063313
+27. POL00168972 Letter from Harry Bowyer to Teign Advocates re Deborah D'Arcy - Post-Conviction disclosure of Second Sight report POL-BSFF-0132563
+28. POL00169005 Letter from Simon Clarke (Cartwright King Solicitors) to Broadbents Solicitors re Robert John Boyle - Post-prosecution disclosure of Second Sight Report and Helen Rose Report POL-BSFF-0132596
+29. POL00169011 Letter from Simon Clarke of Cartwright King to David Phillips and Partners re R v Della Robinson - Post conviction disclosure of Second Sight Interim Report and the Helen Rose Report POL-BSFF-0132602
+30. POL00169019 Letter from Simon Clarke to Messrs. Pattichi, Hill & Croques Re: Jahira Begum POL-BSFF-0132610
+31. POL00169020 Letter from Simon Clarke to Canter Levin & Berg re: Allen Reynolds - Second Sight Interim Report. POL-BSFF-0132611
+32. POL00169017 Letter from Simon Clarke to Messrs Maidments re: Rajesh Lakhanpaul POL-BSFF-0132608
+Page 26 of 28
+
+
+
+=== Page 27 ===
+
+WITN09890400
+WITN09890400
+
+WITN09890400
+
+33. POL00169018 Letter from Simon Clarke to Messrs Cohen Cramer RE: Mohammed Naveed Anwar POL-BSFF-0132609
+34. POL00168865 Letter from Simon Clarke to Tudor Owen Roberts Glynne & Co re: Damion Peter Owen - 13th December 2013 POL-BSFF-0132458
+35. POL00168866 Letter from Simon Clarke to B.H. Mohammed & Co re: Neelam Shanez Hussain - 13th December 2013 POL-BSFF-0132459
+36. POL00168881 Letter from Simon Clarke (Cartwright King) to My Brief Solicitors re Kangasundaram Prince - Disclosure of Second Sight Interim Report POL-BSFF-0132474
+37. POL00168867 Letter from Cartwright King to B.H. Mohammad - re Nellam Shanez Hussain - 04 March 2014 POL-BSFF-0132460
+38. POL00169051 Letter from Simon Clarke to Messrs Lewis Rogers, Re: Katherine McQue - Carlisle Crown Court POL-BSFF-0132642
+39. POL00169044 Letter from Simon Clarke to Messrs Thomson, Webb & Corfield, Re: Daljit Singh Benning - Cambridge Crown Court POL-BSFF-0132635
+40. POL00169045 Letter from Simon Clarke to Messrs Thomson, Webb & Corfield, Re: Angela Hodgson - Carlisle Crown Court POL-BSFF-0132636
+41. POL00169049 Letter from Simon Clarke (Barrister) to Messrs Marsden Rawsthorn Re: Jacqueline McDonalds - Preston Crown Court POL-BSFF-0132640
+
+Page 27 of 28
+
+
+
+=== Page 28 ===
+
+WITN09890400
+WITN09890400
+WITN09890400
+42. POL00169047 Letter from Simon Clarke to Messrs Thomson, Webb & Corfield, Re: Siobhan Sayer - Norwich Crown Court POL-BSFF-0132638
+43. POL00169048 Letter from Simon Clarke to Messrs, Re: Rabina Shaheen - Shrewsbury Crown Court POL-BSFF-0132639
+44. POL00169043 Letter from Simon Clarke to Messrs Raja & Co RE: Senapathy Narenthiran - Kingston Crown Court POL-BSFF-0132634
+45. POL00169052 Letter from Simon Clarke to Messrs Thomson, Webb & Corfield, Mr P Seigne Re: Peter Huxham - Exeter Crown Court POL-BSFF-0132643
+46. POL00169050 Letter from Simon Clarke to Messrs Belmores re: Alison Henderson – Norwich Crown Court POL-BSFF-0132641
+47. POL00168874 Letter from Norman Lamb MP to Paula Vennells re Alison Henderson - Horizon System – 19 December 2014 POL-BSFF-0132467
+Page 28 of 28
+

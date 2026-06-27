@@ -1,0 +1,10 @@
+WITN04640100
+WITN04640100
+
+270. I have been asked to explain in non-technical terms how the changes made under the Smart ID/EUM programme would affect Postmasters. As stated in paragraph 229, I have reviewed the documents identified in respect of the Smart ID / EUM project. Please read my answer to this question in conjunction with paragraphs 229 to 277 and, in particular, paragraphs 241 to 277 where I explain certain features in the Smart ID programme and changes made in branches.
+
+271. In terms of issues in branches, the dual login functionality was the most problematic change made under the Smart ID programme in terms of technical changes and Postmaster feedback that was received. This was the one thing Postmasters disliked the most about Smart ID implementation. From my recollection, Postmasters thought that dual login was too restrictive and reduced their operational flexibility. I outlined some of these issues, which were raised to me by the National Federation of SubPostmasters, in the "Horizon Multiple Login: Options Paper" in August 2020 (POL00037819). For example, the paper stated that "Multiple login functionality slows down quick switching between counters ... by forcing, when a user wishes to switch counter positions, them to lock their current counter and unlock the one they wish to work on by entering their password" (page 3).
+
+272. This document was prepared to scope Postmaster responses to the operational issues which arose from the dual login functionality. The paper outlines: (i) the background of Smart ID dual login, (ii) the operational issues experienced by Postmasters as a result of dual logins as flagged by the National Federation of SubPostmasters ("NFSP"), and (iii) in high-level terms, the potential options to address these operational issues.
+
+Page 82 of 95

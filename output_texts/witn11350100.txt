@@ -1,0 +1,839 @@
+# witn11350100.pdf
+
+
+=== Page 1 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+Witness Statement No.1
+WITN11350100
+Dated: 16 August 2024
+
+POST OFFICE HORIZON IT INQUIRY
+
+FIRST WITNESS STATEMENT OF CHRIS BROCKLESBY
+
+Statement
+1. I, Chris Brocklesby, will say as follows.
+2. I am employed as the Chief Transformation Officer of the Post Office Limited. I joined POL in August 2023.
+3. This witness statement is made to assist the Post Office Horizon IT Inquiry (the "Inquiry") with the matters set out in the request for information pursuant to Rule 9 of the Inquiry Rules 2006 – Request number 1, regarding matters falling within Phase 7 of the Inquiry dated 12 July 2024. I have been assisted by Burness Paull LLP, my appointed legal representatives, in the preparation and drafting of my statement. I have not been assisted by POL in preparing my statement.
+
+Professional Background
+
+Page 1 of 25
+
+
+
+=== Page 2 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+4. I have a BSc 1st Class Chemical Engineering, from University College London. I have since worked exclusively in IT.
+
+5. I have had a 36-year career in IT. My previous roles are:
+
+a) Accenture; Partner (1988-2006) - specialising in large scale programme delivery in Financial Services with clients such as AXA, Legal & General and Barclays.
+
+b) Tesco UK; UK IT Director (2007-2010) - in this role I ran a team of 1,200 people (on and offshore) to support and develop all central head office, store and distribution centre IT systems and hardware.
+
+c) Tesco.com; CIO (2011-2012) - led the IT team responsible for the development and support of all on-line businesses in the UK and set up a Group Development team to create and deploy an on-line capability to all Tesco territories.
+
+d) Tesco Bank; CIO (2012-2015) – a member of the Executive Committee responsible for all aspects of IT at the Bank including the creation of a new Current Account proposition.
+
+e) Easyjet; CIO (2015-2018) – a member of the Airline Management Board responsible for all aspects of IT from aircraft scheduling through to customer website and apps.
+
+f) Vodafone UK; CIO (2018-2021) – responsible for all IT including a large transformation programme to consolidate multiple legacy systems.
+
+Page 2 of 25
+
+
+
+=== Page 3 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+g) Dunelm; CIO (2021-2023) – a member of the Executive team
+responsible for all IT with a focus on the switch to digital retailing.
+
+h) POL; CTO (2023-2024) - a member of the Strategic Executive Group
+responsible for IT including the delivery of the SPM programme which is
+replacing the Horizon system.
+
+6. I have been asked to summarise my understanding and experience with the
+Horizon IT system. This is a complex system, and I appreciate the Inquiry is very
+aware of the detail and history of the system. Horizon is the IT system which
+manages all POL branch transactions and it is deployed to all 11,700 branches
+and 22,000 counters. Support and ongoing development are largely outsourced
+to Fujitsu and it runs from two Fujitsu managed data centres in Belfast.
+
+7. In terms of my experience with the Horizon IT system, I am accountable for the
+day-to-day operation of Horizon from a POL perspective although, as I noted, the
+service is still mostly outsourced to Fujitsu with some activities being moved into
+POL (as part of the Application Modernisation project).
+
+8. Application Modernisation involves POL re-building components of Horizon which
+interface with 3rd party partners (e.g. the Banks and the Royal Mail Group). This
+allows POL to own and support these critical components and also minimises the
+impact of migrating from Horizon to the new system (NBIT).
+
+9. Another of my responsibilities is all change activities on the Horizon system. These
+include:
+
+a) the regular Horizon software releases which include defect fixes and
+enhancements for Postmasters
+
+Page 3 of 25
+
+
+
+=== Page 4 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+b) implementation of the Horizon Issues Judgement (HIJ)
+recommendations and improvements
+
+c) Infrastructure upgrades to reduce operational risk (known as Datacentre
+Fortification), and
+
+d) projects to re-architect components of the Horizon system to bring them
+into POL control and support.
+
+10. I have a full time IT Director reporting to me, who is responsible for all Horizon
+work at POL, Simon Oldnall. This is one of his various responsibilities, and he has
+a team of approximately forty-five people who manage the service provided by
+Fujitsu through the following functions:
+
+a) Horizon service management
+
+b) Commercial and contract management
+
+c) Reference data services
+
+d) Testing
+
+e) Architecture
+
+f) Postmaster engagement
+
+11. I understand this team structure has been in place for some time.
+
+12. POL have a monthly governance meeting with Fujitsu. This is led from the POL
+side by Simon Oldnall and from Fujitsu by Dan Walton. These meetings are
+formally minuted, and have a standing agenda which covers:
+
+Page 4 of 25
+
+
+
+=== Page 5 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+a) service KPIs and escalations
+
+b) defect reporting
+
+c) status of regular Horizon counter releases
+
+d) progress on projects such as datacentre fortification and application
+modernisation
+
+e) commercial escalations.
+
+Experience of POL Strategic Executive Group
+
+13. I did not receive any training or induction prior to my appointment to the POL SEG.
+I was appointed to POL SEG immediately on commencing my employment as
+CTO, and my induction took place once I was in role.
+
+14. My induction once in role involved introductory briefing meetings with:
+
+a) Group Executive colleagues
+
+b) Board members
+
+c) Members of my team
+
+d) Simon Recaldin (Remediation Unit Director)
+
+e) Key suppliers.
+
+15. I was enrolled in the corporate training programme which involves the completion
+of online, mandatory training courses such as:
+
+a) Contract management
+
+Page 5 of 25
+
+
+
+=== Page 6 ===
+
+WITN11350100
+WITN11350100
+Docu sign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+b) Anti bribery and corruption
+c) Data protection
+d) Information security
+e) Competition law
+f) Anti money laundering and counter terrorist funding
+g) Procurement
+h) Confidentiality undertakings.
+
+16. As far as I recall, there was no formal training programme on IT or HR systems, or other internal systems.
+
+17. My induction and training at POL was broadly in line with what I have received at other organisations that I have worked for. It covered the basics required. On reflection, one element which would have been of assistance is an introductory course which provides a baseline understanding of the organisation, governance, and history. This is something I have seen at other organisations, and in my experience, POL is lacking this component in its induction – especially in view of the relative complexity and uniqueness of POL as an entity.
+
+18. When I joined POL in August 2023, I was aware broadly of some of the issues due to the public coverage (which became more extensive during my time at POL, for example with the Mr Bates vs The Post Office television programme, which was released in January 2024). As set out above, I joined the SEG immediately on beginning in my role at POL. There were no formal briefings on the issues
+
+Page 6 of 25
+
+
+
+=== Page 7 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+addressed by the Inquiry. During the interview process and immediately prior to
+joining I had some informal conversations with Nick Read and Owen Woodley.
+These conversations were high level and quite general in nature.
+
+19. To the extent my role overlaps with the issues raised in the inquiry, this is focused
+on ensuring POL supports postmasters in respect of how Horizon operates today,
+and that HIJ findings have been addressed in the Horizon software and the control
+processes involved. Overall, although the formal briefings were limited, there was
+sufficient information on the issues addressed by the Inquiry to allow me to carry
+out my role.
+
+20. At the then CEO's encouragement, I attended the Inquiry to gain an understanding
+of the format and topics which are being scrutinised and to fully appreciate the true
+impact on Postmasters.
+
+21. Within my first month I spent time with Simon Recaldin being briefed on the
+background to the Inquiry, the different compensation schemes and the processes
+involved in assessing and paying out compensation to Postmasters, which had
+sufficient detail given this area was outside my remit. This included an in-person
+presentation from Simon about the issues but I do not have access to the materials
+used at the time. This information did not directly relate to my role but was provided
+as general background and insight into the ongoing compensation issues.
+
+22. I became a member of Improvement Delivery Group (IDG) immediately upon
+commencing my role as CTO, which had the remit of addressing past failings,
+responding to current issues, driving operation and cultural change and rebuilding
+trust with Postmasters. The committee assessed progress on topics such as
+Postmaster induction and training, shortfall and discrepancies, suspensions and
+
+Page 7 of 25
+
+
+
+=== Page 8 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+terminations. It also assessed the progress of addressing the HIJ findings within
+Horizon. This gave me insight into the issues of the past and the actions plans to
+address those issues. I was the SEG sponsor for the HIJ Remediation programme
+which had the remit of implementing changes to the Horizon system in order to
+address specific recommendations from HIJ. The group met fortnightly and was
+chaired by the CEO and was a challenging environment in which POL leaders
+were challenged on progress and pace.
+
+23. The issues addressed by the Inquiry are complex. I felt I knew enough to
+understand and participate in an informed way in SEG briefings, although these
+areas do not fall specifically within my remit to manage. As referred to above, my
+role involves ensuring the implementation of the HIJ in so far as it applies to the
+operation of Horizon.
+
+24. In respect of POL's current corporate governance arrangements, and the
+adequacy and effectiveness of that structure, my view is that POL's corporate
+governance structure (e.g. Board with Independent Chair and NEDs, Audit,
+Remco and Nomco subcommittees) is in line with my experience of other large
+commercial organisations. Meetings are scheduled regularly and are minuted and
+actions documented and followed up. Minutes of previous meetings are
+subsequently signed off by the chair. Terms of reference exist for all sub-
+committees and these are regularly reviewed and updated. This level of formality
+is more than I have typically experienced in commercial organisations.
+
+25. In terms of Board structure, decision making responsibility lies with the Board
+across a wide range of areas. In my opinion, the CEO does not have sufficient
+delegated financial authority, which means that many decisions need to be signed
+
+Page 8 of 25
+
+
+
+=== Page 9 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+off by the Board as a whole. Any business case or procurement activity over £5
+million must be signed off by the Board. Although this is a large figure, given the
+size of POL, there is a significant number of spends which meet this threshold.
+Procurement activity typically requires two Board visits; the first to agree a
+procurement strategy and the second to agree the contract award. The Board
+agenda is often full of procurement and business case approvals due to the lack
+of delegated authority to the CEO or SEG, as well as updates on remediation
+matters.
+
+26. In my view this does not allow the Board the time to deal with more forward-looking
+items such as business strategy, building capability, IT/data strategy etc. Although
+the corporate governance arrangements are adequate, the delegations could be
+more effective, to enable the Board to focus more time and attention on strategic
+rather than operational issues.
+
+27. POL's unique ownership structure requires many other additional formal and
+informal meetings with Shareholder representatives and UKGI which consume a
+significant proportion of the Executive's capacity and adds a layer of complexity in
+the governance structure.
+
+28. It seems to me that there is insufficient focus on enterprise risk management; the
+quality of documented risks and the monitoring of mitigating actions needs to be
+improved. For example, monthly SEG meetings do not include, as a matter of
+course, a review of enterprise risks. The only occasion I recall there being a
+discussion about risks is in preparation for the Annual Accounts.
+
+29. I have been asked to describe the culture of POL at SEG level, and my reflections
+on the ways in which the culture has or has not changed following the HIJ or
+
+Page 9 of 25
+
+
+
+=== Page 10 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+Inquiry findings. As I have referred to above, I was not in post within POL prior to
+August 2023, and accordingly my direct experience of the previous culture and
+how it may, or may not, have changed since the findings in the HIJ and to some
+extent the evidence arising from the Inquiry is limited.
+
+30. My experience has been that SEG members are passionate about public service
+and providing an essential public utility to UK citizens. Postmasters feature in most
+conversations and the impact on Postmasters is considered in most decisions.
+
+31. The culture at POL level is an unusual mixture of a commercial enterprise and a
+government department. The commercial aspects are evidenced by weekly
+trading statements, trading meetings, financial reporting focussed on profit, events
+such as peak trading over Christmas etc. The governmental aspects are
+evidenced by the time spent on adherence to Government procurement rules,
+management of the Department of Business and Trade (DBT) and its Ministers
+and the restrictions associated with Managing Public Money.
+
+32. However, my observation is that the culture has been significantly influenced by
+the historic issues being addressed by the Horizon Inquiry which has resulted in
+risk aversion and a tendency to defer decisions to senior management.
+
+33. I would say that there is a positive culture of constructive challenge with a good
+level of constructive challenge in the organisation. For example, recommendations
+to SEG are not always accepted and there is often a robust debate at SEG about
+the way forward before an agreement is reached or the CEO has to make a
+decision.
+
+Page 10 of 25
+
+
+
+=== Page 11 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+34. In respect of audit and legal; the risk aversion manifests in the overbearing use of
+2nd and 3rd line audits. The capacity of these teams is always stretched which
+means that audits are often undertaken by external 3rd parties with little or no
+experience of POL. This is costly and inefficient and overburdens the front-line
+operation with the implementation of numerous recommendations. While the
+recommendations are generally sensible, given the volume of these and in some
+cases, the proportionality of implementing them, the relative benefits can be
+limited.
+
+35. There has been a significant change in the SEG and Board membership over the
+year I have been at POL, which obviously has an impact on corporate knowledge
+and direction. Furthermore, for an organisation of this scale and complexity and in
+view of the current challenges it is dealing with (including the Inquiry), it is less
+than optimal that POL is, and has been for some period, operating with a large
+proportion of "interim" senior managers and leaders. It is important for the stability
+of POL that permanent appointments are made through the appropriate rigorous
+recruitment processes.
+
+36. Generally, I would say that business strategy is inferred rather than explicit. The
+size of the network and many of the products sold are mandated by government
+policy therefore there are few conversations about the strategic intent of POL.
+
+37. Generally, the SEG meetings are reflective of good corporate governance at an
+executive level although, as highlighted above, agendas are often full of
+transactional approvals caused by lack of delegated authority and risk aversion.
+
+Page 11 of 25
+
+
+
+=== Page 12 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+38. Having joined POL in 2023 I may not be aware of all changes which have been
+made since the findings of Fraser LJ or following the Inquiry evidence sessions. I
+am aware, however, of the following changes:
+
+a) The appointment of two Postmaster NEDs to the Group Board.
+
+b) The appointment of a Postmaster Engagement Director (a serving
+Postmaster) to drive Postmaster engagement.
+
+c) All senior members of the POL team are encouraged to 'Adopt an Area'
+which drives a personal, enduring relationship with specific Postmasters.
+
+d) The procedures for Postmaster suspensions and terminations have
+been improved to include an independent panel to review
+recommendations to take disciplinary action.
+
+e) There is now much more support for Postmasters with discrepancies.
+This includes a 'Dispute button' which Postmasters use to highlight that
+they need help and a 3-tier support process to analyse and identify the
+root cause of discrepancies. My team work with the POL Retail to
+support Postmasters during these investigations.
+
+f) A refresh and upgrade of all Postmaster training.
+
+g) A new approach to Postmaster communication with transparency and
+openness driving all communication.
+
+h) More openness on Horizon defects. Any new defect with a possibility of
+having financial impact to Postmasters is posted on Branch Hub (the
+Postmaster communication portal) and resolution is updated. This area
+
+Page 12 of 25
+
+
+
+=== Page 13 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+is something which sits directly within my remit. There is also monthly
+SEG and Board reporting on Horizon defects.
+
+39. In my view POL takes appropriate steps to support the building and maintaining
+of trust between POL and SPMs, managers and assistants. Postmaster impact is
+always considered in decision making. The views of Postmaster NEDs are often
+sought before operational decisions are made or Board recommendations are
+submitted.
+
+40. Senior POL colleagues are encouraged to 'adopt an area' and spend time in
+branch especially around peak trading times in order to support Postmasters and
+get to understand the operation of a Post Office.
+
+41. My team have organised specific briefings on NBIT for the National Federation of
+SubPostmasters (NFSP) and have attended the recent NFSP conference to
+demonstrate the new system. They also have monthly briefings with the NFSP to
+walk through the latest service metrics and Horizon defect position.
+
+SEG's relationship and approach towards SPMs
+
+42. Further to what is set out above at paragraph 39, I have been asked to summarise
+my experience of SEG's relationship with, and approach to, SPMs. In my
+experience, SEG are very respectful of Postmasters and their views. SPMs are
+always taken into account when making decisions.
+
+43. SEG are very aware of the historic lack of communication breeding a sense of
+distrust and are therefore focussed on openness and regular communication. This
+manifests in regular postmaster newsletters, Postmaster townhalls and
+
+Page 13 of 25
+
+
+
+=== Page 14 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+conferences. The focus on communications is much more intense that any
+equivalent approach for front line staff that I have experienced in other retailers.
+
+44. SEG are encouraged to represent POL at Restorative Justice sessions around the
+country (I have attended a 2-day session in Leeds). These sessions allow
+Postmasters and their families to describe the details of POL wrongdoing and the
+profound impact on them and their families. The sessions are incredibly impactful
+to SEG members and, I hope, useful to Postmasters as they try to rebuild their
+lives.
+
+45. SEG are attempting to rebuild the working relationship with NFSP and Voice of
+the Postmaster. This has manifested in their inclusion in a number of working
+sessions within the organisation and a quarterly review with some SEG members.
+
+My experience of SEG and the Board
+
+46. My experience of SEG's relationship with the POL Board arises primarily from my
+attendance at Board meetings on a regular basis to address the Board on matters
+within my remit as CTO and also the general interactions which the SEG has with
+the Board which is largely led by the CEO, Deputy CEO and CFO.
+
+47. Both the CEO and CFO are members of SEG and the Board, which is in keeping
+with my experience with other corporate governance structures and they lead the
+interactions on behalf of SEG with the Board. The Deputy CEO has historically
+attended Board meetings also.
+
+48. As I mention above, I have attended most of the Board meetings since I have been
+in POL for the purposes of addressing specific agenda items within my remit (as
+opposed to attending the entire Board meeting). Usually this is to present on and
+
+Page 14 of 25
+
+
+
+=== Page 15 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+seek financial sign off for IT projects or the sign off of new procurement strategies
+and contract awards (I require to seek approval for any spend of £5m+). While
+these are not standing agenda items, given the current business of POL and the
+backdrop of the Horizon Inquiry, they regularly feature.
+
+49. In more general terms. I am aware that Board members are kept regularly updated
+on issues within POL by the CEO via a monthly CEO report circulated prior to and
+delivered at the Board meetings and ad hoc updates when required. There is a
+technology section within the CEO report which I assist with. I have also attended
+the Audit and Risk Committee to present on topics such as Cyber risks and
+incidents, IT controls within the Assurance framework for the SPM Programme. In
+addition, I have presented to each of the newly created Investment Committee
+meetings - the main topic has been progress and funding of the SPM programme.
+
+50. I am also responsible for creating a Tech dashboard each month for review by
+both SEG and the Board. This includes metrics on the service provided to
+Postmasters and colleagues and also data on Horizon defects and the usage of
+privileged and remote access by Fujitsu.
+
+51. My sense is that most members of the SEG have good individual relationships
+with some members of the Board and there is a lot of interaction with members
+between Board meetings - more than I have experienced in some other
+organisations.
+
+52. I have felt that SEG members have been frustrated with the lack of support or
+empathy from the Board for the disruption and stress caused by the many issues
+recently (e.g. the ITV drama, Staunton's departure, constant press stories about
+Nick Read etc.).
+
+Page 15 of 25
+
+
+
+=== Page 16 ===
+
+WITN11350100
+WITN11350100
+Docu sign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+53. I have been asked to provide a summary of my understanding and experience of the POL SEG's relationship with key relevant external stakeholders, such as the National Federation of Sub Postmasters (NFSP), Communications and Workers Union (CWU), Fujitsu, UK Government Investments (UKGI) and the Department for Business and Trade (DBT).
+
+54. SEG's relationship with NFSP, CWU and Voice of the Postmaster is business like. There is an understanding that NFSP are the official representatives of Postmasters and need to be involved/consulted in some key changes. However, the relationship is therefore transactional in nature rather than anything close to a partnership.
+
+55. There is no formal structure for SEG to have a direct relationship with Fujitsu. The interaction with Fujitsu happens at a lower level in the organisation between Simon Oldnall and Dan Walton. The background of the inquiry has meant that CEO to CEO level communication is mainly through formal letters, which reflects the nature of the relationship.
+
+56. SEG's relationship with UKGI is managed through Lorna Gratton as the POL Director appointed by UKGI. SEG has limited interaction with anyone else within UKGI. Lorna is seen as a strong advocate for POL, a fair but challenging Board member and someone with the intellectual capacity to understand complexity and nuance. Her counsel is usually sought before any important decision by SEG members especially those which require alignment and support from DBT. She clearly has influence and close relationships with critical DBT colleagues such as Carl Cresswell and others.
+
+Page 16 of 25
+
+
+
+=== Page 17 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+57. SEG's relationship with DBT is varied. Much of the relationship is managed by the
+POL CEO with Carl Cresswell (Director, Business Resilience, DBT), David
+Bickerton (Director General, DBT) and others. Other contacts are regular but quite
+transactional. My interactions directly with DBT have typically involved funding
+requests and have at times, been frustrating. DBT colleagues are committed and
+experienced civil servants but do not have all the necessary expertise or
+understanding of IT or programme delivery. This was one of the conclusions of the
+recent Infrastructure Project Authority (IPA) review of the SPM programme. The
+exception has been Jason Kitcat (the DBT CIO) who has been a strong supporter
+of the SPM programme and our IT Strategy. He has often challenged other civil
+servants when their recommendations do not align with the programme's
+approach. There is still confusion about DBT's responsibilities as POL's
+shareholder when there is an Independent Board overseeing the POL business.
+
+Composition of SEG and POL Board
+
+58. My view on the current composition of the POL SEG with regard to experience,
+expertise and abilities is impacted by the recent changes experienced by the SEG.
+The SEG had been slimmed down to only five executive members, but the
+appointments of the new Chairman, and subsequent additional interim roles, have
+now increased this, which makes the meetings less efficient with many new
+members still coming up to speed.
+
+59. One of the major issues with SEG has been the high turnover. When I joined POL
+in August 2023 there were ten members. Of those, only three remain in the current
+team, with five new members. Owen Woodley retires from POL in August, leaving
+the Chief of Staff and myself as the only remaining members of the team from
+
+Page 17 of 25
+
+
+
+=== Page 18 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+August 2023. I then leave POL on 6 September 2024. This means that there is a
+lack of corporate knowledge and understanding of context although this does
+mean that there is new experience available. The current SEG membership is:
+
+Owen Woodley Acting CEO – retiring from POL on 30 August 2024
+Chris Brocklesby Chief Transformation Officer – leaving POL on 6
+September 2024
+Karen McEwan Chief People Officer
+Neil Brocklehurst Interim Chief Operating Officer
+Preetha McCann Interim Chief Finance Officer
+Sarah Gray Interim General Counsel BAU (attending)
+John Dillon Interim General Counsel Inquiry (attending)
+Charlotte Cool Interim Corporate Affairs Director (attending)
+Chrysanthy Pispinis Chief of Staff (attending)
+
+60. At the time of writing, there is no clarity on who will be the Acting CEO on the 1 st
+of September and, that appointment apart, there would be only two permanent
+members of staff.
+
+61. Few of the current SEG members have experience of working directly with central
+Government or within a Government department – there is a significant learning
+curve in understanding the dynamics of central Government and the specific
+requirements of procurement and other government processes. Recent recruits
+appear to have had lengthy careers in commercial retail businesses which will
+benefit POL, albeit without the Government experience.
+
+Page 18 of 25
+
+
+
+=== Page 19 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+62. It is too early to know whether these individuals can work effectively together to create a strong SEG team something that has been lacking due to the high turnover and constant crisis management which has been a recurring theme of 2024. In my view SEG members have been working at an unsustainable intensity and pressure for some time.
+
+63. In terms of the composition of the POL Board, and the experience, expertise and abilities of its members, I believe that the level of general management experience of the Board is as I would expect. All the Board members (aside from the Postmaster NEDs) have fulfilled senior roles in large public companies. Many of Board members come from a Financial Services background and I would have expected more retail experience around the table as overseeing a large, diverse retail network creates specific challenges. There are also no Board members, that I am aware of with public sector experience other than Lorna Gratton. In my view it would be beneficial to have a broader range of commercial and public sector background.
+
+64. In terms of the desirability of the composition of the board, in my view the Postmaster NEDs fulfil an essential role – they bring real world Postmaster experience into the discussions and ensure that Postmaster impact is always considered in Board discussions.
+
+65. There are some Board members who are legally qualified – in my view the level of legal experience is appropriate given the complex legal environment that POL is operating within i.e. alongside a Public Inquiry and having to manage complex procurement arrangements.
+
+Page 19 of 25
+
+
+
+=== Page 20 ===
+
+WITN11350100
+WITN11350100
+Docu sign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+66. There are no Board members that I am aware of with IT experience – this would
+have benefitted the Post Office given the historic under investment in IT which has
+created material operational risks and the amount of IT Transformation work which
+is now necessary. Having an advocate to challenge the SEG to manage risks such
+as Cyber Security and ensure IT systems were kept current would have been
+useful to POL. It would also have meant that the new Investment Committee
+(which oversees the transformation agenda) would have more experience to
+challenge and support this important work.
+
+Whistleblowing at POL
+
+67. I have been asked for my view on whether POL culture actively encourages
+whistleblowers to speak openly and honestly about their concerns. My experience
+is that whistleblowing is encouraged much more than other organisations I have
+worked in. There is an internal programme called Speak Up, and the Speak Up
+contact numbers are regularly published to our staff. It is something regularly
+referenced as part of management meetings, and generally there is good visibility
+of the programme and the different mechanisms through which to whistleblow.
+Whistleblowing is led by the Legal team, and so I have restricted visibility of the
+specifics of investigations and outcomes, which I consider to be appropriate.
+
+68. Since commencing my role within POL in 2023 I am aware of whistleblowers and
+the investigations that have resulted, but without a high level of detail. I have
+chaired an investigation panel as a result of a whistleblower's accusations and I
+have seen the regular monthly reports in SEG of the number of investigations
+underway (simply codenames with no details). There are many more
+
+Page 20 of 25
+
+
+
+=== Page 21 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+investigations underway than anywhere else that I have worked – these
+investigations are taken seriously and confidentiality is respected.
+
+69. Based on my experience to date, and from the perspective of my role, I am
+confident that POL's whistleblowing policies and procedures are adequate and
+effective.
+
+Legal professional privilege and legal information
+
+70. I am aware that the legal positioning at POL is complex. In terms of internal legal
+positioning, I have an undertaking from the Inquiry and I am aware that I must
+check that everyone in the room has the equivalent undertaking before proceeding
+to discuss Inquiry matters. I regularly receive emails marked as Legally Privileged
+from internal lawyers and know that these cannot be forwarded to others without
+the express permission of the lawyers involved to minimise the risk of losing Legal
+Privilege.
+
+71. I am aware that the Board and SEG regularly receive external legal advice. As I
+have set out above, I only attend the Board meetings for the agenda items relevant
+to me, and only one particular occasion comes to mind when I have attended a
+Board meeting where legal advice was specifically provided and discussed. On
+that occasion, the external legal advisor attended in person to provide the advice,
+which was helpful. Overall I have had very limited exposure to legal advice being
+provided directly to the Board, and I do not have any particular concerns or
+comments about this.
+
+Key Events
+
+Page 21 of 25
+
+
+
+=== Page 22 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+72. I have been asked about the Times article dated 19 February 2024 (RLIT0000201). I do not recognise the characterisation of the current Post Office in the article. The observation that the Postmaster NEDs are ‘ignored’ is far from the truth as I have already stated above. I am not a member of the Board but have presented regularly and attended many meetings. During those presentations the two Postmaster NEDs have been given significant opportunities to comment and their opinions have carried weight and have swayed the Board’s conclusions.
+
+73. Specifically in relation to the suggestion that “there is a prevailing culture that Postmasters continue to be ‘guilty’”, this is, again, not a culture I recognise. For example, the way that discrepancies are now handled by POL is unrecognisable from the procedures of the past. Postmasters are given the benefit of the doubt and unexplained losses are not pursued by POL.
+
+74. I have been asked about my understanding of the circumstances of the dismissal and resignation of two former POL Board members. In relation to the dismissal of Henry Staunton, I have no specific knowledge of this event. We did have SEG discussions about the fallout from Henry Staunton’s appearances at the Parliamentary Sub Committee and subsequent interaction with the Secretary of State but the specific allegations were not discussed.
+
+75. In relation to the resignation of Alisdair Cameron, I have no knowledge of these circumstances as this is not within the remit of my role and I do not recollect any relevant conversations at SEG leading up to this event.
+
+General
+
+Page 22 of 25
+
+
+
+=== Page 23 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+76. I have been asked for any other comments or matters for the Chair to be aware
+of. It may be relevant to flag that my contract with POL comes to an end on 6th
+September when I will be leaving the organisation.
+
+77. As referred to above, I joined POL in August 2023. The mutual intent was for me
+to join as a full-time employee as CTO, and I negotiated the terms of my
+employment in early July 2023 on that basis. I was then informed by the (then)
+CEO that it would need to be signed off by the Renumeration Committee of the
+Board.
+
+78. I subsequently received notification that Renumeration Committee approval had
+been given but that the appointment as employee would also require Government
+signoff which would not be possible to organise before my start date. The CEO
+therefore suggested that I start my role as planned in August, but as a day rate
+contractor for a few weeks until signoff had been obtained.
+
+79. By February 2024 no approval had been forthcoming and I was aware that my
+contract stipulated a mutual 2 week notice period. I highlighted to the Chief People
+Officer that this did not provide certainty for me or for POL, and we agreed to
+update my contract to include a mutual 3 month notice period for early termination.
+
+80. In July 2024 I was told by the Acting CEO that my contract (which had been initially
+set up for a year) would not be extended (rather than being terminated) as he and
+the Interim Chair wanted to bring in someone with a fresh perspective. I was
+subsequently told that this was the ex Transformation Director from Camelot. We
+subsequently agreed a two-week extension to my existing contract to 6th
+September to allow time for a handover to the new Interim CTO.
+
+Page 23 of 25
+
+
+
+=== Page 24 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+81. As with all who have heard or read about these matters, I was shocked by the
+issues raised in the Inquiry. These do not reflect my current experience of POL
+and its culture, particularly towards Postmasters. My reflection is that POL
+recognises the seriousness of the issues which are being examined, recognises
+the importance of continuing to learn lessons, and is implementing these lessons
+going forward. However, POL's ability to move forward has been hampered by
+constant crisis management, especially during 2024.
+
+Statement of Truth
+
+I believe the content of this statement to be true.
+
+Name: Chris Brocklesby
+
+Signature: GRO
+
+Date: 16 August 2024
+
+Page 24 of 25
+
+
+
+=== Page 25 ===
+
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+Index to First Witness Statement of Chris Brocklesby
+
+No. URN Document Description Control Number
+1. RLIT0000201 News article from The Times RLIT0000201
+titled 'Postmasters on Post
+Office board 'ignored and
+unwanted'
+
+Page 25 of 25
+

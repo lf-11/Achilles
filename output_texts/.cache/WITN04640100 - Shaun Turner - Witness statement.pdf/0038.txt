@@ -1,0 +1,10 @@
+WITN04640100
+WITN04640100
+
+122. I received information in relation to the Smart ID receipts and payments mismatch issue from Esther Harvey, the Smart ID project manager, in late 2018. The issue was flagged to her as an issue by Fujitsu and was caused by the changes made to the Horizon system as part of the Smart ID programme. Details of the issues are set out at paragraphs 280 to 292 below.
+
+123. I do not know how the issue first became known to Fujitsu as I was not involved in those communications. However, whilst considering this question, I recalled that I have previously seen a document prepared by Fujitsu and saved on the EUM Teams site entitled "EUM Locking Issues Technical Investigation" dated 12 December 2018 (WITN04640102). Whilst I am unable to recall when I would have first seen this document, it would have been supplied by Fujitsu either directly to me or to Esther. I think this document was created to list all of the scenarios that could create the issue, though I note it is in draft form and includes track changes.
+
+124. It notes that the changes in Horizon implemented as a result of the Smart ID product "caused incidents to occur in the live estate". Whilst I do not think this document makes clear how the issue was originally identified by Fujitsu, I have been able to locate from the EUM Teams site a "Horizon Issue Management - Incident Report & Status Update" (WITN04640103) which explains that "Incident INC1742274/PC0275532 was raised by ATOS (26-Nov) for branch 236855 reporting a discrepancy that has appears overnight. It was passed to the SSC on 27-Nov" (page 1). The status report also noted that "It seems that following TP/BP rollover some transactions have recorded in the old TP/BP and so will not appear on the branch accounts, although they will be successfully sent to back end systems" (page 1). From reviewing this
+
+Page 38 of 95

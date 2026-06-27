@@ -1,0 +1,26 @@
+WITN04510100
+WITN04510100
+
+Releases and release management
+
+92. When a bug was identified, either by the SSC or 4th line support staff working with the SSC, a developer in 4th line support would outline the expected time that would be required to develop a code fix.
+
+93. At this point the Release Management process would come into effect. As part of this process, there were weekly meetings between the Live System Test team (LST) (which was co-located with the SSC in Bracknell), release management staff, development staff and SSC. I usually attended these meetings.
+
+94. The decision as to the timescales to fix any bug would have been taken by the release management forum, and would be dependent on a number of factors, which would include:
+
+a. Potential impact of the bug to Post Office branches (including postmasters)
+
+b. Length of time required to produce a code fix
+
+c. Length of time to test the fix
+
+d. The equipment needed to test the fix
+
+e. Priority of the fix in relation to other fixes currently in process
+
+f. Potential risks of implementing a fix
+
+g. Availability and effectiveness of any mitigating factors / workarounds.
+
+Page 32 of 54

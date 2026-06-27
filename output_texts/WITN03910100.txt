@@ -1,0 +1,504 @@
+# WITN03910100.pdf
+
+
+=== Page 1 ===
+
+WITN03910100
+WITN03910100
+
+Witness Name: Jacqueline Jones
+Statement No.: WITN03910100
+Dated: 5th April 2023
+
+POST OFFICE HORIZON IT INQUIRY
+
+FIRST WITNESS STATEMENT OF JACQUELINE JONES
+
+I, Jacqueline Jones, will say as follows:
+
+INTRODUCTION
+
+1. This witness statement has been made by myself to assist the Post Office IT inquiry with the matters set out in the Rule 9 Request provided to me on the 1st of November which assumes that I have direct knowledge of such matters.
+
+2. Set out in this statement is my best recollection of the matters raised in the inquiry's request in which I was directly involved. However, some of these topics relate to matters which took place between 10 to 22 years ago, therefore there are circumstances where my recollection is limited.
+
+Page 1 of 17
+
+
+
+=== Page 2 ===
+
+WITN03910100
+WITN03910100
+
+3. I am currently not working for Post Office Ltd. I left the business in
+2019 after working there for 33 years in a variety of roles. I joined the
+Post Office in 1986 in the Data Processing Unit keying paper cash
+accounts and dockets as a clerical officer. In 1987 I moved to Royal
+Mail's IT Department working as a Postal Officer (PO) tester of a
+mainframe solution. I was subsequently transferred to Post Office
+Ltd.'s Business Systems Department to work as a project support
+Officer (PO). Other PO roles I had whilst in Business Systems include
+working as an Analyst on the IT helpdesk and another role as a tester
+on a project. I then moved into Transaction Processing as a PO on
+the Automated Payments Team working on error resolution. I also
+worked as a temporary Team Leader for the South East Regional
+Team (CM2 Junior Manager role), Horizon Live Trial Manager and
+Systems Support Manager both at CM2. I then moved back to the IT
+Department within Post Office Ltd as a Testing Manager (CM1 Middle
+Manager). I then moved to the Horizon Online Programme as a
+Business Analyst (CM1). I then moved to the Network Transformation
+Programme as a Business Analyst and to my last role in the Post
+Office as Budget and People Manager (SB9 Senior Manager).
+
+4. I have been asked to explain what qualifications that I have or relevant
+experience. My qualifications that are relevant to my roles includes
+Level 5 Certificate in Coaching and Mentoring 2017, Prince2
+Registered Practitioner 2013, ISEB Diploma in Business Systems
+Page 2 of 17
+
+
+
+=== Page 3 ===
+
+WITN03910100
+WITN03910100
+
+Development 2006, ISED Certificate Requirements Engineering 2006,
+ISEB Certificate Business Organisation 2006, ISEB Certificate in
+Business Analysis Essentials 2005, Foundation Certificate in Software
+Testing 2004. As well as the qualifications and courses I also gained
+experience as a tester over many years working for the Post Office in
+a number of roles on mainframe solutions including accounting
+solutions and Automated Payments data. I tested many small
+systems as a Postal Officer and as a CM2 junior manager, the details
+of which I cannot recall due to the time elapsed.
+
+5. I have been asked to describe any training that I received on or for
+these roles. I attended many in-house training courses provided by
+Post Office Ltd, however I can only list those that I can remember due
+to the time elapsed. I can remember attending: - Having Difficult
+Conversations, Interview Techniques, Customer First, DOORS
+requirements system, five day management development course.
+There would have been others that I cannot recall due to the time
+elapsed. I received one on one training for most of the new roles that I
+undertook during my time at the Post Office, the duration of which I
+cannot remember. I also shadowed colleagues and I spent time in
+other departments when I joined Transaction Processing so that I
+would understand the end-to-end cash account process.
+
+Page 3 of 17
+
+
+
+=== Page 4 ===
+
+WITN03910100
+WITN03910100
+
+6. I have been given a copy of the Impact Programme's Horizon to MI
+(S70) Application Interface Specification document (POL00038888)
+and I am listed in this document as a reviewer. I worked on many
+releases and this document would have been one of many documents
+that I reviewed in my role on the Test Team.
+
+7. It has been mentioned in your first Rule 9 request question that I was
+a HNG Implementation Manager for the HNG-X Programme in 2010.
+When I joined the HNG Programme it was as a Business Analyst not
+an Implementation Manager. After working on the requirements (use
+cases) strand I subsequently moved onto a Project Lead role to deliver
+Online Help which replaced paper operations manuals and converted
+them into .HTML pages to view on Horizon. I subsequently worked as
+the Project Lead to deliver ISDN to ADSL telephone lines project. At
+the end of these projects, I briefly worked on the Implementation Team
+for a period of a few months before moving onto another Project,
+again in a Business Analyst role. I cannot recall the activities or role
+that I was involved in on the Implementation Team as it was a very
+short period and so long ago.
+
+IMPACT Programme
+
+8. I have been asked to explain the purpose of the IMPACT Programme and why
+I believe the programme came about. I do not know how the Programme
+
+Page 4 of 17
+
+
+
+=== Page 5 ===
+
+WITN03910100
+WITN03910100
+
+came about and this would not be something that I as a junior manager would
+have been involved in. I cannot recall the purpose other than to state that I
+assume it was to improve the Horizon system. It is approximately 18 years
+ago and this programme was one of many that I would have worked on for
+Post Office Ltd and I do not recall this level of detail.
+
+9. I have been asked to explain the process involved in developing the IMPACT
+Programme. I was not involved in the development of the IMPACT
+programme and I cannot recollect who was involved except that this would sit
+at a senior leadership level e.g., Programme Manager, Design Authority Lead,
+Head of IT and Post Office Board.
+
+10. I have been asked to explain my role as part of the Post Office Ltd Test Team
+and to describe any tests that were carried out with regards to the Impact
+Programme. During my time on the Test Team I worked on a number of test
+releases, however, due to the time elapsed some 18 years, I cannot recall
+specific details around the actual testing for the Impact Programme or any
+specific tests that would have been carried out.
+
+11. I can explain at a high level what my role encompassed on the Test team. I
+was the Test Lead for the back end for Transaction Processing and Reference
+Data teams for each new testing release. My role was defined within the
+Testing Teams overarching Testing Strategy. This strategy laid out the team
+
+Page 5 of 17
+
+
+
+=== Page 6 ===
+
+WITN03910100
+WITN03910100
+
+roles and responsibilities, the scope of testing, teams involved, fault resolution
+processes, testing methods, equipment, systems, test data and other
+information I cannot recall. My role also included writing test scripts in
+conjunction with Transaction Processing and Reference Data teams and
+obtaining their and wider sign-off prior to testing. The test scripts would be
+used for user acceptance and regression testing (not system testing as this is
+normally a Supplier function). Test scripts would be based on the changes
+defined in the Programme's requirements catalogue, design documents and
+interface specifications for each new test release for back end systems. The
+outcome of all the tests would be to feed evidence back to the Requirements
+catalogue to prove whether or not testing had been successful. For the
+Impact Programme this may have included some of the documents supplied
+to me by the inquiry including:- Impact Programme Horizon to MI (S70)
+Application Interface Specification (POL00038888) of which I am a named
+reviewer, Impact Programme POLFS to NS&I Application Interface
+Specification (POL00038925) of which I am a named reviewer, Accounting &
+Cash Management Programme Conceptual Design (POL00038870), I am not
+down as a reviewer, I may have seen this document but cannot recall. I note
+that it does not contain the requirements catalogue which would also be used
+to produce the test scripts. Impact Release 3 Counter Design for Balancing,
+Rollover and Stock Processing (FUJ00085124), I am not down as a reviewer,
+however I may have seen this document but cannot recall due to the time
+elapsed. Impact Release 3 Design Proposal (FUJ00090393), I am not down
+
+Page 6 of 17
+
+
+
+=== Page 7 ===
+
+WITN03910100
+WITN03910100
+
+as a reviewer, however I may have seen this document but cannot recall due
+to the time elapsed some 18 years.
+
+12. My role also included logging any defects identified by the back-end teams
+involved in user acceptance and regression testing in line with the Testing
+Team fault resolution process which was managed by the Testing Team
+Leader. My role would include arranging for any agreed defect fixes to be re-
+tested in the subsequent phases of the testing cycle by back-end teams and
+to obtain sign-off by them at the end of the test release.
+
+13. I have been asked to comment on whether or not I feel that the IMPACT
+Programme was successful. I was not involved in the production of the
+business case, design, or setup of this Programme as I was a junior manager.
+This would have been done by the Programme Manager, Head of Design and
+the Senior Leadership team at the time. I cannot recall seeing any of the Post
+Implementation Review documentation for this Programme which was some
+18 years ago. This would be one of the factors used by Post Office Ltd to
+determine whether or not the Programme was successful.
+
+14. I have been asked to comment on the suggestion that the IMPACT
+Programme led to sub postmasters unfairly being held responsible for
+disputed sums of money. I cannot recall any system issues at the end of
+
+Page 7 of 17
+
+
+
+=== Page 8 ===
+
+WITN03910100
+WITN03910100
+
+Testing for the Impact Programme and I have no knowledge of any disputed
+sums of money so am unable to offer an opinion.
+
+Horizon Online
+
+15. I have been asked to explain the reasons behind the migration to HNGx and
+to consider the document Network Development Training Development Plan
+(POL33738). I cannot recall the reasons behind the migration to HNGx due to
+the time elapsed some 10 years ago. I was not involved in the Business case
+for HNGx, its approval, or the Programme setup activities. However, the
+reasons are described in the document supplied to me by the inquiry Horizon
+Next Generation Release 1 End Programme Report (POL00033200). I
+cannot recall document POL00033738, this document appears to be an
+internal Team document and has me listed as the lead for "Tools for the job
+(Technology)", my name appears not to have been removed from this activity
+despite it stating that I was diverted to another activity (Column 5). To my
+knowledge I had no further involvement in training for branches and due to the
+time elapsed I cannot recall any other details around training. When I joined
+the HNGx Programme it was as a Business Analyst. I subsequently moved
+onto a Project Lead role to deliver Online Help and another project delivering
+ISDN to ADSL telephone lines. The second project was totally separate to the
+HNGx Programme system changes and involved working with BT and Post
+Office Property Teams.
+
+Page 8 of 17
+
+
+
+=== Page 9 ===
+
+WITN03910100
+WITN03910100
+
+16. I have been asked to explain as far as I am aware the design and
+development of HNG-X. I can recall that HNG-X aimed to deliver a refreshed
+front end screen for sub-postmasters more in line with industry standards,
+however, due to the time elapsed I cannot recall any further detail or
+information relating to the design or development of HNG-X.
+
+17. I have been asked to explain how roles and responsibilities were allocated
+between the Post Office and Fujitsu. I have no knowledge of how this was
+done as this would be completed by the senior leadership team including
+Programme Manager, Design Authority, Head of IT and Post Office Board
+with no involvement on my part.
+
+18. I have been asked to explain what training sub postmasters were given in
+support of the transition to Horizon Online. I was not involved in the training
+for branches strand activities within this Programme and it was managed by
+the Central Programme Team. Due to the time elapsed I cannot recall any
+other details around training.
+
+19. I have been asked to comment on whether adjustments were made to the
+training in light of any difficulties that ensued. I was not involved in the
+training strand of the Programme and due to the time elapsed I cannot
+remember if there were any difficulties.
+
+Page 9 of 17
+
+
+
+=== Page 10 ===
+
+WITN03910100
+WITN03910100
+
+20. I have been asked to explain if I have seen the document Horizon Next
+Generation Release 1 End Programme Report (POL00033200). This
+document may or may not have been shared with me for information after it
+was completed, however, due to the time elapsed I cannot confirm. I am
+mentioned in Section 12.1 ISDN telephone lines to ADSL connections in Post
+Office branches. This was a separate project that I was leading to deliver new
+telephone connections into branches and was totally separate to the HNGx
+Programme and involved working with BT and Post Office Property Teams. I
+would have been asked to update the Programme Manager on the status of
+the project I was leading for input to his report.
+
+21. I have been asked to comment on the adjustments or releases that had to be
+made to HNG-X in order to rectify any issues. Due to the time elapsed some
+10 years or more, I cannot recall any adjustments or releases made to HNG-X
+and I cannot recall being involved in these activities.
+
+The High Volume Roll Out
+
+22. I have been asked to explain the reasons why the high volume pilot of
+Horizon Online was suspended. Due to the time elapsed some 10 years or
+more, I cannot recall the reasons why this was suspended. The Programme
+Manager would have made this decision in conjunction with his Lead Team,
+Senior Post Office managers, Head of IT, Design Authority and Post Office
+Board.
+
+Page 10 of 17
+
+
+
+=== Page 11 ===
+
+WITN03910100
+WITN03910100
+
+23. I have been asked to explain how I feel this could have been avoided. Due to the time elapsed I cannot recall the pilot being suspended or the reasons why this was suspended and I therefore cannot venture an opinion. The Programme Manager would have made this decision along with his Lead Team, Senior Post Office managers, Head of IT, Design Authority and Post Office Board including why a high-volume pilot was necessary in the first place.
+
+Bugs and Errors
+
+24. I have been asked to consider PEAK Incident Management System document (POL00000760) and comment on what I thought of the appearance of incomplete/missing transactions that I was notified of. Due to the time elapsed some 22 years, I cannot recall this specific incident or the details of any other incidents. This would have been one of many incidents that I dealt with and it would have been actioned and managed in line with the Horizon Live Trial Incident and Problem Management process. I have read POL00000760, which is the Fujitsu Helpdesk level 1 service. I am mentioned on page 4, 17 Aug 2000 at 12:52 where it states that I was provided with a BIM report 0007111299 (which has not been provided to me) and subsequently confirmed with the Postmaster that there were no missing AP transactions. It also states that all transaction data has been provided to me by Fujitsu in a spreadsheet presumably for investigative purposes. On 17 Aug 2000 at 14:48, there is a subsequent update from John Moran which states
+
+Page 11 of 17
+
+
+
+=== Page 12 ===
+
+WITN03910100
+WITN03910100
+
+that the incident had been discussed with myself, it states that all transactions
+have been reported to POCL.
+
+25. I have been asked to explain what steps I took as part of the Live Trial Team
+to investigate the problem (refer to point 24.) or rectify it. Due to the time
+elapsed some 22 years, I cannot recall this specific incident or in fact any
+others and it would have been one of many that I was involved with. I
+therefore cannot explain the actual steps taken for this particular branch to
+investigate and rectify this particular issue. This issue would have been
+actioned and managed in line with the Horizon Live Trial Incident and Problem
+Management process outlined below in point 26. to the best of my
+recollection.
+
+26. I have some recollections of the role in general terms which was as the CM2
+Live Trial Incident Manager for Transaction Processing (TP). This junior
+manager role would have been to ensure that live trial incidents for TP were
+logged, tracked, investigated, resolved and reported on to the Project Team.
+This role reported into the Problem Manager on the Live Trial project Team.
+My role and responsibilities would have been defined in the Live Trial Incident
+and Problem Management Procedures document. POL00000760 mentions
+that I was sent a BIM0007111299 report. This was a Fujitsu document
+reporting an incident and then used by them to explain an incident and its
+effects on a branch. Investigations would have been completed by myself and
+Page 12 of 17
+
+
+
+=== Page 13 ===
+
+WITN03910100
+WITN03910100
+
+others under the direction of the Problem Manager, the methods of which
+would depend on each incident raised. Incidents raised as a “problem” would
+be managed and progressed wholly by the Problem Manager. Investigative
+methods may have included looking at the branches “received” transactions
+for the day with the relevant Teams in Transaction Processing, talking to
+Fujitsu teams and requesting additional evidence/data from them, talking to
+the branch and requesting/reviewing any relevant branch
+documentation/receipts, analysing end of day branch message store data,
+getting paper cash accounts out of storage, analysing cash account outcomes
+and whatever else was necessary to fully investigate an incident.
+
+27. A detailed Team incident log would have been kept for every incident. These
+would have been reviewed and agreed with the Problem Manager and would
+have included the conclusion and outcomes. This has not been provided to
+me. Any remedial activity required would have been implemented in
+conjunction with TP Teams, these could have included the issuing of an error
+notice to a branch or asking the Regional Network Manager to write off an
+amount. The branch would have been informed of the details and the
+outcome either by telephone and/or in writing. The incident logs would have
+been monitored daily/weekly and reported to my Manager (the Live Trial
+Problem Manager) and through her into the wider Horizon Live Trial project
+leadership Team. I cannot recall any further detail around the investigative
+processes or steps as it was 22 years ago.
+
+Page 13 of 17
+
+
+
+=== Page 14 ===
+
+WITN03910100
+WITN03910100
+
+28. I have been asked to set out my recollection of a number of bugs, errors or
+defects as defined by Fraser J in Appendices 1 and 2 of Bates & Others v
+Post Office Limited [2019] EWHC 3408(QB).; the receipts and payments
+mismatch bug; the suspense account bug; the Dalmellington bug/branch
+outreach issue; the remming in bug; the local suspense account issue;
+recovery issues; withdrawn stock discrepancies' Bureau discrepancies; Post &
+Go / TA discrepancies in POLSAP; bureau de change; and Lyca top-up. I
+have been asked to state what Fujitsu told Post Office and / or myself about
+the bug, error, or defect and when. Due to the time elapsed, some 22 years, I
+am unable to comment as I have no recollection of any of these specific bugs,
+errors or defects from the descriptions and I do not recall my involvement /
+role if any.
+
+29. I have been asked to state whether or not I was aware of any other issues
+that arose. I am unable to comment as I have no recollection of any specific
+issues that arose due to the time elapsed some 22 years.
+
+Reflections
+
+30. I have been asked to state what if anything I would have done differently with
+the benefit of hindsight. I cannot think that I could have done anything
+differently in the roles that I had. I followed all the prescribed processes to the
+letter and took pride in doing a good job.
+
+Page 14 of 17
+
+
+
+=== Page 15 ===
+
+WITN03910100
+WITN03910100
+
+31. I have been asked to say who I think is responsible for the Post Office scandal. I wasn't aware that there was a problem with Horizon until just before I left the business. I was told by the Horizon Live Trial Project Team that Fujitsu could not alter the back end of the system and I always believed this. I have not seen all the evidence required and I therefore do not feel that I would be informed enough to have an opinion.
+
+32. I have been asked what I think the Post Office could have done differently during my time there. As a junior and middle manager it would be difficult for me to know if something was inherently wrong with Horizon and the Post Office. I have not seen all of the required evidence and I therefore do not feel that I would be informed enough to have an opinion.
+
+Statement of Truth
+
+I believe the content of this statement to be true.
+
+Signed: GRO
+
+Dated: 5th April 2023
+
+Page 15 of 17
+
+
+
+=== Page 16 ===
+
+WITN03910100
+WITN03910100
+
+Index to First Witness Statement of Jacqueline Jones
+
+No. Exhibit Number Document Description Date Control Number URN
+1 WITN0391_01/1 IMPACT Release 3 Design Proposal 20/12/2004 POINQ0096564F FUJ00090393
+2 WITN0391_01/2 IMPACT Release 3 Counter Design for Balancing, Rollover & Stock Processing v2.0 12/09/2005 POINQ0091195F FUJ00085024
+3 WITN0391_01/3 Peak Incident Management system PEAK PC0049629 17/08/2000 VIS00001774 POL00000760
+4 WITN0391_01/4 Horizon Next Generation Release 1: End Programme Report (v0.1 – draft) 04/11/2010 POL-0030135 POL00033200
+5 WITN0391_01/5 Network Transformation Training Development Plan – Progress Tracker 10/02/2012 POL-0030673 POL00033738
+6 WITN0391_01/6 Accounting and Cash Management Programme, Conceptual Design (v3.4) 16/09/2003 POL-0035352 POL00038870
+7 WITN0391_01/7 Impact Programme – Horizon to MI 14/06/2004 POL-0035370 POL00038888
+
+Page 16 of 17
+
+
+
+=== Page 17 ===
+
+WITN03910100
+WITN03910100
+
+(S70) –
+Application
+Interface
+Specification
+(v4)
+8
+WITN0391_01/8
+Impact
+Programme –
+POL FS to
+NS&I –
+Application
+Interface
+Specification
+(v0.1 – draft)
+14/10/2004
+POL-0035407
+POL00038925
+
+Page 17 of 17
+

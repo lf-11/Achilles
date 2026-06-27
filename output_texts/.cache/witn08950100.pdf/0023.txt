@@ -1,0 +1,10 @@
+WITN08950100
+WITN08950100
+
+53. I do not recall ever being provided with the 2000 or 2002 version of the Casework Management Documents mentioned above. This is probably because I didn't join the Security Team until 2011 and by then the documents were quite old. I have reviewed the guidance given in the second, third and fourth bullet points on page 2 of the 2000 version and the first, second and third bullet points on page 2 of the 2002 version, and my understanding of those points is that if Horizon Bugs or errors were discovered or reported during the course of an investigation, this should be disclosed. This point is also included in a 2013 guide introduced post-separation, which I have seen previously - [POL00031005]. Even though this is what I understood, I do not recall ever having any issues or errors with the Horizon system being reported to me. We were always assured by POL and Fujitsu that the Horizon system was robust.
+
+54. Not long after I joined the Security Team in 2011 Security Managers were advised that case files were going to be subjected to compliance checks to ensure uniformity and that all the necessary steps in matters were being completed correctly. I remember that there was a compliance checklist that was completed by a Team Leader when your case file was passed over for review, Your Team Leader would give you a score following the completion of each section of the investigation/case file.
+
+55. I did not play any role in relation to the development or the management of the documents circulated in the email from David Posnett dated 23 May 2011 at [POL00118096].
+
+Page 23 of 59

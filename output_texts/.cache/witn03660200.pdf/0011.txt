@@ -1,0 +1,34 @@
+WITN03660200
+WITN03660200
+
+whether a specific form of ID could be accepted for the purposes of a passport
+"Check and Send", or whether there were certain restrictions preventing a
+particular item from being posted to a specific country. In relation to Horizon-
+based queries, an example might be where a Postmaster had input a
+transaction into Horizon but had keyed it in incorrectly. In this case, the solution
+would be to enter the Session ID number into system, and the system would
+recognise the transaction that needed to be reversed. The Tier 1 advisors could
+help with these queries.
+
+29. If the Tier 1 advisor could not resolve a particular issue, the call would be
+escalated to a Tier 2 advisor. Examples of issues which would typically be
+escalated to Tier 2 advisors included queries around products and services, the
+running of the business and how to carry out certain accounting functions on
+Horizon, where those queries were either not covered by the scripted response
+or the scripted response did not resolve the issue to the satisfaction of the caller.
+
+30. After each call, the NBSC advisor would complete a report on the case
+management system, detailing the Postmaster's question, the solution that had
+been suggested and the outcome of the call. These records would then be used
+to update the Knowledge Base, and in particular to improve the scripts available
+to Tier 1 advisors, so that more issues could be quickly resolved at the Tier 1
+level and fewer calls needed to be escalated to Tier 2.
+
+c. Any specific requests for support or events that you consider to be
+important to the Inquiry's terms of reference;
+
+31. I have read, and given thought to, the Inquiry's terms of reference, as they
+appear here: https://www.postofficehorizoninquiry.org.uk/publications/terms-
+
+11/80453178_1
+11

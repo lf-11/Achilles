@@ -1,0 +1,34 @@
+WITN05210200
+WITN05210200
+
+20. I was the representative of these group at the Acceptance Workshops and
+therefore the conduit for feeding into Pathway, the findings of the End to End
+Working Party.
+
+Question 11: Why did you consider such an error rate to be acceptable?
+
+21. I believe it would have been the position that if an error rate of 0.6% was
+acceptable to the Head of Transaction Processing Business Unit, the
+technical representatives of the relevant working group and Keith Baines (as
+POCL Commercial Lead), with the impact of accepting such an error rate
+having been assessed and costed, I considered it acceptable.
+
+Question 12: What did you understand the impact of such an error rate to be
+on the network of post office branches once the Horizon system had been
+rolled out nationwide?
+
+22. As I mentioned above, agreeing an error rate of 0.6% would have been
+subject to an impact assessment which would have considered the cost and
+resource required to investigate and resolve the residual errors. There was a
+Business as Usual process for dealing with errors, which existed prior to
+Horizon because errors were a fact of life where transactions were not fully
+automated and required manual input of information at the outlet. That
+remained the position following the roll out of Horizon.
+
+23. There was a large number of people in the Transaction Processing Business
+Unit in Chesterfield whose role it was to investigate and resolve errors. As a
+result, I considered that the network of Post Office branches would have been
+supported by these business processes in managing any residual errors
+resulting from Al 376 data integrity issues.
+
+Page 7 of 21

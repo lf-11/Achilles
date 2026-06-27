@@ -1,0 +1,27 @@
+WITN08950100
+WITN08950100
+
+Analysing Horizon data, requesting ARQ data from Fujitsu and relationship
+with Fujitsu
+
+59. At some point in 2013, I recall that a new set of interview questions were provided
+to Security Mangers to cover in an interview with SPMs, which related to whether
+the SPM had faced any difficulties with Horizon and the training they had around
+the system. I cannot remember if I ever worked on a case prior to 2013 where a
+SPM had attributed a shortfall to issues with Horizon. When the new interview
+questions were introduced in 2013, if the SPM did raise any issues with Horizon,
+Investigators would have to report this in the case file and were required to
+request ARQ data for the relevant period. ARQ data is provided by Fujitsu and it
+reports every transaction or entry made on Horizon at the branch for the time
+period requested. I do not recall doing this on many occasions.
+
+60. I do vaguely remember a case I worked on based in Newcastle where a SPM had
+attributed a shortfall to issues with Horizon and I had to request 2 months' worth
+of ARQ data. I can remember going through this data to rebuild the balances to
+see if I could identify any issues and I do not believe I found anything. I cannot
+remember the precise details of this case, including who the SPM was or when
+the case was. As far as I recall, Fujitsu would not have gone through this data in
+this case, but I cannot confirm this for certain. I am also unsure if they did on other
+cases.
+
+Page 25 of 59

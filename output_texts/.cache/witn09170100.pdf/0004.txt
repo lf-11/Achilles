@@ -1,0 +1,18 @@
+WITN09170100
+WITN09170100
+
+whether the amount that should be present at the branch is there. We also carry out compliance checks, which mainly involves checking that the required security measures are in place at the branch. There are a number of different types of audit. The main ones are:
+
+a. transfer audits - carried out when a new Subpostmaster (hereafter referred to as "SPM") takes over a branch to verify that the cash and stock being transferred matches central records.
+
+b. closure audits - verifying that the assets being returned when a branch closes matches what should be present at the branch.
+
+c. risk audits - verifying assets where a potential risk such as excess cash holdings is flagged.
+
+d. robbery audits - verifying the remaining cash and stock to establish the amount of cash and stock stolen from a branch.
+
+9. When I first became an Audit Inspector, the Horizon IT system had not yet been implemented. Therefore, in order to complete an audit we would be required to work back manually to the to the previous week's balance (adding receipts and subtracting payments) to establish what assets should be present. This was then compared to the actual assets on site. This involved working off hand written paper records.
+
+10. Since the introduction of the Horizon IT system, we no longer work off paper records to determine what cash and stock should exist within a branch. Instead, printouts are obtained via the Horizon system which include an printed
+
+Page 4 of 32

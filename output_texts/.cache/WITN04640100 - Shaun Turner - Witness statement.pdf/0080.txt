@@ -1,0 +1,14 @@
+WITN04640100
+WITN04640100
+
+263. I have been asked to explain my role in the design and implementation of the Smart ID/EUM programme. As stated in paragraph 229, I have reviewed the documents identified in relation to the Smart ID / EUM project and, in particular, POL00036331. I also refer to paragraphs 20, 21 and 122 above where I explained my role as product owner of Smart ID, and that Esther Harvey was the product manager.
+
+264. I was the product owner of Smart ID for the duration of the programme. This was a delivery role rather than one of just scoping potential changes and providing input as had been the case in my previous role.
+
+265. As mentioned in paragraph 261, I think Dawn Brooks was responsible for the initial requirement gathering and developing this with Accenture. I then took over this role when I became the Smart ID product owner and I recall some handover with Dawn around March to April 2017.
+
+266. I was responsible for establishing what the business wanted to achieve through the programme and turning this into requirements that the technical teams could deliver. I was involved in the testing and release process and working with the project's two suppliers, Accenture and Fujitsu.
+
+267. Accenture was building the Smart ID system which would interface with Horizon. Fujitsu was building the Horizon level functionality. There were direct conversations between the technical team at POL and the technical team in Fujitsu, though the high level design was done by the technical experts. My role was to establish how the interface would work and how the technical teams could achieve the business goals. There was a lot of technical resource supporting me during this time.
+
+Page 80 of 95

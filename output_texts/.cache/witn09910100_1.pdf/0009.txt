@@ -1,0 +1,30 @@
+WITN09910100
+WITN09910100
+
+23. I can see from (POL00149276) that a few months prior to my phone call with
+Fujitsu in early 2015, Melanie Corfield forwarded myself, Patrick Bourke and Tom
+Wechsler an email from Andrew Parsons (an external lawyer at Bond Dickinson),
+illustrating the following had been confirmed by Fujitsu – "The system has been
+designed to prevent any access, either remote or direct, that would allow
+individual branch transactions to be altered. Fujitsu has controlled access to the
+Horizon system for software updates and maintenance purposes. This is of
+course strictly controlled with security processes in place, but could not, in any
+event, be used to alter individual branch transactions – there is no facility within
+the system to do this." This would have been my understanding, however, I note
+that Andrew comments that an issue had been identified relating to injecting
+transaction data. I do not recall this email. I am unsure if I simply missed it, or
+whether I believed it was a technical matter that lawyers were 'getting to the
+bottom of' as Andrew states and I would be informed if I was required to take any
+action, so I did not engage with it further.
+
+24. I recall that, as a result of my conversation with Fujitsu in February 2015, and the
+fact that the subject of 'remote access' continued to crop up regularly, I
+suggested to my team that it would be worth commissioning a piece of work to
+look at how the superuser operation in the Horizon IT system worked. My
+concern was that there seemed to be no common understanding of the term
+'remote access', so a one size fits all answer may not be appropriate. Rather, a
+wider and more sophisticated response to the issue of 'remote access' was
+required. Unfortunately, I do not know if such work was ever commissioned after I
+left POL.
+
+Page 9 of 68

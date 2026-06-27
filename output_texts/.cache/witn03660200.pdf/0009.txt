@@ -1,0 +1,34 @@
+WITN03660200
+WITN03660200
+
+centralised number that Postmasters and branch staff could call when they
+were experiencing issues with how to use Horizon's functionality to perform
+tasks in branch.
+
+24. If the Postmaster had more technical questions in relation to the Horizon
+hardware/software (including, for example, printer questions), these questions
+should be directed to the Horizon System Helpdesk (later known as the Horizon
+Service Desk). This was independent from POL and was, I recall, run/managed
+by Fujitsu at a variety of locations, including Fujitsu's Stevenage building.
+
+25. In 2000, when Horizon was first rolled out, questions as to how to navigate the
+Horizon system (for example, which key to press to properly record a
+transaction) were handled by Fujitsu's Horizon System Helpdesk. In the mid-
+2000s, the NBSC's remit expanded slightly to include those "navigation"
+questions and the Horizon System Helpdesk continued to focus on technical
+hardware/software questions. As I recall, there was a Horizon System
+Helpdesk/ Horizon Service Desk, focussing on the technical questions, until
+about 2016.
+
+26. The telephone numbers for each of the NBSC and the Horizon System
+Helpdesk were made available to Postmasters and branch staff in the Horizon
+support manual (of which they had a copy) and in the training Postmasters
+received on Horizon. The Postmasters also had guidance as to which of the
+NBSC and the Horizon System Helpdesk should be called for each type of
+issue. Despite this guidance, the NBSC would sometimes receive a call from a
+Postmaster or member of branch staff that should properly have been made to
+the Horizon System Helpdesk. This was usually resolved at the Tier 1 stage, as
+one of the outcomes from the scripts would be to transfer the caller to the
+
+11/80453178_1
+9

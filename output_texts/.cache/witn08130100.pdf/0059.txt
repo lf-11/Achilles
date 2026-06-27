@@ -1,0 +1,30 @@
+WITN08130100
+
+Singh that such a thing was not possible. Later I recall Rodric Williams telling
+me the same. I do recall visiting premises (possibly Fujitsu's) for a presentation
+on Horizon. I do not recall all of those present, but I believe that Rodric Williams
+was in attendance.
+
+174. The presentation was delivered by persons I did not know but whom I now
+presume to have been Fujitsu staff. The presentation took the form of a White
+Board explanation of Horizon functionality. It was a much-simplified
+presentation, with a box being drawn on the white board with an explanation as
+to how it was not possible for POL/Fujitsu to enter remotely. The distinct
+impression I was left with was that Horizon was very secure and could not be
+remotely accessed by anyone.
+
+175. As time progressed the suggestions of a 'back-door' entrance to Horizon
+grew louder, but each time |I asked about the possibility, I was informed that
+there was no 'back door'. I have looked at POL00028062 (Deloitte - Horizon
+Desktop Review of Assurance Sources and Key Control Features, Draft for
+Discussion, dated 23 May 2014) and can say with a degree of certainty that I
+did not see this document in 2014. I recall hearing about it anecdotally and,
+because I considered it to be relevant to our disclosure exercise, I asked for it
+on a number of occasions, informally and in writing, e.g. on 23 July 2014 - see
+POL00148749 at paragraph 9.ii. I was told that it did not reveal any 'back door'
+and that it was commercially sensitive.
+
+176. Eventually a redacted version was provided to me and here I note the date
+as being 26 February 2015. This document was the source of POL00029843,
+
+Page 59 of 75

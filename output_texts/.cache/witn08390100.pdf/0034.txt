@@ -1,0 +1,12 @@
+WITN08390100
+WITN08390100
+
+i. outline my understanding of ARQ logs and their use, as well as any other logs I was aware of and how they differed from ARQ logs;
+ii. confirm whether there was a formalised process for requesting ARQ data from Fujitsu prior to the publication of POL00105222 in September 2013;
+iii. explain who made the decision as to whether ARQ data was requested from Fujitsu in any given case;
+iv. comment on whether ARQ data was requested as a matter of course where a shortfall had been identified and the relevant SPM / SPM's assistant/ Crown Office employee attributed the shortfall to problems with Horizon but did not have corroborating evidence of material problems with Horizon, and if not, why not; and
+v. comment on whether ARQ data was provided to the relevant SPM as a matter of course where such data was obtained from Fujitsu in circumstances where a shortfall had been identified and the relevant SPM was attributing the shortfall to problems with Horizon (considering POL00004708).
+
+95. I am aware that ARQ logs were provided for within the Security Team budget. I understood that ARQ was used as data analysis of the Branch activity in question, but I have no knowledge of precisely what information was actually contained in the report or how it was used. These records would have been managed by investigators and the managers in the Fraud strand. I was not involved in the process and had no awareness generally of how and when ARQ data was requested from Fujitsu, how decisions were made and whether
+
+Page 34 of 58

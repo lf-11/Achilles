@@ -1,0 +1,30 @@
+WITN09950100
+
+hard copy documents). There were very few people still employed by POL from
+that early period who could help us identify documents through other methods.
+
+58. In my view, the use of search terms is inevitable and indeed desirable if a
+particular Rule 9 Request requires scrutiny of POL's databases of electronic
+documents assembled for the Inquiry, which as referred to above, contain over
+60 million documents. Full manual review of all documents would be impossible
+and unhelpful: the number varies significantly depending on the length and
+density of the documents, but typically, an ambitious target for a well-briefed
+lawyer reviewing documents for relevance and privilege could be 250 per day,
+but with a dense and complex document set it might be 200 or lower; each Rule
+9 Request must be completed in a matter of days or weeks, with time being
+allowed within that period for second (and where appropriate, third) level review;
+and, many documents held in the databases are not relevant to the Inquiry. In
+addition, KPMG's default protocol is to require the documents identified for
+disclosure 48 hours before the deadline for uploading to the Inquiry's platform.
+
+59. We use a number of techniques to try to increase the effectiveness of search
+terms. These include (i) searching for all forms of words that begin with a certain
+root (e.g. investigat* - which would capture investigate, investigation,
+investigating, investigated etc); (ii) searching for multiple words in a document
+(e.g. "Policy" AND "investigat*" - which would capture a document where both
+those words appeared but not only one of them); (iii) searching for words that
+are used in close proximity to one another (e.g. "Investigat*" w/10 "Policy" -
+which would capture a document where those two words appear within ten
+words of each other in a document); and (iv) testing the results (as discussed
+
+Page 22 of 63

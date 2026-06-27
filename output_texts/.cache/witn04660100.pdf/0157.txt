@@ -1,0 +1,33 @@
+WITN04660100
+WITN04660100
+DocuSign Envelope ID: 0B8D9A6F-D117-40AC-B8CA-9EFEBC3C2B1D
+
+(ii) There are daily reports.
+
+(iii) There are weekly reports.
+
+(iv) Finally when the cheques/giros etc are sent off these will have a
+final check outside the branch."
+
+360. It went on to state:
+
+"AW reasserted that everything is checked by the client or team. For example
+Giro Bank will physically check all the slips received. If there are any problems
+error notices would be sent to Chesterfield and then on to the postmaster.
+These will be claim/charge errors if there has been over/under payment."
+
+361. I felt that this was an important point. Andrew Wise was (not in these words)
+saying that effectively there was a failsafe, a way of detecting if you like, if a
+mistake had been made ("be it by the postmaster or PC") and I went on to obtain
+several witness statements of fact about this principle. That included a
+statement from Andrew Wise and from the following people in relation to
+different products: Ken Crawley; Gillian Hoyland; Michael Johnson; Wendy
+Smith and Paul Williamson.
+
+362. Essentially there was double accounting and double documenting: information
+entered into recorded on Horizon backed up by physical documents eg cheque,
+Giro slip etc. Accordingly even if the information on Horizon is inaccurate (for
+example if the Horizon system recorded it incorrectly), then if EDS processing
+centre did not receive the correct corresponding documentation, this should
+
+Page 157 of 194

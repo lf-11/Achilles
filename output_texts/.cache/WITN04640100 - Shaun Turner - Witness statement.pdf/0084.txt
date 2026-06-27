@@ -1,0 +1,14 @@
+WITN04640100
+WITN04640100
+
+278. I have been asked to consider POL00043585 and POL00037819, and to set out my recollection of this incident and its resolution.
+
+279. I have reviewed documents POL00043585 and POL00037819 in relation to this question, but I have not restricted my answer to this Smart ID discrepancy issue in paragraphs 278 to 292 to these documents. Prior to reviewing these documents, I remembered this incident. However, I was not able to remember whether the incident caused discrepancies in branches until I reviewed POL00043585.
+
+280. I believe I was first informed about the incident by the Smart ID Project Manager, Esther Harvey, to whom Fujitsu had flagged the issue previously. I remember subsequent meetings in which Fujitsu outlined particular scenarios that would cause this receipts and payments discrepancy. My general recollection is that there was a lot of activity when the issue was first identified to understand its cause and determine the route to fix it. The issue was discussed every week during the Smart ID team's weekly project meetings.
+
+281. At the time, I remember the GLO proceedings were happening in parallel and there was a lot of concern about this issue within the Smart ID programme. In this context, Esther Harvey sought to ensure various internal stakeholders were informed about the occurrence of this receipts and payments mismatch issue via regular meetings and status reports. Stakeholders were aware of Fujitsu's involvement in diagnosing the issue and working towards a solution.
+
+282. I specifically remember that Angela Van Den Bogerd (Business Improvement Director), Julie Thomas (Smart ID project sponsor) and the FSC
+
+Page 84 of 95

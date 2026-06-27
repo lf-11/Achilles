@@ -1,0 +1,32 @@
+WITN09090100
+WITN09090100
+
+WITN09090100
+
+balancing process has changed quite drastically over the duration Horizon
+has been in branches and the explanation I give is based on how branches
+balanced when Horizon was first used in branches, and it was the same
+process in use in 2004.
+
+26. In the early years of Horizon every receipt or payment transaction still had a
+counterfoil which was retained by the branch and required despatching either
+on a daily or weekly basis (the only exception to this was Automated Payment
+Transactions). As Horizon developed over the years things became more
+automated meaning there was less paperwork in branches to despatch but in
+2004 it was still predominantly a very manual paper-based process.
+
+27. Branches had a set of procedures they had to complete daily which involved
+the account and dispatch of various documentation. This included reports
+such as the daily cheque listing, Giro bank deposits and withdrawals, National
+Savings deposits and withdrawals, TV licences, Personal banking, and
+Automated Payment transactions. For each of these products the branch
+would produce a daily report, check the counterfoils, which they have kept in
+the counter till, agrees with the number and value on the report and then
+despatch in the relevant envelope. The actual procedure on Horizon would be
+to go into the counter daily report screen, select the report they wish to look at
+and then select print. Once the branch was satisfied that they had a
+counterfoil for each transaction they would select the cut off option on the
+Horizon screen. Cutting off the report just meant that it would reset to zero for
+the next day.
+
+Page 9 of 33

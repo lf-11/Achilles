@@ -1,0 +1,14 @@
+WITN09750100
+WITN09750100
+
+87. Three assurance reports are identified at page 25 (ISO 27001, ISAE 3402 and PCI DSS) of our Deliverable and I have been asked to summarise the degree of assurance I believe POL could take from these. Whilst all of the reports are formal sources of assurance, it is important to understand the purpose for which they are individually intended and whether they can, in aggregate, provide the assurance that POL management required in respect of key risks. Our view on limitations and points of consideration relevant to each was outlined on page 25 of our Deliverable.
+
+88. Our key point in this section was that the Third-Party Assurance Work was primarily focused on information security risks rather than operations and change management risks. We also highlighted to POL (see Appendix 2 of our Deliverable) that it would be important to ensure these detailed Horizon Features had suitable sources of assurance either identified or performed.
+
+89. Question 20j of the Request asks how the 'Level of Comfort' was assessed as "Partial" for the following matter:
+
+'For any outstanding (non-accepted) Transaction Acknowledgement or Transaction Corrections at month end, a formal resolution process exists which enables non-accepted items to be identified, held in suspense and actively investigated to the point of resolution with the Sub-postmaster. Business as usual resolution activities can be taken to conclude outstanding items and have them cleared down'.
+
+90. From what I recall, the Level of Comfort was assessed as partial for that particular matter, as processes were reported to exist to clear such non-accepted
+
+Page 26 of 39

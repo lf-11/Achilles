@@ -1,0 +1,15 @@
+WITN09890500
+WITN09890500
+
+15. The totals for each year are based on the case creation date rather than the date of conviction. In my view, this allows for a more accurate analysis of the potential impact of the introduction of Horizon on the number of prosecutions and convictions, because it more accurately identifies whether the alleged offence occurred before or after Horizon was installed at the branch in question. Using the year of conviction is unhelpful for such an analysis, as there are many cases in which the alleged offence occurred before Horizon installation, but the conviction was after installation. It also means that cases with unknown conviction dates can be included in the analysis because these generally have case creation dates (and where they do not, approximate case creation dates have been used).
+
+Inclusion of additional case types to enable a like for like comparison
+
+16. Further consideration has been given to the categorisation of cases by the type of alleged conduct. At the time of my Second Witness Statement, figures for shortfall-related cases were provided in brackets in Appendix II of my Second Witness Statement for the pre-2000 period (and in notes for the years 2000, 2001 and 2002) in order to facilitate comparisons between Horizon-related cases and similar cases pre-2000.12
+
+17. As explained at footnote 45 of my Second Witness Statement, the categories considered likely to involve a shortfall in branch accounts included cases described on the casework spreadsheets as theft, false accounting, audit shortage and cash loss. However, a significant proportion of cases included in the PCDE, including some overturned on appeal, involved pension and allowance ("P&A") frauds13, which were excluded from the definition of shortfall-related cases in the pre-2000 period because such cases are unlikely to involve a shortfall in the accounts.
+
+12 I explained at paragraph 11 of my Second Witness Statement that "I understand that the pre-2000 figures and post-1999 figures are not directly comparable..."
+13 A P&A fraud typically involved the manipulation of benefit payment cheques (e.g. suppression, submitting them twice, cashing cancelled cheques etc) to create a surplus in the branch accounts which the defendant then took for themselves, leaving the account balanced. Therefore, a typical P&A fraud did not involve a shortfall in the branch accounts.
+
+8

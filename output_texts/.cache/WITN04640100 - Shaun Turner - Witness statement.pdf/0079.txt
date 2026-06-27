@@ -1,0 +1,31 @@
+WITN04640100
+WITN04640100
+
+lot of these features were actually implemented following discussions around
+the dual login change request, as this was seen as an opportunity to improve
+the functionality of the Smart ID project more generally.
+
+261. I should also note that I recall that certain elements of the Smart ID
+project were descoped during the initial development phases, particularly on
+the Fujitsu side, though I do not know whether some of those features described
+in paragraphs 247 to 254 above were among those descoped during these
+early stages. I do recall that the original intention was for password set up and
+resets to be managed through the Smart ID system rather than being done
+locally in branch as it had been previously. However, this feature was descoped
+and the password set up and reset processes in branch were left intact. Instead,
+the implementation of Smart IDs simply meant that a user needed a Smart ID
+to access Horizon in order to manage their credentials, for example passwords.
+I do recall that a previous colleague of mine, Dawn Brooks, was responsible for
+user management during the initial development of the Smart ID requirements.
+
+262. For context, Accenture was developing the identity management
+system that the Smart IDs (the "Smart ID system") would be stored on and
+how this was going to interface with Fujitsu. There were concerns that Fujitsu's
+delivery timeline would prevent certain pilot delivery dates from being met. From
+memory, I believe that I joined the Smart ID project at this point when
+discussions were taking place around what it was or was not possible for Fujitsu
+to deliver in the required timeframe and therefore what should be descoped.
+
+Involvement in the design and implementation of the Smart ID / EUM programme
+
+Page 79 of 95

@@ -1,0 +1,34 @@
+WITN03660200
+WITN03660200
+
+complaints team was also introduced at one point to help resolve any issues
+where Postmasters felt unhappy with the service or where they felt that their
+issue had not been resolved to their satisfaction. These types of complaints
+were logged onto the case management system. I am not aware of what
+happened after that.
+
+5. Were you aware of any bugs, errors or defects within the Horizon IT
+System at the time you worked in the NBSC?
+
+50. I have been asked whether I was aware of any bugs, errors or defects within
+the Horizon IT System at the time I was working the NBSC.
+
+51. In my experience, both as an NBSC advisor and Team Manager, I do not think
+I would have thought to classify an issue raised by a caller in those terms. I was
+(and others in the NBSC were) aware of Horizon from a front-end user interface
+side and our job was to help the Postmasters and branch staff from that point
+of view. NBSC advisors therefore became aware of individual scenarios
+through the calls from Postmasters. But we focussed on the logic of the
+information available to us. We did not have the technical skills, tools or
+knowledge to identify whether there were any potential technical issues in the
+back-end of the system. Where an issue raised by a Postmaster seemed to be
+a technical one concerning the Horizon hardware or software, the Tier 1 scripts
+and/or the Tier 2 decision trees/process maps would likely direct the advisor to
+transfer the caller to the Horizon System Helpdesk. I was never aware of, or
+involved in, any formal lines of communication or feedback as between the POL
+NBSC and the Fujitsu Horizon System Helpdesk. I recall that there used to be
+service forums where the NBSC and the Horizon System Helpdesk would
+discuss the performance metrics of the two helpdesks/services centres. I think
+
+11/80453178_1
+19

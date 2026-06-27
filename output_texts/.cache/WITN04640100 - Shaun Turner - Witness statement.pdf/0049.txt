@@ -1,0 +1,32 @@
+WITN04640100
+WITN04640100
+
+to particular issues, for example, in relation to the Callendar Square bug (as
+discussed in paragraphs 92, 94 and 108 to 110 above). In this case the POL
+Problem Project Management Team had direct contact with Fujitsu, specifically
+Fujitsu's own internal problem resolution team to whom POL's Problem
+Management Team would escalate problems. I remember the POL Problem
+Management Team was managed by David Hulbert, though at certain points it
+had about 12 different problem managers.
+
+157. I am not sure of the specifics of how this receipts and payments issue
+was actually resolved by Fujitsu. I think Fujitsu diagnosed the root cause and
+implemented a fix, by some code or software change. I do not know the details
+of this fix.
+
+158. More recently, in my role as the Smart ID product owner, I have had
+more direct dealings with Fujitsu. Details of my role and the Smart ID
+programme are in paragraphs 263 to 269 below. In particular, I note that Fujitsu
+raised with the Smart ID team that changes implemented into Horizon as a
+result of Smart IDs were causing a receipts and payments mismatch issue.
+Having reviewed the documents to which the Inquiry referred me in relation to
+Smart IDs (the lists of which are set out in full in paragraphs 229 and 278), I
+can see that this issue could cause a shortfall in branches, hence the need for
+rectification processes to be put in place.
+
+159. Fujitsu put in place a monitoring process so that they could identify and
+flag every time the issue arose, though there were only a small number of
+examples of this problem happening across the network. Fujitsu also sent
+reports of these instances to the Smart ID project manager, Esther Harvey. I
+
+Page 49 of 95

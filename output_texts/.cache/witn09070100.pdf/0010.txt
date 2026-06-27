@@ -1,0 +1,12 @@
+WITN09070100
+WITN09070100
+
+39. There was no written process for dealing with issues raised by agents but being representatives of POL, we would listen to any concerns raised as sensitively as possible and provide what guidance we could to the agent. If the issue could not be resolved whilst on site, it would be taken away and put the Contracts Advisor to resolve. This would be entered on the report, and I would have no further involvement.
+
+40. I would not consider it possible to conduct an audit at a branch where the Horizon system was not functional, though I do not recall any such incident ever arising. Provided there is one terminal operational within a branch, it would be possible to conduct an audit by logging on to each stock unit separately and producing a snapshot of each.
+
+41. There was little or no difference between auditing a Crown branch or a Sub Post Office other than scale and resource required.
+
+42. Fujitsu had no input to POL audit processes whatsoever.
+
+43. Document FUJ00001894 is a technical document that I have never seen. Having read through it, it seems to me to be more geared towards Internal Audit processes rather than the Audit Team. The two are distinct and separate. Internal Audit internal departments and processes for which audit trails are required, such as for Horizon. They also schedule and conduct audits at cash centres for which we provide necessary manpower and resource. The document FUJ00001894 is high end and in my opinion has little impact on the Audit Team. Only the section entitled 'Access Using Standard Reports' appears to relate to audit activity.

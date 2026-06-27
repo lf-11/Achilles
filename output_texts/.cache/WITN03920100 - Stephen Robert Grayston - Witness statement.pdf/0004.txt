@@ -1,0 +1,30 @@
+WITN03920100
+WITN03920100
+
+9. The Programme developed a solution for the validation of paper-based tokens;
+this was known as the Order Book Control Service (OBCS). Whilst IGL continued
+in live operation a group of offices was identified, approximately 200 in total, to
+undertake the OBCS as part of a Release 1b. From memory, the OBCS also ran
+in parallel to legacy services and so there was no in-office migration or
+decommissioning of other systems.
+
+10. I cannot recall the background details however, a decision was made to bring all
+IGL and Release 1b offices on to the same operating baseline and this was the
+scope of Release 1c. This impacted approximately 210 offices only. The
+migration to Release 1c (as with all Releases) required a careful co-ordination of
+activities that involved multiple partners both internal to POCL and external with
+supplier teams.
+
+11. The experiences of the IGL, Release 1b and Release 1c provided input to the
+design of the implementation plan. One of the critical areas within the plan was
+how to optimise support to branch managers and staff at the point of Horizon
+implementation and go-live. Under the contract with ICL Pathway, the obligation
+for support of offices through transition and into Live lay with ICL Pathway. Due
+to the extensive knowledge of regional operational staff in respect of POCL
+culture, processes and general operations a contract change was agreed with
+ICL Pathway whereby POCL would provide Horizon Field Support Officers
+(HFSO's), managed through each of the 4 national implementation teams (IP1 to
+IP4), to support the agreed Horizon rollout plan. Effectively POCL were sub
+contracted to provide support to the rollout of Horizon to meet ICL Pathway
+
+Page 4 of 32

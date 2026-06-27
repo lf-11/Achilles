@@ -1,0 +1,32 @@
+WITN09510100
+WITN09510100
+
+similar experiences of large shortages by a number of locum Subpostmasters
+who have all operated the same pieces of Horizon kit, week in week out.
+
+...if the Horizon system was incorrect then there would either be a numerical
+additional error or a client transactional error, all such theories have been
+discounted as they have been proven not to exist."
+
+26. The issue of actual losses, as opposed to illusory losses, was a concept raised
+early in this matter.
+
+27. I can see from an email to which I was copied in on 24 February 2006 there was
+an encapsulation of Mandy Talbot's perspective (as relayed to me by Stephen
+Dilley in that email) [POL00070910]. That email says:
+
+"Since my last e mail, I have spoken to Mandy to agree the strategy moving
+forward. She said:
+
+(1) Internally, the P.O feel conflicted about the Castleton case. The P.O
+believes the Horizon system to be robust, but the cost (in P.O time and
+money) of proving a negative (i.e that there are no faults) is expensive.
+For example, she'd need to get a report from Fujitsu (who apparently
+have difficulty in writing in plain English) and get someone in the P.O to
+review the Fujitsu data to see if there are any anomalies.
+
+(2) However, her view is that the P.O must not show any weakness and
+even if this case will cost a lot, there are broader issues at stake other
+than just Castleton's claim: if the P.O are seen to compromise on
+Castleton, then "the whole system will come crashing down" i.e it will egg
+Page 11 of 36

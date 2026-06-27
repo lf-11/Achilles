@@ -1,0 +1,12 @@
+WITN08410100
+WITN08410100
+
+c. In respect of "Training Guide: Compliance Audit Tool" (December 2013), document POL00086839 of the Guide. Accordingly, I have also reviewed POL00034503 which is Version 1.1 of the Guide, dated January 2014. The changes between versions 1.0 and 1.1 are summarised in the version control table on page 2 of POL00034503.
+
+99. In my experience, the relevant sources of information to be considered by an auditor would be stated in Performing a Branch Audit, Chapter 3 of the Audit Process Manual (POL00084801). If there were any changes to these sources, then the Chapter would be updated either during an annual review or as part of a separate review, and those changes would be communicated to the Audit Team as described in paragraphs 85 to 86 above.
+
+100. In section 8.2 on pages 11 to 12 of Performing a Branch Audit, Chapter 3 of the Audit Process Manual (POL00084801), there was a list of all the material which needed to be printed from Horizon against which the physical cash and stock in the branch would be verified, and this was modified whenever Horizon was updated. This process was to be followed for every audit. For example, it would instruct an auditor to print a pre-transaction log before they arrived at a branch to check if any transfers had been made on the day of the audit. Other printouts might be required to obtain data from other terminals, such as the ATM or the National Lottery.
+
+101. The auditor would then progress by physically checking stock units. In smaller branches there may only be one stock unit, whereas larger branches might have had many stock units. Each stock unit would include all manner of things, including cash, stamps, travellers' cheques, milk tokens (when they were in
+
+38

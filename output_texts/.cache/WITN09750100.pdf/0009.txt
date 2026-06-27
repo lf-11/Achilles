@@ -1,0 +1,35 @@
+WITN09750100
+WITN09750100
+
+33. I recall being conscious that our Deliverable could be misinterpreted by
+POL as providing complete assurance over the HNG-X System itself, rather than an
+assessment of the Third-Party Assurance Work. The following mitigations were
+identified and included:
+
+i. Agreeing in the Engagement Letter that our Scope was to review and
+summarise the Third-Party Assurance Work rather than providing direct
+assurance on the HNG-X System itself.
+
+ii. Ensuring there were ongoing communications with the POL Client Team
+(defined below) to emphasise the parameters of our Scope (as per (i)
+above).
+
+iii. Highlighting clearly in our Deliverable the work we had and had not
+undertaken.
+
+34. We were from the outset concerned that we would not be able to conclude
+our review and finalise our Deliverable within POL's required timescale. We
+therefore agreed with POL that we would limit our Scope by dividing it into two parts.
+
+35. Part 1 of the instruction, as a desktop review, did not include testing or
+implementation of the control measures identified in the HNG-X System. Part 1
+related only to gathering an understanding of the system, existing assurance
+sources over key IT risks and whether there appeared any key gaps in controls or
+assurance provided (the 'assurance map'). My intent was that, based on such part 1
+information and understanding, more targeted independent testing and data
+analytics could be performed, if required by POL, in an anticipated part 2.
+
+36. A key reason behind a two-part proposal was that there was limited time
+within which Deloitte was asked to complete a Deliverable. It was not possible both
+
+Page 9 of 39

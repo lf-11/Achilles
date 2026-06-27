@@ -1,0 +1,279 @@
+# WITN04000200.pdf
+
+
+=== Page 1 ===
+
+WITN04000200
+WITN04000200
+
+Witness Name: Sir Adrian Montague, CBE
+Statement No.: WITN04000200
+Dated: 22 March 2023
+
+POST OFFICE HORIZON IT INQUIRY
+
+SECOND WITNESS STATEMENT OF SIR ADRIAN MONTAGUE
+
+I, Sir Adrian Montague, will say as follows:
+
+INTRODUCTION
+
+1. My full name is Adrian Alastair Montague.
+
+2. In September 2022, I prepared a witness statement (the "First Statement") (WINT04000100) that addressed my involvement with the Horizon project, and contained details of my qualifications and experience. At the time of my involvement with the Horizon Project, as described in the First Statement I was Chief Executive of the Treasury Taskforce, a special purpose unit established by HM Treasury to be the focal point across Government for Private Finance Initiatives ("PFI") transactions.
+
+3. I gave evidence to the Inquiry at a hearing in London on Friday 25 November 2022, at which the Chair requested that I give further evidence about recommendations in respect of private finance initiative ("PFI") contracts, in general terms, and what might be learned from the Horizon PFI, in particular (Inquiry transcript 25.11.22, pg.108/2-14). This second witness statement considers the lessons learned from the Horizon Project in respect of PFI.
+
+Page 1 of 9
+
+
+
+=== Page 2 ===
+
+WITN04000200
+WITN04000200
+
+GENERAL
+
+4. My direct personal involvement with Horizon was limited in extent and time. I was the Chairman of the Expert Panel established by HM Treasury ("the Treasury") in the Spring of 1998 to consider the technical viability of the project. The Panel reported in July 1998 I had no connection with Horizon before the panel was established, and little afterwards.
+
+5. The Project, however, was extensively reviewed by the National Audit Office (the "NAO"), and their report (The Cancellation of the Benefits Payment Card Project (HC857, session 1999-2000, published 18th August 2000)) (the "NAO report") (RLIT0000001) examines all the circumstances in considerable detail. The NAO report includes guidance for departments in the light of the project and specifies many lessons learned from the cancellation. I have therefore adopted the NAO's Executive Summary as the basis of this statement. I will, of course, be happy to elaborate as required.
+
+6. The NAO introduces its report with the following comment "The Project was vast in its investment, scale and complexity. One of the bidders [said] that it was the most complex project their firm had ever bid for .... It was also one of the first Information Technology contracts awarded under the Private Finance Initiative. (Para 1.2)." Although both these factors contributed to the challenges of the project, neither of itself predestined the Horizon project to failure it became, and there were many other contributory factors.
+
+NAO'S FINDINGS
+
+7. In its review of Horizon, the NAO considered that the main reasons why the Benefits Payment Card project failed to meet its objectives were as follows:
+
+Page 2 of 9
+
+
+
+=== Page 3 ===
+
+WITN04000200
+WITN04000200
+
+a. The project was very high risk. It was feasible, but probably not fully deliverable within the very tight timetable originally specified.
+i. The project was procured through PFI which was still an innovative method.
+ii. BA and POCL had different objectives for the project which were not incompatible but led to tensions that required a genuine partnership between the two purchasers to resolve.
+iii. BA's initial business case did not adequately assess the risk and costs of serious slippage.
+
+b. The public sector procuring authorities established arrangements to manage the risks of the project, though only with limited success.
+i. The authorities identified most of the risks of the project, but were less successful in assessing their probability and impact
+ii. When the contract was signed key parts of the detailed specification had not been finalised
+iii. More rigorous demonstrations by bidders might better have highlighted the risks to deliverability and the extent to which new software had to be developed
+iv. ICL Pathway submitted the cheapest of the three bids, the authorities ranked their proposal third on eight of eleven technical and management criteria
+v. A decisive factor in the selection of ICL Pathway was their acceptance of greater risk, making their bid compliant with PFI
+vi. The authorities found monitoring and controlling risks very difficult
+
+Page 3 of 9
+
+
+
+=== Page 4 ===
+
+WITN04000200
+WITN04000200
+
+NAO'S LESSONS LEARNED
+
+8. Having identified the main causes of failure, the NAO then identified a number
+of high-level lessons learned, under three major headings: risk management,
+the procurement of complex Information Technology systems, and
+procurement by more than one purchaser, as described below.
+
+9. Risk management
+
+a. Contracts with suppliers, including Private Finance contracts, require
+detail and clarity about the reporting obligations of suppliers to support
+risk management and contingency planning by the purchaser.
+Contractual obligations must be underpinned by a recognition on all
+sides of the need for openness, extending beyond oral reporting to
+sharing their risk management documentation.
+
+b. The project illustrates the importance of being able to clarify, quantify
+and allocate responsibility for risk very clearly if the Private Finance
+approach is to be a suitable contractual model. In the case of IT
+development projects in the public sector, this is particularly difficult.
+Ministers and officials cannot transfer responsibility for the overall
+service for which they are legally responsible and accountable to
+Parliament. Some risks, such as the delivery of benefits payments, on
+which many people depend, are too great for private sector suppliers to
+absorb and departments therefore must retain a direct interest and
+involvement in how the service is to be delivered.
+
+c. It is vital that all bidders, and if necessary their parent companies, are
+clear about the extent of risk transfer proposed by the purchasers at
+the start of procurement rather than towards the end. Purchasers must
+
+Page 4 of 9
+
+
+
+=== Page 5 ===
+
+WITN04000200
+WITN04000200
+
+ensure that the extent of risk transfer they propose is viable, and must
+evaluate the extent of risk that they retain. Difficulties in this area can
+result in the loss of otherwise valid bids.
+
+10. The procurement of complex IT systems
+
+a. There is often understandable pressure on purchasers and potential
+suppliers to conclude a deal and to seize as soon as possible the
+benefits of the project. But it is never acceptable to sign a contract with
+fundamental "agreements to agree" the detail of the service in the
+future, even if as in this case, they are intended to be resolved quickly.
+Allowing realistic timescales for early planning and detailed
+specification will pay dividends in terms of overall project delivery and
+cost.
+
+b. Departments undertaking IT procurement projects should fully
+understand the quality and quantity of resources available which
+actually will be committed by the supplier to deliver the agreed
+services. This is particularly important where new software
+development is required. It should be agreed during the competitive
+process how resource requirements can be achieved and measured,
+and the agreement should be drafted into the contract.
+
+c. For major, mission-critical, tailored and bespoke projects, there should
+be proper piloting of technical solutions to address the full-service
+requirement, rather than reliance on part-functional demonstrations.
+Departments may have to consider part-funding such pilots and should
+also consider awarding separate contracts for the design and
+development of systems before contracting with the developer for full
+
+Page 5 of 9
+
+
+
+=== Page 6 ===
+
+WITN04000200
+WITN04000200
+
+implementation of the successful pilot. This approach also allows
+keener pricing of the later service implementation and operation stages
+by suppliers because the risks to them are reduced.
+
+d. There must be agreement between purchasers and suppliers at the
+outset of information technology projects on the extent to which new
+systems will either replicate the purchasers' existing systems, or re-
+engineer and simplify them.
+
+e. After examining the scope to simplify their business processes, and
+given certainty as to the detailed requirement, Departments should
+examine with potential suppliers the scope to use generic and widely
+used system components where available. This process may in turn
+suggest modifying the initially proposed solution. A major risk of the
+Benefits Payment Card elements of the project turned out to be their
+"bespoke" nature. Building bespoke systems adds to the development
+costs and the longer-term vulnerability of any solution.
+
+f. Where there are major project developments which involve more than
+one system being developed in parallel, as was the case here with the
+Benefit card, CAPS and new Post Office systems, it is sensible to plan
+and monitor these jointly.
+
+11. Procurement by more than one purchaser
+
+a. Joint procurement is always difficult, especially where purchasers have
+divergent objectives. It is better to let one purchaser take the lead with
+proper arrangements for information flow and reporting to the other.
+This requires a clear agreement, embodied in the contractual
+
+Page 6 of 9
+
+
+
+=== Page 7 ===
+
+WITN04000200
+WITN04000200
+
+arrangements as well as in a memorandum of understanding, as to
+roles and responsibilities.
+
+b. Incentives to deliver should pull the same way for both parties to a
+project: for example, financial and timetable incentives should be
+mutually supportive: and the parties should agree common objectives
+and "must-haves" at the outset, as these will influence future
+behaviour.
+
+NAO'S CONCLUSIONS
+
+12. Finally, the NAO puts forward its conclusions. There may be a temptation, it
+says, to think that the Payment Card project failed solely because it was large
+and complex or because it was a pioneer for the Private Finance route. This is
+not the case. Various factors contributed to the project's failure and their
+effects are difficult to disentangle. Looking to the lessons that can be learned
+by Government, important reasons for the project's failure were:
+
+a. divided control. The project was run by two organisations, the
+Department and Post Office Counters Ltd, with different objectives.
+Although in theory projects can be run by two or more organisations, in
+practice this is a recipe for dispute and delay, which is what happened
+in this case. A key lesson to be learned is that it is usually better to let
+one purchaser take the lead with proper arrangements for information
+flow;
+
+b. inadequate time for specifying the requirement and piloting. To save
+time and money, insufficient work went into specifying the project and
+for demonstrations by bidders. The result of skimping at the start was
+vast delay and as it turned out, wasted money. A key lesson is that
+
+Page 7 of 9
+
+
+
+=== Page 8 ===
+
+WITN04000200
+WITN04000200
+
+allowing realistic timescales for early planning and detailed
+specification will pay dividends in time, cost and quality; and
+c. a shared, open approach to risk management across the whole
+programme was not achieved. A key lesson learned is that contractual
+obligations must be underpinned by recognition on all sides of the need
+for openness about risks identified and emerging.
+
+SUMMARY
+
+13. The NAO's Executive Summary is a high-level description of the major factors
+contributing to the failure of Horizon, and draws out some important lessons
+for similar projects in the future. Inevitably, however, there are many, many
+smaller and more detailed observations that contribute to the overall
+assessment in the Executive Summary, the more significant of which are
+discussed in the main body of its report. I have not sought to address all these
+points, in the interests of conciseness, but I will be happy to elaborate on this
+statement if the Inquiry would find that helpful.
+
+Statement of Truth
+I believe the content of this statement to be true.
+
+GRO
+Signed:
+
+Dated: 22nd March 2023
+
+Page 8 of 9
+
+
+
+=== Page 9 ===
+
+WITN04000200
+WITN04000200
+
+Index to Second Witness Statement of Sir Adrian Montague
+
+No. URN Document Description Control Number
+1 WITN04000100 First Witness Statement of Sir Adrian Montague dated 16 September 2022
+2 RLIT0000001 NAO Report by the Comptroller and Auditor General, Department of Social Security, The Cancellation of the Benefits Payment Card, 18 August 2000
+
+Page 9 of 9
+

@@ -1,0 +1,28 @@
+WITN08480100
+WITN08480100
+
+the Subpostmaster it would be highlighted in the audit report, a hard copy of
+which was posted to the branch a few days after the audit. The Contract
+Advisor would receive a copy by email. A feedback form would be left for
+completion at the end of the audit.
+
+36. The Inquiry has asked me if it was possible to conduct a branch audit in
+circumstances in which it was not possible to access the Horizon IT system. I
+do not recall if this was possible, but I note from the document "Post Incident
+Auditing without Horizon (POL00084003) that there is a process for auditing
+branches without access to Horizon. I can remember one audit I was involved
+in where a fire following an overnight burglary had damaged the Horizon
+equipment. In this audit we attempted to construct a balance within Belfast
+Cash Centre but could only count what was left and in the end we couldn't
+really construct a full balance.
+
+37. I have also been asked by the Inquiry to describe any variations between the
+audit process in Crown Office branches in comparison to other branches and
+the reasons for those differences. I recall that in a Crown Office branch a
+minimum of 50% of stock was checked along with all dormant (non-assigned)
+stock and any stock held by the Branch Manager. Also, in Crown Office
+branches where there was a loss in excess of £1,000, this would be escalated
+to the Crown Area Manager. A loss of £10,000 would also be escalated to the
+Security Manager. For audits outside the Crown Network, depending on the
+Audit Type, they would be subject to a Financial Assurance Audit, a Tier 2 or
+a Compliance Audit as mentioned above. An audit shortage of £1000 or more

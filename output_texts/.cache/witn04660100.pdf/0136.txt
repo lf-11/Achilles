@@ -1,0 +1,31 @@
+WITN04660100
+WITN04660100
+DocuSign Envelope ID: 0B8D9A6F-D117-40AC-B8CA-9EFEBC3C2B1D
+
+the period in question, the Defendant told the Claimant that he
+considered that the 2 units were not communicating with each
+other properly.
+
+(ii) Screen freezing. The display of one or other or both of the
+terminals would `freeze', i.e. lock up and fail to respond, either to
+commands attempted to be entered through the terminal's
+keyboard or commands attempted to be entered by hand through
+the touch screen function of the terminal's display, requiring the
+system to be re-booted. This problem was a regular occurrence
+and happened approximately weekly during the period in
+question.
+
+(iii) Blank screen. The display of one or other or both of the terminals
+would suddenly go blank before returning to the sales screen. This
+problem occurred approximately monthly during the period in
+question.
+
+(iv) Card swipe not reading. The electronic card swipe of one or other
+or both of the terminals, used to read a customer's payment card,
+would fail to read the card properly. This problem was a very
+regular occurrence and happened approximately daily during the
+period in question.
+
+(v) Rolling over cash figures. The Defendant believes that the
+Horizon system `rolled over' cash figures in the weekly cashflow
+Page 136 of 194

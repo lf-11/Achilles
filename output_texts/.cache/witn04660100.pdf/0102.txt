@@ -1,0 +1,17 @@
+WITN04660100
+WITN04660100
+DocuSign Envelope ID: 0B8D9A6F-D117-40AC-B8CA-9EFEBC3C2B1D
+
+(d) Anne Chambers' evidence on the Callendar Square issue
+
+243. At trial, on 13 December 2006, Anne Chambers was cross-examined about the issue at the Callendar Square branch. The gist of her evidence was as described in the email from Mandy Talbot above. I have not been able to locate a transcript of Anne Chambers' evidence on our file. In preparing this statement, I have considered my colleagues' typed note of the trial [LCAS0000444] and my original handwritten note of Mrs Chambers' evidence at trial on this issue [WBON0000071]. There are some differences between them. The typed note records as follows:
+
+(a) "LC: TB8 tab 97a p2556
+
+(b) AC: would this be to do with a branch on Callendar Square?
+
+(c) LC: no, is that another branch that's had this problem. In this statement, Mr Brown refers to two individual balance snapshots being taken, difference throughout, why would that be?
+
+(d) AC: it's likely that it was a problem that occurred intermittently where for some reason when they're doing their balance process on one counter, one counter is not communicating properly with the rest and you didn't get a disconnected node message am dot will not see later changes made on other counters. This is a known problem and does not get picked up centrally and I would expect for any of these sites that a call would be raised. It's very obvious to us. For this branch, if it was
+
+Page 102 of 194

@@ -1,0 +1,31 @@
+WITN06680100
+WITN06680100
+
+services team in which the performance of the HSD was discussed and validated
+against the agreed contractual metrics. Such metrics were shared with POL and
+where there was a performance gap against these metrics the account team, the
+core services team and POL worked collaboratively to implement improvements
+to return the desk metrics back to green performance.
+
+20. The HSD was primarily a log and flog function, as there were very limited first
+line/level fixes that the desk could complete. I do not recall the exact type of
+Incidents that the HSD could log and fix themselves. All other incidents were
+logged and assigned to support teams. It is my opinion that the HSD were effective
+in logging the Incidents, providing the first-level support and assigning to the
+correct support group. There was an SLA in place as to how long a ticket could
+remain in the service desk queue in the service management toolset. I do not
+remember the duration.
+
+21. The HSD was part of Fujitsu. Once the HSD agent determined the nature of the
+Incident, and captured the necessary information from the SPM, the ticket was
+logged in the Service Management Toolset and the Service Desk Agent assigned
+the Incident to the correct support group. I consider the desk was effective in
+passing Incidents to the appropriate Service Delivery Unit ("SDU").
+
+22. I have been asked to describe my role in receiving or responding to complaints /
+incidents relating to the Horizon System.
+
+a. All Incidents were logged at the HSD and then were passed to the
+appropriate SDU if the desk was not able to resolve at first point of contact.
+
+Page 9 of 21

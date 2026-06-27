@@ -1,0 +1,31 @@
+WITN09950100
+
+Appendix 3; but because we were not reviewing family documents for the
+purposes of responding to Questions 15 and 46(a) of Rule 9 Request (11),
+Appendix 6 was not reviewed, and was not therefore disclosed to the Inquiry.
+
+98. On 4 July 2023, Mr Foat gave evidence that the deduplication process may
+have been a factor in why Appendix 6 was not reviewed by my firm. That was
+based on the understanding at the time Mr Foat gave evidence that only one
+version of Appendix 3 had been reviewed by us and that others had been
+removed in the deduplication process. We have been informed by KPMG that
+they applied item level deduplication on the first occasion that the search was
+run. However, multiple versions of Appendix 3 in addition to the one that was
+produced (and including versions that had Appendix 6 within the same family)
+were still promoted to review because not all versions of Appendix 3 were MD5#
+duplicates. I understand that an "MD5#" value is a sequence of letters and
+numbers that make up a document's digital fingerprint and/or text, and can be
+used to exclude duplicates irrespective of their families.
+
+99. The search was later re-run in April 2022 and KPMG have informed us that item
+level deduplication was not applied on that occasion. It therefore appears that
+item level deduplication did not play a material role in the rest of the suite of
+documents not being identified at this stage, and the approach to reviewing
+family documents was the operative reason these documents were not
+reviewed by my firm in relation to Rule 9 Request (11) (INQ00002007).
+
+100. This approach of not reviewing full families for relevance was the preponderant
+one adopted for subsequent Rule 9 Requests that required the production of
+documents. For context, all the Rule 9 Requests received by POL after Rule 9
+
+Page 38 of 63

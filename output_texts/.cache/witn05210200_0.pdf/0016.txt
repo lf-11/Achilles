@@ -1,0 +1,35 @@
+WITN05210200
+WITN05210200
+
+Question 31: Please describe and explain the Error Matrix included at
+Schedule 4 to the Third Supplemental Agreement.
+
+50. As I wasn't on the End to End Working Party, all that I feel able to comment
+on in relation to Schedule 4 is that these are references to the type of errors
+found at the TIP interface as examined by the Working Party.
+
+Question 32: What was your understanding in January 2000 of the "defences"
+which had been implemented by ICL Pathway in order to address ongoing
+cash account discrepancies?
+
+51. The term or word "defences" isn't something I recall being used during my
+work on these matters. The three defensive measures referred to at note no.
+6 (page 24) of document FUJ00118186 relate to technical matters which I am
+unable to comment on.
+
+Question 33: What did you understand the purpose and function of the
+"attribute checker" to be?
+
+52. Again, this is not something that I recall being aware of at the time and the
+document doesn't help me to understand or recollect what the "attribute
+checker" was.
+
+Question 34: What was your understanding in January 2000 as to the ability of
+the integrity control to detect all relevant data errors in Horizon?
+
+53. As I have mentioned above and in my first statement, I do not remember
+being involved in January 2000, but I can only assume that all parties were
+satisfied that the data integrity control was capable by this stage of detecting
+all relevant data errors in Horizon.
+
+Page 16 of 21

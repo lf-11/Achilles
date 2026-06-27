@@ -1,0 +1,34 @@
+WITN04640100
+WITN04640100
+
+everyone will get access to the same digital learning materials by automatically
+pairing their Smart ID with an account on the online learning system. This would
+create the potential to deliver training through virtual classrooms and for
+trainees to work through self-service training at their own pace.
+
+ADVICE AND ASSISTANCE
+
+Involvement in advice and assistance to Postmasters
+
+68. I have been asked to describe whether I was responsible for providing
+Postmasters or Post Office branches with advice or assistance.
+
+69. My first role on the North East Region Helpdesk (September 1996 – September
+1999) involved a lot of contact with Post Office branches as I sought to provide
+advice and assistance to those calling the Helpdesk with their queries. This
+included answering questions on balancing and transactions before Horizon
+was introduced. At that time, branches might have been balancing manually or
+using their own EPOS system.
+
+70. In my roles as an NBSC Incident Analyst (September 1999 – September 2001)
+and as Network Conformance & Capacity Manager (May 2003 – June 2005), I
+was also part of the second line support for the NBSC helpline. If someone in
+the first line could not answer a Postmaster query, it would be referred to a
+manager, such as myself. During the initial national rollout of Horizon, if those
+in the second line were not able to resolve the issue, it would be referred to a
+third line consisting of Fujitsu or POL individuals involved in the actual design
+of Horizon, who were known as domain experts. I remember support being
+needed from the third line team during the first few nights in which Postmasters
+undertook balancing on Horizon. Since then, issues with Horizon or claims of
+
+Page 22 of 95

@@ -1,0 +1,776 @@
+# witn10770200.pdf
+
+
+=== Page 1 ===
+
+WITN10770200
+WITN10770200
+
+Witness Name: Charles Hunter Donald
+Statement No.: WITN10770200
+Dated: 26 April 2024
+
+POST OFFICE HORIZON IT INQUIRY
+
+SECOND WITNESS STATEMENT OF
+
+CHARLES HUNTER DONALD
+
+I, CHARLES HUNTER DONALD, will say as follows
+
+INTRODUCTION
+
+1. I am the Chief Executive Officer of UK Government Investments (“UKGI”). This is the second witness statement that I have made to the Inquiry, the first being dated 6 February 2024.
+
+2. In my first statement, I explained the role of UKGI (and its predecessor the Shareholder Executive (“ShEx”)) in the corporate structure of Post Office Limited (“POL”) up to the date of the settlement of the Group Litigation Order proceedings (the “GLO”) in December 2019.
+
+3. As requested in the second part of the Inquiry’s Third Rule 9 Request dated 8 December 2023 (the “Request”), this second witness statement addresses the relevant changes that have been made in respect of UKGI’s role and the governance arrangements relating to POL since the end of the period covered by my first statement. As noted in paragraph 35 of my first witness statement, this will include some of the measures that were introduced before the
+
+Page 1 of 24
+
+
+
+=== Page 2 ===
+
+WITN10770200
+WITN10770200
+
+settlement of the GLO and that have been in place since 2018, which are more
+appropriately covered in this statement. Where I cover matters that pre-date the
+settlement of the GLO, I will provide details of when the relevant measure was
+introduced.
+
+4. Given the scope of the Request, I have focussed on developments and
+enhancements to the governance and Board arrangements relating specifically
+to POL as well as on changes to aspects of UKGI's shareholder role with POL.
+I have not sought to provide detail relating to the developments in UKGI's
+portfolio practices more broadly; for example, how UKGI reports on risks in
+relation to assets within its portfolio, the internal peer review processes UKGI
+undertakes in relation to its portfolio and the guidance, training and support that
+UKGI shareholder teams and shareholder NEDs are afforded. I would, of
+course, be very happy to provide further detail on these matters if that would be
+of assistance to the Inquiry.
+
+5. I am duly authorised to make this statement on behalf of UKGI. The contents
+of this witness statement are true to the best of my knowledge and belief. In
+preparing this statement, I have communicated with other members of staff,
+including those who have been or are part of UKGI's shareholder team for POL,
+and I have also referred to various documents. Where I have referred to
+information from other sources, I believe that information to be true. In preparing
+this statement (and the accompanying exhibits), I have been assisted by
+lawyers employed by UKGI and by Eversheds Sutherland (International) LLP
+(the recognised legal representatives for UKGI in the Inquiry).
+
+Page 2 of 24
+
+
+
+=== Page 3 ===
+
+WITN10770200
+WITN10770200
+
+6. As with my first statement, much of the information relevant to the post-
+December 2019 element of the Request has already been provided by UKGI in
+the form of (in particular), UKGI/BEIS's joint response to the Call for Evidence,
+the responses to Batch Requests 001-004 (INQ00000028, INQ00000044,
+INQ00000888, INQ00000883, INQ00000009) and UKGI's Opening Statement
+to the Inquiry (SUBS0000006). I have incorporated the contents of those
+materials in this witness statement, to the extent necessary to address the
+Request.
+
+RESPONSE TO THE REQUEST
+
+7. Overarching, the changes made to the governance arrangements for POL
+from a shareholder perspective are multi-faceted and reflect: (i) enhancements
+to UKGI's policies and practices which have been informed by UKGI's own
+learnings as well as developing practice in the private and public sectors; and
+(ii) the challenges faced by POL following the GLO "Common Issues" Judgment
+and "Horizon Issues" Judgment. For the purposes of this statement, I have
+summarised the changes made to the governance arrangements in the
+following categories:
+
+a. Practical changes to the governance role including frequency of
+meetings and interactions between POL, UKGI and the Department for
+Business, Energy and Industrial Strategy/Department for Business and
+Trade (collectively, the "Department").1
+
+1 The Department for Business and Trade assumed ownership of POL from the Department of
+Business, Energy and Industrial Strategy in February 2023 as part of machinery of government
+change.
+
+Page 3 of 24
+
+
+
+=== Page 4 ===
+
+WITN10770200
+WITN10770200
+
+b. Enhancements to governance arrangements for POL including agreeing
+a Framework Document and amendments to POL's Articles of
+Association.
+
+c. Enhanced arrangements to permit UKGI and the Department to have
+greater visibility on material litigation.
+
+d. Enhanced Shareholder focus on culture and issues highlighted in the
+judgments of the High Court in the GLO.
+
+e. Changes to the role of the Shareholder NED's role on the POL Board
+and POL Board sub-committees.
+
+f. Additional responsibilities of the UKGI Shareholder Team to support
+arrangements for compensating Subpostmasters.
+
+Practical Changes to the Governance Role
+
+8. A number of measures have been introduced by UKGI and the Department2 to
+enhance established governance practices and behaviours in order to provide
+appropriate governance and oversight of POL as a Public Corporation. In
+addition, the frequency of interactions between POL and Her Majesty's
+Government ("HMG") has increased, reflecting the challenges arising from the
+GLO and the fact that POL has required substantial funding from HMG in this
+period (as outlined in this statement).
+
+9. In paragraph 27 of my first witness statement, I have outlined in broad terms
+the regular rhythm of meetings that took place between the UKGI Shareholder
+Team and POL prior to the settlement of the GLO. These have broadly
+
+2 I have addressed the allocation of responsibilities between UKGI's Shareholder Team and the
+Department's Policy Team in paragraph 36 of my first statement which have stayed broadly
+consistent save for the point I mention below on compensation.
+
+Page 4 of 24
+
+
+
+=== Page 5 ===
+
+WITN10770200
+WITN10770200
+
+continued. However, the content and frequency have changed over time and
+certain meetings have been put on a more formal footing. In particular:
+
+a. Shareholder meetings: These continue to occur. However, they take
+place quarterly and the regularity is more rigorously enforced. They
+remain one of the key formal forms of engagement that enable UKGI
+and POL to discuss a range of strategic and operational issues, and
+enable POL to provide updates to HMG. Since 2018 these meetings
+have included the Department's Policy Team (following the split of
+responsibilities referenced in paragraph 36 of my first witness
+statement). Furthermore, following settlement of the GLO, UKGI's
+Shareholder NED has had meetings with the CEO of POL at least
+fortnightly (often with the Director of the Department) to share concerns
+and update on activities and priorities. UKGI's shareholder NED also has
+regular interactions with the Chair of POL including periodic meetings.
+
+b. Network meetings: Prior to the settlement of the GLO, UKGI (and ShEx)
+periodically had meetings to discuss performance and operational
+matters relating to POL's network. These were particularly frequent
+when POL was in the process of Network Transformation (a period from
+2011 to 2015) and the frequency reduced as the network began to
+stabilise in size. From mid-2018, the meetings took place on a quarterly
+basis and they moved to monthly meetings from August 2021. During
+these meetings, officials from UKGI and the Department review POL's
+performance in meeting its branch network obligations. These meetings
+enable UKGI and the Department to: (i) monitor POL's performance
+
+Page 5 of 24
+
+
+
+=== Page 6 ===
+
+WITN10770200
+WITN10770200
+
+against its obligations to provide services as set out in the applicable
+Funding Agreements and Entrustment Letters;3 and (ii) build effective
+working relationships with POL's management, promoting an effective
+interface for the reporting of data of public interest into the Department.
+In 2018 and 2019, UKGI encouraged POL to have its network report
+approved at Board level and, from 2019/2020 onwards, to have the
+report externally audited to provide assurance that POL is complying
+with its contractual commitments to HMG.
+
+c. Financial and investment spend monitoring meetings: Financial
+monitoring meetings for POL typically took place monthly prior to the
+settlement of the GLO. The meetings were an opportunity to review
+POL's monthly management accounts and to ask POL's finance team
+questions regarding operational performance and its performance
+relative to budget and forecasts. From 2018, these meetings continued
+taking place on a monthly basis between POL and the UKGI Shareholder
+Team. However, these meetings were more focussed on investment
+spend given the level of investment required in the business during the
+2018 to 2021 period. They also provided an opportunity to discuss wider
+strategic trends, risk, upcoming commercial issues, and outlook.
+Frequent meetings with POL's Head of Strategy also provide UKGI's
+Shareholder Team with an opportunity to ask questions concerning the
+performance of POL's investment spending. These meetings allow the
+Shareholder Team to provide quarterly financial performance and
+
+3 I described these documents in paragraph 40 of my first witness statement.
+Page 6 of 24
+
+
+
+=== Page 7 ===
+
+WITN10770200
+WITN10770200
+
+investment spend briefings to the Department's senior officials and
+Ministers which are included in Quarterly Updates prepared by UKGI's
+Shareholder Team and the Department's policy team for the benefit of
+the Department's Permanent Secretary and Ministers. All of these
+meetings continue to this day.
+
+d. 'Working Group' Meetings: Prior to the settlement of the GLO, UKGI had
+regular interactions with the National Federation of Subpostmasters
+("NFSP") and POL on matters relating to the postmaster relationship. In
+June 2019, the Department's Minister who is responsible for POL and
+postal affairs (the "Responsible Minister") instituted 'Working Group'
+meetings with POL and NFSP, which the UKGI shareholder team joined.
+The group considers the relationship between postmasters and POL and
+focusses on issues associated with that relationship and the
+transformation of the branch network.
+
+10. As well as the continuation of these interactions, UKGI has also organised or
+been involved in additional engagements to discuss strategic and operational
+issues. For example, since Spring 2020 the Responsible Minister4 and POL's
+CEO have met on a monthly basis.5 These meetings are attended by
+representatives from UKGI's shareholder team (usually the Shareholder NED)
+and the Department. In addition to these monthly meetings, since 2019 the
+POL Chair also meets at least annually with the Responsible Minister or the
+Department's Permanent Secretary to discuss the business' performance and
+
+4 Currently the Parliamentary Under Secretary of State (Minister for Enterprise, Markets and Small
+Business).
+5 For the avoidance of doubt, UKGI has always had regular interactions with Ministers and POL
+management which are described in paragraphs 26 and 27 of my first witness statement.
+
+Page 7 of 24
+
+
+
+=== Page 8 ===
+
+WITN10770200
+WITN10770200
+
+other relevant issues, including, for example, Board effectiveness and feedback
+on the Chair's performance. The Permanent Secretary will also periodically
+meet with POL's CEO.
+
+11. As part of its monitoring of POL, UKGI has helped implement change in relation
+to the governance of POL's major investment projects. For example, in relation
+to POL's decision to procure a new IT system for its branches (in late 2020),
+given the significant investment spend, UKGI required POL to produce a
+business case and for POL to seek approval from the Department. Previously,
+this would have been a matter which POL would have managed without the
+need for further approvals (beyond those it seeks more broadly in relation to
+HMG funding). However, given the nature of the project, its importance to the
+future of the company and the significant costs involved, UKGI proposed
+additional governance at Department level so that HMG could seek its own
+assurance about the project and the use of the funding being provided.
+Following its approval of the business case, since October 2021, UKGI has
+participated in monthly meetings with POL and the Department to monitor
+progress of the project.
+
+12. UKGI's Shareholder Team also meets with POL's internal audit team
+approximately once a year since 2019 (in addition to the Shareholder NED's
+interactions via POL's Audit, Risk and Compliance committee), which provides
+that team with the opportunity to raise any issues with UKGI that it may have
+and for UKGI to cover any issues of concern, the internal audit work plan and
+resourcing. UKGI continues to be given the opportunity to comment on POL's
+
+Page 8 of 24
+
+
+
+=== Page 9 ===
+
+WITN10770200
+WITN10770200
+
+draft Annual Report before publication (a practice that existed before settlement
+of the GLO).
+
+13. Since October 2020 monthly meetings have taken place between POL, UKGI's
+Shareholder Team and the Department's Policy Team to monitor the
+performance of POL's Remediation Unit (previously known as the Historical
+Matters Business Unit, the "RU"). The RU was set up in July 2020 and has a
+remit of delivering the legal and compensation workstreams flowing from the
+GLO proceedings. The monthly meetings with the RU are an opportunity for the
+UKGI Shareholder Team, alongside the Department's policy team, to provide
+challenge to RU management on the progress, delivery and overarching
+strategy of the compensation schemes. In addition, there is the opportunity to
+review the operating costs of the RU against agreed budgets. In November
+2023, these meetings were broadened in scope to combine both RU spend and
+Inquiry spend (which was previously discussed regularly albeit on an ad hoc
+basis). This regularised discussions on Inquiry spend and facilitated discussion
+on Inquiry budget expectations, forecasts and the reasons for any divergence
+between predicted and actual spend.
+
+14. The UKGI Shareholder Team and the Department's policy team also have
+regular meetings with POL in relation to the establishment, delivery and
+monitoring of the compensation schemes flowing from the GLO including the
+Historical Shortfall Scheme ("HSS") and Overturned Criminal Convictions
+("OC") processes, which are described in paragraphs 41 to 45 below.
+
+15. Where unexpected events or changes in circumstances arise, UKGI adapts its
+interactions with POL to support its monitoring activities. An example is UKGI's
+
+Page 9 of 24
+
+
+
+=== Page 10 ===
+
+WITN10770200
+WITN10770200
+
+Shareholder Team's interaction with POL during the Covid-19 pandemic, which resulted in a schedule of new meetings and additional reporting being agreed at short notice. UKGI's approach to monitoring and the accountability of POL to HMG is primarily therefore a proactive one, supplemented, where required, by reactive responses which are tailored to the particular circumstances of a given issue.
+
+16. Overarching, it is UKGI's view that the range of meetings described above that the UKGI shareholder team and the Department's policy team have with POL have enhanced the visibility and intensity of dialogue on various issues relating to post GLO outcomes.
+
+Enhancements to the Governance Arrangements with POL
+
+Framework Document
+
+17. As I explained at paragraph 15 of my first statement, POL is classed as a Public Corporation. Traditionally, government shareholdings in Public Corporations would not have been supported by a Framework Document ("FWD") and would instead rely on other company corporate governance documents and processes, such as the company's Articles of Association ("Articles"), to provide structure to government oversight. The prevailing view prior to 2017-18 was that a FWD was unnecessary given (i) POL's status as a public corporation; and (ii) the suite of governance mechanisms provided to the shareholder within POL's Articles, Funding Agreement and Entrustment Letter.
+
+Page 10 of 24
+
+
+
+=== Page 11 ===
+
+WITN10770200
+WITN10770200
+
+18. In December 2017, as a result of evolving best practice within UKGI, the Shareholder Team determined that the agreement of a FWD would be beneficial to the relationship between UKGI, the Department, and POL.
+
+19. Accordingly, a FWD was agreed between UKGI, the Department and POL, and became effective in April 2020 (POL00362299). This document was the outcome of negotiations which had been ongoing since December 2017. Finalisation was delayed partly while POL examined changes to its group structure.
+
+20. The FWD sets out the governance interactions, roles and responsibilities between POL, UKGI and the Department and sets out the government-wide policies and governance standards that are applicable to POL as a Public Corporation. It was intended to provide clarity to all parties as to how oversight of POL by HMG is to be conducted and set expectations between the parties. In many respects, the FWD codified the governance arrangements already in place. However, it also included additional commitments and approval points for the Department as shareholder that do not sit in other documents imposing constitutional or contractual obligations (for example, POL's Articles). For example, Appendix 2 of the FWD includes a list of government-wide policies that are applicable to POL as a Public Corporation, which in certain instances require HMG consent; and Appendix 5 of the FWD references specific arrangements related to POL's commitment to observe Public Sector Pay and Terms.
+
+21. By way of summary, the key additional areas and clarifications with regard to governance arrangements that the FWD covers are as follows:
+
+Page 11 of 24
+
+
+
+=== Page 12 ===
+
+WITN10770200
+WITN10770200
+
+a. the processes relating to Department's approval of POL's annual and strategic plans and the criteria which POL should follow when preparing these;
+
+b. the respective roles and accountabilities (collated in a single document) of key individuals and teams, for example those of POL's Board, Chair and accounting officer and the Department's Policy Team and the UKGI Shareholder Team;
+
+c. POL Board composition and the corporate governance standards applicable to POL;
+
+d. further detail on the processes relating to the recruitment, remuneration and review of the POL Board and senior executives and how this activity should be conducted in practice;
+
+e. the obligation placed on POL to lay its annual report and Network Report before Parliament; and
+
+f. information flow (including in respect of litigation matters).
+
+22. UKGI's governance processes require it to review its Framework Documents every three years. Commensurate with that requirement, UKGI is in the process of conducting that review in advance of discussions regarding renewal with the Department and POL.
+
+Adoption of New Articles
+
+23. At the same time as work was being undertaken in relation to the FWD, further work was conducted by UKGI in consultation with the Department to review POL's Articles and to introduce updates to refresh the shareholder reserved
+
+Page 12 of 24
+
+
+
+=== Page 13 ===
+
+WITN10770200
+WITN10770200
+
+matters and ensure they were fit for purpose from the perspective of the
+shareholder several years on from POL's separation from the Royal Mail Group.
+
+24. The new Articles, which were adopted in 20206 (UKGI00044318) alongside the
+FWD, enhanced the Department's oversight in key areas, took account of
+POL's current corporate structure and reflected how POL interacted with the
+Department in practice. UKGI facilitated the negotiation of the 2020 Articles, in
+tandem with the discussions between the Department, UKGI and POL on the
+FWD.
+
+25. The changes to the Articles in 2020 included enhancements to the
+Department's consent rights ("Reserved Matters") which, provided a greater
+degree of oversight and control over certain POL Board decisions, including:
+
+a. an expansion of the scope of Reserved Matters to apply to each
+company within the POL group; and
+
+b. amendments to Reserved Matters, for example, introducing greater
+HMG control on any proposed dividend distribution, and on POL's
+external borrowing.
+
+26. The 2020 Articles also clarified the procedure for seeking Shareholder consent
+to Reserved Matters, requiring POL Board consideration prior to seeking
+Shareholder consent and requiring the POL Board to give the Shareholder
+advance notice. This in practice enhances HMG oversight by:
+
+6 It should be noted that Article 50 of the Articles on the cap on non-executive director remuneration
+was amended by a special resolution in December 2022. Therefore, the current Articles are dated
+2022.
+
+Page 13 of 24
+
+
+
+=== Page 14 ===
+
+WITN10770200
+WITN10770200
+
+a. the Shareholder NED, through their seat on the POL Board, having early
+sight of matters potentially requiring Shareholder consent;
+b. POL providing, as far as possible, advance notice of the existence of
+circumstances in which the need for Shareholder consent is likely to
+arise; and
+c. The Department, having received this advance notice, being better able
+to plan for, and respond to, requests for consent within timeframes that
+would not impede POL's operations.
+
+Governance in respect of litigation and legal matters
+
+27. UKGI has also taken steps to develop the visibility it and the Department have
+in relation to material litigation. In particular, in 2018, UKGI entered into a
+litigation protocol with POL and the Department that provided UKGI and the
+Department with enhanced access to legal advice being provided to POL in the
+context of the GLO (BEIS0000079). Following the settlement of the GLO, the
+scope of the litigation protocol has been expanded to cover the settlement
+processes which flowed from the GLO (UKGI00044319).
+
+28. UKGI has also reflected on the role that it should play when one of its assets is
+engaged in potential or actual material litigation in the future and has taken
+steps to introduce specific provisions into all new or revised framework
+documents for assets for which it performs the shareholder role, which permit
+UKGI and the relevant Department to have greater visibility on substantial
+litigation. Such provisions were included in the 2020 POL FWD described
+above, which: (i) requires POL to report at least quarterly on any active litigation
+and any threatened or reasonably anticipated litigation; and (ii) codifies the
+
+Page 14 of 24
+
+
+
+=== Page 15 ===
+
+WITN10770200
+WITN10770200
+
+requirement to enter into information sharing protocols for substantial litigation
+to facilitate the sharing of legally privileged information and to ensure UKGI and
+the Department retain adequate visibility of the substance and progress of such
+litigation.
+
+29. In addition, and with UKGI's encouragement, in July 2021 POL appointed a
+NED with legal expertise to the POL Board, Ben Tidswell. This appointment
+bolstered the strength and capability of the POL Board by improving the Board's
+ability to oversee and challenge the POL executive on its work to resolve
+compensation matters arising from the GLO. Since his appointment, Mr
+Tidswell has been the Chair of POL's Remediation Committee (described
+below) and Senior Independent Director since March 2023.
+
+Enhancements relating to culture
+
+30. Following the settlement of the GLO, UKGI has increased its dialogue with POL
+and the Department on POL's corporate culture, with a focus on resetting the
+relationship between POL and subpostmasters. It has done this by: (i) placing
+specific objectives into the Chair letter issued to POL; (ii) supporting the
+appointment of two Postmaster NEDs; and (iii) increased interactions with POL
+on culture and postmaster relations. I develop these points below.
+
+Chair's letter
+
+31. By way of background, the issuance of an annual Chair's letter has been an
+important feature of the governance model for POL since 2017. Annual Chair's
+letters complement other core governance documents such as FWDs and other
+constitutional agreements such as Articles and focus on shorter-term priorities
+
+Page 15 of 24
+
+
+
+=== Page 16 ===
+
+WITN10770200
+WITN10770200
+
+and expectations of Ministers and government departments. They do not
+attempt to be comprehensive (in terms of all that is required from the Chair, the
+Board and the organisation) but rather highlight the particular focus required for
+the forthcoming year from the perspective of the shareholder.
+
+32. Following the settlement of the GLO, in order to ensure enhanced focus of the
+POL Chair and Board on POL's corporate culture and resetting the relationship
+between POL and subpostmasters, UKGI worked with the Department to place
+specific objectives in relation to culture into its annual Chair's letter from 2020.
+The Chair's letter issued in February 2020 (UKGI00011628 and
+UKGI00027016), directed POL to "...Prioritise culture change, in particular
+building a more productive relationship with postmasters that helps them to
+deliver better services to consumers". This was also built upon in the Chair's
+letter issued in March 2021 (UKGI00000049), which set further expectations for
+POL in relation to key post-GLO issues. This included prioritising cultural
+change and building a more productive relationship with postmasters, and
+building a more diverse board and taking responsibility for the induction of two
+Postmaster NEDs (see further below). Chair's letters in 2022 (UKGI00044315)
+and 2023 (UKGI00044317) have similarly emphasised the importance of
+driving forward the company's culture change programme and embedding any
+learnings and changes.
+
+33. As well as a focus on POL's corporate culture, Chair's letters from the period
+2020 to 2023 have focussed on a number of additional strategic priorities and
+objectives relating to post-GLO issues including:
+
+Page 16 of 24
+
+
+
+=== Page 17 ===
+
+WITN10770200
+WITN10770200
+
+a. Fully engaging with the Inquiry in an open, transparent and proactive manner.
+
+b. Resolving historical litigation issues including effective delivery of compensation in a timely manner.
+
+c. Resolving issues with POL's systems and processes that were identified: in the Common Issues judgement; the Horizon Issues judgement; and by POL and consultants employed by POL after the GLO.
+
+d. Managing legal costs particularly on compensation and Inquiry matters.
+
+e. Objectives relating to the delivery of key investment spend including with regards to a new IT system for branches.
+
+f. Maintaining and improving capacity, capability and resilience at all levels of the organisation to ensure the delivery of its business plan.
+
+g. Effective financial management to ensure medium term viability.
+
+Appointment of Postmaster NEDs
+
+34. Another significant governance development since the settlement of the GLO has been the appointment of two Postmaster NEDs to the Board. These appointments were instituted to enable postmasters to be represented at the highest levels within POL. UKGI and the Department actively supported this initiative, recommending it to the Secretary of State in July 2020. UKGI's belief is that the appointment of Postmaster NEDs to the Board enables the interests of postmasters to be more effectively represented and helps the POL Board to understand, more directly, the experiences of those working within the post office network. UKGI also considers that the appointment of Postmaster NEDs
+
+Page 17 of 24
+
+
+
+=== Page 18 ===
+
+WITN10770200
+WITN10770200
+
+is an important signal of POL's commitment to put the success of postmasters
+at the centre of the company's future strategy and to alter its culture.
+
+Increased dialogue on culture and postmaster relations
+
+35. With encouragement from the Department and UKGI, POL has reviewed its
+engagement model and the processes it uses in its dealings with postmasters.
+UKGI has also substantially increased its dialogue with POL on both (i)
+corporate culture and (ii) postmaster relations, with these topics being a point
+of discussion in:
+
+a. Quarterly Shareholder Meetings with POL where it often features as an
+agenda item;
+
+b. Monthly ministerial meetings involving UKGI, POL and the Department;
+
+c. Meetings between the Shareholder Team and POL's executive including
+the CEO;
+
+d. The Shareholder NED's interactions with the Chair; and
+
+e. The 'Working Group' meetings with the NFSP
+
+UKGI's Shareholder NED's role on the POL Board and POL Board Sub-
+Committees
+
+36. As I described in my first statement, Tom Cooper succeeded Richard Callard
+as the Shareholder NED and head of the POL shareholder team in March 2018.
+In addition to being a member of the POL Board, from the beginning of his
+tenure, he was a member of the POL Board's Litigation Sub-Committee (until it
+was brought to a close in March 2020), Remuneration Committee and Audit,
+Risk and Compliance sub-committee ("ARC"). Following the settlement of the
+GLO, Mr Cooper continued his engagement with the issues that had been the
+
+Page 18 of 24
+
+
+
+=== Page 19 ===
+
+WITN10770200
+WITN10770200
+
+subject-matter of the GLO by attending regular additional POL Board meetings
+that were two to four times per month for a period of five months to oversee
+POL's response to ongoing legal proceedings, and also via his appointment to
+POL's Remediation Committee7, which was established in April 2021 (the
+"RemedCo"). Mr Cooper was also appointed to POL's Nomination Committee
+in March 2021.
+
+37. The RemedCo is a sub-committee of the POL Board. The RemedCo's purpose
+is set out in the sub-committee's terms of reference, a copy of which I attach
+(UKGI00044316). It includes the oversight of the Historical Shortfall Scheme
+("HSS"), determining POL's stance in relation to appeals by convicted
+postmasters against their convictions, the management of the claims made for
+compensation against POL by those who have had their convictions overturned
+("OC") and addressing all other compensation matters arising out of the GLO
+"Common Issues" and "Horizon Issues" judgments. During his tenure, Mr
+Cooper attended meetings of the RemedCo which were held on a weekly to
+monthly basis.
+
+38. The Shareholder NED's responsibilities at RemedCo are the same as the other
+members and includes receiving and reviewing documents relevant to its terms
+of reference; providing constructive challenge on the matters being addressed
+by the RemedCo; participating in decision making and providing
+recommendations to the Board. From a governance perspective, the
+Shareholder NED's position on the RemedCo is intended to provide a line of
+
+7 Previously named the "Historical Remediation Committee"
+Page 19 of 24
+
+
+
+=== Page 20 ===
+
+WITN10770200
+WITN10770200
+
+sight for HMG on the matters being addressed by the RemedCo and to bring a
+HMG perspective to aid the RemedCo's decision-making.
+
+39. In addition, the Shareholder NED attends, as an observer, meetings of the
+Department Steering Committee for the HSS (the "HSS SteerCo") and of the
+Department's POL Overturned Criminal Convictions Board ("POC Board"),
+which are each responsible for providing approval on behalf of HMG to POL on
+certain key compensation-related decisions being made by POL (and, as
+necessary, challenge the approach being proposed by POL). The UKGI
+Shareholder Team (along with the Department's Policy Team) provided support
+to these Governmental committees (see below), however the decision makers
+in relation to matters referred to them are officials from the Department and
+HMT. The Shareholder NED's status as an observer (i.e. not a decision maker
+but a participant in the discussions) is intended to ensure that officials from the
+Department and HMT can draw on relevant insights and information being
+considered at the RemedCo and POL Board.
+
+40. When Mr Cooper completed his tenure as the Shareholder NED in May 2023,
+he was succeeded by Lorna Gratton who remains in post. In addition to her
+membership of the POL Board, the RemedCo, and her attendance as an
+observer at the above meetings, Ms Gratton is also a member of POL's ARC,
+Remuneration Committee, Nomination Committee and Investment Committee.
+Ms Gratton also attends the HSS SteerCo and POC Board as an observer.
+Since May 2023, Ms Gratton attends as an observer the Horizon Compensation
+Programme Board with POL and the Department's Policy Team (this is a
+Department led board), which looks at cross cutting issues between the
+
+Page 20 of 24
+
+
+
+=== Page 21 ===
+
+WITN10770200
+WITN10770200
+
+compensation schemes and seeks to achieve consistency between them. Ms
+Gratton's other responsibilities are the same as those of Mr Cooper described
+above.
+
+Additional responsibilities of the Shareholder Team to support compensation
+
+41. I have outlined in my first Witness Statement that, following the creation of the
+Department's policy team in 2018, UKGI's responsibilities in relation to POL
+primarily focused on corporate governance, strategy and monitoring POL's
+stewardship of its financial resources, as well as advising the Department on
+matters relating to the GLO. As noted above, the Shareholder Team also
+assisted HMG with certain matters following the settlement of the GLO,
+including providing support to the Department in relation to the HSS, OC and
+certain other compensation payment workstreams.
+
+42. HMG work on, and the associated governance of, compensation workstreams
+(including use of external advice) was the subject of discussion and agreement
+between UKGI and the Department. I have outlined below how the allocation of
+UKGI and Departmental responsibility and resourcing varied over time
+depending on the nature and progress of the compensation workstreams and
+the resources available in the Department and UKGI.
+
+43. In mid-2020, it became apparent that POL would require HMG funding for the
+HSS and following a formal request from POL in October 2020, UKGI's
+Shareholder Team began assisting the Department with compensation-related
+matters.
+
+Page 21 of 24
+
+
+
+=== Page 22 ===
+
+WITN10770200
+WITN10770200
+
+44. HMG maintained responsibility for decision making with regards to each compensation process (and UKGI did not provide any legal and financial assurance to HMG). With regards to the HSS and OC, UKGI's Shareholder Team's responsibilities included: (i) advising on the design of the governance arrangements including through an operations agreement which detailed the roles and responsibilities of POL, the Department and UKGI, and outlined key decision points and those matters requiring HMG approval; (ii) supporting the HSS SteerCo and the POC Board with the approvals needed under the operations agreement; and (iii) monitoring, together with the Department's Policy Team, progress in relation to the HSS and OC.
+
+45. In September 2023, it was agreed that UKGI would move to a more strategic role in relation to the HSS and OC, with greater focus on monitoring progress and POL's performance against objectives and budget, rather than matters relating to the working level delivery of compensation. This reflected the progress made under the HSS, with 99% of offers made in relation to the original cohort of claims; the fact that POL was moving to a new remediation approach to compensation in relation to the OC process which lessened the need for UKGI involvement; the well-established governance processes in place in relation to both schemes; and the expansion of the Department's team handling compensation matters (as well as development in their knowledge of the detail of the different workstreams) which meant there was significant overlap with UKGI's role.
+
+Statement of Truth
+I believe the content of this statement to be true.
+
+Page 22 of 24
+
+
+
+=== Page 23 ===
+
+WITN10770200
+WITN10770200
+
+Signed: GRO
+
+Dated: 26 April 2024
+
+Page 23 of 24
+
+
+
+=== Page 24 ===
+
+WITN10770200
+WITN10770200
+
+Index to Second Witness Statement of CHARLES HUNTER DONALD
+
+No. URN Document Description Control Number
+1 INQ00000228 UKGI/BEIS's joint response to the Call for Evidence VIS00000300
+2 INQ00000028 Responses to Batch Request 001 VIS00000345
+3 INQ00000044 Response to Batch Request 002 VIS00000365
+4 INQ00000888 Response to Batch Request 003 VIS00000649
+5 INQ00000883 Response to Batch Request 004 (Questions 1-4, 7 & 8) VIS00000560
+6 INQ00000009 Response to Batch Request -4 (Questions 5 & 6) VIS00000233
+7 SUBS0000006 UKGI's Opening Statement to the Inquiry SUBS0000006
+8 POL00362299 POL Shareholder Relationship Framework Document POL-BSFF-0190809
+9 UKGI00044318 POL's Articles of Association 2022 UKGI052980-001
+10 BEIS0000079 Information Sharing Protocol June 2018 BEIS0000059
+11 UKGI00044319 Information Sharing Protocol November 2023 UKGI052981-001
+12 UKGI00011628 Chair Letter - 26 February 2020 UKGI022436-001
+13 UKGI00027016 UKGI Governance Expectations of a Chair 2020 UKGI035911-001
+14 UKGI00000049 Chair Letter - 31 March 2021 VIS00001010
+15 UKGI00044315 Chair Letter – 23 May 2022 UKGI052977-001
+16 UKGI00044317 Chair Letter - 29 June 2023 UKGI052979-001
+17 UKGI00044316 Terms of Reference of the Historical Remediation Committee UKGI052978-001
+
+Page 24 of 24
+

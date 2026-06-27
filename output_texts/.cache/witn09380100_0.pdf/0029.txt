@@ -1,0 +1,30 @@
+WITN09380100
+WITN09380100
+
+88. I do not know of any changes between Legacy Horizon and Horizon Online
+apart from to say the initial Horizon was not in real time "online". It "polled"
+data and updated regularly, whereas the Horizon online was that and in real
+time.
+
+89. My role in respect of obtaining audit data was limited to what I wrote in a P&S
+2.2 Joint Investigation Protocols - RMGS and POL Ltd Security (Version 2,
+July 2015) [POL00114559] and Version 1 was produced on July 2014.
+Namely, if Royal Mail Investigators needed Horizon Transaction data it was
+only available from Fujitsu and that would be at a cost. There was less
+comprehensive Credence data available from POL at no cost. In order to
+obtain the data an application had to be made to Paul Ackroyd who was the
+Disclosure and Acquisition Manager RMGS. I do not know what Credence
+data was but assumed it was data available directly to POL.
+
+90. I have no knowledge of issues such as ARQ request authorisations or
+provision of data by Fujitsu as this did not form part of my duties or
+responsibilities nor did I have any contact with Fujitsu or anyone connected
+with Fujitsu such as Gareth Jenkins.
+
+91. In terms of prosecution support, I understood that Fujitsu were asked to
+provide statements and transaction data. After providing a statement they
+may be required to give evidence as any other witness would but I am not
+aware of any prosecution support they were contractually obliged to provide. I
+think it was normal for them to provide statement if the case went to court.
+
+Page 29 of 49

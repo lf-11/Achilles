@@ -1,0 +1,545 @@
+# witn04540100.pdf
+
+
+=== Page 1 ===
+
+WITN04540100
+WITN04540100
+
+Witness Name: Julie Welsh
+Statement No.: WITN04540100
+Exhibits: WITN0454_01/1 – WITN0454_01/17
+Dated: 15 March 2023
+
+POST OFFICE HORIZON IT INQUIRY
+
+FIRST WITNESS STATEMENT OF JULIE WELSH
+
+I, MRS JULIE WELSH, will say as follows:
+
+INTRODUCTION
+
+1. I am currently retired and have been since May 2020. I am not involved in the Horizon project at present, and have had no involvement in it since around April 2007 when I stopped working for Fujitsu Services Limited ("Fujitsu").
+
+2. This witness statement is made to assist the Post Office Horizon IT Inquiry (the "Inquiry") with the questions put to me in a Rule 9 Request dated 4 January 2023 (the "Request"). It is based on my direct knowledge of relevant matters. I was assisted in preparing this statement by Morrison Foerster, who represent Fujitsu in the Inquiry.
+
+3. The topics in the Request relate to events that took place at least 15 years ago. In many cases, they relate to incidents that I had limited or only partial involvement with. I have tried to remember these events as best I can but have not always been able to do so.
+
+4. Where I have seen documents relevant to the Inquiry's Request for the purpose of preparing this statement or where I have referred to documents, these documents are
+
+Page 1 of 17
+
+
+
+=== Page 2 ===
+
+WITN04540100
+WITN04540100
+
+referred to using references WITN0454_01/1 – WITN0454_01/17 and are listed in the
+index accompanying this statement. To the extent that these documents have not
+already been provided to the Inquiry, they are exhibited to this statement.
+
+BACKGROUND
+
+5. I joined Fujitsu (or, as it was then known, “ICL”) around September 1998.
+
+6. Most of my professional experience before joining ICL was as a civil servant. I worked
+in various roles in the civil service from 1972 to March 1998.
+
+7. From around May 1995 to March 1998, I worked for the Department of Social Security
+on what we called the “benefit card project”. I was asked to join the “benefit card
+project” team as I had previously worked at a local benefits office processing benefits
+claims. My role on the project was to provide input on the existing processes used at
+those local offices. After ICL was awarded the bid to deliver the “benefit card project”,
+I was seconded to ICL for about six months, where my role remained to provide input
+on how existing local benefit office processes worked. I do not recall the precise dates
+of my secondment. I left the civil service in March 1998.
+
+8. Immediately prior to joining ICL, I worked at an orphanage for about 6 months in a
+volunteer role, assisting the permanent staff with the daily care of the children.
+
+9. My initial role when joining ICL was secretarial. I supported two sales managers who
+worked on Girobank related matters.
+
+Page 2 of 17
+
+
+
+=== Page 3 ===
+
+WITN04540100
+WITN04540100
+
+10. Around March 2000, I was promoted and became a "service manager" on the Horizon Service Helpdesk ("HSH"). I continued in this role until around April 2006. My role involved:
+
+a. Monitoring the HSH and the Service Management Centre for conformance to service level targets ("SLTs"), ensuring the incident management process was smooth, and completing monthly finance forecasts in conjunction with the relevant service desk managers for each service to meet agreed budgets.
+
+b. Acting as the primary point of contact for the Post Office ("POL") NBSC on the quality of the service, including, at times, updating them on open issues that were being investigated as a result of HSH calls and responding to any concerns they had. I recall my primary point of contact at the NBSC being Richard Benton.
+
+c. Investigating and responding to complaints about the HSH or Horizon, including those raised by individual sub-postmasters ("SPMs") and POL.
+
+11. As a service manager, I initially reported to Reg Barton, and subsequently to Dave Law.
+
+12. My role was not a technical one. I have no technical training or background. While my title was "service manager", I did not have any overall management responsibility for the service desk. My role was a support function for the HSH.
+
+13. As part of my role, I reviewed entries on the Peak and PowerHelp systems. As a result, I could sometimes observe certain trends in the calls coming into the HSH (for example, a high volume of calls at the same time about a particular issue or persistent calls from the same SPM). However, the identification of trends in calls coming into
+
+Page 3 of 17
+
+
+
+=== Page 4 ===
+
+WITN04540100
+WITN04540100
+
+the HSH was not a part of my role, and I would not have been able to effectively do
+that given my lack of technical experience or training. There was a separate team
+within the HSH, called the service control team, that identified recurring themes and
+trends that may require escalation.
+
+14. I left my permanent position at Fujitsu in April 2006, but returned in October or
+November 2006 on a temporary contract. While I was working on the Post Office
+account when I returned, it was not in my previous role as a service manager. Instead,
+I worked in an administrative support role. I left this role in around April 2007 and
+have not worked for Fujitsu since.
+
+HORIZON SYSTEM HELPDESK – INCIDENT REPORTING AND MANAGEMENT OF
+COMPLAINTS
+
+HSH Effectiveness
+
+15. I have been asked how effective the HSH was at:
+a. assisting Horizon users;
+b. escalating issues to Fujitsu (which I understand to mean the more senior
+technical team at third line support, as the HSH was part of Fujitsu); and
+c. escalating incidents as problems.
+
+16. As noted at paragraph 12 above, my role was not a technical one and I had no
+technical training or background. As a result, I am unable to evaluate the quality of
+the advice given by the HSH or to assess whether the HSH was effective at assisting
+users in the sense of providing correct technical advice. I am also unable to say
+whether the HSH operators were well-trained for their roles.
+
+Page 4 of 17
+
+
+
+=== Page 5 ===
+
+WITN04540100
+WITN04540100
+
+17. However, from my perspective as a service manager, I believed the desk was effective at meeting the service standards required by POL. This is based on my recollection that the HSH picked up calls in a timely manner and had a high resolution rate. As part of my role, I would obtain HSH performance statistics from the service desk manager and check if they met the desk's SLTs. I would share these figures with Richard Brunskill, who was involved in preparing the Service Review Books ("SRBs"), and occasionally would explain or discuss the desk's performance with him. Having reviewed the SRB for April 2003 (WITN0454_01/1), I recall that it would have been my role to collate the data for the types of statistics at sections 3.2 and 6, and I would have worked in conjunction with Richard Brunskill to prepare those sections in the SRBs.
+
+18. While it was not a formal part of my role, I would also look out for repeat calls from the same branch or individual, so as to ensure that the person calling got the right support. In most cases, that would involve additional training for the SPM, which I would raise with POL as they administered that training. An example where I identified a repeat caller and escalated the case for a field visit is PC0062561 (WITN0454_01/2).
+
+19. In relation to the escalation of issues up the support hierarchy, I am unable to comment as I was not involved in such escalation decisions. These decisions were made by the technical staff operating the HSH and answering calls. It was also not my role to monitor escalated cases, unless a complaint was raised. This was monitored by others on the HSH.
+
+20. I reviewed WITN0454_01/3, WITN0454_01/4, and WITN0454_01/5 to further understand and refresh my memory of the problem identification and management
+
+Page 5 of 17
+
+
+
+=== Page 6 ===
+
+WITN04540100
+WITN04540100
+
+process. Having done so, I can recall that I was not involved in identifying or
+escalating problems. I therefore cannot say whether the relevant processes were
+effective. I believe it would ordinarily have been the HSH duty manager who did this.
+My understanding is that if a trend was observed by HSH operators, they would
+escalate that to the duty manager who would decide whether it was a problem that
+required further management.
+
+21. I would usually be informed of any incident. However, I would not be involved in
+evaluating, escalating or managing the incident, as that would be done by individuals
+who had the relevant technical skills.
+
+Complaints
+
+22. I had responsibility for managing any complaints about the HSH service or about
+Horizon that originated from Horizon users. While this is something I had primary
+responsibility for, it was not the focus of my role. My primary task, and on which I
+spent the most amount of my time, was on monitoring the service levels of the HSH.
+
+23. I reviewed WITN0454_01/6 and WITN0454_01/3 to refresh my memory of the
+complaints process. I can recall that there were a number of sources of complaints
+from Horizon users. These included the NBSC, the HSH itself, feedback cards
+following engineer visits, as well as complaints that were sent to Fujitsu directly. In
+most cases, I recall that complaints were received by me in writing.
+
+24. From reviewing section 3.1 of WITN0454_01/6, I recall that the first step followed after
+receiving a complaint was to determine if it was a complaint that was proper for Fujitsu
+to deal with. While I do not have a clear memory of this process, I recall that I would
+usually treat as proper any complaint that related to an area that Fujitsu managed or
+
+Page 6 of 17
+
+
+
+=== Page 7 ===
+
+WITN04540100
+WITN04540100
+
+had responsibility for. If a complaint had to do with a process that was owned by POL,
+I would acknowledge the complaint and forward it to the NBSC.
+
+25. As stated in WITN0454_01/6 and WITN0454_01/3, if a complaint was related to Fujitsu,
+an acknowledgement letter would be sent to the person who had complained within
+24 hours of receipt. It was my responsibility to prepare and send the
+acknowledgement letters.
+
+26. I would then also log the complaint. I do not remember exactly how complaints were
+logged or tracked. WITN0454_01/6 states that there was a complaints database on
+PowerHelp, and I recall that I may have forwarded details of complaints to the service
+control team, who would add these to PowerHelp. I think I may also have used
+PowerHelp to pull any required statistics about complaints (such as the number of
+open complaints or the complaint type).
+
+27. I would then proceed to look into the complaint. Complaints could be about a myriad
+of issues. These included allegations of rudeness by field engineers or HSH staff,
+unhappiness with the layout of particular screens on the Horizon terminal, or very
+general statements that the system simply "wasn't working properly".
+
+28. I usually started by reviewing the call history of the individual who made the complaint
+(on PowerHelp or Peak), so as to understand the issues they had raised before and
+how they were dealt with. The approach I then took to manage and close the
+complaint would depend on the nature of the complaint. For example:
+
+a. If a complaint was about a Fujitsu employee's conduct (on the phone or at the
+branch), I would identify the relevant logs or reports about the incident and
+forward those to the relevant person's manager for review and feedback. When
+
+Page 7 of 17
+
+
+
+=== Page 8 ===
+
+WITN04540100
+WITN04540100
+
+a decision was taken by the manager on the steps that would be taken as a
+result of the complaint, I would report that back to the person who had
+complained.
+
+b. If a complaint related to a technical issue, I would consider the call history and
+the conclusion reached by the technical teams previously. I would also usually
+discuss the case with the third line support team to confirm if it should be further
+escalated or if there was technical advice to be given. If it was decided there
+was no technical issue, I would inform the individual who complained and,
+depending on the case, may refer them for further training with POL.
+
+29. I would not generally respond to a complaint without first checking the relevant issues
+with someone who had responsibility for the subject matter of the complaint, and my
+manager would generally supervise my responses to complaints.
+
+30. Complaints were monitored and discussed at regular meetings between the HSH and
+the NBSC. Having reviewed Section 9 of WITN0454_01/7, I recall that these meetings
+were the NBSC/HSH Review Forum. I would usually attend these meetings with my
+manager. I have a clear recollection of attending with Dave Law, but expect Reg
+Barton would have attended when he was my manager as well. They would usually
+take the lead in the discussions, and I would support them where needed (e.g. by
+preparing figures for the number of open complaints). While I do not recall all of the
+POL attendees at these meetings in detail, I have a clear recollection that the meetings
+usually included Sandra Evans from the NBSC. My recollection is that the agenda for
+the meetings would usually follow the template at Section 9.2 of WITN0454_01/7.
+
+Page 8 of 17
+
+
+
+=== Page 9 ===
+
+WITN04540100
+WITN04540100
+
+31. I had primary responsibility within the HSH for managing complaints and, in my view, I did so effectively. I did my best to resolve each complaint as best I could for the individual who was complaining. In particular, I made it a point not to simply write off complaints as an error by the user, but to try to understand the full issue.
+
+32. I am not able to comment on POL's internal complaint process, as I was not involved with it. However, when I worked with them on complaints that had originated on the HSH, I formed the impression (based on my own observations and conversations with SPMs) that POL's staff took a less sympathetic approach towards the SPMs than I did and did not always take SPM complaints seriously.
+
+5 JANUARY 2004 NETWORK BANKING OUTAGE AND 16 FEBRUARY 2004
+HORIZON ONLINE OUTAGE
+
+33. The Inquiry has asked me various questions regarding a network banking outage on 5 January 2004 and a Horizon Online outage on 16 February 2004. I have no recollection of either of these incidents.
+
+34. I have reviewed WITN0454_01/8 and WITN0454_01/9, but these have not assisted me with improving my recollection of the incidents. I note I am listed as a contributor on WITN0454_01/8 regarding the 5 January 2004 incident. However, looking at the report now, I do not understand why that would have been the case and I also cannot identify any aspects of the report I might have contributed to.
+
+35. I do not recall what SPMs were told about these incidents or if I was involved in communicating with SPMs about any aspect of these incidents.
+
+36. In general, during major outages, a script would have been prepared for HSH operators to use when they received calls from SPMs regarding the incident. I recall
+
+Page 9 of 17
+
+
+
+=== Page 10 ===
+
+WITN04540100
+WITN04540100
+
+being asked to prepare scripts on some occasions. The scripts I prepared would
+usually just be a simple response telling SPMs that Fujitsu was aware of the issue and
+the relevant technical teams were working on a solution. If any technical content was
+required, the script would have been written by someone with a technical background
+working on the issue, usually someone in third line support or the duty manager.
+
+37. As a result of my limited recollection and my non-technical background, I am not able
+to comment on the effect of these failures on the service provided by Fujitsu to POL,
+as the Inquiry has asked me to do.
+
+38. The Inquiry has specifically asked me to consider how effectively Fujitsu
+communicated to POL about the 5 January 2004 incident. I do not recall any aspects
+of Fujitsu's communication with POL about this incident, and so am unable to
+comment. I have reviewed WITN0454_01/8, and note that there was some criticism
+about the delay in informing POL of the incident on page 12 of the document.
+However, that has not assisted me in recalling any details.
+
+39. Given the seriousness of the 5 January 2004 incident (as suggested by
+WITN0454_01/8), I would not expect to have been personally involved in
+communicating with POL about it. In such cases, communication with POL would
+have been the responsibility of more senior members of the team, and those with
+technical knowledge. I would have expected Mike Woolgar (who is listed as one of
+the originators of WITN0454_01/8) to have been the primary point of contact for POL.
+I also note that Dave Hulbert (who worked at POL and was listed as being on the
+external distribution of WITN0454_01/8) was usually a point of contact for duty
+managers. I did not have any regular contact with him.
+
+Page 10 of 17
+
+
+
+=== Page 11 ===
+
+WITN04540100
+WITN04540100
+
+PEAKS
+
+40. I have considered each of the Peaks the Inquiry has referred me to. In one case, the Inquiry has referred me to a PowerHelp record rather than a Peak. Generally, I do not recall the specific issues or incidents raised by these documents.
+
+41. Due to my role as a service manager, I had access to the Peak system to review escalated calls and follow up on any actions assigned to me in relation to a Peak. However, I did not use the Peak system regularly as part of my job. Instead, I mainly used the PowerHelp system to review calls.
+
+42. In addition, my recollection is that I had "read-only" access to the Peak system, and that I could not create or modify Peaks. I acknowledge that the Inquiry has provided me with three Peaks where I am listed as a "user" making entries (WITN0454_01/10, WITN0454_01/11, WITN0454_01/2). I expect that I would have provided the information contained in those entries, but I do not recall those specific Peaks or directly making any entries into the Peak system. My recollection is that if it was necessary for me to update a Peak, I would inform someone on the service control team, and they would make any updates for me.
+
+43. I would also like to make some observations about some of the specific Peaks the Inquiry has referred me to:
+
+a. In Peaks PC0098230, PC0130275, and PowerHelp Call E-0402251077 (WITN0454_01/12, WITN0454_01/13, WITN0454_01/14), I was asked to contact or follow up with POL about the issues raised in the Peaks. If I was asked to communicate a matter to POL, I would do so. I would usually have done that by informing Richard Benton, who was my main point of contact at POL.
+
+Page 11 of 17
+
+
+
+=== Page 12 ===
+
+WITN04540100
+WITN04540100
+
+b. In PC0093382 WITN0454_01/10, I noted that a Peak should be closed. While I do not recall this Peak or the incident it relates to, I would not generally have asked for a Peak to be closed independently. I expect I would have done so on the instruction of someone else in the HSH or third line support.
+
+44. Most of the Peaks the Inquiry has referred me to relate to balancing issues or accounting discrepancies. I was aware, at a very general level, that SPMs often experienced difficulties with balancing. The HSH would get a high number of balancing related calls on the days when SPMs had to balance their accounts. However, I was not usually kept updated if there were any trends identified which might show a problem with Horizon. When balancing issues were escalated to third line support, I would not usually be kept informed about the details of the resolution and I would not have been part of the support team's discussions.
+
+45. I did not, at any point while employed at Fujitsu, regard the complaints made by SPMs as indicative of system-wide issues with Horizon. I had this view because:
+
+a. The complaints received from SPMs and that I handled were very wide ranging. As I explain above, while some of them related to discrepancies or potential technical issues with Horizon, many others were about issues such as allegations of rudeness by field engineers or HSH staff, or unhappiness with the layout of particular screens on the Horizon terminal.
+
+46. I believed at the time that if there really were system wide issues, all SPMs would have been affected. However, the volume of calls/complaints we were receiving did not suggest that. Instead, it suggested that only a subset of SPMs was having difficulties.
+
+Page 12 of 17
+
+
+
+=== Page 13 ===
+
+WITN04540100
+WITN04540100
+
+My impression was that Horizon was a complex system, operating at thousands of
+Post Office branches, and that it was working well for the majority of SPMs.
+
+47. I continued to hold this view about the system at the point I left Fujitsu. On hindsight,
+my view above may have been naïve and based on my own lack of technical
+understanding about how problems could affect the Horizon system.
+
+48. I believe the confidence I had in Horizon was shared by my colleagues on the HSH
+and those I dealt with at POL, and I do not recall anyone raising concerns of system-
+wide problems. However, I cannot comment on others' beliefs and why they may have
+held them.
+
+49. On a number of occasions, calls would be closed on the basis that the relevant SPM
+required further training. I recall that it was a commonly held view on the HSH that, in
+most cases when SPMs called in, they were usually facing difficulties because they
+were not using the system correctly. From my perspective at the time, this was a
+reasonable view to have. A full investigation would often be done by third line support
+where a call could not be resolved at earlier stages, and if they determined there was
+no technical problem, the natural conclusion would be that the SPM was making a
+mistake.
+
+50. In retrospect, it's clear that some SPMs were facing issues because of technical
+problems with Horizon, and it would have been wrong to say that the issues they faced
+were due to insufficient training.
+
+51. I have been asked to comment on whether there is anything Fujitsu could have done
+differently in respect of complaints raised by Horizon users. From my perspective,
+and in relation to my role, I believe I managed each complaint thoroughly with the aim
+
+Page 13 of 17
+
+
+
+=== Page 14 ===
+
+WITN04540100
+WITN04540100
+
+of resolving them satisfactorily. I would not now approach my role differently. In doing
+my job, I often had to rely on the expertise of others, including technical experts. Given
+my lack of technical knowledge, I am not in a position to say whether they should have
+approached their roles differently.
+
+EMAIL OF 5 MAY 2004 AND CASTLETON LITIGATION
+
+52. The Inquiry has drawn my attention to:
+
+a. WITN0454_01/15, which is an email I sent to Richard Benton at POL dated 5
+May 2004 (the "5 May 2004 Email"); and
+
+b. the fact that the email was of importance to POL in the litigation between Mr
+Lee Castleton and POL and that it was referred to in two witness statements
+made on behalf of POL by Ms Catherine Oglesby (WITN0454_01/16 and
+WITN0454_01/17).
+
+53. I do not remember sending the 5 May 2004 Email. The 5 May 2004 Email contains
+some analysis by Anne Chambers regarding financial discrepancies at a particular
+Post Office branch. My role in sending the 5 May 2004 Email would have been simply
+to forward Anne's conclusions to POL, and I did so by quoting her words directly from
+the relevant PowerHelp record (E-0402251077, which is at page 21 of
+WITN0454_01/14). I did not make my own enquiries of the relevant discrepancies
+independent of Anne's analysis.
+
+54. I also do not recall ever being tasked with investigating financial discrepancies on the
+Horizon system. I would not have had the technical ability or understanding of the
+system to undertake such tasks. I may, on occasion, have received a complaint about
+financial discrepancies from POL or an SPM. In those cases, I would have reviewed
+
+Page 14 of 17
+
+
+
+=== Page 15 ===
+
+WITN04540100
+WITN04540100
+
+the relevant PowerHelp or Peak records to understand previous investigations into the
+issue and would have discussed the case with the relevant technical teams, so as to
+prepare a response. I would not have been directly involved in investigating the
+underlying technical reason for the discrepancy.
+
+55. Until I received the Request on 4 January 2023, I was not aware that my role at Fujitsu
+and the 5 May 2004 Email were of importance to POL in the High Court claim brought
+against them by Mr Castleton. To the best of my knowledge, I was never contacted
+by POL or any lawyers working on their behalf about Mr Castleton's case.
+
+56. In both Ms Oglesby's witness statements, the following statement from the 5 May 2004
+email is extracted:
+
+"There is no evidence whatsoever of any system problem ... please tell the PM
+that we have investigated and the discrepancies are caused by the difference
+between the transactions they have recorded on the system and the cash they
+have declared, and are not being caused by the software or hardware."
+
+57. Those reading Ms Oglesby's statements may have had the impression that that
+statement was made by me. That impression is not correct. The statement is Anne
+Chambers', and I was merely quoting from her in the 5 May 2004 Email.
+
+Statement of Truth
+
+I believe the content of this statement to be true.
+
+Signed: GRO
+Dated: 15/03/2023
+
+Page 15 of 17
+
+
+
+=== Page 16 ===
+
+WITN04540100
+WITN04540100
+
+INDEX TO FIRST WITNESS STATEMENT OF JULIE WELSH
+
+Exhibit Number
+Description
+Date
+Control Number
+URN
+WITN0454_01/1
+Service Review – April 2003
+15 May 2003
+POINQ0132282F
+FUJ00142150
+WITN0454_01/2
+Peak PC0062561
+20 Sept 2001
+POINQ0092750F
+FUJ00086579
+WITN0454_01/3
+Audit of Customer Service Support Processes v1.0
+1 Nov 2001
+POINQ0086867F
+FUJ00080696
+WITN0454_01/4
+ICL Pathway Customer Service Problem Management Process v3.0
+13 Nov 2000
+POINQ0086024F
+FUJ00079853
+WITN0454_01/5
+Interface Agreement for the Problem Management Interface v1.0
+23 Dec 2002
+POINQ0086057F
+FUJ00079886
+WITN0454_01/6
+Customer Service Complaint Procedure v2.0
+31 Jan 2001
+POINQ0086032F
+FUJ00079861
+WITN0454_01/7
+Interface Agreement for the Network Business Support Centre and Horizon System Helpdesk v3.0
+25 Sept 2002
+POINQ0086592F
+FUJ00080421
+WITN0454_01/8
+Major Incident Report for Network Banking Failures on Monday 5th January 2004 v.1.0
+6 Feb 2004
+POL-0025760
+POL00029278
+
+Page 16 of 17
+
+
+
+=== Page 17 ===
+
+WITN04540100
+WITN04540100
+
+WITN0454_01/9 Major Incident Report for Online Transaction Failures on Monday 16th February 2004 v.0.4 26 Feb 2004 POL-0025763 POL00029281
+WITN0454_01/10 Peak PC0093382 17 Sept 2003 VIS00002168 POL00001154
+WITN0454_01/11 Peak PC0033128 29 Nov 2000 POL-0025307 POL00028825
+WITN0454_01/12 Peak PC0098230 27 May 2004 VIS00002013 POL00000999
+WITN0454_01/13 Peak PC0130275 31 Aug 2006 VIS00002211 POL00001197
+WITN0454_01/14 Exhibit APD1 to the Witness Statement of Andrew Paul Dunks in Post Office Limited v. Lee Castleton 27 Sept 2006 POL-0069843 POL00073280
+WITN0454_01/15 Email from Julie Welsh to Richard P. Benton dated 5 May 2004 5 May 2004 POL-0067131 POL00070568
+WITN0454_01/16 Witness Statement of Catherine Oglesby in Post Office Limited v. Lee Castleton 21 Jan 2006 POL-0078991 POL00082428
+WITN0454_01/17 Second Witness Statement of Catherine Oglesby in Post Office Limited v. Lee Castleton 10 Oct 2006 POL-0068155 POL00071592
+
+Page 17 of 17
+

@@ -1,0 +1,32 @@
+WITN03920100
+WITN03920100
+
+matter experts on defects and were responsible for implementing the changes in
+the MiMan process that would then be retested to confirm incident closure. I
+believe that it is also worth highlighting that the POCL subject matter experts
+provided guidance to ICL Pathway on the mapping of data.
+
+39. As MiMan was a migration process that required manual input of data into the
+Horizon system it was recognised that data keying errors were a risk. Manual
+validation steps were included in the migration process and the process required
+a positive confirmation from the HFSO and office manager that the Horizon
+opening position accurately reflected the manual office closing position. To deal
+with instances were an error had been made in manual migration a process was
+developed for HFSOs to follow.
+
+40. In respect of defects identified and where the defects appear to suggest that the
+system is not following an appropriate workflow, for example where a user
+incorrectly entered their password and the system did not present a 'retry
+password entry', ICL Pathway needed to update their detailed design
+specification and the development team then needed to make the appropriate
+changes to the system. To enable the management of changes ICL Pathway
+followed their internal software management processes and sometimes referred
+to Fagan reviews as part of their process.
+
+41. As part of the Model Office testing reporting process there were instances where
+defects have been referred to as 'HOT issues'. My understanding of this term is
+that they highlighted areas of particular POCL programme team concern.
+
+42. Acceptance Criteria
+
+Page 15 of 32

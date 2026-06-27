@@ -1,0 +1,33 @@
+WITN09840100
+WITN09840100
+DocuSign Envelope ID: 35848B78-14EA-4B48-AF01-6881BFF848DD
+
+Alisdair Cameron, CC'ing Gavin Bell, Chris Broe, and another re: Update -
+doing a full investigation and working with Oracle 11 May 2016 FUJ00169083).
+
+206. This was followed by a formal letter to Fujitsu written by the new CIO Rob
+Houghton on 12 May 2016 setting out POL's grave concerns regarding the
+events leading up to and the handling of the service incident. I was copied into
+this correspondence (Letter from Robert Houghton to Gavin Bell (Fujitsu) re:
+RE: Horizon service outage incident on 9th May 2016 ("Service Incident") 12
+May 2016, FUJ00175319).
+
+207. Following further internal correspondence, Paula was updated on 25 May 2016
+as to progress in responding to the incident including POL's response to the risk
+of branch shortfalls as a result of the service disruption.
+
+208. The correspondence demonstrates that POL took the incident seriously and
+learned lessons. We were proactive in making sure Postmasters were not out of
+pocket as a result of any unbalanced transactions caused by the incident.
+
+209. As far as I can recall, there has been no similar service incident since, although
+business continuity testing of Horizon has been limited given its age and
+fragility.
+
+INTERIM CEO 2019
+
+210. In late 2018, Paula Vennells told us that she was leaving POL. Her departure
+date would be April 2019. It was clear that the process to replace her would take
+longer than that and an Interim CEO would be required.
+
+Page 50 of 137

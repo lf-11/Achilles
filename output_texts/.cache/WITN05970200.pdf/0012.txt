@@ -1,0 +1,10 @@
+WITN05970200
+WITN05970200
+
+c. What checks for the lack of technical or system issues were done regarding particular site (office) before "assuming" that fraud may be involved? For instance, checking for hardware faults, engineering visits, helpdesk calls, polling problems, event logs, specific to a specific office, and checking for any errors detected by POCL's TIP system? Was there a process for this and records kept? What group in POCL managed this, and did this include BSM (Business Service Management) who managed the Horizon system on a day-to-day basis with Pathway?
+
+d. How often did Auditors/Investigators use the available mechanisms to retrieve audit trail information, as outlined in Horizon System Audit Manual (WITN0597_02/04, POL00029165) with the RFI process, as part of their own investigations (as opposed to on request from a SPM's defence team)?
+
+e. Did Auditors/Investigators make use of information passed from Horizon to TIP, and from other feeder systems, to obtain the full accounting position within an office?
+
+Page 12 of 14

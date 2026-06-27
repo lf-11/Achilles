@@ -1,0 +1,18 @@
+WITN04510100
+WITN04510100
+
+24. Although I outline the changes that I can recall below, I regret that I cannot remember timescales, and only some of the reasons for the changes:
+
+a. The SSC developed, supported, and maintained Peak for the reasons outlined in paragraph 14 above.
+
+b. The SSC developed a visual monitoring tool to give early warning of any failures to servers and databases in the data centres and to give advance notice of possible incoming incidents. This was simply a support tool and, while it was not part of the Horizon system, it was subsequently made available to POL through the Service Management Portal.
+
+c. The SSC were responsible for recovering any outstanding transactions which had been "stranded" on counters and not passed to the correspondence services in the data centres because the SSC occupied a secure area in Bracknell which connected to the live estate. I describe the process in more detail at paragraph 89 below.
+
+d. The SSC were responsible for responding to ad-hoc data requests from POL—relayed through the Customer Service Management Support Team—for the reasons noted in paragraph 24(c) above.
+
+e. The SSC developed, supported and maintained the KEL system.
+
+f. The SSC developed the Service Management Portal—an initiative from the Customer Service Director at the relevant time, Dave Baldwin.
+
+Page 10 of 54

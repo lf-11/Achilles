@@ -1,0 +1,36 @@
+WITN09890100
+
+outside the scope of the PCDE, those cases remained in the PFA list, until P&P
+received information to the contrary.
+
+Methodology
+
+19. I understand that the original PFA list originated from over 100
+contemporaneous spreadsheets that were provided to P&P by POL Security or
+identified during the review of POL Security's SharePoint site.6 These
+spreadsheets are referred to by POL and P&P as 'Casework Spreadsheets'.
+The Casework Spreadsheets were used by POL Security to record various
+details about investigations, including but not limited to, the date the
+investigation commenced; branch details; suspect's name; date of charge;
+whether there was a decision to prosecute; date of conviction; conviction court;
+and sentence details.
+
+20. From February to May 2020, P&P undertook a reconciliation exercise of the
+Casework Spreadsheets. The purpose of the reconciliation exercise was to
+identify all cases that were potentially within the PCDE into a single
+consolidated spreadsheet. This consolidated spreadsheet was referred to as
+the 'Master Search Terms List' ("MSTL").7 The reconciliation exercise extracted
+all cases that:
+
+a. Appeared to have resulted in a conviction.
+
+b. Recorded a decision to prosecute, but there was no further information
+as to whether the case resulted in a conviction.
+
+6 A copy of POL Security's Sharepoint site was collected as part of the PCDE. The spreadsheets
+provided to P&P each included "Casework" within the document title. To ensure P&P had identified all
+spreadsheets, they conducted a search across all material collated as part of the PCDE for
+documents named "Casework", and included these within their review.
+7 As it recorded the search terms that were to be used with regard to each PFA.
+
+Page 6 of 17

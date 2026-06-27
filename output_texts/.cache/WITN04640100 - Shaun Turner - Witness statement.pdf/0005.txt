@@ -1,0 +1,32 @@
+WITN04640100
+WITN04640100
+
+I cannot recall whether the spreadsheet was said to contain details of all Known
+Error Logs or just those that the HSD thought the NBSC should be aware of.
+My sense is that this spreadsheet was shared with NBSC managers periodically
+but infrequently across a period of time (rather than my whole time at the
+NBSC). My sense is that the spreadsheet was intended to assist the NBSC in
+identifying some issues of which the HSD was already aware so that calls could
+be redirected to the HSD, rather than for the NBSC to advise postmasters on.
+I am not sure whether the details of Known Error Logs were shared with the
+advisers operating the NBSC helpline in addition to managers and team
+leaders.
+
+12. My role was to analyse the data arising from calls in order to identify trends and
+common issues experienced by Postmasters. Once identified, I would raise the
+issue as a 'problem' and then work to fix the underlying root cause with the
+Problem Management team. At that time, the Problem Management team sat
+in a separate part of the POL business and was responsible for undertaking
+root cause analysis of issues and implementing short and long term fixes. I was
+also responsible for monitoring NBSC call operator performance in this role.
+
+Sept 2001 – Sept 2002: Network Performance Analyst
+
+13. After two years as an NBSC Incident Analyst, I moved into the role of Network
+Performance Analyst. Again, my focus was data analysis, this time looking at
+conformance and compliance data arising from branches. An example of this
+kind of conformance and compliance data would be data showing which
+branches were experiencing particular types of transaction errors. I was also
+responsible for prioritising calls to those branches to address the issue(s).
+
+Page 5 of 95

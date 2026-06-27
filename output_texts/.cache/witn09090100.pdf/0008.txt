@@ -1,0 +1,33 @@
+WITN09090100
+WITN09090100
+
+WITN09090100
+
+sometimes callers would get passed backwards and forwards between NBSC
+and HSH, particularly where a branch had losses and queried whether there
+was an issue with the Horizon System. I do recall that it was often difficult to
+get HSH to take ownership of calls where branches were experiencing losses
+as their main criteria for investigating a system issue for a branch was
+whether they had a receipts and payments mismatch when the branch
+balanced. From memory I do not recall any branches I dealt with having
+receipt and payment mismatch. In situations where callers were passed back
+and forth, the NBSC advisor would speak to their Team Leader who may in
+turn speak to their counterpart at HSH to try and get an agreement on who
+should have ownership of the call.
+
+24. As a Tier 2 Service Support Advisor we had access to the KB and access to
+all counter operations manuals and Horizon user and balancing guides.
+However, we did not have access to any branch Horizon transactional
+information. This meant that when assisting branches with their balancing
+issues we were reliant on information given to us by the branch while on the
+telephone. In some situations where branches had experienced a loss, we
+would ask the branch to post or fax paperwork through to us. This paperwork
+included things like Cash Accounts, balance reports, cash and stock
+declaration and transaction logs.
+
+Daily and Weekly Balancing Procedures
+
+25. I have been asked by the Inquiry to describe the daily reporting and weekly
+balancing procedures that Sub Postmasters were expected to adhere to. The
+
+Page 8 of 33

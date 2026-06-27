@@ -1,0 +1,36 @@
+WITN09380100
+WITN09380100
+
+Analysing Horizon data and requesting ARQ data from Fujitsu
+
+83. I have been asked to consider the following documents:
+
+a. The document entitled “Conducting Audit Data Extractions at CSR”
+dated 4 May 2000 at [POL00029169];
+
+b. The document entitled “Conducting Audit Data Extractions at Live”
+dated 27 November 2001 at [FUJ00152176];
+
+c. The versions of the document entitled “Management of the Litigation
+Support Service” dated 27 October 2009 ([FUJ00152212]), 14
+February 2012 ([FUJ00152220]) and 23 April 2012 ([FUJ00152225]),
+as well as the version marked “withdrawn” at [FUJ00152235];
+
+d. The versions of the document entitled “Audit Data Extraction Process”
+dated 13 September 2010 ([FUJ00152216]), 1 March 2011
+([FUJ00152218]), 14 February 2012, ([FUJ00152221]), 3 September
+2014 ([FUJ00152226]) and 4 September 2014 ([FUJ00152228]);
+
+e. v) The document entitled “Security Management Service: Service
+Description” (SVM/SDM/SD/0017) dated 24 August 2006
+([FUJ00002033]), 31 December 2008 ([FUJ00080107]), 15 October
+2010 ([FUJ00002264]), 25 November 2013 ([FUJ00088868]), 4
+December 2013 ([FUJ00002555]), 4 April 2014 ([POL00002572]) and
+19 February 2016 ([POL00002666]) (and in particular, paragraph 2.4).
+
+84. I was aware that Fujitsu maintained very detailed transaction data, but I was
+not aware of any analysis that investigators carried out. I have never applied
+for any data from Fujitsu and I cannot recall ever seeing any. I had no
+requirement to see the data. My work was reliant on a conviction. I did not
+
+Page 27 of 49

@@ -1,0 +1,410 @@
+# WITN05970200.pdf
+
+
+=== Page 1 ===
+
+WITN05970200
+WITN05970200
+
+Witness Name: Jeremy Peter Folkes
+Witness Number: WITN0597
+Statement Number: 2
+Exhibits: WITN0597_02/1-4
+Dated: 18 November 2022
+
+POST OFFICE HORIZON IT INQUIRY
+SECOND WITNESS STATEMENT OF JEREMY PETER FOLKES
+
+I, Jeremy Peter Folkes, will say as follows:
+
+1. This second witness statement contains additional information on my recollection of the relationship between the BA/POCL or Horizon Programme and POCL Security/Investigations or Network Audit organisations during the period 1996-2000, and in particular details of individuals I either remember or have evidence as working in that area who I think may be able to assist. It has been produced at my own suggestion to cover matters which were not included my original Rule 9 Request but were discussed during my Oral hearing on the 2nd/3rd November 2022 and in sessions of other witnesses since.
+
+2. My memory of the names of the various departments in PO and POCL around security is not good, and my notes suggest a lack of consistency even at the time, probably reflecting a number of re-organisations in the Post Office in the late 1990s. I remember there was POSIS (PO Security and Investigation Services), POID (PO Investigation Department), SIE (Security and Investigations Executive), PO National Security, and there were teams at both National and Regional level, but I cannot recall (even if I knew at the time) exactly how they fitted together and
+
+Page 1 of 14
+
+
+
+=== Page 2 ===
+
+WITN05970200
+WITN05970200
+
+reported into PO or POCL management. There was also a Network Audit Team,
+responsible for auditing the post office network (offices).
+
+Involvement of PO Security in BA/POCL and Horizon
+
+3. Firstly, from my recollection there was far less involvement by any representative
+from POCL Security/Investigations in the early days of Programme than there was
+by the equivalent people in DSS or BA. This was perhaps probably not
+unexpected, as for BA the "fraud free method of payment" was a top objective,
+and the Programme was introducing a totally new method of payment to pay up
+to 20M people on a regular basis, whereas POCL had no similar visible top
+objective.
+
+4. In particular, I do not remember any specific requirements emanating from the
+POCL Security/Investigations side relating to EPOSS or to supporting
+investigations, with the exception of R829 which has been discussed already (and
+which was similar to the equivalent BA requirement, albeit with one clause
+removed).
+
+5. There were of course general requirements on IT/IS Technical Security
+(confidentiality, integrity, availability, including encryption, access control, etc)
+which have already been discussed in some detail, but these did not emerge from
+PO or POCL Security or Investigations. There were also of course many business
+(and technical) requirements relating to POCL's applications, and in particular
+
+Page 2 of 14
+
+
+
+=== Page 3 ===
+
+WITN05970200
+WITN05970200
+
+EPOSS, but these were championed by the relevant business groups in POCL
+rather than any specific Security or Investigations groups.
+
+6. Specifically, whereas BA had requirements for a FRMS (Fraud Risk Management
+Service), to attempt to proactively manage encashment fraud (detecting usual
+patterns of activity etc), there was no equivalent requirement specified by POCL.
+
+7. So, although accounting integrity was of course key to POCL, and EPOSS would
+automate the production of the Cash Account and financial reporting from
+branches (leading, in theory to tighter financial control), there did not appear to be
+a strong business priority for explicit functionality aimed at supporting
+investigations of staff or subpostmaster fraud.
+
+8. It is possible that there was an assumption by some that the presence of an
+automated system would in itself reduce the cases of fraud, as it would be harder
+to conceal compared to the previous slow, time-delayed and error-prone paper
+system – if every transaction was being reported daily to TIP and the Cash
+Account generated automatically, the opportunities for fraud would be reduced.
+However, this paragraph is speculation as I do not have any evidence to support
+this view.
+
+BA/POCL Fraud & Security Group
+
+9. BA seconded an experienced manager, Gareth Lewis, who I believe had
+background in BA Organised Fraud, to the Programme, and initially worked as a
+
+Page 3 of 14
+
+
+
+=== Page 4 ===
+
+WITN05970200
+WITN05970200
+
+member of the Demonstration and Evaluation Team (as I did). Once we got into
+the Assurance phase, Gareth Lewis headed up a Fraud and Security Group
+(FSG) on the Programme, with I think a primary focus on the Benefit Payment
+Service (BPS), which of course included both BA and POCL components.
+Having an FSG, led by a BA manager, made some sense given that there was
+every expectation that criminals involved in fraud around the legacy manual order
+book ("foils") and giro cheque methods of payment would naturally migrate to any
+new method of payment, so that the security and fraud resistance of the BPS was
+clearly of importance to the Programme. This FSG I believe sat as part of the
+Assurance activity but with some separate reporting into interested parties in BA.
+
+10. As mentioned in my first witness statement (WITN0597_02/1, WITN05970100) at
+para 74 at some point I joined Gareth Lewis's team (from my POCL
+Infrastructure/Technical Assurance role) to provide focus on technical security. I
+cannot be sure when I started formally in the FSG, probably in 1997, and I believe
+the team was disbanded in autumn 1998 when Gareth Lewis left the Programme
+(following a reorganisation when the PDA morphed into the POCL-led Horizon
+programme). From what I remember I effectively worked wearing two (not
+incompatible) hats, one working on technical assurance and one into the FSG.
+This is borne out by some of my reports at the time being reporting both work for
+John Meagher and for Gareth Lewis.
+
+11. My role, as noted before was effectively around the Technical Assurance and
+specifically for the FSG in the IT security area. This included liaison with CESG
+(Communications Electronics Security Group) at Cheltenham (for use of approved
+
+Page 4 of 14
+
+
+
+=== Page 5 ===
+
+WITN05970200
+WITN05970200
+
+algorithms for encryption), to key management, network security and the like,
+across to data centre security and the general technical security of the
+infrastructure, very much in line with my activities in the Assurance Group.
+
+12. Once of the more visible activities of the FSG run by Gareth Lewis was to convene
+a "Security Review Panel" (SRP) on a periodic basis with representatives from
+the sponsors, both DSS/BA and POCL. I cannot recall exactly who in POCL
+would have been invited but this was an intended give transparency and get buy-
+in from the sponsors to the FSG activities. I believe both POSIS and Audit would
+have been involved in some way.
+
+POCL Investigator Experience on FSG
+
+13. Having joined the FSG, it was obvious that there was a gap in terms of any
+expertise from POCL on Security/Investigations or any link up with POCL's S&I
+functions from the FSG. This "gap" did not purely relate to potential staff/sub-
+postmaster fraud, but anything around "non-IT" security - physical security of the
+offices, vetting of Pathway staff, security during installations, etc.
+
+14. I believe I also had a concern that we needed some input from POCL regarding
+potential Benefit Payment Service (BPS) related crime in offices; by this I meant
+how POCL and BA would work together in case of any in-office BPS Benefit
+Encashment Service (BES) crime (given that the point of payment is clearly a
+vulnerability), and to avoid potential conflict with BA investigating POCL staff or
+agents.
+
+Page 5 of 14
+
+
+
+=== Page 6 ===
+
+WITN05970200
+WITN05970200
+
+15. I remember making the case to Gareth Lewis and others on the Programme that we needed someone with this experience (and that this was outside anything I, as an internal IT consultant, was qualified or able to cover) and we requested a suitable person from "the business" in POCL. I cannot remember who we went to in POCL (maybe Jan Topham or Bob King) but the request was processed and a suitable candidate identified and interviewed.
+
+16. A regional investigator, Dave King, from the North West region in POCL, was seconded to the FSG. I cannot remember when he joined – my guess would be late 1996 or 1997 – but he worked as part of the FSG under Gareth Lewis until around October 1998. As far as I was concerned Dave was a great asset to the group and filled the gap, covering non-technical security from a POCL angle; he came with the benefit of good knowledge and relationships with the PO and POCL Security/Investigations side both regionally and nationally. As a result, Dave would have been the primary contact into POCL Security & Investigations during this period.
+
+17. Dave King did not, I believe, report to me (except for "pay and rations" matters, such as signing expenses claims, as I was PO and Gareth Lewis not), and as a result I do not have copies of any periodic reports from Dave.
+
+18. Dave's secondment came to an end around the same time as the end of the FSG, and my fortnightly report from 24th August 1998 reported that "a number of responsibilities of Dave King will need to be shifted to Business Assurance and/or to the sponsors". I cannot find any detail on this but I presume this included
+
+Page 6 of 14
+
+
+
+=== Page 7 ===
+
+WITN05970200
+WITN05970200
+
+passing some responsibilities into POCL National Security, given that we see in
+1999 there was directly communication between them and Pathway.
+
+19. I believe after Dave King left the Programme in 1998, he moved away from POCL
+within the Post Office and into a cross business unit known as POSG (Post Offices
+Services Group) Support Services. He may have moved then into Information
+Security, but I have had no memory of contact with him since I left the Post Office
+in 2000 so cannot be sure.
+
+20. Please note that I believe there were several Dave Kings in the wider Post Office.
+I did see a Dave King referenced in an email displayed onscreen during one of the
+Fujitsu witness's examinations in Phase 2 if the Inquiry, however I do not know if
+this was the same gentleman.
+
+Contacts in POCL Security and Investigations
+
+21. The following section includes a list of names I remember or have managed to find
+from notes from the times of potential contacts in the PO or POCL S&I community.
+Please note that I may not be accurate on job titles and organisation titles as these
+seemed to vary over time, as did whether roles were at group (PO) or counters
+(POCL) level.
+
+a. Bob Martin – External Crime Manager, Post Office National Security
+Executive or POSIS (PO Security and Investigation Service) – I
+remember occasional interaction with Bob, although from his title I
+
+Page 7 of 14
+
+
+
+=== Page 8 ===
+
+WITN05970200
+WITN05970200
+
+believe his interest was on external threats to the post office (robbery,
+theft) rather than internal crime. For instance, I have a memory of
+concern being raised of the increased risk of theft from offices due to the
+presence of PCs on the counter (thieves could target PCs). I know
+Bob's name is present in the Audit Review Report from October 1999
+(WITN0597_02/2, WITN05970134) which was shown at my hearing
+session. I believe Dave King had various, maybe regular, meetings with
+Bob Martin.
+
+b. Andrew Wilson - I believe in 1999 he was Head of POSIS and also PO
+Director of Security. I do not believe I had any contact with him on
+Horizon, but I do remember him being at an Information Security
+Management Team (ISecMT) meeting I attended wearing an
+(unrelated) PO IT Services (my actual employers) hat in Jan 1999. I
+do have a note that in that meeting he made mention of a "£300k budget
+in POCL for crime reporting for Horizon" (which I annotated as "not part
+of Horizon") during a discussion on Incident Management in the Post
+Office, but do not know if this related to subpostmaster/staff fraud or
+other (external) crime or incidents.
+
+c. The three members of Security and Investigations mentioned in the
+agenda for the Security Management meeting on 28th October 1999
+(WITN0597_02/03, WITN05970148) which I have already disclosed. I
+have no memories of these people but presumably met them in this
+meeting. I presume they had "national" roles in PO Security.
+
+Page 8 of 14
+
+
+
+=== Page 9 ===
+
+WITN05970200
+WITN05970200
+
+i. Tony Marsh – Security and Investigations
+
+ii. Len Clay – Security and Investigations – Security Standards and
+Policy
+
+iii. Derek Pratt – Security and Investigation – Security Planning and
+Performance
+
+POCL Information Security
+
+22. There are also several individuals who were responsible for Information Security
+in POCL, who may potentially be worth reaching out to regarding technical security
+matters in the 2000s:
+
+a. Mike Harris – Mike Harris was I believe responsible for POCL IS
+Security up to 1999. I have no specific memory of interactions, but I
+believe he would have been invited to the FSG's "Security Review Panel"
+meetings and would have been consulted as needed on IS Security
+matters (for instance on Interfaces to POCL inhouse systems).
+
+b. David Lacey – Dave Lacey was recruited in March 1999 as "POCL Head
+of IS Security", I believe had previously worked in Shell and the Home
+Office. From some notes at the time (not related to Horizon) I recorded
+that Mike Harris would report to him, and David Lacey to Roger Tabor in
+POCL. I cannot remember Roger Tabor's role but it was senior in POCL
+
+Page 9 of 14
+
+
+
+=== Page 10 ===
+
+WITN05970200
+WITN05970200
+
+at the time. I believe this appointment was part of a general increase in
+the importance of Information Security to the PO in the late 1999s. I
+have no recollection of David Lacey being involved in Horizon during my
+tenure, but I presume the Horizon project would have come under his
+wings (from an IS Security view).
+
+Contacts in POCL Audit
+
+23. In addition to PO/POCL Security/Investigations and PO/POCL Information
+Security, the other relevant group would have been POCL Audit. I remember
+quite frequent contact and close working with John Bruce, from was I believe from
+POCL's National Internal Audit team and based in Chesterfield, and who I believe
+contributed in various ways to the BA/POCL or Horizon Programme and may have
+actually been seconded to the Programme for a period.
+
+24. There is a Senior Auditor, Gary Potts, mentioned in the Audit Review Report
+(WITN0597_02/02, WITN05970134) which I have previously disclosed. I have
+not knowingly met Gary but he may have relevant information.
+
+25. Three members of POCL, believed to be on the Internal Audit side, were included
+on the distribution of the Horizon System Audit Manual (WITN0597_02/4,
+POL00029165) at various stages, which is the document which refers to R829 and
+PACE certification. These are Hilary Stewart and Jason Carter (in the March
+1999 version) and Chris Paynter (POIA) on the January 200 version. Again, I
+have no recollection of these people and was not a reviewer of the documentation
+
+Page 10 of 14
+
+
+
+=== Page 11 ===
+
+WITN05970200
+WITN05970200
+
+or on the official distribution myself for this. I believe Hilary may have worked with
+Pathway on development of the RFI (Request for Information) process at some
+level.
+
+26. I have also found mention of the Network Audit Team but cannot recollect
+meeting anyone from them.
+
+Other Matters to Assist the Chair
+
+27. In writing this statement a number of questions arose in my mind which may be
+worth exploring with those who worked in POCL or Fujitsu during the 2000s when
+Horizon was live. I hope these may be useful to the Inquiry:
+
+a. What training or procedures were Regional Auditors and Investigators
+given on Horizon, both in terms of operation of the applications (and
+specifically EPOSS) and in terms of retrieval of data etc? Who would
+have been responsible for such training or creation of such procedures
+and processes (national or regional)? Did such training cover "what
+could go wrong?" operationally with Horizon at the counter and how to
+locate the causes of errors or discrepancies?
+
+b. How was this training/processes updated as the system evolved (for
+instance, moving from the Cash Account to Branch Trading Statement
+in 2003/5 I believe)?
+
+Page 11 of 14
+
+
+
+=== Page 12 ===
+
+WITN05970200
+WITN05970200
+
+c. What checks for the lack of technical or system issues were done regarding particular site (office) before "assuming" that fraud may be involved? For instance, checking for hardware faults, engineering visits, helpdesk calls, polling problems, event logs, specific to a specific office, and checking for any errors detected by POCL's TIP system? Was there a process for this and records kept? What group in POCL managed this, and did this include BSM (Business Service Management) who managed the Horizon system on a day-to-day basis with Pathway?
+
+d. How often did Auditors/Investigators use the available mechanisms to retrieve audit trail information, as outlined in Horizon System Audit Manual (WITN0597_02/04, POL00029165) with the RFI process, as part of their own investigations (as opposed to on request from a SPM's defence team)?
+
+e. Did Auditors/Investigators make use of information passed from Horizon to TIP, and from other feeder systems, to obtain the full accounting position within an office?
+
+Page 12 of 14
+
+
+
+=== Page 13 ===
+
+WITN05970200
+WITN05970200
+
+Statement of Truth
+
+I believe the content of this statement to be true
+
+Signed
+GRO
+
+Dated
+18th November 2022
+
+Page 13 of 14
+
+
+
+=== Page 14 ===
+
+WITN05970200
+WITN05970200
+
+Index to Second Witness Statement of Jeremy Peter Folkes
+
+No Exhibit Number Document Description URN
+01 WITN0597_02/01 First Witness Statement of WITN05970100
+Jeremy Folkes
+02 WITN0597_02/02 Audit Report Review WITN05970134
+990924
+03 WITN0597_02/03 Security Management WITN05970148
+Agenda 991028
+04 WITN0597_02/04 Horizon System Audit POL00029165
+Manual (CSR) IA/MAN/004
+
+Page 14 of 14
+

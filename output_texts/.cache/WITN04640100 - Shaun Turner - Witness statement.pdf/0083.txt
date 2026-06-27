@@ -1,0 +1,18 @@
+WITN04640100
+WITN04640100
+
+273. During the autumn of 2020, as part of the business reorganisation, my responsibilities as Smart ID product owner were gradually transferred to my colleague (Jayne Pardoe). I believe that my last meeting with the NFSP on this subject was in December 2020 before Jayne took on fully that responsibility.
+
+274. As I explained in paragraph 236 above, the dual login functionality was ultimately a compromise between the compliance requirements and giving Postmasters flexibility in the way they worked.
+
+CTO system
+
+275. I have been asked to explain why the CTO system was not upgraded to reflect the changes with the EUM programme. As stated in paragraph 229, I have reviewed the documents identified in respect of the Smart ID / EUM project.
+
+276. The CTO system was the counter training office system. There were 15 or 16 counter training offices around the country. This is predominantly where new Postmasters would be trained, though it also offered refresher training. There were Horizon training terminals at these CTO offices.
+
+277. As part of the Smart ID programme, my team considered whether the Horizon training terminals at the CTO offices should be changed to incorporate Smart IDs. However, I recall that the decision was ultimately taken not to do so based on cost. I should also note that the Smart ID functionality was still covered in the training for new Postmasters, even if Postmasters did not get hands on practice during their CTO training.
+
+Smart ID / EUM discrepancy issue
+
+Page 83 of 95

@@ -1,0 +1,34 @@
+WITN10000100
+WITN10000100
+DocuSign Envelope ID: 81AFC40A-7FC9-42E3-966B-320BE0F2480F
+
+reducing the amount of compensating testing currently undertaken within the
+core audit in order for EY to take assurance on the quality of IT general controls
+around POL's critical business systems.
+
+53 At the time, my view was that, while none of these observations gave rise to a
+potentially qualified audit, they would need to be addressed over the coming
+year.
+
+54 I did not - and still do not - see any of these recommendations as suggesting
+fundamental or systemic weaknesses within the Horizon IT System. As EY
+stated, "the recommendations we have made in this report should be seen as
+refinements rather than fundamental control deficiencies". The weaknesses
+identified by EY within the controls environment were small scale and EY did
+not suggest that these could lead to a qualified audit. EY's recommendation
+that Fujitsu should be required to carry out a SAS70 audit was motivated by
+efficiency rather than any suspected systemic or performance issues within the
+Horizon IT System. EY's rationale was that it was not efficient for EY to be
+carrying out controls testing on Fujitsu's system.
+
+55 I have been asked to describe the steps POL took in response to EY's findings,
+and to what extent cost factored into POL's decision making.
+
+56 I have reviewed the minutes of the POL Board meeting on 22 September 2011
+[POL00030365] which show that I reported to the POL Board that we were
+exploring the possibility of requesting Fujitsu to undertake a SAS70 (or
+equivalent) audit. I have been shown [POL00143065] which is a briefing report
+prepared by Ms Sewell dated May 2012. The paper reported that "Post Office
+have worked with Fujitsu and EY to agree an initial way forward where Fujitsu,
+
+Page 17 of 49

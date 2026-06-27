@@ -1,0 +1,20 @@
+WITN06200100
+WITN06200100
+
+27. I was not aware of any other issues of this type at Outreach branches or other branch types until this issue was raised. This was the only example raised to me but, as this document states, there were other branches which had been impacted.
+
+28. Once the issue had been raised to Kendra Dickinson it appears the correct steps were taken as the issue was then passed to Finance Service Center (FSC) to manage. They would have been able to check the branch accounts for this branch and other branches mentioned to see what the previous resolutions had been and to check to make sure that the resolution at this branch was the correct one, i.e. to check where in the Branch Trading Period the branch was and establish whether a reversal of transaction, a rem out of an amount or a Transaction Correction (TC) was needed. FSC would have been the team responsible for raising the TC if that was the correct solution, this appears to have been the case with at least 2 of the branches mentioned. My concerns with the way this was handled were that ATOS had sent this onto NBSC with little or no detail to enable NBSC to either escalate to FSC or help the branch. NBSC were unable to check into a branch account or understand whether the action they were being asked to take was appropriate. It states that NBSC did not have a process for this type of instance which seems a fair comment from reading the content and if IT suppliers were aware that a fix was needed for this issue they should also have been aware that NBSC was not in a position to follow a process. I also felt that the early emails did not provide any context relating to what was happening with this known issue to allow anyone to provide reassurance or timescales for a fix should another case arise before that fix was implemented.
+
+29. I cannot comment in detail or specifically about the relationship between NBSC and Fujitsu as I wasn't party to their relationship management. I would say that from my own experience getting information in a format that was understandable to those of us in a non IT environment was one of the things I found difficult.
+
+30. My understanding of the role of ATOS was that they took on the supplier management relationship once the Service Management team had been disbanded. ATOS also took on the Horizon System Helpdesk calls.
+
+Horizon Weekly Call
+
+31. I have been asked questions about the Horizon Weekly Call and consider POL00021130, POL00043614, POL00076327, POL00043619. The Horizon weekly call was set up to better understand any issues that were being raised as a result of the Horizon IT system. It was to try to understand if and where any improvements could be made to the way Horizon IT related issues were managed and to check whether there was any duplication of issues being raised across business areas.
+
+32. Initially my role was as a note taker but I also chaired the call in the absence of other managers. I took responsibility for trying to resolve some action points that were raised and to chase up answers from individuals to their own actions.
+
+33. Without the prompt of the documents provided I wouldn't have been able to recall any significant issues raised whether Horizon IT related or otherwise.
+
+34. As I cannot remember the specifics of all the issues raised, I am struggling to give a view. I feel the call was effective in that it made sure issues raised were being managed or escalated as well as they could be, however from looking at the examples in the documents provided it's clear that many of the issues related to other branch equipment i.e. Self-Serve Kiosks (SSK), AEI (I can't remember what this stands for Application, Enrollment & Identity?), ATMs etc. Whilst all transactions would need to go through the Horizon IT kit in branch the issues raised were not necessarily as a result of the Horizon kit.

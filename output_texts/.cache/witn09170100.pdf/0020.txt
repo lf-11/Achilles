@@ -1,0 +1,28 @@
+WITN09170100
+WITN09170100
+
+would contact the national support centre to see if they could provide a
+potential solution.
+
+58. In terms of the information that an SPM can access, all information that
+Auditors are able to access during an audit is also available to the SPM via
+their Horizon User Profile.
+
+59. My understanding of an Audit Global User Account is that it provides Auditors
+special access to the Horizon IT system in order to settle discrepancies to the
+Central Accounts Team at Chesterfield. Where a discrepancy is found at a
+branch, I will log out of my Personal User Account and log in to the Global User
+Account to remove the discrepancy from the Post Office account. This process
+describes my main experience in using the Audit Global User Account, but I
+am also aware that it may be used in situations where a Personal User Account
+cannot be accessed.
+
+60. I cannot recall any specific measures in place in respect of Audit Global User
+Accounts. I just know that the Global User Account should only be used in the
+situations I have described in paragraph 59 above, and our Personal User
+Accounts should be used for anything else. In addition, we now have to inform
+an SPM that we are logging on to the Global User Account in order to remove
+the discrepancy from the Post Office accounts, but I cannot remember the
+specific date that this requirement came in to force
+
+Page 20 of 32

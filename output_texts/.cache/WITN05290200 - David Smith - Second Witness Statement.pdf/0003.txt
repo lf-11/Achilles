@@ -1,0 +1,31 @@
+WITN05290200
+WITN05290200
+
+the document in that context. I would add that I understand data integrity
+to be a wider issue than the areas covered in this document.
+
+6. I was asked to consider Fujitsu Testing Approach for the Horizon System
+dated 15/08/2003 [FUJ00001817] and Fujitsu Services Horizon Generic
+Release Acceptance Process dated 13/09/2004 [FUJ00001889] and to
+explain the testing process for Legacy Horizon after the roll out. The
+second document describes the approach to contractual Acceptance to
+which testing is an important feed but which I would not term part of the
+testing process per se.
+
+7. The former document is a detailed description of the testing process jointly
+agreed between POL and Fujitsu. In practice it applied from the S60
+Release onwards although the POL process was based on that developed
+for S50. This document and the joint working behind it was part of a
+substantial piece of joint work defining the processes through the entire
+development lifecycle. POLs input to this initiative was enhanced by the
+experienced contractors/consultants that it engaged to supplement its own
+resources across the project disciplines both to lead activities and to
+transfer skills.
+
+8. I was asked to explain my involvement in overseeing the testing process. I
+chaired a weekly meeting called the Automation Working Group. All
+Release and project managers would attend or their delegate. They would
+have previously tabled a progress report raising issues and risks and
+reporting on solutions or the actions being taken to arrive at solutions. This
+
+Page 3 of 22

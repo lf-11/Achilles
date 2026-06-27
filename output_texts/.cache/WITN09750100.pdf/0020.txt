@@ -1,0 +1,32 @@
+WITN09750100
+WITN09750100
+
+any assurance that such features were actually built into the Legacy Horizon
+System.
+
+66. I have been asked in question 19 of the Request to comment upon the
+nature and extent of the Centera configuration issue identified in an email to
+Rodric Williams on 20 May 2014 (POL00029728) to which I was in copy.
+
+67. Centera is the bespoke hardware on which the Audit Store data resides.
+The Audit Store is the part of the HNG-X system where histories of detailed branch
+transactions are maintained (with wider audit trail information, such as system and
+user identification data points). In addition to software application controls, we were
+told by Fujitsu that the Audit Store used bespoke hardware that gave additional
+assurance that data in the Audit Store was preserved reliably. This hardware
+(Centera) can be configured to differing degrees of security (Centera CE+ as
+opposed to Centera Basic).
+
+68. During our work, we identified conflicting information on how Centera (the
+Audit Store hardware) was configured, and so members of my team asked Fujitsu
+to confirm the facts. Some responses had suggested that HNG-X was configured
+to CE+ mode. The system was subsequently confirmed to be configured to the
+Basic mode only.
+
+69. In CE+ mode, data could only be edited on-site (by administrators, physically
+present at the hardware), whereas in Basic mode, editing could be performed by
+administrators remotely. I recall that, from a risk point of view, this difference had little
+significant impact on the wider overall HNG-X control environment for the reasons
+outlined below.
+
+Page 20 of 39

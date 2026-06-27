@@ -1,0 +1,10 @@
+WITN04640100
+WITN04640100
+
+268. I also did a lot of work with the business stakeholders at each phase of the project. This involved discussing the project with stakeholders at various forums during each stage of the project and running through a standard list of questions with stakeholders to ensure they were happy with the project. An example of such a forum is business readiness assurance ("BRA"), for which there was a standard set of business stakeholders with whom the Smart ID team had to liaise. This covered all directorates in the business at the time, for example Commercial, Legal, Network and IT. This engagement process gave each part of the POL business the chance to raise questions and input into the project. The BRA sign-off process also acted as a forerunner to the formal gating process where Esther Harvey would get sign off to proceed to the next stage of the project. In addition to these formal stakeholder sessions, I also ran informal 'drop in' sessions, for example of the kind noted at the end of document POL00036331. This document is a Smart ID rollout update. It states that "EUM Product Owner Shaun Turner runs regular stakeholder drop-in sessions (Tuesday and Friday at 11.30) – you are welcome to have a Network Operations representative on the calls, and you don't need to join every call but can dial in when you need to – please let Shaun know ... if you'd like a nominated representative to be included on the invitation" (page 3).
+
+269. More broadly, an entire project team was set up for the Smart ID programme. This was run by the project manager, Esther Harvey, and included a training representative, a communication representative, an implementation manager and a technical delivery manager.
+
+Effect on Postmasters
+
+Page 81 of 95

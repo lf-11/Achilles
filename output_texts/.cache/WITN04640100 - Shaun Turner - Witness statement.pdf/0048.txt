@@ -1,0 +1,36 @@
+WITN04640100
+WITN04640100
+
+and failure to balance and rollover could eventually cause issues such that the
+Horizon terminal needed to be swapped out.
+
+152. For both of these routes, P&BA was ultimately responsible for issuing
+TCs and investigating and resolving queries about them.
+
+Resolving disputes process - other discrepancies
+
+153. I have limited memory of the formal process for other discrepancies. I
+think queries from branches about general shortfalls not connected to TCs
+would initially go the NBSC for investigation and resolution. The NBSC would
+take the Postmaster through the diagnostic process to try and assist the branch
+in identifying the discrepancy.
+
+154. In complex cases, the general discrepancy might be escalated for
+auditor or trainer resource, and this sometimes involved a site visit to the
+branch. This was only for exceptional cases. P&BA would only become involved
+with investigating general discrepancies it if became apparent that some of that
+discrepancy related to a TC. I know Andy Winn was the focal point for the more
+difficult cases.
+
+Fujitsu's role in the resolution of disputes
+
+155. I have been asked to describe whether I am aware of any contact or
+input from Fujitsu in the resolution of any disputes. Please read my answer to
+this question in conjunction with paragraphs 81 to 113 in relation to the
+Callendar Square bug and 229 to 292 in relation to Smart IDs.
+
+156. I am unable to recall the precise details of whether there was any
+contact or input from Fujitsu in the resolution of disputes. However, I know that
+certain teams I was working with did have direct contact with Fujitsu in relation
+
+Page 48 of 95

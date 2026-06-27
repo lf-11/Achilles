@@ -1,0 +1,28 @@
+WITN03920100
+WITN03920100
+
+challenges associated with managing 18,000+ offices, 40,000 counter positions
+and 60,000 people through the process. The ICL Pathway implementation
+strategy was effective; there was a recognition of the scale of the challenges and
+there was a high degree of commitment from ICL Pathway and the POCL
+Horizon programme team to analyse and design processes that ensured a
+regular Horizon weekly rollout beat-rate, recognising in the implementation
+pipeline the many variables that could adversely impact the weekly
+implementation beat rate.
+
+47. During the national Horizon rollout the POCL IP implementation teams deployed
+HFSOs to support individual offices and their staff through the cutover to the new
+system and were also there to provide initial on-site support for the first 2 days of
+operational use of the system and the production of the first Cash Account. As a
+result of this on site presence the implementation teams and implementation
+management were aware of issues that arose in some offices. The issues were
+recorded and directed through the HSHD to enable incident analysis and closure.
+I do not believe that there was any sense that there were fundamental flaws with
+the Horizon system; issues / incidents were raised but my understanding was
+that these were either single incidents, or if common to a number of offices, that
+they were relatively minor and did not suggest problems with data integrity or
+system stability. Everyone in the POCL implementation team was aware that
+successful implementation was dependent on the Horizon system operating as
+expected and was mindful to ensure that all issues were raised for investigation.
+
+Page 18 of 32

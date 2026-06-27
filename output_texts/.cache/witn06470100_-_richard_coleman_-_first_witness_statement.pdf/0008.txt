@@ -1,0 +1,30 @@
+WITN06470100
+WITN06470100
+
+be distributed to the Post Office counters. I do not recall the mechanism by
+which that was done.
+
+24. Whilst we might suggest a possible work around, I can not comment on why a
+work around would be used instead of implementing a fix as those sorts of
+decisions were not taken by the SSC. As far as I can recall, work arounds
+would only be implemented with the agreement of development and the Post
+Office, and I would expect that agreement to be recorded in the PinICL and
+KEL.
+
+25. I don't recall any procedures or policies in place restricting what we could tell
+SPMs in relation to bugs, nor do I recall any pressure placed upon me or my
+colleagues not to pass information to SPMs or the Post Office. Whilst I did
+speak to SPMs I do not recall any of those conversations. We were expected
+to fully record our findings in PinICL. How or when, or indeed if, that
+information would be passed on to the Post Office would be for management
+to decide.
+
+26. As already mentioned, although we were aware of various SLAs, and we were
+expected to do our best to meet those SLAs, I believe it was more important
+to Mik Peach, as SSC Manager, that we identify the cause of the error and
+provide a solution than it was to meet any particular SLA.
+
+27. I do not recall investigating any problems with Riposte itself, and as far as I'm
+aware they would have been investigated as any other problem and any
+
+Page 8 of 11

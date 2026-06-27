@@ -1,0 +1,34 @@
+WITN04510100
+WITN04510100
+
+people within Pathway (and later Fujitsu) were permitted to communicate direct
+with Escher.
+
+80. Since, at the time that the contract was put in place, Horizon was a development
+project with no support teams, the list of contacts included only development
+and managerial roles.
+
+81. I remember that there were software errors in Riposte, although I do not recall
+the specific issues. However, I have watched the oral evidence provided by
+Stephen Muchow and John Simpkins to the Inquiry on YouTube, which
+indicates that there were more errors than I first recalled.
+
+82. Handling the interface between Fujitsu and Escher was outside my knowledge,
+but from the point of view of the SSC, it took longer to resolve incidents where
+external suppliers were involved.
+
+83. Since I was not included in the list of contacts who had a direct relationship with
+Escher, I cannot comment on Fujitsu's working relationship with them. I also
+have no knowledge of the relationship between the development team and
+Escher.
+
+PROCEDURE FOR IDENTIFYING AND RECTIFYING BUGS
+Recollection of bugs
+
+84. In the Request, the Inquiry has asked me to set out my recollection of the
+identification and rectification of:
+
+a. the bugs identified in Bates and others v. Post Office Limited (No. 6)
+"Horizon Issues" [2019] EWHC 3408 (QB), having regard to Appendix 1
+
+Page 28 of 54

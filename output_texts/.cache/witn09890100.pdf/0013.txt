@@ -1,0 +1,13 @@
+WITN09890100
+
+31. These branch files, and any other new repository of data, may contain further documentation to assist P&P in determining whether a case is outside the scope of the PCDE, particularly in early cases (i.e. where the prosecution took place between 1999 to 2004), where POL holds limited information.
+
+a. In January 2023, P&P obtained a copy of a branch file for a case which was counted within the 706 PFA number. After reviewing the branch file for that individual, P&P reported that the relevant branch was located in Scotland and that the individual was prosecuted by the Scottish Crown Office and Procurator Fiscal Service (COPFS), not POL. As a result, the information was shared with COPFS.
+
+b. In early March, P&P identified a further case that fell outside the PFA criteria. This was a limited information case. As the investigation into the individual post-dated the installation of Horizon by 13 days, it was not possible to determine with certainty whether this was a Horizon related case. After reviewing the branch file, it became clear that the prosecution was not reliant on Horizon.
+
+c. In late March, P&P identified three further cases that fell outside the PFA criteria. All three cases were originally limited information cases and determined to be outside of the criteria following the review of their branch files. The first was found to have been prosecuted by the Crown Prosecution Service (CPS). The latter two were co-defendants and it was determined that their prosecution was not reliant on Horizon.
+
+d. These five cases have therefore been removed from the PFA number, which now stands at 701.
+
+Page 13 of 17

@@ -1,0 +1,20 @@
+WITN04120100
+WITN04120100
+
+22. My engagement with these reports was essentially to assess impact on roll out timescales and readiness. I would contribute informed judgement as far as I could to agreed resolution actions on functionality issues.
+
+23. Action arising out of these progress meetings mainly comprised directions to those in direct contact with Pathway developers to seek resolution and report back.
+
+24. Earlier in 1998, Pathway produced their high level Infrastructure and Roll Out Plan. The purpose of the Horizon implementation team at this time was to interface with Pathway to provide assurance on the viability of the roll out plan and informed input on its construction relative to the Post Office estate.
+
+25. Initially the contract envisioned Pathway as the prime mover in setting dates, timescales, processes for migration at offices and staff training.
+
+26. Much of this became integrated with the POL Horizon Implementation team and further incorporated required physical changes to offices, liaison with logistics and feedback of issues with migration from office-held data to the Horizon platform. Importantly it assessed training and communication from initial contact through the training episodes themselves and to post-implementation support.
+
+27. I had overall responsibility for the POL Horizon Implementation Team and issue management with BA and Pathway and was a sign-off authority for the roll out Plan.
+
+28. As I recall, the technical interface provided to support migration did not always perform a smooth transfer of data from the existing manual cash account on to the Horizon platform. There were also issues around the need to close offices and the time taken to complete the migration, sometimes into late hours.
+
+29. Training had been an issue with Pathway throughout the planning stage. There was an agreed extension of awareness training pre-installation and reinforcement on the day. Pathway eventually extended the content and time available but as I recall, were consistently unwilling to be involved in training needs arising from the impact
+
+Page 5 of 13

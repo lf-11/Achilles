@@ -1,0 +1,32 @@
+WITN04800100
+WITN04800100
+
+test phase. It is possible that a defect open at the end of one test phase
+may be resolved in a future test phase and prior to the completion of all test
+phases.
+
+f. At the point acceptance was reviewed, any unresolved defects would be
+included in an acceptance report. From recollection, a system could not go
+live with any open defects that were considered "high priority" by the Joint
+Authority, and any "medium priority" would need to be supported by a work
+round procedure where applicable. The Joint Authority would take into
+account the open defects as part of their decision to go live with the solution.
+
+33. Whilst I do not recollect specific defects I have reviewed a copy of a PinICL,
+PC0005088, related to the KMS (WITN480_01/7). I would say that this is typical of a
+fault found in testing, where a security issue was highlighted in respect of system
+access. As can be seen in the PinICL record, changes were made to remove this
+access mode and an alternative secure access route and procedure was introduced.
+The PinICL also confirms that the proposed resolution was approved by Jeremy
+Fawkes. Defects would generally fall within the following categories: Technical
+(requiring a system change to resolve), Process (requiring a change of
+approach/procedure to resolve), Documentation (requiring an amendment to
+documentation). The above PinICL PC0005088 is an example of a Process issue.
+
+Acceptance
+
+34. Following testing, the final KMS solution was then signed off through acceptance.
+Generally, it was the programme managers who dealt with acceptance at the time. I
+am not sure, but I recall that the programme manager who took us through the pilots
+
+Page 12 of 26

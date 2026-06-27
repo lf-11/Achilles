@@ -1,0 +1,21 @@
+WITN04800100
+WITN04800100
+
+INDEX TO THE FIRST WITNESS STATEMENT OF ALAN D'ALVAREZ
+
+Exhibit Number | Description | Date | Inquiry Reference / Control Number | URN
+--- | --- | --- | --- | ---
+WITN480_01/1 | Key Management High Level Design | 10 March 1999 | POINQ0104325F | FUJ00098154
+WITN480_01/2 | Access Control Policy | 24 February 1998 | POINQ0094160F | FUJ00087989
+WITN480_01/3 | Security Functional Specification Document | 12 May 1999 | POINQ0094173F | FUJ00088002
+WITN480_01/4 | Pathway Security Policy | 8 October 1996 | POINQ0104324F | FUJ00098153
+WITN480_01/5 | Email from Alan D'Alvarez dated 19 Feb 2010 at 10.04am | 19 February 2010 | POINQ0104339F | FUJ00098168
+WITN480_01/6 | Minutes of ICL/Utimaco Meeting – BRA01 05.11.98 | 5 November 1998 | POINQ0067977F | FUJ00078389
+WITN480_01/7 | PinICL PC0005088 | 24 September 1997 | POINQ0109648F | FUJ00103477
+WITN480_01/8 | Exception plan for delivering KMS within current CSR+ timescales | Undated | POINQ0067452F | FUJ00077864
+WITN480_01/9 | Requirements for KMS at CSR+” | Undated | POINQ0123666F | FUJ00117495
+WITN480_01/10 | ICL Pathway Change Proposal No. 1987 | 17 May 1999 | POINQ0123667F | FUJ00117496
+WITN480_01/11 | Acceptance Report for HNG-X Acceptance Gateway 4 | 7 July 2010 | POL-0030035 | POL00033100
+WITN480_01/12 | Horizon Next Generation | 29 June 2010 | POINQ0103331F | FUJ00097160
+
+Page 25 of 26

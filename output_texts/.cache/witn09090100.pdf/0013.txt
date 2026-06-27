@@ -1,0 +1,34 @@
+WITN09090100
+WITN09090100
+
+WITN09090100
+
+36. Once the cash declaration is made the branch would make a variance check
+which would show any discrepancies (this is for shared stock units only,
+individual stock units would get a message after declaring the cash informing
+them of any discrepancies). The branch would then proceed to printing the
+trial balance report, it is at this point that the Horizon system commits any
+discrepancies, and the loss or gain would show at the top of the trial balance
+report. The branch would then roll the stock unit over into the next cash
+account period and a final balance report would be produced.
+
+37. This same process was required to be carried out for each stock unit in the
+branch. Normally a branch would have a separate stock unit for their lottery
+and ATM cash. Once all stock units have been rolled over into the next cash
+account period the branch would then produce the cash account report which
+would produce a trial cash account and then the final report.
+
+Marine Drive Post Office and the litigation against Lee Castleton December
+2003 to April 2004
+
+NSBC initial involvement
+
+38. I have been asked by the Inquiry to explain my involvement with Mr Castleton
+of Marine Drive Post Office and the calls he made into NBSC between
+December 2003 and April 2004 relating to losses at his branch.
+
+39. Prior to working at NBSC I had worked as HFSO. For this role I received two
+weeks training on the Horizon IT system, this training included the same
+training Sub Postmasters received along with additional training on the
+
+Page 13 of 33

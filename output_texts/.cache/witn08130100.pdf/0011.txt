@@ -1,0 +1,29 @@
+WITN08130100
+which Horizon is neither a source of prosecution evidence nor is an
+element of the prosecution case. A good example of such a prosecution
+would be that of R v. Paul Swanson, to which I refer to at my paragraph
+11 above. My detailed view on this topic is set out in my Advice of 15 July
+2013 - POL00006357.
+
+b. "the defendant's access to information concerning the integrity of the
+Horizon IT System".
+The Criminal Procedure and Investigations Act 1996 established a two-
+stage process for disclosure. The first stage requires the prosecutor to
+serve any material which meets the test for disclosure, or a statement
+that there is no such material. The second stage requires a defendant in
+the Crown Court to serve a Defence Case Statement - in the Magistrates'
+Court the defendant may serve a Defence Case Statement ("DCS"). A
+DCS should set out the nature of the defence advanced and must be
+sufficiently detailed so as to enable the court and Parties to identify the
+real issues in the trial. Upon service of a DCS the prosecutor is required
+to identify, and serve any material which meets the test for disclosure in
+respect of the defence disclosed. By these provisions it is clear that any
+POL defendant who had served a Defence Statement and so was going
+to trial, would be entitled to receive detailed and complete information
+concerning the integrity of the Horizon IT System and, in my view, such
+material ought to be disclosed to a defendant as part of the first stage
+mentioned above. In reality, any prosecution brought in reliance on data
+from a non-robust Horizon IT system ought not to be brought at all. This
+is why I stopped the Samra prosecution.
+
+Page 11 of 75

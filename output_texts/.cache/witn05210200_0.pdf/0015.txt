@@ -1,0 +1,32 @@
+WITN05210200
+WITN05210200
+
+PLEASE CONSIDER FUJ00118186
+
+Question 30: Why were certain types of cash account discrepancy excluded
+from the agreed error rate criterion of 0.6% (as originally defined in the Second
+Supplemental Agreement) in January 2000?
+
+47. I do not feel that I am in a position to comment on the content of the Second
+and Third Supplemental Agreement as these are contractual documents and I
+was not involved in the drafting or negotiation of the contract between
+Pathway and POCL. I don't recall ever seeing these documents.
+
+48. FUJ00118186 is a document signed by Dave Miller in the presence of Keith
+Baines and dated 19th January 2000. As I explained in my first statement, I
+don't recall being present in January 2000 and I often took an extended
+holiday in January.
+
+49. I believe the contract would have reflected the fact that the agreed error rate
+would only point to exceptions between the individual transactions stream and
+the cash count transaction stream as compiled by the Horizon system. There
+were many different causes of errors not all of which were attributable to
+Pathway, for example those attributable to human error at the point of input of
+information at an outlet. Many of our clients' transactions were not
+automated. Automated products were known within the business as 'token
+drive' products. I believe that the contract would have recognised that
+Pathway weren't responsible for errors which derived from other legacy
+processes/systems/products which hadn't been fully automated/were not
+token driven and which required manual input.
+
+Page 15 of 21

@@ -1,0 +1,34 @@
+WITN04800100
+WITN04800100
+
+the encryption devices. Utimaco would provide support to the Fujitsu test teams
+validating this element of the solution. As such, if a PinICL was raised that was due
+to a fault in the supplied VPN encryption devices, a support ticket would be raised
+against Utimaco to investigate the issue and, where required, Utimaco would deliver
+a fix.
+
+32. The KMS went through the Security Test, System Integration Test, Release Test and
+UAT. The Security Test Team reported to me. Defects raised against security
+products, including the KMS, were triaged by myself, Dave Johns and Roy Birkinshaw
+prior to being allocated to teams for resolution. The defect management process
+generally operated as follows:
+
+a. A PinICL would be raised by the test team to record a system fault that is
+causing a test failure within a test script.
+
+b. Defects would be triaged to (i) confirm that the test failure is as a result of a
+fault in the solution (as a test failure may not be a system fault, for instance
+because the test script was incorrect or an incorrect procedure followed, (ii)
+determine which resolver group (team) to allocate the defect to for
+resolution and (iii) propose defect impact and priority.
+
+c. The Post Office and Benefits Agency, as Joint Authority, would confirm the
+business impact of the defect.
+
+d. Fixes would be delivered by the resolver group and the test would be re-
+run, or the fix inspected (in the case of amendments to documentation).
+
+e. At the conclusion of each test phase, a test report would be completed
+which identified any defects that were unresolved at the point of exiting that
+
+Page 11 of 26

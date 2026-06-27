@@ -1,0 +1,1203 @@
+# WITN09750100.pdf
+
+
+=== Page 1 ===
+
+WITN09750100
+WITN09750100
+
+Witness Name: Gareth James
+Statement No.: WITN09750100
+Dated: 20 April 2024
+
+POST OFFICE HORIZON IT INQUIRY
+
+FIRST WITNESS STATEMENT OF GARETH JAMES
+
+I, Gareth James will say as follows:-
+
+BACKGROUND
+
+1. I am a former employee (from 1997) and Partner (from 2011) of Deloitte LLP ("Deloitte" also referred to as "we" and "us"). I left Deloitte to join EY LLP ("EY") in 2015. This witness statement is made to assist the Post Office Horizon IT Inquiry (the " Inquiry" ) with the matters set out in the Rule 9 Request dated 9 October 2023 (the "Request" ). This statement will focus on answering the 31 questions outlined in the Request and will refer to a number of associated documents. I have been assisted by my legal representative, David Young of Addleshaw Goddard LLP, in drafting this statement.
+
+Page 1 of 39
+
+
+
+=== Page 2 ===
+
+WITN09750100
+WITN09750100
+
+2. I graduated from Nottingham University in 1997 with a Masters in Engineering and joined Deloitte & Touche LLP (which in 2008 became Deloitte LLP) as an auditor in its Nottingham office. I qualified as a chartered accountant in 2001, which is when I started specialising in IT Risk and Analytics services for both external and internal audit functions. I relocated from Nottingham to Leeds in 2001, from where I continue to be based today at EY.
+
+3. I left Deloitte and moved to EY in 2015. I now lead EY's audit data analytics specialists across the UK as well as leading on EMEIA service delivery model transformation strategies.
+
+OVERVIEW OF MY WORK IN RELATION TO HORIZON IT
+
+4. I have been asked about my recollection of Deloitte's engagements with the Post Office Limited ("POL") in relation to its Horizon IT system. In order to provide context to the later detail in this statement, I can say as follows by way of introductory remarks.
+
+5. It is important to note that reference to the 'Horizon IT system' suggests that there has been a single system in place since it was first introduced. This is not correct; the system went through a significant upgrade in or around 2010. The work I performed whilst at Deloitte only related to the upgraded version referred to as 'Horizon Online', 'HNG' and/or 'HNG-X,' where the acronym to my recollection translated as "Horizon Next Generation". I shall refer to that version of the Horizon
+
+Page 2 of 39
+
+
+
+=== Page 3 ===
+
+WITN09750100
+WITN09750100
+
+system throughout this witness statement as "HNG-X." My work did not extend to
+the original or older Horizon system (pre-2010), also referred to as 'Legacy Horizon'
+("Legacy Horizon System").
+
+6. Projects (or potential projects) connected with HNG-X that I was involved in
+during my time at Deloitte are described in more detail in the paragraphs below.
+
+7. POL first approached Deloitte to scope potential work relating to HNG-
+X in 2012. This was Project Spire, which I think was the POL name given to it, but
+we were not appointed by POL to do the actual work.
+
+8. There were also initial discussions with POL around Project Zebra in 2012,
+however as further detailed in this statement we did not begin work on this
+engagement until 2014. Project names were allocated within Deloitte whenever we
+undertook work which was legally privileged so that teams could discuss the work
+without concern over revealing a client's identity internally or inadvertently. Project
+Zebra was definitely the Deloitte project name. This was the only project I worked on
+that related to assessing the reliability of aspects of HNG-X. As explained later in
+this statement, our engagement was limited to a desktop review of the Third-Party
+Assurance Work (see paragraph 29) already undertaken by other advisers for
+POL.
+
+9. I also worked on matters for POL under an internal audit co-source
+engagement from 2008 (the "Co-Source Engagement"). Such engagements are
+common and refer to an arrangement in which a third-party auditor works for a
+company's own internal audit function to support the delivery of their agreed annual
+internal audit plan.
+
+Page 3 of 39
+
+
+
+=== Page 4 ===
+
+WITN09750100
+WITN09750100
+
+10. My work under the Co-Source Engagement did not however involve any assessment of the reliability of HNG-X or the Legacy Horizon System, rather it focused on other POL systems (such as POL SAP) and financial business processes within POL that, in some cases, used data from the Horizon IT System in use at the time of the internal audit work.
+
+THE ISMAY REPORT
+
+11. I have been asked about my recollections regarding the Ismay Report in 2010. As far as I can recall I have never seen the Ismay Report.
+
+2012/13 ASSURANCE REVIEWS
+
+12. I have also been asked a series of questions relating to my involvement in producing a number of work products referenced in question 4 of the Request.
+
+13. I contributed to the production of these work products for Derek Foster, POL's then Head of Internal Audit and Risk Management under the Co-Source Engagement.
+
+14. This work did not involve any assessment of the reliability of the Horizon IT System (HNG-X or Legacy).
+
+PROJECT SPIRE
+
+15. I have been asked questions around my involvement in preparing a number of discussion documents referenced in question 5 of the Request.
+
+16. The documents relating to Project Spire were prepared by myself and my team in response to an invitation from POL. We were invited to share our initial
+
+Page 4 of 39
+
+
+
+=== Page 5 ===
+
+WITN09750100
+WITN09750100
+
+thoughts on how some of the objectives in relation to risks and control measures
+present within the HNG-X system could be addressed by Deloitte specialist teams to
+help POL assess the reliability of the computer processing environment. The
+'processing environment' refers to the combination of IT processes and controls
+within POL, or their third-party suppliers, which underpin the operation of the HNG-X
+system.
+
+17. We were not ultimately instructed on Project Spire.
+
+PROJECT ZEBRA
+
+2012: Initial scoping options discussions
+
+18. I recall that after our Project Spire proposal, but still in 2012, POL was keen
+to understand if and how Deloitte could undertake some work that would enable us
+to provide an opinion on the integrity of the HNG-X processing environment, and so
+we had a further discussion with POL.
+
+19. These discussions with POL resulted in the production of the Project Zebra
+scoping options document (POL00116802), which identified some commonly used
+international standards that can be used as the basis of fomal assurance opinions.
+
+20. The Project Zebra paper was built upon the Project Spire proposal and
+outlined three possible engagement options identified by us. Deloitte was not
+engaged by POL to proceed with the work in 2012; scoping and drafting the
+eventual engagement parameters of Project Zebra did not occur until 2014.
+
+Page 5 of 39
+
+
+
+=== Page 6 ===
+
+WITN09750100
+WITN09750100
+
+21. Whist I cannot recall the specific detail of meetings and their content, my primary contact in respect of the 2012 proposals for Project Spire and Project Zebra was Rod Ismay.
+
+22. Questions 6 and 7 of the Request ask for my comments on my view at the time of what type of review was required in order properly to investigate whether the Horizon IT System was sufficiently robust to produce data that could be relied upon either (a) for management or statutory accounts or (b) prosecutions, and whether I believed POL had carried out such a review when I was preparing the discussion documents in 2012.
+
+23. My recollection of my view at the time aligns with the content of the Project Spire and Zebra discussion documents the Inquiry has provided with the Request (referenced in paragraph 15 and 19 above). These options are common approaches for the provision of independently gathered information and assurance relating to IT risks and the preparation of management and statutory accounts, which management (and/or their legal team) in turn would need to assess in the context of their specific needs and wider work. I cannot comment upon what could be relied upon for prosecutions as this is beyond my area of expertise and it would presumably depend on the options chosen by the client for work to be done. What we knew in terms of scoping work that we could do for POL is reflected in the discussion documents.
+
+24. As the audit analytics lead for Deloitte at the time, I was aware that POL was undertaking various discrete data-driven reconciliations tying Horizon data to other systems and ledgers, but I did not understand that POL had done any substantial
+
+Page 6 of 39
+
+
+
+=== Page 7 ===
+
+WITN09750100
+WITN09750100
+
+end-to-end independent data-driven assessments relating to the reliability of
+processing.
+
+25. I cannot recall and therefore comment on any other reviews or projects POL
+was involved in at the time.
+
+2013: Second Sight's draft interim report
+
+26. I have been asked in question 8 of the Request to provide an explanation as
+to why I was sent a copy of the Second Sight's draft interim report in July 2013.
+
+27. I recall receiving the email provided with question 8 of the Request
+(FUJ00087091) which attached the Second Sight draft interim report. However, it
+was not made clear why this was sent to me and I do not recall requesting or
+reading the report. I note that at that time I had not been appointed to do work for
+POL on HNG-X and I thus had no mandate to read such detailed, confidential third-
+party information.
+
+2014: Project Zebra
+
+a) Engagement and scope
+
+28. Deloitte was engaged by POL by way of an Engagement Letter dated 9 April
+2014 ("Engagement Letter") (POL00108464) to undertake a desktop review (see
+paragraph 30) and provide an 'independently-produced summary of the
+assurance and other work undertaken, over [POL's] current day Horizon
+HNG-X system, (for presentation to and discussion with the POL Board
+[during a meeting on 30 April 2014]' (the "Board Meeting"). This summary
+document is referred to as the Deliverable (as defined below).
+
+Page 7 of 39
+
+
+
+=== Page 8 ===
+
+WITN09750100
+WITN09750100
+
+29. The 'assurance and other work undertaken, over [POL's] current day Horizon HNG-X system' that Deloitte was engaged to review is detailed in Appendix 1 to the Engagement Letter (the "Third-Party Assurance Work").
+
+30. 'Desktop review' in this context means that Deloitte was not engaged to conduct testing of the HNG-X system necessary to provide an opinion on the completeness, accuracy and quality of the Third Party Assurance Work, but instead and as per the Engagement Letter the 'work [was to be] preformed through a combination of a desk-based inspection of documentation, corroborative enquiry and through third party-provided evidence or contact...' in order to provide an overview of the Third-Party Assurance Work already undertaken.
+
+31. The reference made to 'Horizon HNG-X' in the Engagement Letter is important. It is clearly stated that '[only] matters relating to the Horizon HNG-X processing environment will be considered in our review. We will not consider any information relating to the legacy Horizon system...' This makes it clear that the scope of our work only related to the HNG-X system. The Legacy Horizon System was excluded from our Scope (defined below) as we were informed that all data from the pre-2010 system had been deleted.
+
+32. Prior to finalising the Engagement Letter, my team and I considered possible assumptions or conclusions that might be reached by POL in error or by overestimating the nature and extent of our work, as a result of the instructions and how to address them.
+
+Page 8 of 39
+
+
+
+=== Page 9 ===
+
+WITN09750100
+WITN09750100
+
+33. I recall being conscious that our Deliverable could be misinterpreted by
+POL as providing complete assurance over the HNG-X System itself, rather than an
+assessment of the Third-Party Assurance Work. The following mitigations were
+identified and included:
+
+i. Agreeing in the Engagement Letter that our Scope was to review and
+summarise the Third-Party Assurance Work rather than providing direct
+assurance on the HNG-X System itself.
+
+ii. Ensuring there were ongoing communications with the POL Client Team
+(defined below) to emphasise the parameters of our Scope (as per (i)
+above).
+
+iii. Highlighting clearly in our Deliverable the work we had and had not
+undertaken.
+
+34. We were from the outset concerned that we would not be able to conclude
+our review and finalise our Deliverable within POL's required timescale. We
+therefore agreed with POL that we would limit our Scope by dividing it into two parts.
+
+35. Part 1 of the instruction, as a desktop review, did not include testing or
+implementation of the control measures identified in the HNG-X System. Part 1
+related only to gathering an understanding of the system, existing assurance
+sources over key IT risks and whether there appeared any key gaps in controls or
+assurance provided (the 'assurance map'). My intent was that, based on such part 1
+information and understanding, more targeted independent testing and data
+analytics could be performed, if required by POL, in an anticipated part 2.
+
+36. A key reason behind a two-part proposal was that there was limited time
+within which Deloitte was asked to complete a Deliverable. It was not possible both
+
+Page 9 of 39
+
+
+
+=== Page 10 ===
+
+WITN09750100
+WITN09750100
+
+to appropriately scope and then carry out the testing needed to assess the control
+measures in the time within which POL required a Deliverable to be concluded. This
+is made clear by the assumptions upon which Deloitte's work was to be
+based, as detailed in the Engagement Letter. We stated that 'Deloitte will not
+verify or test any information provided directly by [POL], or indirectly by third
+parties' and 'Deloitte will adopt a time-limited approach to our work dependent
+on the accuracy of the assumptions.'
+
+37. As stated, the outcome of part 1 would inform whether part 2 was required by
+POL and, if so, which specific areas of risk should be targeted. However as detailed
+further in this statement, I never received approval from POL to (i) conclude part 1
+with the submission of a final part 1 report and (ii) begin part 2.
+
+38. Project Zebra was therefore designed to provide services in two parts ("the
+Services").
+
+39. Part 1 of the Services was 'to provide, based upon the information made
+available to [Deloitte] by [POL], an independently produced summary of the
+assurance and other work undertaken, [POL's] current day Horizon HNG-X system,
+for presentation and discussion with the POL Board.' In summary, this was to
+include the following:
+
+(i) Obtain an understanding of the general allegations we were hearing and
+which were being reported in the media that the "Horizon HNG-X" IT system,
+used to record transactions in Post Office branches, was defective and/or
+that the processes associated with it were inadequate; the key risks in and
+internal controls over the Horizon HNG-X processing environment relevant to
+the integrity of processing; the measures in place to record and preserve the
+
+Page 10 of 39
+
+
+
+=== Page 11 ===
+
+WITN09750100
+WITN09750100
+
+integrity of system audit trails and other background matters that Deloitte
+may deem necessary to complete our Deliverable (defined below). The intent
+of this part of the Scope was to explore with POL which parts of the
+processes sub-postmasters were alleging were not working.
+
+(ii) Obtain an understanding of the key differences between the current
+hardware and software used to make up the Horizon HNG-X System,
+compared to that of the Legacy Horizon system. It is important to note that
+this did not involve providing any assurance as to the integrity of the Legacy
+Horizon System because as I have indicated already my recollection is that
+we were told that no data from Legacy Horizon was retained so this part of
+the Scope was simply to understand what had changed in the transition from
+Legacy Horizon to HNG-X.
+
+(iii) Review, understand and consolidate the existing Third-Party Assurance
+Work (as was detailed in Appendix 1 to the Engagement Letter).
+
+(iv) Hold discussions with relevant members of POL staff and other key
+stakeholders as pre-agreed with POL.
+
+(v) Prepare a report on findings in the format and with the details outlined in
+section 2(d) of the Engagement Letter (the "Deliverable").
+
+(vi) Attend twice-weekly meetings or conference calls with the POL client team
+("Client Team"), to explain Deloitte's approach, status of work and
+commentary within our Deliverable.
+
+(together referred to as the "Scope")
+
+40. The POL Client Team consisted of Lesley Sewell, Chief Information Officer;
+Chris Aujard, General Counsel; Belinda Crowe, Programme Director; and Rodric
+Williams, Litigation Lawyer. The Client Team was to report on the Project Zebra
+
+Page 11 of 39
+
+
+
+=== Page 12 ===
+
+WITN09750100
+WITN09750100
+
+engagement to Paula Vennells, POL Chief Executive. My POL points of contact
+throughout the project were Chris Aujard and Rodric Williams in POL Legal ("POL
+Legal Team") and the majority of meetings and conference calls (as per (vi) above)
+were only attended by POL Legal Team representatives.
+
+41. There were a number of limitations to the work Deloitte was able to conduct
+which are reflected in the Scope. These have been mentioned above and detailed
+further below in the statement, but include:
+
+(i) a review of the HNG-X System which was introduced in 2010 but excluding a
+review of the Legacy Horizon System;
+
+(ii) excluding testing and implementation of the HNG-X processing environment
+to determine whether risk related control measures were sufficient to confirm
+the reliability of the HNG-X System in practice as a result of time constraints;
+and
+
+(iii) as a result of (ii) above, only conducting a desktop review of the Third-Party
+Assurance Work already undertaken in relation to the reliability of the HNG-X
+System and not testing the quality, completeness or accuracy of this advice.
+
+42. As a result of limitations, the work conducted by Deloitte had to be
+based upon a number of assumptions, most importantly, those detailed in
+paragraph 41 above. This meant that the work conducted by Deloitte had to
+presume the accuracy of statements made and information provided by third parties
+as to the design of the system and how this worked in practice; Deloitte was not
+instructed to question or test the accuracy of such statements or information.
+
+43. I was the Deloitte Partner responsible for provision of the Services.
+
+Page 12 of 39
+
+
+
+=== Page 13 ===
+
+WITN09750100
+WITN09750100
+
+44. My role included leading a team of IT and data risk specialists; day-to-day liaison with the POL Legal Team; attending twice-weekly meetings with the POL Legal Team (which happened in lieu of the twice-weekly meetings with the Client Team anticipated in our Engagement Letter); to provide an update on findings and progress; planning and reviewing outputs from interviews with POL and Fujitsu staff (which were carried out by individuals in my team) and assessment of documentation provided by POL and third parties plus attending a meeting with the POL Board (as requested by the POL Legal Team) and, finally, drafting the Deliverable in accordance with the Engagement Letter provisions.
+
+b) The Board Meeting (held on 30 April 2014)
+
+45. I have been asked a series of questions throughout the Request regarding my involvement and attendance at this Board Meeting. As mentioned in paragraph 28 above and as outlined in our Engagement Letter, Deloitte was to produce the Deliverable for presentation to the POL Board at the Board Meeting. To be clear the Board meeting referred to was that held on 30 April 2014.
+
+46. I attended only part of this Board Meeting in order to address one item on the agenda relating to Project Zebra, for which Chris Aujard was the owner/sponsor. An outline of what was discussed in relation to this is detailed under 'HORIZON - DELOITTE REPORT' at POLB 14/55 of the Board minutes (POL00027411). My recollection is that I was in the room for less than an hour.
+
+47. A number of draft versions of the Deliverable were produced and circulated to Chris Aujard and/or Rodric Williams prior to the Board Meeting. There were 16
+
+Page 13 of 39
+
+
+
+=== Page 14 ===
+
+WITN09750100
+WITN09750100
+
+draft versions of the Deliverable in total, but not all of these were shared with the
+POL Legal Team as some version changes were the result of Deloitte internal
+review procedures. The draft Deliverable had a number of different titles throughout
+the drafting process, including 'Project Zebra – Phase 1 Report: HNG-X Review of
+Assurance Sources' (POL00105635) and 'Horizon: Desktop Review of Assurance
+Sources and Key Control Features.' (POL00028062).
+
+48. I cannot recall which versions of the draft Deliverable were shared with the
+POL Legal Team, and which versions resulted from Deloitte internal reviews.
+
+49. As outlined in our Engagement Letter, it was my assumption that the POL
+Legal Team was keeping senior POL stakeholders appropriately informed and
+sighted on our work. It was not expressly mentioned in the Board Meeting whether
+the Board members had received a draft version of our Deliverable (as shared with
+the POL Legal Team). The 'contents and key extracts' report referred to below (see
+paragraph 51) formed the primary basis of discussion in the Board Meeting.
+However, I assumed at the time that the Board members had access to the draft
+Deliverable for three reasons; first the purpose of the Deliverable was for the Board
+Meeting; second, the summary document presented at the Board Meeting
+(see paragraph 50 and 51 below) made clear reference to the Deliverable;
+and, third, they thanked me for it during the meeting.
+
+50. As our final Deliverable was taking shape, there were requests from the
+POL Legal Team to produce further documentation. For example, due to the
+length and detail of our Deliverable we agreed to produce a 'contents and key
+extracts' (POL00105635) document to frame the discussions for the purposes of the
+Board Meeting. As part of this discussion document, we were asked to make
+
+Page 14 of 39
+
+
+
+=== Page 15 ===
+
+WITN09750100
+WITN09750100
+
+summary statements from our work on any issues we had found. Given our
+concerns on misinterpretation from our work (see paragraphs 32 and 33 above), this
+led to the form of words written into the 'contents and key extracts' document, and
+attention drawn to specific matters such as the understanding we had obtained over
+balancing transactions.
+
+51. I was not aware of anything else discussed by the Board before or after my
+attendance. At the time of the Board Meeting, our Deliverable was in a mature draft,
+and was very detailed, so (as I have explained above) the "content and key extracts"
+document was prepared by Deloitte (at the request of the POL Legal team) to seek
+to highlight key points for the Board discussion.
+
+52. The output from the Board Meeting was a request for me to consider the
+following key matters:
+
+i. 'In the context of specific allegations regarding non-traceable, "phantom"
+transactions existing in Horizon – what assurance could be provided over
+how the system records and maintains the transaction logs;
+
+ii. In wider context, what further assurance could be given both pre and post
+2010 (when there was a change in the Horizon system in use).'
+
+53. This led to changes to our Scope which are detailed in subsequent
+paragraphs below.
+
+54. I have been asked in question 16 of the Request to comment
+specifically upon my impression on the leadership style, the effectiveness of
+the Board (including its understanding of IT) and what I considered the
+Board's purpose was in inviting me to the Board Meeting. My primary contacts
+
+Page 15 of 39
+
+
+
+=== Page 16 ===
+
+WITN09750100
+WITN09750100
+
+in POL for this work were the POL Legal Team, and my exposure to the
+Board was limited to attendance at a single Board meeting to discuss one
+agenda item which was the work commissioned in the Engagement Letter. I
+am not able to comment beyond that. The Engagement Letter was the result
+of discussions in early April 2014 with the POL Legal Team and that details
+what I understood at the time, which included the planned attendance at the
+Board Meeting.
+
+55. I have also been asked to comment upon a direct quote from the Board
+Minutes which reads 'Deloitte's views would need to be expressed in such a
+way that they would persuade reasonable lay people.' I do not directly recall this
+comment, reflected in the minute at POLB14/55(d) nor what the context may have
+been, but it is not unusual for clients to ask us to use non-technical language, as far
+as reasonable, in our Deliverables.
+
+56. With regards to the question as to whether I consider the minute at POLB
+14/55(d) to be a full and accurate account of what I said to the Board, I would
+say that the Minute is plainly not a verbatim account of what was said, rather a
+summary of a more contextual and detailed conversation. I was not provided with
+a copy of the minutes or asked to comment on their accuracy at the time. In
+terms of further detail, I do recall talking the Board through our Scope in greater
+detail than is reflected, to ensure (for example) that the Board appreciated that our
+work on the HNG-X system did not cover the Legacy Horizon System and that our
+work had not engaged in testing, so was reliant on the completeness and accuracy
+of documentation and answers to questions. A further example of the greater detail
+
+Page 16 of 39
+
+
+
+=== Page 17 ===
+
+WITN09750100
+WITN09750100
+
+discussed can be seen from the actions I was asked to take away (described in
+paragraph 52).
+
+c) Changes in Scope
+
+57. As mentioned above, the Scope of our work expanded following the Board
+Meeting. The change order dated 6 May 2014 (the "Change Order")
+(POL00117612) referenced in question 17 of the Request clarified further items that
+the POL Board required Deloitte to perform as part of its part 1 activities.
+
+58. The reason for this extension is summarised in the Board Briefing
+(defined below); 'as [part 1] work progressed it became apparent that in some
+key areas [Third-Party Assurance Work] was either not relevant or could not
+be located by POL. For example, because the Horizon On-Line modification in
+2010 was found to have not significantly impacted features relating to the
+integrity of processing, the scope of testing did not identify and test such
+features; nor had any work been performed to test relevant in-built controls in
+Horizon and its surrounding business controls, other than access controls.'
+
+59. On 6 May 2014, we were, therefore, instructed to extend our desktop review
+and assemble an initial schedule of key control features in HNG-X from the existing
+additional documentation received from POL and Fujitsu. For clarity, the findings
+from this extension of our Scope were integrated into version 16 of our draft
+Deliverable, mentioned above.
+
+60. A final draft of our Deliverable (version 16) was issued to the POL Legal
+Team on 23 May 2014 (POL00028062). It was described as a draft because POL
+had requested that we keep it that way until they indicated it could be marked as
+
+Page 17 of 39
+
+
+
+=== Page 18 ===
+
+WITN09750100
+WITN09750100
+
+final. POL never did ask for version 16 of the draft to be converted into a final version
+and instead asked us to produce the shorter Board Briefing mentioned in paragraph
+62 below. I eventually assumed this was no longer a priority for POL and thus
+version 16 is what I consider to be the final version of the Deliverable. This version of
+the Deliverable included the outputs from the Change Order.
+
+61. The Change Order is referenced alongside a document entitled
+'Deloitte – HNG-X: Review of Assurance Sources – Discussion Areas re:
+Phase 2 – Draft For Discussion' (POL00031384) in question 17 of the
+Request. This document was produced to assist in scoping further part 1
+work, as ultimately agreed and signed off by Chris Aujard following requests
+made in the Board Meeting.
+
+62. Deloitte also produced a further document for a subsequent POL Board
+meeting. In our Change Order this is referred to as a 'Board update document' but it
+was ultimately finalised under the title 'Board Briefing' (POL00028069) dated 4 June
+2014.
+
+63. The Board Briefing addressed five matters (collectively the 'Matters') where
+'the design and operation of the 'Horizon Features' were critical to supporting POL's
+legal position.' These were:-
+
+i. Horizon only allows complete baskets of transactions to be processed;
+ii. Baskets being communicated between Branch and Data Centre are not
+subject to tampering before being copied into the Audit Store (defined
+below);
+
+Page 18 of 39
+
+
+
+=== Page 19 ===
+
+WITN09750100
+WITN09750100
+
+iii. Baskets of transactions recorded to the Audit Store are complete and
+'digitally sealed', to protect their integrity and make it evident if they have
+been tampered with;
+iv. Horizon's Audit Store maintains and reports from a complete and unchanged
+record of all sealed baskets; and
+v. Horizon provides visibility to Sub-postmasters of all centrally-generated
+transactions processed to their Branch ledgers.
+
+64. The 'Horizon Features' were those (a) built directly into HNG-X to exert
+control over processing; (b) relating to IT management activities over HNG-X and (c)
+relating to POL's business processes that use HNG-X. We defined these as being
+features:
+
+'...deemed relevant by POL to their objectives if they supported the statements
+that Sub-postmasters have full ownership and visibility of all records in their
+Branch ledger, and that audit trails kept by Horizon are complete and
+accurate'.
+
+65. As outlined in the Board Briefing, no documentation from the Legacy Horizon
+System's implementation in 1995 remained available and so we were unable to
+conduct a desktop review of features of this system. However, a review of the
+documentation and interview responses relating to the HNG-X system, combined
+with verbal statements from Fujitsu that the Legacy Horizon System's key design
+features were the same as HNG-X suggested that, if implemented and operating
+effectively, such features would support the robust operation of the system. The
+identified features were reported in the final version of our Deliverable (see
+paragraph 60), however for the reasons stated above we could not provide
+
+Page 19 of 39
+
+
+
+=== Page 20 ===
+
+WITN09750100
+WITN09750100
+
+any assurance that such features were actually built into the Legacy Horizon
+System.
+
+66. I have been asked in question 19 of the Request to comment upon the
+nature and extent of the Centera configuration issue identified in an email to
+Rodric Williams on 20 May 2014 (POL00029728) to which I was in copy.
+
+67. Centera is the bespoke hardware on which the Audit Store data resides.
+The Audit Store is the part of the HNG-X system where histories of detailed branch
+transactions are maintained (with wider audit trail information, such as system and
+user identification data points). In addition to software application controls, we were
+told by Fujitsu that the Audit Store used bespoke hardware that gave additional
+assurance that data in the Audit Store was preserved reliably. This hardware
+(Centera) can be configured to differing degrees of security (Centera CE+ as
+opposed to Centera Basic).
+
+68. During our work, we identified conflicting information on how Centera (the
+Audit Store hardware) was configured, and so members of my team asked Fujitsu
+to confirm the facts. Some responses had suggested that HNG-X was configured
+to CE+ mode. The system was subsequently confirmed to be configured to the
+Basic mode only.
+
+69. In CE+ mode, data could only be edited on-site (by administrators, physically
+present at the hardware), whereas in Basic mode, editing could be performed by
+administrators remotely. I recall that, from a risk point of view, this difference had little
+significant impact on the wider overall HNG-X control environment for the reasons
+outlined below.
+
+Page 20 of 39
+
+
+
+=== Page 21 ===
+
+WITN09750100
+WITN09750100
+
+70. We were informed by Fujitsu that changes could only be made by a limited number of individuals with administrator access (not 'ordinary Fujitsu staff'), regardless of whether this was performed remotely or on-site. Any such access was logged by the system, which also had 'digital seal' arrangements in place on records, making editing detectable (with the exception of the unusual but technically feasible work-around set out below).
+
+71. The absence of remote management capabilities in the CE+ mode makes it marginally more secure, but as explained above we considered access rights, logging and digital seals (all included in Basic mode) the key controls to preserve data integrity.
+
+72. The reference to the 'delete and replace' scenario explores the technical feasibility that instead of 'editing' a transaction, an administrative user could 'delete and replace' a transaction in the Audit Store. Although we found this technically possible to do (by someone with access, who could also reinstate a formal digital seal), we were informed by Fujitsu staff that we interviewed that this was not done by Fujitsu administrators.
+
+73. Based on what we were told by Fujitsu staff, an ordinary Fujitsu employee would not have the requisite access rights to perform such transaction deletion and reinsertion in the Audit Store. I also recall my team reporting that Fujitsu staff had to investigate to see if it would actually be possible. The technical feasibility of this workaround and the lack of documentation was reported in our Board Briefing and Deliverable.
+
+Page 21 of 39
+
+
+
+=== Page 22 ===
+
+WITN09750100
+WITN09750100
+
+74. I should reiterate that, being a desktop review, and as highlighted extensively in our Deliverable and other documents, our Scope excluded implementation and operating effectiveness testing. Accordingly, there was no evidence beyond the verbal assertions and documentation we received from either POL or Fujitsu of these stated measures being in place and operating. As outlined in the Deliverable, we were reliant upon the accuracy of statements made as it was not in Scope for us to '[verify] or [test] any information provided directly by POL, or directly or indirectly by third parties.'
+
+75. Our findings in relation to this were included in the Board Briefing (POL00028069) :-
+
+'We have not identified any documented controls designed to:
+
+Prevent a person with authorised privileged access from deleting a digitally sealed group of data and replacing it with a 'fake' group within the Audit Store (which could still have a valid digital signature, if they have access to keys, and a valid digital seal created using a publicly available formula).'
+
+d) Work products produced by Deloitte
+
+76. Due to changes in part 1 scope agreed in the Change Order (as detailed above) we ultimately produced the following documentation:
+
+i. A full draft report detailing the findings of our review of the Third-Party Assurance Work relating to the HNG-X System. This was referred to as the 'Deliverable' (POL00028062) in our Engagement Letter. There were
+
+Page 22 of 39
+
+
+
+=== Page 23 ===
+
+WITN09750100
+WITN09750100
+
+various iterations with differing titles. The final draft version (version 16)
+was dated 23 May 2014.
+
+ii. a 'contents and key extracts document' summarising the findings of the
+above-mentioned Deliverable for a discussion with the POL Board that
+occurred during the Board Meeting.
+
+iii. A Board Briefing document produced at the request of the POL Board
+following the Board Meeting which addressed five key matters.
+
+77. With reference to draft versions of the Board Briefing, I have been
+asked (with reference to the quote (POL00031391 and POL00029726) in
+question 18b of the Request) what I would consider a 'significant deficiency in the
+identified design features'.1 It would be a risk that does not have a suitably designed
+internal control response. For example, a risk of transactions being created, edited,
+or deleted by unauthorised individuals would be a significant deficiency unless
+internal controls such as system access controls were in place.
+
+78. Question 20 of the Request focuses on a document entitled 'Deloitte –
+Horizon Desktop Review of Assurance Sources and Key Control Features, Draft for
+Discussion, dated 23 May 2014' (POL00028062). This document is version 16 of
+the Deliverable (see paragraph 76 above for further details).
+
+79. Question 20c of the Request, asks that I consider a specific quote taken from
+the Deliverable2 and comment upon what it means for 'the Horizon system
+
+1 "nothing has come to our attention that suggests there are significant deficiencies in the identified design features..."
+2 The extensive Horizon system documentation is structured from a technical rather than a risk and controls perspective and
+provides an understanding of the Horizon Features. POL should conduct a formal assessment to identify a complete
+set of Horizon Features that respond to POL's control objectives.
+
+Page 23 of 39
+
+
+
+=== Page 24 ===
+
+WITN09750100
+WITN09750100
+
+documentation to be structured from a technical rather than risk and controls
+perspective'.
+
+80. The documentation provided to us was of an operational nature i.e. how
+HNG-X worked in practice rather than covering governance and risk management.
+For example, we were provided with a number of policies and procedures relating to
+the configuration and running of the system but were not provided with the risk
+and control matrices which would have highlighted what risk management controls
+are required and why.
+
+81. As to whether it was common practice for similar projects undertaken
+by Deloitte not to include testing (see question 20d of the Request in relation
+to a quote from the Deliverable on limitations3), I would say this is not
+uncommon in reviews of this nature. However, such a short amount of time in
+which to report on complex matters is far less common. It is evident from our
+communications with POL referenced in question 20 of the Request, that we
+accommodated POL's tight timetables by focusing our Scope on part 1 Services
+(see paragraph 39 above for further details). The Scope Limitations detailed on
+pages 5 to 6 of the Deliverable were not constraints to the conduct of our work.
+
+82. The key item in the Scope Limitations which limited our ability to understand
+the facts of the full Horizon IT system, is the final bullet on page 5 of our Deliverable:
+
+'Our work was limited by significant gaps existing in the information available,
+relating to both the granularity of information and the existence of the Horizon
+Features over the entire timeline of operation of Horizon. The effect of which
+
+3 "the Assurance Work we have assessed does not completely test these features for implementation and operating effectiveness"
+
+Page 24 of 39
+
+
+
+=== Page 25 ===
+
+WITN09750100
+WITN09750100
+
+is that there are gaps within what we are able to comment upon over this
+timeline.'
+
+83. This limitation meant the full history of the Horizon Features could not be
+determined, in particular pre-2010 where documentation was not available and
+Fujitsu staff unable to recall or clarify key facts for us, due to the Legacy system no
+longer being available.
+
+84. I believe the assumptions on page 6 of our Deliverable (see question 20f of
+the Request) were appropriate because our Scope did not extend to detection or
+consideration of those risks; it was important to highlight this point.
+
+85. My team looked at the issues mentioned in question 20g of the Request:
+"Branch 14 Issue", "Branch 62 Issue", "Falkirk Issue" and the "Lepton Detailed Spot
+Review Infomation." As detailed in the Deliverable, these were matters we
+identified from the documents provided by POL which 'helped to provide us
+with a high-level understanding of the nature and extent of potential concerns
+with the Horizon processing environment, and thus focus our work in certain
+higher risk areas.' All these matters related to alleged processing errors and
+anomalies in the HNG-X system that resulted in accounting discrepancies.
+
+86. Such specific accusations of error (see paragraph 85) helped to inform our
+wider understanding that led to the creation of the risk diagram on page 4 of the
+final Deliverable. This part of the work was undertaken to understand potential
+risks in respect of which assurance sources may be required.
+
+Page 25 of 39
+
+
+
+=== Page 26 ===
+
+WITN09750100
+WITN09750100
+
+87. Three assurance reports are identified at page 25 (ISO 27001, ISAE 3402 and PCI DSS) of our Deliverable and I have been asked to summarise the degree of assurance I believe POL could take from these. Whilst all of the reports are formal sources of assurance, it is important to understand the purpose for which they are individually intended and whether they can, in aggregate, provide the assurance that POL management required in respect of key risks. Our view on limitations and points of consideration relevant to each was outlined on page 25 of our Deliverable.
+
+88. Our key point in this section was that the Third-Party Assurance Work was primarily focused on information security risks rather than operations and change management risks. We also highlighted to POL (see Appendix 2 of our Deliverable) that it would be important to ensure these detailed Horizon Features had suitable sources of assurance either identified or performed.
+
+89. Question 20j of the Request asks how the 'Level of Comfort' was assessed as "Partial" for the following matter:
+
+'For any outstanding (non-accepted) Transaction Acknowledgement or Transaction Corrections at month end, a formal resolution process exists which enables non-accepted items to be identified, held in suspense and actively investigated to the point of resolution with the Sub-postmaster. Business as usual resolution activities can be taken to conclude outstanding items and have them cleared down'.
+
+90. From what I recall, the Level of Comfort was assessed as partial for that particular matter, as processes were reported to exist to clear such non-accepted
+
+Page 26 of 39
+
+
+
+=== Page 27 ===
+
+WITN09750100
+WITN09750100
+
+items with Sub-postmasters but these items were not always cleared on a timely
+basis.
+
+91. With reference to the Board Briefing, question 23c of the Request asks
+that I consider a particular quote5 and clarify what is meant by 'the matters
+explicitly drawn out in [the] full report' that I considered went against the stated
+objectives. Here the Board Briefing is referring to the 'Matters for Consideration'
+contained in Section 6 of the Deliverable.
+
+92. I am also asked to provide a view on the extent to which the findings in
+our Deliverable and other work products, such as the Board Briefing, cast any
+doubt over (a) the integrity of the Horizon IT System or (b) the safety of past
+convictions that relied on data produced by the Horizon IT System (HNG-X or
+Legacy). On (a) I have tried to explain in this statement the limitations on what
+we were asked or indeed could do both in the time we had and in the absence
+of more data and information relating to Legacy. That is why I was careful in
+the Engagement Letter and Scope to have clarity and acknowledgement. The
+Board Briefing provides the best summary of what we were able to conclude.
+On (b) we were never asked to address that question and I am not qualified or
+competent to express a specific view but in general terms I do not think our
+work cast doubt, rather it stopped short of confirming that assurance sources
+were in place to provide comfort that the system was operating reliably, and
+went on to recommend further areas of work, targeting key potential risks, to
+
+5 "Based on the desktop review we have performed, except for the lack of monitoring controls and the matters explicitly drawn
+out in our full report, we have not become aware of anything to suggest that the system as designed would not deliver the
+objectives of processing of baskets of transactions and keeping copies of them in the Audit Store with integrity" .
+
+Page 27 of 39
+
+
+
+=== Page 28 ===
+
+WITN09750100
+WITN09750100
+
+verify if key internal controls that were key to the reliable operation of the
+system were operating effectively or not.
+
+e) Correspondence and discussions with POL and third parties
+
+93. I have been asked to comment on a number of emails and discussions
+between myself and different members of the POL Client Team. I will address
+each of these interactions in the following paragraphs.
+
+94. Prior to any references to specific discussions, however, I am asked to
+provide an overview of key conversations I had with POL or Fujitsu
+representatives. Given the passage of time, I cannot now recall sufficient detail to
+provide such an overview. However, I recall that as the engagement was conducted
+under legal professional privilege, communication was managed primarily via the
+POL Legal Team and those who facilitated access to anyone we wanted to speak
+to. Those to whom we requested access are listed in the appendix to our
+Deliverable. My specific recollections are set out in the following paragraphs.
+
+95. We were able to request interviews with any 'key stakeholders' including
+Fujitsu personnel, as long as these were pre-agreed and approved by the POL
+Legal Team.
+
+96. I did not personally go on site at Fujitsu to conduct the interviews that have
+been described. Members of my team undertook those interviews.
+
+97. Question 10 of the Request relates to an email (and associated
+attachments) (POL00117519) that was sent to me by Rodric Willams on 2
+April 2014. I accept from reading the email that there was a call with him on that
+
+Page 28 of 39
+
+
+
+=== Page 29 ===
+
+WITN09750100
+WITN09750100
+
+date. As the following paragraphs hopefully make clear, there was plainly an
+ongoing conversation, primarily with Rodric Williams, which ultimately led to the
+production of our Engagement Letter on 9 April but my ability to recollect the
+contents of individual discussions is limited by the passage of time beyond what is
+recorded in the emails.
+
+98. I am also asked to comment on whether POL's instructions would
+enable Deloitte to provide a piece of work that provided any or any reasonable
+assurance as to the integrity of the Horizon IT System. As outlined in our 2012
+Project Zebra proposal, (POL00116802) I was of the view that options were
+available to POL to carry out detailed work that could provide assurance over the
+integrity of HNG-X. Such assurance would have required more detailed work than
+was eventually agreed in Part 1 of our Scope, for example testing of implementation
+and operating effectiveness, alongside data extraction and analysis and the potential
+ultimate application of international standards frameworks such as ISAE3000.
+
+99. In question 11 of the Request, I am asked to comment on a meeting
+that I had with Rodric Williams on 3 April 2014, as referenced in two emails
+that were sent to me; the first from Rodric Williams on 4 April 2014 (with
+associated attachments) (POL00125760) and the second from Belinda Crowe
+also on 4 April 2014 (POL00117551). As indicated in paragraph 97, I know
+that the various discussions took place in the week leading up to the
+production of our Engagement Letter but my recollection of discussions in
+specific meetings is now limited.
+
+100. The same is, I regret, true in relation to Question 12 which refers to an
+email exchange between Belinda Crowe and me on 7 April 2014
+
+Page 29 of 39
+
+
+
+=== Page 30 ===
+
+WITN09750100
+WITN09750100
+
+(POL00108407) and asks for my recollection of the discussions referred to in
+that exchange.
+
+101. Finally, an email from Gareth Jenkins to me and others on 10 April
+2014 (POL00100514) is referenced in question 15. I am asked for my
+recollection of the purpose of the meeting referred to in that email. I apologise
+but I simply cannot now recall the details of what was discussed at this meeting or
+its purpose.
+
+102. I have been asked a series of questions under the sub-heading
+'Following the full report.' These questions relate to events that followed after
+version 16 of the Deliverable was sent to the POL Legal Team on 23 May
+2014. Question 21 of the Request specifically refers to an email chain
+between me, Rodric Williams and Chris Aujard from 29 to 30 May 2014 and a
+forwarding email from Chris Aujard to the POL Board circulated on 29 May
+2024 at 18:25hrs (POL00031400).
+
+103. As discussed at para 62, a new document known as the Board Briefing was
+prepared following discussions on 29 May 2014 with the POL Legal Team. Chris
+Aujard made it clear he required a shorter document for the Board, focusing on
+extracts from our draft Deliverable.
+
+104. To be clear, I believe Chris Aujard's email of 29 May 2014 was referring to
+version 16 of the Deliverable because there was no other 'full report'.
+
+105. I have not previously seen Chris Aujard's forwarding email to the POL Board.
+Reading it now, I do not think that it was fair. The email from Chris Aujard criticising
+our delivery indicates there were expectations of the substance of our commentary
+
+Page 30 of 39
+
+
+
+=== Page 31 ===
+
+WITN09750100
+WITN09750100
+
+which would not have been possible from the part 1 work alone, particularly
+considering it was limited to a desktop review to provide a summary of Third-
+Party Assurance Reviews. We were not able to provide the level of assurance
+requested by the POL Legal Team before our engagement began and this
+would not have been possible regardless in the time available, even if detailed
+testing had been instructed. This was made very clear from the outset of our
+instruction and is documented in both the Engagement Letter and the
+subsequent Change Order, as well as in the Deliverable.
+
+106. The dialogue with POL during the run-up to the Board Meeting and during
+May 2014 was exclusively with the POL Legal Team, in particular Chris Aujard and,
+to a lesser extent, Rodric Williams.
+
+107. I do recall thinking that certain aspects of the Horizon Features (in particular
+relating to the Audit Store) exceeded the level of transactional archive control that
+one would usually see in other retail businesses with large numbers of branches,
+and I do recall a desire from the POL Legal Team for Deloitte to make succinct
+positive statements on this in our Deliverable. This resulted in discussions with the
+POL Legal Team regarding key wording that could be used in the Executive
+Summary of our Deliverable.
+
+108. It was imperative to Deloitte that extracts should not be taken from our
+Deliverable and used without appropriate context, in particular given the points noted
+previously relating to our Scope (for example the limitation to HNG-X only) and the
+nature of our work (for example the absence of testing).
+
+Page 31 of 39
+
+
+
+=== Page 32 ===
+
+WITN09750100
+WITN09750100
+
+109. I do recall feeling pressure at this stage to include particular assurance wording. I had excellent support from my senior colleagues in Deloitte, including a very experienced second review partner, who agreed that the wording we had included in the draft Deliverable was appropriate and we could not appropriately go any further. We confirmed to the POL Legal Team that we would be unable to alter the wording as requested, particularly given the Scope, timing and nature of the work performed.
+
+110. Question 22 of the Request asks that I consider and set out the background to an email from myself to Rodric Williams on 4 June 2014 (POL00031408). That date coincides with the date on the Board Briefing, however I cannot recall the background to this email and I am unable to now say if my email to Rodric Williams on 4 June was sent after or prior to delivery of the Board Briefing.
+
+111. A document entitled 'report to POL Board on Initial Complaints Review and Mediation Scheme: Sub Committee Recommendation' (POL00027153) is referenced in question 25 of the Request, and I am asked to respond to a number of queries regarding discussions around this document.
+
+112. For example, did Deloitte state that it would not consent to the release of its report(s) in accordance with paragraph 5.2 of the report? I do not recall any discussions with the POL Legal Team about consent to release our Deliverable outside of the legal advisory teams.
+
+113. With regards to paragraph 5.4 of the report identified in paragraph 111 above, which I am also asked to consider, I do recall a conversation with the POL Legal Team around whether a 'backward looking' review was recommended or
+
+Page 32 of 39
+
+
+
+=== Page 33 ===
+
+WITN09750100
+WITN09750100
+
+appropriate. The additional work performed under the Change Order showed that
+very little documentation from the Legacy System remained available (for reasons
+stated at paragraph 31 above). Our position on a "backward looking" review was
+taken on the basis that there would be no evidence available on which to base more
+detailed work and testing.
+
+f) Reasons and motivations behind instructing Deloitte
+
+114. Throughout the Request I have been asked to respond to queries
+which go to my understanding as to why POL decided to instruct Deloitte to
+undertake the work in Scope. I will seek to answer these queries to the best of
+my knowledge in this section of the statement.
+
+115. My understanding of POL's reason for this instruction, raised in question
+13a of the Request, which the Engagement Letter was intended to reflect, was to
+assist POL in determining whether the 'Horizon HNG-X system is robust and
+operates with integrity, within an appropriate control framework.' I understood that
+this would (i) primarily assist POL in making decisions relating to potential
+improvements to its business practices and (ii) inform POL's strategy in relation to
+ongoing litigation in respect of the allegations that it was facing, namely that the
+Horizon IT system was defective and/or that the processes associated with it were
+inadequate (although, as explained above and throughout, our work was confined to
+HNG-X and not Legacy). I did not know the specifics of such litigation and cannot
+comment further on the next steps identified.
+
+Page 33 of 39
+
+
+
+=== Page 34 ===
+
+WITN09750100
+WITN09750100
+
+116. In relation to the extract quoted in question 13b of the Request6, I would say
+this is standard for a review of the nature agreed and the timetable available,
+however it is worth re-iterating that the limited time to finalise the Deliverable was not
+typical. This type of desktop assessment approach is a standard method of
+commencing a complex assurance requirement which may involve the need for
+multiple, agile stages of work.
+
+117. Question 13d of the Request asks that I consider a specific quote from
+the Engagement Letter regarding legal privilege7 and relay my understanding
+as to how the Deliverable would be used in relation to any ongoing litigation or
+potential future litigation. As mentioned above, I did not know the specifics of
+the litigation our engagement related to as this was not relevant to the work we
+were engaged to undertake. We were asked to perform our work under legal
+privilege and to mark our reports appropriately; that was an instruction rather
+than a discussion and, given the sensitivities around the Horizon IT system
+and the fact we were reporting into the POL Legal Team, the instruction did
+not strike me as unusual. As clearly stated in our Engagement Letter, our work
+products were not designed to be used as expert evidence.
+
+118. As I have stated at paragraph 23, I do not think that I can provide an
+opinion as requested in question 20d of the Request, on the robustness of the
+review with regards to (a) management or statutory accounts or (b) prosecutions
+or defending litigation.
+
+6 "You do not require Deloitte to comment on or test the quality of the assurance work performed, nor opine on either its adequacy,
+sufficiency or conclusions, or the integrity of the Horizon HGN -X processing environment (nor the legacy Horizon
+system)".
+
+7 "You have advised us that all correspondence and all preparatory papers for any report we might make are legally privileged,
+as they are being prepared in relation to ongoing litigation and linked to the provision of legal advice "
+
+Page 34 of 39
+
+
+
+=== Page 35 ===
+
+WITN09750100
+WITN09750100
+
+g) General
+
+119. In answer to question 29 of the Request, with the benefit of hindsight, I would have liked more specific information from the POL Legal Team on the circulation of our Deliverable, albeit in draft form; for example, what versions were shared with the Board and when.
+
+120. Further work I would have liked to have performed is detailed in our Deliverable, specifically part 2 testing and implementation.
+
+Statement of Truth
+
+I believe the content of this statement to be true.
+
+Signed: GRO
+
+Dated: 20/04/24.
+
+Page 35 of 39
+
+
+
+=== Page 36 ===
+
+WITN09750100
+WITN09750100
+
+Index to First Witness Statement of Gareth James
+
+No. URN Document Description Control Number
+1. POL00116802 Deloitte - Project Zebra, Supporting Your Assurance Needs dated 7 June 2012 POL-0117664
+2. FUJ00087091 Email chain from Ian Henderson to Simon Baker, then Simon Baker to gajames and Pete Newsome re: draft report dated 5 July 2013 POINQ0093262F
+3. POL00108464 Letter from Deloitte to Mr Chris Aujard re: Privileged in Contemplation of Litigation - Approval arrangements under which we propose to assist Post Office Ltd (signed client care letter an terms of business) dated 25 April 2014 POL-0106562
+4. POL00027411 Post Office Ltd Minutes of a Board Meeting held on 30 April 2014 POL-0024052
+5. POL00105635 Project Zebra – Phase1 Report – HNG-X: Review of Assurance Sources dated 30 April 2014 POL-0104595
+
+Page 36 of 39
+
+
+
+=== Page 37 ===
+
+WITN09750100
+WITN09750100
+
+6. POL00028062 Report: Horizon Desktop Review of Assurance Sources and Key Control Features – draft for discussion, Deloitte dated 23 May 2014 POL-0023065
+
+7. POL00117612 Letter from Mr Gareth James to Mr Chris Aujard re: Change Order to the Contract between Deloitte LLP and Post Office Ltd dated 6 May 2014 POL-0115229
+
+8. POL00031384 HNG-X Review of Assurance Source concerning: Phase 2 Drafted by Deloitte dated 30 April 2014 POL-0028286
+
+9. POL00028069 Deloitte Draft Board Briefing document further to report on Horizon desktop review of assurance sources and key control features dated 4 June 2014 POL-0023072
+
+10. POL00029728 Email to Roderic Williams: re Follow Up to Board Update – Legal Privilege dated 20 May 2014 POL-0026210
+
+11. POL00031391 Deloitte's HNG-X Review of Assurance Sources: Phase 1 – Board Update AR dated 13 May 2014 POL-0028293
+
+Page 37 of 39
+
+
+
+=== Page 38 ===
+
+WITN09750100
+WITN09750100
+
+12. POL00029726 Deloitte HNG-X: Review of Assurance Sources Report v2 dated 16 May 2014 POL-0026208
+
+13. POL00117519 Email from Rodric Williams to Gareth James, Copying in Belinda Crowe, Chris Aujard and others. Re: Strictly Private & Confidential – Subject to Legal Privilege dated 2 April 2014 POL-0115136
+
+14. POL00125760 Email chain from Rodric Williams to James Gareth CC Belinda Crowe, Chris Aujard and others re: Strictly Private & Confidential – Subject to legal privilege – Horizon Anomalies and Data Integrity Reports dated 4 April 2014 POL-0130729
+
+15. POL00117551 Email from Belinda Crowe to Rodric Williams, Gareth James, Chris Aujard and others re: Strictly private and Confidential – Subject to legal privilege – Documents in relation to Horizon and Information Security dated 4 April 2014 POL-0115168
+
+16. POL00108407 Email from Gareth James to Lesley Sewell, Belinda Crowe and others Re: Strictly Private & Confidential – Subject To Legal Privilege dated 7 April 2014 POL-0106512
+
+Page 38 of 39
+
+
+
+=== Page 39 ===
+
+WITN09750100
+WITN09750100
+
+17. POL00100514 Email from Gareth James to Gareth Jenkins, Julie George, Mark Westbrook re: Gareth James/Gareth Jenkins/ Julie George/ Mark Westbrook – Meeting dated 10 April 2014 POL-0100097
+
+18. POL00031400 Email from Chris Aujard to Paula Vennells, Martin Edwards, Alwen Lyons and others re FW: Project Zebra dated 29 May 2014 POL-0028302
+
+19. POL00031408 Email sent from Gareth James to Rodric Williams re: Insufficient POL-0028310
+
+20. POL00027153 Post Office Ltd Board – Initial Complaints Review and Mediation Scheme: Sub Committee Recommendation, prepared by Chris Aujard and Mark Davies dated 6 June 2014 POL-0023794
+
+Page 39 of 39
+

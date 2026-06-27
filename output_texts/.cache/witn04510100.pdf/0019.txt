@@ -1,0 +1,16 @@
+WITN04510100
+WITN04510100
+
+47. Access to the SMP system was restricted to some POL management staff whose roles I did not know (I was simply provided with names, so that I could set up usernames and passwords) and Customer Service staff. Through the SMP, it was possible to access some underlying Powerhelp calls which would include updates to relevant Peaks.
+
+48. My recollection is that the SMP system had additions made over several years, including major incident management, reporting against SLTs to the Service Review Board, Operational Business Change and Operational Change Proposal (OCP) procedures, but was not often used by POL management, and (from comments relayed to me by Customer Service management) showed every sign of withering to nothing by the time I left in 2009.
+
+49. As part of my work on the SMP, I prepared documents to support its use. I wrote these documents at a time when it was believed that the SMP would be in regular use:
+
+a. SMP User Guide (FUJ00142216) for Fujitsu and POL staff using the SMP.
+
+b. "Service Management Portal Support Guide" dated 29 August 2007 (FUJ00142217), which was a detailed technical support guide, so that SSC staff members would be able to support the SMP in my absence.
+
+c. "Service Management Portal High Level Design" dated 19 July 2007 (FUJ00142218), a design document using the standard format for design documents at the time.
+
+Page 19 of 54

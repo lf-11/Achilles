@@ -1,0 +1,30 @@
+WITN05290200
+WITN05290200
+
+Progress Meetings minutes do refer to a number of issues, but I cannot
+elaborate further on the minutes. The emails which form FUJ00095048
+were exchanged on my last day of service. It is clear from the e mails that
+branches were impacted and it is clear that the Post Office believed that
+the solution specified should not have been impacted in the way it was by
+the storm. I would not have dismissed this as a one off incident caused by
+a freak storm as root cause analysis might have exposed a wider
+vulnerability. I had of course left the Post Office before this analysis was
+available.
+
+26. I was asked to explain whether I felt that HNG-X was in a fit state to roll
+out. Had I felt that the solution was not fit to roll out prior to roll out
+commencing I would have expressed that view to the business. I repeat
+that I was concerned about the accumulation of issues that arose during
+pilot. There is evidence in FUJ00094484 that there were issues that had
+the potential to delay further progress. Minute 145.04 refers to an issue
+that required business agreement to a workaround otherwise a Hot Fix
+would be required. Minute 145.14 relates to High severity Security
+incidents which would prevent further progression if not fixed. My email in
+FUJ00095048 refers to confidence being low. With my recall of events
+hazy to say the least and my understanding of the various issues as a
+result minimal it would be quite wrong of me to make judgements in
+retrospect.
+
+INVOLVEMENT IN PROCEEDINGS AGAINST SUBPOSTMASTERS
+
+Page 10 of 22

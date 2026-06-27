@@ -1,0 +1,33 @@
+WITN09840100
+WITN09840100
+DocuSign Envelope ID: 35848B78-14EA-4B48-AF01-6881BFF848DD
+
+Executive accountable for IT, in 2015 and 2016. Most of the contracts landed
+successfully, although the integrator role was later insourced. The separation
+from RMG was managed, just in time.
+
+97. In 2015, the Equipment contract was won by Computacentre, the Network by
+Verizon, the Back Office systems by Accenture and the integrator role by ATOS.
+
+98. POL appeared to have assumed that Fujitsu would win the Front Office contract
+as only Fujitsu knew how Horizon worked, it owned the intellectual property and
+Fujitsu owned and ran the data centres that supported it. However, Fujitsu
+withdrew from the tender, apparently on the grounds that they did not expect to
+win.
+
+99. IBM won the Front Office award in 2015 and was contracted to create a more
+modern version of Horizon, independent of Fujitsu. However, we had concerns
+about the risks of Fujitsu's exit which were discussed in the Board Meeting on
+28 January 2015 (Meeting minutes: minutes of Board meeting held on 28th
+January 2015, POL00021531). During this meeting the Board sought
+independent assurance of the new Front Office system's integrity and security.
+
+100. The CIO and I identified early into agreeing the new Front Office contract with
+IBM that we could not confidently expect to complete the re-build of a Horizon
+equivalent with a new supplier by the time the Fujitsu contract ended in March
+2017.
+
+101. Michael Keegan from Fujitsu had also been issuing warnings over our ability to
+get the work done in time for Fujitsu's planned exit, and it was vital that POL
+
+Page 24 of 137

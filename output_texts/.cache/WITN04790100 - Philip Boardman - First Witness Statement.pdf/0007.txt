@@ -1,0 +1,33 @@
+WITN04790100
+WITN04790100
+
+recipients, which provided Post Office with a source of cash flow. Post Office also
+relied in part on the footfall of these customers for its business.
+
+21. The DWP had decided to stop paying benefits by issuing Giro cheques to benefits
+recipients, and would instead pay benefits directly into recipients' bank accounts. The
+DWP had also decided to cease its practice of pre-paying Post Office the funds
+needed to pay benefits recipients. Instead, the DWP would allow Post Office to take
+out loans from the DWP on commercial terms and at commercial interest rates.
+
+22. As a result of these decisions, there was a drive within Post Office to improve and
+implement changes to its cash flow management processes, to reduce the amount of
+cash held by Post Office and minimise any interest paid on loans taken out by Post
+Office.
+
+23. As can be seen from the 'Business Proposition' statements in section 3 of each of the
+Conceptual Design Documents, the scope of business needs under consideration
+were broad and considerations for flexibility were included.
+
+Changes to the cash flow management process
+
+24. As a result of the Programme, one of the changes to the cash flow management
+process included Post Office providing benefits recipients with facilities to withdraw
+money out of their bank accounts at Post Office branches, to allow these customers
+to continue retrieving their benefits at Post Office. This change required Horizon to
+then support network banking, which it did not at the time. As the scope of my role
+was limited to supporting Post Office in its business process analysis to identify and
+elaborate their requirements, I have no direct knowledge, nor am I qualified, to
+describe the impact that the switch to support network banking had upon Horizon.
+
+Page 7 of 13

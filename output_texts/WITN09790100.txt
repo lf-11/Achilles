@@ -1,0 +1,462 @@
+# WITN09790100.pdf
+
+
+=== Page 1 ===
+
+WITN09790100
+WITN09790100
+
+Witness Name: Thomas Wechsler
+Statement No: WITN09790100
+Dated: 11 November 2024
+
+POST OFFICE HORIZON IT INQUIRY
+
+FIRST WITNESS STATEMENT OF THOMAS WECHSLER
+
+I, Thomas Wechsler, will say as follows:
+
+INTRODUCTION
+
+1. I am a former employee of Post Office Limited and held the positions of
+a. Programme Manager of the Mediation Scheme
+b. Chief of Staff
+c. Director of Government and Payment Services
+
+2. This witness statement is made to assist the Post Office Horizon IT Inquiry (the
+"Inquiry") with the matters set out in the Rule 9 Request dated 1 October 2024
+the "Request").
+
+Background (addressing questions 2 -3)
+
+3. I joined Post Office Limited (POL) in September 2014 after a career in the UK
+Civil Service which commenced in 1996. In that time I worked in multiple roles
+across a number of Government departments, predominantly developing policy
+and legislation in support of ministers' priorities. I reached the Senior Civil
+Service in 2005 and my final role before joining POL was as Principal Private
+Secretary to the Secretary of State for Communities and Local Government.
+
+1 of 16
+
+
+
+=== Page 2 ===
+
+WITN09790100
+WITN09790100
+
+4. In mid-2014 I was approached by a firm of recruitment consultants to ask if I would consider applying for the role of Chief of Staff at POL. Following a number of interviews, I was ultimately unsuccessful in that application (Gavin Lambert was appointed). However, I was subsequently asked if I would like to join POL as Programme Manager of the Mediation Scheme (Project Sparrow). I accepted that offer and joined POL in September 2014.
+
+5. I do not recall the precise timing but during the course of 2015, Gavin decided to return to his career in the Civil Service. I was approached by Gavin to ask if I would like to take on the role of Chief of Staff. Following a conversation with Paula Vennells, I accepted the role. I remained in that role until late 2016. At that point, I was interviewed through an internal process to take on the newly created role of Director of Government Services and Payments. I was successful in that process and took up that role in December 2016. (This was part of a wider restructure of POL which also saw the role of Chief of Staff come to an end.) I left POL in June 2018 after the decision was taken to move the payments business into a subsidiary.
+
+Roles (addressing questions 4 – 9)
+
+6. As Programme Manager of the Mediation Scheme, my role was to provide support to all members of the Mediation Scheme Working Group, and the Chair (Sir Anthony Hooper) in particular, to ensure that the Mediation Scheme progressed in accordance with its Terms of Reference. Specific responsibilities included e.g. the scheduling of meetings, the distribution of papers, the scheduling of cases for discussion and minute taking. I also oversaw record keeping for the Scheme.
+
+2 of 16
+
+
+
+=== Page 3 ===
+
+WITN09790100
+WITN09790100
+
+7. As Chief of Staff, my role was to provide support to the Chief Executive across the range of her responsibilities, often in response to events. As such it had few pre-defined specific responsibilities or scheduled tasks. Activities included e.g. reviewing and commenting on papers for the CEO, providing a first draft of the CEO's report to the Board, speech-writing, following up customer complaints and supporting colleagues through clarifying requests / questions put to them and advising on Board / ExCo priorities. I also, at the CEO's request, picked up individual projects on occasion e.g. development of the POL apprenticeship scheme.
+
+8. Both roles were part of POL's senior leadership team. Most of my peer group had titles commencing with "Head of...".
+
+9. My move to Director of Government Services and Payments represented a promotion. I still had no direct reporting lines to the Board, but I presented to them on business issues as necessary e.g. the re-procurement of the Post Office Card Account and the acquisition of Payzone Ltd.
+
+10. As Programme Manager of the Mediation Scheme I reported to Belinda Crowe. As Chief of Staff I reported to Paula Vennells. I had no line management responsibilities in either role.
+
+11. I did not sit on any POL committees as Programme Manager of the Mediation Scheme. As Chief of Staff I was not part of ExCo but routinely attended ExCo meetings at the invitation of the CEO. I was, at the discretion of the CEO, permitted to contribute to its discussions.
+
+12. As Programme Manager of the Mediation Scheme, I met civil servants from ShEx / UKGI on an ad hoc basis. The purpose of those meetings was to provide information relating to the operation of the Mediation Scheme in order to
+
+3 of 16
+
+
+
+=== Page 4 ===
+
+WITN09790100
+WITN09790100
+
+support their briefing of ministers. Although I do not recall the precise timings,
+these meetings were likely to have taken place in the lead up to parliamentary
+debates. I had no direct contact with ministers; nor with any other Members of
+Parliament.
+
+13. As Chief of Staff, I similarly had ad hoc meetings and conversations with ShEx
+/ UKGI on a range of business issues. The nature of these varied but they
+covered e.g. facilitating ministerial visits to POL; and taking questions on issues
+arising from POL Board papers.
+
+14. More broadly, POL colleagues on occasion sought my advice on an informal
+basis, based on my prior civil service career, on how they might address
+particular issues with government that sat outside ShEx / UKGI's
+responsibilities. As an example, my advice was sought on how to raise
+concerns about the proposed routing of the HS2 train line relative to the location
+of one of POL's cash-handling centres. I had no direct contact with Members
+of Parliament.
+
+15. To the best of my recollection, I do not think there was a single, explicit or
+defined strategy for working with ShEx, UKGI, government and MPs. The
+Communications and Public Affairs team led general engagement with
+Government and MPs, notably but not exclusively in the context of branch
+openings, closures and network transformation; and raising the profile of POL's
+value and social purpose with parliamentarians. Interactions with ShEx / UKGI
+on particular business issues were expected to be led by the relevant Director
+or ExCo member. For example, the CFO and Director of Strategy led
+discussions on financial support to POL from government. The Government
+Services Director would lead discussions and negotiations on the provision of
+
+4 of 16
+
+
+
+=== Page 5 ===
+
+WITN09790100
+WITN09790100
+
+services to government (e.g. passport applications, driving licence applications,
+the Post Office Card Account) with the relevant government department /
+agency. In my experience, these discussions were wholly commercial i.e. POL
+was treated as any other supplier would have been by government, irrespective
+of government's ownership of POL.
+
+Knowledge of the Horizon IT System (addressing questions 10 – 13)
+
+16. I was not employed by POL when Horizon was introduced. For avoidance of
+doubt I had not heard of Horizon; nor concerns about any defects nor media
+reporting about it (including the May 2009 Computer Weekly article) until I
+joined POL in 2014 to support the Mediation Scheme.
+
+17. For completeness, it was POL's policy that all employees including senior
+managers should spend a number of days in directly owned branches over the
+peak Christmas sales period. This meant that I undertook an afternoon's
+training on how to use the Horizon system. I do not recall the precise timing
+but I believe it was in the run up to the Christmas of 2015. My personal
+experience was that it was a complex system and it was easy for me to make
+mistakes that could lead to financial errors. I would have wanted significantly
+more training, or guidance from experienced operatives, had I been required to
+use the system in branch. In the end, my duties on days in branch did not
+include using the Horizon terminals.
+
+The Mediation Scheme and Second Sight (addressing questions 14 – 29)
+
+18. As set out above, I joined POL in September 2014 as Programme Manager of
+the Mediation Scheme. My responsibilities were to support the operation of the
+Working Group overseeing the Mediation Scheme, in support of the Chair, Sir
+Anthony Hooper in order to deliver its Terms of Reference. I had regular contact
+
+5 of 16
+
+
+
+=== Page 6 ===
+
+WITN09790100
+WITN09790100
+
+with all members of the Working Group (including Second Sight) in order to set
+the agendas for Working Group meetings, distribute papers and manage the
+reports submitted by Second Sight. As noted above, I also oversaw records
+management for the Scheme and attended Working Group meetings as
+secretary to the Group i.e. I wrote the draft of minutes of the Working Group
+meetings for the Chair's approval, from October 2014 until the Scheme's
+closure.
+
+19. The Working Group was established in 2013, significantly before I joined POL.
+Applications to the Scheme had been sought and the application window had
+closed. Prior to my joining, the Working Group had met several times and was
+beginning to look at individual cases.
+
+20. Programme and secretariat support had been provided by temporary resources
+e.g. contractors and a team sourced from PA Consulting. I was invited to join
+POL in order to reduce reliance on temporary labour.
+
+21. I met with Belinda Crowe prior to accepting the role. As I recall, in that meeting
+Belinda shared the background to the Scheme (including sharing some prior
+media reporting, probably including the Computer Weekly article referenced
+earlier although I cannot recall definitively being specifically made aware of
+that), how and why the Working Group was established, the different roles and
+views of members of the Working Group, the structure of the Post Office team
+and the role she would like me to play in it. As I recall, Belinda set out the
+different views of the participants on the Working Group and the tensions that
+arose between them in what I perceived to be a balanced way, without passing
+judgement on the merits of any participant's position.
+
+6 of 16
+
+
+
+=== Page 7 ===
+
+WITN09790100
+WITN09790100
+
+22. My understanding at the time was that POL had established the Initial Complaint Review and Mediation Scheme in the light of concerns about the operation of the Horizon system and how that may have resulted in financial losses or discrepancies for sub-postmasters. The Mediation Scheme was overseen by a Working Group with an independent Chair (Sir Anthony). The Working Group's role was to consider and agree which applications to the Scheme were suitable for mediation with the aim of providing some resolution for applicants in those cases. Participants included representatives of POL and the Justice for Sub-postmasters Alliance. JFSA's role was to represent the applicants to the Scheme. Second Sight had been engaged by Post Office to review individual applications to the Scheme and provide advice on the potential scope for mediation between the applicant and Post Office. Second Sight attended Working Group meetings.
+
+23. The scope of Second Sight's work and the extent of their access to information and documents was determined prior to my joining POL. Although I do not recall precise details, I do recall there were a small number of occasions where an individual case led Second Sight to ask for additional information. Where this information existed, it would normally have been provided as requested although I recall one instance where the POL team queried the relevance of the request relative to the case in question. I do not recall the outcome of that discussion.
+
+24. I had limited input to POL's response to Second Sight's reports to the Working Group, as my role was focused on providing the secretariat function. I was on occasion asked by others in the POL team for a view, on what the approach of other participants on the Working Group - including the Chair - might be if the
+
+7 of 16
+
+
+
+=== Page 8 ===
+
+WITN09790100
+WITN09790100
+
+case for or against mediation appeared balanced. With the exception of cases
+involving a criminal conviction, I think that POL's position generally was to try to
+find grounds to agree to mediation. This was a position that I supported in order
+to demonstrate that the Working Group's considerations were fair and aimed at
+providing resolution for applicants wherever possible.
+
+25. I had no role in preparing for nor attending mediation meetings themselves.
+
+26. In my time as Programme Manager of the Mediation Scheme, I contributed to
+papers and briefings regarding the Scheme for the POL Board, Chair, CEO and
+ExCo. My contribution was generally focused on the operation of the Working
+Group and the approach being taken to it by the different participants. I was
+also on occasion asked to proof-read documents or review them to ensure that
+the points made were clear.
+
+27. I had no role in briefing any colleagues on defects ("bugs") in the Horizon
+System nor remote access.
+
+28. I had no contact with Fujitsu on these issues. I believed the information that
+was shared with me by other members of the Sparrow team (which I understood
+to be the basis of their dialogue with POL's IT leadership and Fujitsu).
+
+29. It was and it remains my view that establishing the Initial Complaint Review and
+Mediation Scheme was a genuine attempt by POL's leadership to provide a
+vehicle by which concerns raised by sub-postmasters could be investigated
+independently and considered in a fair and balanced way. Wherever possible,
+those investigations would provide the basis for mediation that could in turn
+provide resolution for those who believed that they had suffered detriment. POL
+had invested significant time and resource in the Scheme and provided legal
+assistance to applicants. I also believe that all other parties joined the Working
+
+8 of 16
+
+
+
+=== Page 9 ===
+
+WITN09790100
+WITN09790100
+
+Group in good faith and with similar objectives. When I joined POL and the
+Sparrow team, I did so with an open mind and wish to go where the evidence
+took the Working Group's business. However, as the work of the Working Group
+proceeded it became clear the different approaches of the POL team and
+JFSA's representatives to the individual cases considered were increasingly
+irreconcilable. As a consequence, the Mediation Scheme and Working Group
+were unable to fulfil their objectives / Terms of Reference. This was a source
+of considerable disappointment to me.
+
+30. I did not author the papers within POL that considered and then advised on
+arrangements for the termination of the Working Group. However, I was
+involved in the discussions internally that fed into that advice and I would have
+contributed thoughts and text to those papers.
+
+31. In my view a number of factors played into the decision to advise on terminating
+the Working Group.
+
+a. Firstly, JFSA took the stance that all cases recommended for mediation
+by Second Sight should be mediated; and that they were not prepared
+to discuss nor consider any contrary view, at times absenting themselves
+from Working Group meetings. This meant they were not engaging in
+any meaningful discussions. Conversely, POL took a position that it
+would enter into mediation where there was any evidence to suggest that
+there was a reason to do so. POL's assessment of Second Sight's
+reports was that the great majority recommended mediation despite
+providing little or no evidence to provide the grounds for mediation. As a
+result, the Working Group was unable to proceed with its business in a
+
+9 of 16
+
+
+
+=== Page 10 ===
+
+WITN09790100
+WITN09790100
+
+timely way and had in effect ceased to function as an effective means of
+supporting applicants.
+
+b. Secondly, it was POL's stated position from the outset that it would not
+and could not enter into mediation on cases involving a criminal
+conviction. This covered a significant number of applications. Clearly,
+this fed into JFSA's position; and the media / parliamentary commentary
+at the time.
+
+c. Finally, as the Scheme and the Working Group started to run into
+difficulties, there was increased scrutiny and commentary in some media
+outlets and in Parliament. That commentary included personal data
+arising from individual cases and was highly likely to be entering into the
+public domain from the Working Group. POL had given specific and clear
+undertakings to all applicants to the Scheme that their confidentiality
+would be protected. All members and participants in the Working Group
+had given an undertaking to preserve that confidentiality. Given the
+contents of the debates in Parliament and some media outlets, the
+Sparrow team, including me, were no longer confident that the
+undertakings given to applicants around confidentiality could be fulfilled.
+This was the biggest cause for concern and central to the decision to
+advise to terminate the Working Group.
+
+32. Within that advice, the team sought to fulfill as much of the spirit of the Scheme
+as possible. As such it was recommended that Second Sight should be
+retained to complete their reports on individual cases; and that POL should
+adopt a position to offer to mediate all cases where there was not a criminal
+conviction. These recommendations were subsequently agreed.
+
+10 of 16
+
+
+
+=== Page 11 ===
+
+WITN09790100
+WITN09790100
+
+33. I had no direct part in seeking advice from Tom Weiselberg KC but I supported the need to seek Counsel's advice as part of the team's internal discussions around how to frame advice on whether to continue or terminate the Scheme.
+
+34. There was no specific strategy that I recall for communicating with ministers or MPs about the integrity of Horizon; nor about the views of Second Sight, JFSA, Lord Arbuthnot or sub-postmasters who had applied to the Scheme. My recollection is that issues were dealt with as they arose.
+
+35. I recall that there was a degree of frustration that those criticising the Post Office in Parliament and the media – often accompanied by criticism of individuals, to which they were unable to respond – appeared to doing so in order to pressurise POL into adopting a presumption of fault on its part where I was not aware of any evidence having been presented (at that time) to support the claim that Horizon was at fault. Without the ability to respond directly to e.g. the debates in Parliament and whilst maintaining the commitment POL had made to confidentiality of applicants to the Scheme, opportunities were taken as they arose to put the counter arguments to e.g. individual MPs who contacted POL about a particular case. The language quoted in question 20 around "sow the seeds of doubt" was, with the benefit of hindsight, clumsy and not appropriate but it is an email between colleagues and should not in my view be interpreted as having any malign intent; nor as part of any wider strategy.
+
+36. I had no direct role nor involvement in POL's response to the CCRC's investigations. I do recall discussing it informally with colleagues at the time. My view, which I believe was shared by other members of the Sparrow team and POL leadership, was that the CCRC was the appropriate body to look at any doubts being raised about the safety of criminal convictions. For avoidance
+
+11 of 16
+
+
+
+=== Page 12 ===
+
+WITN09790100
+WITN09790100
+
+of doubt, the collective approach was to be open and transparent with the
+CCRC in the provision of information as requested.
+
+37. Shortly after the decision to terminate the Working Group I moved to the role of
+Post Office Chief of Staff. As a consequence, I moved away from day to day
+contact or involvement with Project Sparrow. In my role as Chief of Staff I
+periodically had contact with the Sparrow team in order to provide support to
+them in processing business with the CEO, ExCo and the Board. This was in
+line with the support I provided to all teams within POL in such interactions. I
+also provided day-to-day support to the CEO in her considerations of how she
+might respond to advice from any part of the business, including the Sparrow
+team. Given the breadth of the CEO's responsibilities; and the scale of change
+in POL at the time, "Sparrow" was a small part of the volume of business that
+crossed my desk.
+
+38. I do not think that the government's approach to oversight of POL changed
+significantly following Baroness Neville-Rolfe's appointment as minister. All
+ministers have different backgrounds, interests and personal styles. I had
+limited direct contact with Baroness Neville-Rolfe but to the extent that I did she
+was business-like and professional. Albeit limited, my experience (in my role
+as Chief of Staff) was that the Minister's background in retail business was
+helpful in understanding the complexities of running a business as diverse as
+POL.
+
+Deloitte Project Bramble (addressing questions 30 – 33)
+
+39. I do not recall having any involvement with Deloitte's Operation Bramble. I do
+not recall seeing any of their reports referring to "Bramble" prior to them being
+shared with me by the Inquiry in support of this Witness Statement. I do not
+
+12 of 16
+
+
+
+=== Page 13 ===
+
+WITN09790100
+WITN09790100
+
+recall the circumstances in which I may have seen the document titled Deloitte's
+Sparrow Interim Report (POL00029984) but the format is familiar and it is
+possible that it was shared with me.
+
+The Group Litigation (addressing questions 34 – 47)
+
+40. I had very limited involvement in POL's conduct of the group litigation. I recall
+joining a number of cross-business meetings in the early stages of the litigation,
+in order to be available to address any questions that could have arisen about
+the operation of the Initial Complaint Review and Mediation Scheme. No such
+questions arose that I recall.
+
+41. Without a timeline of the events described in the questions set by the Inquiry I
+cannot be certain of precisely how the events described in the questions
+correlate to my changes of roles within Post Office and subsequent departure
+in 2018. However, I believe that the litigation was in its very early stages when
+I left my role as Chief of Staff in order to take up the role of Director of
+Government and Payment Services in another business unit within POL.
+Consequently, I would only have had contact with the relevant teams if this had
+been sought by them. It was not. I also believe that some of the events referred
+to in the questions happened after I left POL in 2018.
+
+42. For clarity, I had no knowledge of nor role in determining POL's litigation
+strategy; the disclosure of documents; the preparation of evidence; any
+decisions relating to Fraser J; POL's Generic Defence and counterclaim. I also
+had no responsibility for keeping the board or government informed; nor any
+involvement in POL's conduct of the litigation. I had never, prior to the Inquiry's
+questions to me, heard of KELs, PinICLs or PEAKs.
+
+General (addressing questions 48 – 49)
+
+13 of 16
+
+
+
+=== Page 14 ===
+
+WITN09790100
+WITN09790100
+
+43. I have tried to answer the questions posed by the Inquiry as thoroughly as I can. Therefore, there is limited additional information to share. With the benefit of hindsight and also experience gained since leaving POL, I would have been less trusting in accepting the assurances provided to the Sparrow team about how Horizon was constructed and operated, by Fujitsu and others.
+
+44. I have also reflected the transcripts of that I have read evidence provided by colleagues I worked closely with in my time in POL. Most notably, I have reflected on the description of POL adopting a defensive stance or culture. I would reflect that there were times that the media and parliamentary scrutiny felt unbalanced, especially in the context that POL had put a lot of effort and resource into trying to meet the objectives of the Initial Complaint Review and Mediation Scheme as set up. I do not think I contributed to any defensiveness and it was certainly not my intention to do so. To the extent that I may have done so, it is a source of regret. However, I am also clear that during my time in POL I remained open to the possibility there could be issues with the Horizon system. Had evidence been presented to me of a link between Horizon and financial losses or discrepancies encountered by sub-postmasters I would have acted properly upon that information. I believed that was the position of all the colleagues during the time that I had involvement with on Project Sparrow.
+
+14 of 16
+
+
+
+=== Page 15 ===
+
+WITN09790100
+WITN09790100
+
+Statement of Truth
+I believe the content of this statement to be true.
+
+Signed: GRO
+
+Dated: 11 November 2024
+
+15 of 16
+
+
+
+=== Page 16 ===
+
+WITN09790100
+WITN09790100
+
+Index to First Witness Statement of Thomas Wechsler
+
+No. URN Document Description Date Control Number
+1 POL00029984 POL Sparrow - Interim Report: Draft for Discussion 08/07/2016 POL-0026466
+
+16 of 16
+

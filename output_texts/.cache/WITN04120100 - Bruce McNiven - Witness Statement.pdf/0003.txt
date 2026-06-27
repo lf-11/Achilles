@@ -1,0 +1,39 @@
+WITN04120100
+WITN04120100
+
+Office Testing was set up to undertake the joint testing strategy agreed between
+POL Pathway and BA, using a shared set of tests. Progress and exception reports
+were generated and reviewed.
+
+9. A number of implementation risks to the overall programme were identified around
+the CAPS (BA payment system) and the Pathway software release interfaces. The
+programme plan current at the time required inter-connectivity between the two
+systems and was at the heart of replans as Pathway reported slippage on delivery
+timescales.
+
+10. In this period, a major report was completed by PA Consulting. The report is
+available among the released documents (WITN0412_01/01; POL00028092). They
+identified a raft of issues around implementation of the overall plan and emphasised
+the time spent in the PDA resolving issues with Pathway and the inherent difficulties
+in managing a PFI contract. They also questioned some of the software
+development strategies within the Pathway model and for the first time questioned
+the payment card viability.
+
+11. Early visibility of the training programme raised concerns around effectiveness and
+evaluation. The need for planned remedial training was first identified at this stage.
+
+12. Operational implementation risks identified around the Initial Go Live stage were
+limited to equipment failures and ISDN availability.
+
+13. My involvement with technical issues was limited to their impacts on timescales and
+potential restrictions on functionality available to Post Offices. Business continuity
+status reports at the time included inactive payment cards and temporary loss of
+transactions.
+
+14. Technical difficulties arising at IGL offices were addressed by Pathway with
+oversight by the PDA Testing Team. My understanding of the joint testing
+philosophy was to design a testing regime which would test the functionality of the
+solution designed by Pathway and prove its ability to support the Business
+requirements as detailed in the contract. Changes to these requirements arose and
+
+Page 3 of 13

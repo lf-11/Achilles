@@ -1,0 +1,12 @@
+WITN06470100
+WITN06470100
+
+31. Physical access into the SSC was restricted with card keys that were separate from the rest of the building so only the SSC had access to the floor we were on. I do not recall what other security measures were in place or what audit data was automatically captured when using remote access.
+
+32. In terms of editing or deleting data, the design of the Riposte messagestore was such that we could not edit or delete individual items of data within the messagestore. Any such attempt would have caused Riposte to stop working and to generate alerts. What we could do was to delete the entire messagestore on a counter and then allow Riposte to rebuild it from the transactions that would be stored on the other counters within the Post Office. We could insert new transactions into the messagestore via the Correspondence Servers which would then replicate to the counters, but would only do so when authorised by the Post Office, and it would be recorded that we were doing that in the PinICL. I believe we put the PinICL call reference into the messagestore messages that we inserted. I do not recall if, or how, that would be relayed to the SPM.
+
+GENERAL
+
+33. I can not comment on the training that SPMs received in the use of the system as I was not privy to that information. Nor was I aware of what advice was being given by 1st and 2nd line support. And given the passage of time I do not recall specific incidents to enable me to comment on what changes
+
+Page 10 of 11

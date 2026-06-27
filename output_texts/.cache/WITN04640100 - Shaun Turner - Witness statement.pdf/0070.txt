@@ -1,0 +1,10 @@
+WITN04640100
+WITN04640100
+
+235. The other risk that the Smart ID programme was trying to manage was around compliance training. Prior to Smart ID, there was no system control in relation to compliance which meant individuals had to be chased. Given individuals did not have a unique identifier and could have multiple logins, it was difficult to know how many people needed to be chased and also to prove that all staff had completed their compliance training. This project associated a compliance record with each individual Smart ID and would lock Postmasters out of certain functions in Horizon until their compliance training was complete.
+
+236. Whilst considering my answer to this question, I recalled a document from the Smart ID project team file site which documented the business case for and rationale behind the Smart ID project in March 2017 (WITN04640104). I would have seen this document in 2017 not long after joining the Smart ID project. From reviewing this document, I understand that part of the rationale behind Smart IDs was to comply with regulatory standards in relation to financial services products. If POL could not evidence clearly that all staff working on branch counters had been vetted and that they had completed their compliance training, I understand that there was a risk of POL being sanctioned for being in breach of regulations, and losing the ability to transact those financial service products.
+
+237. Compliance training covered various regulated products and the required procedures around transacting them. For example, there was specific compliance training around the procedures to ensure adequate security in relation to mail. A Postmaster should ensure no mail is left in an area where it could be accessed by the public. Another example relates to Prohibited and Restricted Goods, where the compliance training covers the importance of
+
+Page 70 of 95

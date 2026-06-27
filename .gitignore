@@ -1,0 +1,12 @@
+# Large binary/data files
+pdfs/
+page_images/
+drive-download-*.zip
+
+# Test/scratch outputs
+extraction_results/
+page_results/
+
+# Claude internals
+.claude/
+memory.md

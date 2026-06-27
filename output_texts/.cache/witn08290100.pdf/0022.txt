@@ -1,0 +1,30 @@
+WITN08290100
+WITN08290100
+
+Police's process for when someone is arrested and taken into Custody at a
+Police Station. The form had a number of other identifiers; height, whether the
+person was left or right-handed, their build and any scars, marks or tattoos. This
+form would have been completed with the Antecedents Form following the
+completion of a tape-recorded interview with the person. In addition, the IC code
+was always shown on the 1st page of the Suspect Offender Report.
+
+Analysing Horizon data, requesting ARQ data from Fujitsu and relationship with
+Fujitsu
+
+56. During my time in the Security Team before the GLO, I do not recall a SPM,
+SPM assistant or Crown Office employee attributing a shortfall to problems with
+Horizon. Usually, the reason for an audit would have come from another team
+that had found some anomaly with the branch's transactions, for example,
+abnormal reversals or unusual Mail transactions, or how the branch was
+managing their cash, for example, cash in pouches not being despatched, cash
+not being returned when instructed or cash being requested when a branch was
+showing as holding sufficient cash.
+
+57. When required, credence data would more than likely be used as that showed
+exactly the same information as ARQ data. As a rule, I am unsure if Horizon
+data (ARQ or Credence) was provided to the SPM as a matter of course,
+notwithstanding the disclosure obligation during a prosecution. As far as I recall
+my direct contact with Fujitsu was very little. Any request for ARQ data would
+have been via our Casework team.
+
+22

@@ -1,0 +1,29 @@
+WITN09900100
+WITN09900100
+
+access' by either Fujitsu or POL employees to alter data in branch accounts
+was not possible.
+
+31. Pre-2011, I had no knowledge of the ability of Fujitsu employees to alter
+transaction data or data in branch accounts without the knowledge or consent
+of SPMs. In early 2011, I received an email from Tracy Marshall
+(POL00294728) (discussed in further detail below) which made me aware that
+Fujitsu employees could, in theory, have remote access but not without the
+knowledge of SPMs.
+
+32. Below, I have detailed the key messages from POL on remote
+access/integrity of the Horizon system that shaped my understanding over the
+years. These extracts all show a strong message that Horizon was robust and
+altering data via remote access was not a plausible explanation for branch
+discrepancies. I highlight these extracts to try to help the Inquiry to understand
+what the internal messaging was within POL at the time in respect of remote
+access. Where concerns were raised, there always appeared to be a rational
+explanation that countered the initial allegation. I do not think that this was just
+from a PR perspective, but a genuine belief which appeared to be supported
+by IT experts. Despite clarification being sought over the years the message
+that Horizon was robust, never changed.
+
+a. 18 June 2012: Document POL00027722 is a meeting pack, put
+together for a meeting with James Arbuthnot and other MPs scheduled
+
+Page 15 of 132

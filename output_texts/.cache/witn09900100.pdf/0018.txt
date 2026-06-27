@@ -1,0 +1,32 @@
+WITN09900100
+WITN09900100
+
+Post Office or Fujitsu (suppliers of Horizon) to edit, manipulate or
+remove transaction data once it has been recorded in a branch's
+accounts. The Post Office can only post additional, correcting
+transactions to a branch's accounts but only in ways that are visible to
+Postmasters e.g. transaction corrections (TC) and transaction
+acknowledgements (TA). It is also possible for Fujitsu to view branch
+data in order to provide support and conduct maintenance but this does
+not allow access to any functionality that could be used to edit recorded
+transaction data."
+
+h. April 2015: POL's Response to Second Sight's Briefing Report Part
+Two (UKGI00000018) - "To be clear, Horizon does not have
+functionality that allows Post Office or Fujitsu to edit or delete the
+transactions as recorded by branches".
+
+i. 17 August 2015: Final statement for Panorama
+(POL00231477)"Remote Access. Neither Post Office nor Fujitsu can
+edit the transactions as recorded by branches. Post Office can correct
+errors in and/or update a branch's accounts by inputting a new
+transaction (not editing or removing any previous transactions).
+However, this is shown transparently in the branch transaction records.
+There is no evidence that any branch transaction data was
+inappropriately accessed from a remote access point."
+
+j. 22 August 2015: Statement from POL's in-house lawyer
+(POL00091401) - "Remote Access. Neither Post Office nor Fujitsu
+can edit the transactions as recorded by branches. Post Office can
+
+Page 18 of 132

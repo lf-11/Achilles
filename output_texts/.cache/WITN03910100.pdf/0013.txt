@@ -1,0 +1,28 @@
+WITN03910100
+WITN03910100
+
+others under the direction of the Problem Manager, the methods of which
+would depend on each incident raised. Incidents raised as a “problem” would
+be managed and progressed wholly by the Problem Manager. Investigative
+methods may have included looking at the branches “received” transactions
+for the day with the relevant Teams in Transaction Processing, talking to
+Fujitsu teams and requesting additional evidence/data from them, talking to
+the branch and requesting/reviewing any relevant branch
+documentation/receipts, analysing end of day branch message store data,
+getting paper cash accounts out of storage, analysing cash account outcomes
+and whatever else was necessary to fully investigate an incident.
+
+27. A detailed Team incident log would have been kept for every incident. These
+would have been reviewed and agreed with the Problem Manager and would
+have included the conclusion and outcomes. This has not been provided to
+me. Any remedial activity required would have been implemented in
+conjunction with TP Teams, these could have included the issuing of an error
+notice to a branch or asking the Regional Network Manager to write off an
+amount. The branch would have been informed of the details and the
+outcome either by telephone and/or in writing. The incident logs would have
+been monitored daily/weekly and reported to my Manager (the Live Trial
+Problem Manager) and through her into the wider Horizon Live Trial project
+leadership Team. I cannot recall any further detail around the investigative
+processes or steps as it was 22 years ago.
+
+Page 13 of 17

@@ -1,0 +1,31 @@
+WITN04640100
+WITN04640100
+
+that they could be flagged for investigation with Fujitsu. My role was essentially
+that of a conduit for information and I was not involved in the technical fixes that
+were implemented to deal with any issues. The Problem Management Team
+would then have liaised with Fujitsu's technical team to understand the potential
+cause of the problem and to sort its rectification.
+
+93. With regards to this specific error, from looking back at the email chains and, in
+particular, FUJ00083664, it seems that Gary Blackburn was my contact in the
+Problem Management Team at the time the Callendar Square bug arose. It
+appears from the document that Lynne Fallowfield subsequently took over that
+role within the Problem Management Team from Gary, though I do not
+otherwise specifically recall this.
+
+94. Again, in terms of general process, I would have indirectly received feedback
+from Fujitsu, via the Problem Management Team, about how each issue was
+going to be rectified. My role was to relay proposed fixes to the relevant service
+manager who would communicate with the Postmaster. Document
+FUJ00083664 includes an email sent on 17 February 2006 by me to Gary
+Blackburn, with Sandra MacKay and Brian Trotter in copy. With regard to the
+Callendar Square bug, based on this email, I clearly relayed to the service
+managers "that the branches issue should be fixed with the release of the S90
+software" and that it was important "that the branch continues to report any
+issues into HSD" so that Fujitsu could track the issue as part of the wider
+solution. This was to ensure that the issue continued to be logged with HSD to
+create a clear trail of a continuing problem at the branch. For the avoidance of
+doubt, the HSD refers to the Horizon Service Desk run by Fujitsu.
+
+Page 30 of 95

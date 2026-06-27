@@ -1,0 +1,29 @@
+WITN08950100
+WITN08950100
+
+61. In any case, Security Managers would use a variety of data including Credence,
+HORACE and ARQ data to investigate a shortfall whether an issue with Horizon
+was raised or not. So far as I am aware, Credence and HORACE data is
+transactional data pulled from Chesterfield data, reporting transactions and other
+information entered onto Horizon such as transfers and cash declarations. I was
+able to view Credence but had to request HORACE data from the PO Security
+admin team. The type of data that Security Manager's requested was dealt with
+on a case by case basis.
+
+62. I do not know if ARQ data was requested as a matter of course on all matters
+where a shortfall was attributed to problems with Horizon. I did not have sight of
+cases dealt with by other Security Managers and can only comment on my own.
+I believe that I only had to request ARQ data for this specific reason on one
+occasion, as detailed in paragraph 60 above.
+
+63. I am not aware if ARQ data was provided to SPMs in cases where they had
+attributed a shortfall to problems with the Horizon system. I do not recall this ever
+happening in any of my cases, but it may have occurred on matters dealt with by
+other Security Managers. I do not know for certain.
+
+64. Whenever I did require ARQ data on a matter, I do not recall ever requesting this
+data directly from Fujitsu – I believe that I always asked our admin team to request
+it from Fujitsu for me. I do not think I ever spoke with Penny Thomas or Gareth
+Jenkins from Fujitsu to this regard.
+
+Page 26 of 59

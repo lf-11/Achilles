@@ -1,0 +1,12 @@
+WITN08410100
+WITN08410100
+
+Reporting audit results
+
+121. I have been asked to consider POL00085431, POL00088887, and POL00088634, and describe how a branch audit finding was communicated to a Postmaster. As described at paragraph 98a above, I note that POL00088634 appears to be version 5.0 of Chapter 9 of the Audit Process Manual while POL00088750 is version 5.1 of that document. The changes between versions 5.0 and 5.1 are summarised in the version control table on page 2 of POL00088750.
+
+122. Once an audit had been completed, the auditor would have a close of audit meeting with the Sub-postmaster. This requirement is described in section 13.1 on page 18 of Chapter 3, 'Performing a Branch Audit' of the Audit Process Manual (POL00084801). During this meeting, the auditor would go through the findings of the audit, including breaking down any discrepancies identified by category, if relevant. The Sub-postmaster may have been shown the working papers as part of the meeting but would not have been provided with any written confirmation of the outcome of the audit on the day.
+
+123. The auditor would then finalise their working papers and produce an audit report. More recently, the audit report was generated using the Audit Reporting Tool ("ART"), which was a Microsoft Excel tool (see page 1 of POL00088887). The audit report would be sent to the Sub-postmaster in the following days (either physically via post or latterly via email (see page 4 of POL00088887)). Prior to the introduction of ART, the Audit Team used a similar tool called the Financial Audit Tool ("FAT"). The auditor was also required to call the branch two days after sending the branch the audit report to confirm the Sub-
+
+50

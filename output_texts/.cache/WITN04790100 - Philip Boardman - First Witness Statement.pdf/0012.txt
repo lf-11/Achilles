@@ -1,0 +1,33 @@
+WITN04790100
+WITN04790100
+
+in section 8.3.5.1 of the POL-FS Conceptual Design how POL-FS would be used to
+reconcile, investigate and resolve discrepancies identified against cash remittances
+from cash centres to branches, or vice versa, which I recall had been identified as
+significant drivers of values in suspense accounts.
+
+CONSULTATION WITH END USERS
+
+37.As I mentioned earlier in this statement at paragraph [8], the Programme was Post
+Office's programme, so all consultation with end users of Horizon and any training
+were Post Office's responsibility. 'Requirement BT-052' in the Requirements
+Catalogue in Appendix A of the Branch Trading Conceptual Design identifies training
+as a Post Office responsibility: "Training will be required at the Branches in support
+of the new business processes, it is currently assumed that this will be provided by
+POL."
+
+38.As the Programme involved changes being made to Horizon, it is likely that Fujitsu
+provided educational material to assist Post Office with any training, and I recall
+Fujitsu providing some support guide materials. However, I was not involved in the
+works to deploy the changes resulting from the Programme, and I do not recall what
+these support guide materials were, nor their contents.
+
+Statement of Truth
+
+I believe the content of this statement to be true.
+
+Signed: GRO
+
+Dated: 4th August 2022
+
+Page 12 of 13

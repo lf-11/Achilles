@@ -1,0 +1,31 @@
+WITN04660100
+WITN04660100
+DocuSign Envelope ID: 0B8D9A6F-D117-40AC-B8CA-9EFEBC3C2B1D
+
+sometimes as frequently as twice a day but then not for about 4
+days.
+
+1.2 How and why each of the problems experienced by the Defendant with
+the Horizon system means that the alleged losses in question were
+theoretical rather than real, is an issue that will require disclosure from
+the Claimant for the period in question, in particular as to the correct
+operation of the Horizon Systems' software, (including any modifications
+or upgrades), and the correct operation of the hardware maintained by
+Fujitsu Services, (including any replacement equipment), together with
+expert evidence, both in the field of Information Technology and
+Accountancy. Without prejudice thereto the Defendant replies as
+follows:
+
+(vii) If the Horizon system missed a transactional piece of information
+it would alter the balance recorded on it. If it failed to record a
+payment out, there would be less actual cash at the branch than
+the amount of cash recorded on the system. As more cash tends
+to go out from a Sub Post Office than comes in, such a
+discrepancy would tend to operate so that the balance showing in
+the system was greater than the actual balance held at the
+branch.
+
+(viii) By way of example only, if a cheque paid in is input to the Horizon
+system and the system sends that data off-site but the system
+loses that information locally, when it is time to "cut off" i.e. print
+Page 138 of 194

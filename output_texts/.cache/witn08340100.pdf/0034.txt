@@ -1,0 +1,32 @@
+WITN08340100
+WITN08340100
+
+information I have seen suggests that John Longman was the Investigator. I was
+his line manager for a period when I was the Investigation Team Manager, but at
+the time of the events described in these documents, I was the Fraud Risk Manager
+and was not John's line manager.
+
+118. I was not responsible for disclosure in connection with any legal action against Ms
+Misra. Having reviewed the documents that have been drawn to my attention,
+it would seem that I was involved in requests for Horizon transaction data,
+communications following a conference call about challenges to Horizon and
+assisting a colleague in trying to trace individuals associated with the case.
+
+119. I have reviewed the email at POL00107817 and what I said about being unable
+to authorise Fujitsu to carry out John Longman's request for transaction log data
+covering the period 30.6.05 to 14.1.08. I have also reviewed the emails mentioned
+in the Supplementary Request covering the period July and August 2009
+(FUJ00152818, FUJ00154846, FUJ00154848 and FUJ00154851)
+
+120. I referred to the "contract" that POL had with Fujitsu. My recollection is that POL
+had a contractual arrangement with Fujitsu under which Fujitsu supplied
+transaction and event log data to the Security Team to assist in investigations. I
+referred to the limited allowance of ARQs available under this contract, the cost
+and impact on other resources, and asked John Longman to seek views/input
+from the criminal lawyer in the case. I believe this position reflected a
+policy/procedure that was communicated to me during the brief spell I was
+Casework Manager. I recall some occasions when requests made from outside
+of the Security Team were dealt with. Requests made within the ARQ limit were
+dealt with, but requests outside the limit needed to be approved. I didn't have
+
+Page 34 of 48

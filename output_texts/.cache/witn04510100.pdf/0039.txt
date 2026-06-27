@@ -1,0 +1,34 @@
+WITN04510100
+WITN04510100
+
+the branch to a different and more expensive network (ADSL) on which the
+issue did not occur.
+
+116. By recommending in the call that "no attempt be made to fix these problems", I
+was recommending that no code fix be written. The call records my
+recommendation that Fujitsu implement network changes which had been
+shown to resolve the issue without requiring a code fix-even though this
+workaround would have a cost implication to Fujitsu as the ADSL network was
+more expensive.
+
+117. I wish to stress that I do not recall the details of this incident and my explanation
+above at paragraphs 113 to 116 is based on my interpretation of the Peak, 16
+years after the event.
+
+REMOTE ACCESS
+Remote access and my role as SSC Manager
+
+118. In responding to the Inquiry's questions on the topic of remote access, I wish to
+stress that at no time did I personally use remote access to any part of Legacy
+Horizon or HNGX. I never requested access, nor did I ever want it, not being
+sufficiently technical. I was a manager of SSC support staff, and therefore was
+not sufficiently technically trained in Riposte or any other part of the system to
+provide technical support. I did not need access to either the Legacy Horizon
+or the HNGX systems. My knowledge of remote access is not as detailed or
+comprehensive as the SSC technicians who I managed and who did use
+remote access to provide software support.
+
+119. It is clear from the Peaks that I have been shown-for example, Peak
+PC0143500 (FUJ00120588)-that the use of remote access could affect
+
+Page 39 of 54

@@ -1,0 +1,32 @@
+WITN09750100
+WITN09750100
+
+iii. Baskets of transactions recorded to the Audit Store are complete and
+'digitally sealed', to protect their integrity and make it evident if they have
+been tampered with;
+iv. Horizon's Audit Store maintains and reports from a complete and unchanged
+record of all sealed baskets; and
+v. Horizon provides visibility to Sub-postmasters of all centrally-generated
+transactions processed to their Branch ledgers.
+
+64. The 'Horizon Features' were those (a) built directly into HNG-X to exert
+control over processing; (b) relating to IT management activities over HNG-X and (c)
+relating to POL's business processes that use HNG-X. We defined these as being
+features:
+
+'...deemed relevant by POL to their objectives if they supported the statements
+that Sub-postmasters have full ownership and visibility of all records in their
+Branch ledger, and that audit trails kept by Horizon are complete and
+accurate'.
+
+65. As outlined in the Board Briefing, no documentation from the Legacy Horizon
+System's implementation in 1995 remained available and so we were unable to
+conduct a desktop review of features of this system. However, a review of the
+documentation and interview responses relating to the HNG-X system, combined
+with verbal statements from Fujitsu that the Legacy Horizon System's key design
+features were the same as HNG-X suggested that, if implemented and operating
+effectively, such features would support the robust operation of the system. The
+identified features were reported in the final version of our Deliverable (see
+paragraph 60), however for the reasons stated above we could not provide
+
+Page 19 of 39

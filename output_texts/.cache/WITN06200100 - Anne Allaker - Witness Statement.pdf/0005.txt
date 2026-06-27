@@ -1,0 +1,22 @@
+WITN06200100
+WITN06200100
+
+35. It's clear from the documents sent to me that individual Sub postmaster branch issues were identified on the weekly call. Of the documents sent to me I know nothing of POL00021130 and I think it predates the Horizon weekly call. Of the other documents supplied I can confirm they would all have been raised on the weekly call.
+
+36. I cannot say how aware the rest of the Branch Support Programme were of commonality of issues reported by Sub-postmasters or colleagues but information on commonality of issues raised was available from calls logged to NBSC, the Intervention log and probably from other sources. We all used the management information available to us to help in our improvement suggestions.
+
+Dispute Resolution
+
+37. I have been asked questions about the resolution of disputes and to consider POL00002396. Firstly with regard to POL00002396, from reading through the document provided it appears that NBSC had received a call from the branch following a report on television. From my response to the NBSC team I can see that I would have checked the branch file on our Electronic Filing Cabinet (EFC) and as I had copied in the Contract Advisor asking him to pick this up it would have been because I could see that the Contract Advisor was already in contact with this sub-postmaster. In this case it wouldn't have been necessary for NBSC to get involved as the Contract Advisor would have been able to request any necessary reports and/or make the necessary contact with the sub-postmaster. I was also both involved with and witnessed disputes between Post Office and spmrs either as a note taker at spmr interviews, held by Contract Advisors prior to 2006, and/or in my role as Contract Advisor between 2012 and 2014.
+
+38. To the best of my knowledge and memory the disputes I was involved with or witnessed were as a result of a shortfall found at audit. These cases would be escalated to the relevant Contract Advisor by the auditor to be managed through to resolution. Resolution could have been a meeting with the Contract Advisor resulting in the termination of a contract, written warning, repayment of loss, conditions attached to continuation of that contract as examples. I cannot remember the names of any individual cases that I was involved in.
+
+39. I am aware that reports could be requested from Fujitsu in some cases to help resolve issues but from memory this was a documented process via a central email box rather than involving individuals.
+
+40. I don't feel able to give a view on improvements to the process as I don't have a full picture of all the cases managed. My involvement was with very few cases.
+
+Knowledge of bugs, error and defects
+
+41. I have been asked about my knowledge of bugs, error and defects in the Horizon IT system. I was aware that the Horizon system could freeze if there was a communication interruption however there were processes to recover any transactions which were in process at the point of freeze. With regard to bugs, errors and defects I will say that when I first heard these labels I was concerned about their meaning. I heard them used in IT communications, and still do in media reports relating to IT platforms, Social Media platforms or when a banking system is interrupted as examples. In my time with Post Office Ltd it was most commonly used in examples like "any bugs or defects will be ironed out during testing", this was often prior to a new product or product change going live. Also if something was wrong in the live environment e.g. as with the Dalmellington Outreach site, that may also be labeled as an error or defect, not that I'm saying it was in the case of Dalmellington. In my experience these labels meant that something needed to be corrected in the product flow in the IT process.
+
+42. As stated above mention of bugs, errors, defects usually came as a result of

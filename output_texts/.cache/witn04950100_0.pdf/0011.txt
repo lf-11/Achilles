@@ -1,0 +1,25 @@
+WITN04950100
+WITN04950100
+
+cash in excess of 25k audited. A large shortage in excess of £1,000 would be
+reported to the Crown Area Manager and Security team. Any shortages were
+made good by POL. WH Smith would have 2 or 3 stocks checked along with
+the main safe, full bureau and main stock. Franchise/multiple offices and
+Sub-Post Offices would have all cash and stock checked. The
+franchise/multiple office partners would be asked if they would have a
+representative on hand during the audit or whether the Officer in Charge
+("OIC") would be sufficient and we could relay all the details to them by the
+OIC. A full report would still be sent to the Post Office Controller i.e. the
+relevant Franchisee and partners.
+
+34. Auditors had a global user account which enabled us to get onto the Horizon
+system when no clerk with managers access was available to put us onto the
+system using their credentials. The POL helpline would be contacted for a
+one-shot password to be provided which allowed us to access the office
+system through the global user account. This would enable us to produce the
+reports needed to complete the audit. I am not aware of any audit measures
+that were in place regarding global user accounts but do remember that the
+password could only be used once and the auditor login would be removed
+from the system on completion of the audit.
+
+Page 11 of 23

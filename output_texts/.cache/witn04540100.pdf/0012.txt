@@ -1,0 +1,14 @@
+WITN04540100
+WITN04540100
+
+b. In PC0093382 WITN0454_01/10, I noted that a Peak should be closed. While I do not recall this Peak or the incident it relates to, I would not generally have asked for a Peak to be closed independently. I expect I would have done so on the instruction of someone else in the HSH or third line support.
+
+44. Most of the Peaks the Inquiry has referred me to relate to balancing issues or accounting discrepancies. I was aware, at a very general level, that SPMs often experienced difficulties with balancing. The HSH would get a high number of balancing related calls on the days when SPMs had to balance their accounts. However, I was not usually kept updated if there were any trends identified which might show a problem with Horizon. When balancing issues were escalated to third line support, I would not usually be kept informed about the details of the resolution and I would not have been part of the support team's discussions.
+
+45. I did not, at any point while employed at Fujitsu, regard the complaints made by SPMs as indicative of system-wide issues with Horizon. I had this view because:
+
+a. The complaints received from SPMs and that I handled were very wide ranging. As I explain above, while some of them related to discrepancies or potential technical issues with Horizon, many others were about issues such as allegations of rudeness by field engineers or HSH staff, or unhappiness with the layout of particular screens on the Horizon terminal.
+
+46. I believed at the time that if there really were system wide issues, all SPMs would have been affected. However, the volume of calls/complaints we were receiving did not suggest that. Instead, it suggested that only a subset of SPMs was having difficulties.
+
+Page 12 of 17

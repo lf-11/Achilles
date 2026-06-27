@@ -1,0 +1,28 @@
+WITN06680100
+WITN06680100
+
+detailed in the report nor the fact that these errors could cause discrepancies in
+branch accounts.
+
+Awareness of Errors in the System to cause Branch Discrepancies
+41. As a result of some the of escalated incidents, which I directed to the Software
+Team, I was aware that it had been reported by SPMs that the system could cause
+branch discrepancies, however I do not recall these in detail.
+
+Fujitsu Access Rights
+42. As I had no direct involvement in the resolution of software issues, I do not recall
+being aware of Fujitsu's use of access rights and privileges to alter transaction
+data or data in branch accounts, nor to implement fixes in horizon which would
+impact transaction data or data in branch accounts.
+
+Other information
+43. I am not able to recall any other information which I believe the chair should be
+made aware of.
+
+I believe the content of this statement to be true.
+
+Signed: GRO
+
+Dated: 12/02/2023
+
+Page 16 of 21

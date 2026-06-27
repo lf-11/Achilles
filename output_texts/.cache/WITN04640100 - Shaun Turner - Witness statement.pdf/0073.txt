@@ -1,0 +1,12 @@
+WITN04640100
+WITN04640100
+
+243. Originally, Smart ID functionality restricted individuals to being able to log in to only one counter at any point in time. In the early stages of the programme, I raised the point that this was going to cause problems on the ground as Postmasters needed the ability to switch easily and quickly between different counters. I did not need a branch to tell me that; this was clearly going to be an issue.
+
+244. Whilst the initial pilot rollout did have this one counter restriction, we also included a tactical workaround called a 'restricted use ID'. This essentially issued a Smart ID to each branch with more than one terminal and these IDs worked at a branch level. This meant Postmasters could use this ID to log in to another terminal at the same time as being logged in with their unique individual Smart ID. This was a temporary fix, pending a long term technical solution.
+
+245. The solution was the Smart ID dual login capability. This was designed to allow users to be logged in at more than one counter at a time, but they could only be active on one terminal and the other terminal which they were logged on to would have to be locked by the user before they logged on to another terminal. As I say, this was to facilitate people working in branches needing to jump between two different terminals. For example, processing 'drop and go' transactions on one terminal and moving to another terminal to serve a customer. Drop and go transactions are where a customer leaves a bulk of mail with the Postmaster for processing and the Postmaster charges the cost of this to the customer's account.
+
+246. Smart ID dual login capability was trying to find a balance between the compliance requirement of needing to know who was logged on to each
+
+Page 73 of 95

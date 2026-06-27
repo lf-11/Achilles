@@ -1,0 +1,12 @@
+WITN03920100
+WITN03920100
+
+57. Within the scope of the S80 Release changes were introduced that moved office accounting away from weekly Cash Account production to Trading Periods and also introduced an automated process to manage Unclaimed Payments and Uncharged Receipts that existed as the office level Suspense Account. Up until the S80 Release errors made by office in transacting business had been dealt with through a paper process that required office managers to post details (enter details) of the Error Notices into the Suspense Account; S80 introduced an automated posting process. This improvement meant that the risk of office errors relating to amounts manually posted to Suspense Accounts was mitigated and the overall time taken for error notice processing was reduced.
+
+58. The introduction of Trading Periods in offices did not change the concept of producing a formal statement of activity within an agreed time period however it was a new process to be followed.
+
+59. In terms of engagement with end users in any business function impacted by the IMPACT Programme I am unable to list and specify the details of engagement however the role of the change manager, and the change management functional representatives, was to ensure that end users were engaged and supporting management staff were engaged in the design and testing of the changes. The Programme, and POL management recognised, that user input was an important element of ensuring a good user interface and user experience.
+
+60. Whilst I am unable to reference specific notes, or documents, I can confirm that user feedback was important to the IMPACT Programme team and that feedback would have been taken on board and acted upon where appropriate. The
+
+Page 23 of 32

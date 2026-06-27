@@ -1,0 +1,32 @@
+WITN04510100
+WITN04510100
+
+Peak PC0145617
+
+113. At the Inquiry's request, I have considered Peak PC0145617 (FUJ00086828).
+For the reasons I have explained at paragraphs 85 and 86 above, I cannot
+recall the details of any specific Peaks. Reviewing the details of Peak
+PC0145617 has not prompted any memory of the incident.
+
+114. Looking at the Peak, the issue, as reported by the Postmaster, appears to be
+that the screen would "freeze" during a transaction, forcing the Postmaster to
+reboot the counter. There is no indication from the Peak that this would have
+any impact on branch accounts. I believe that my reasons for stating that Fujitsu
+was unlikely to get a fix from Escher, and that it was unlikely Fujitsu would
+implement such a fix even if it were provided by Escher, are contained within
+the Peak. Fujitsu's development, network and SSC teams, and Escher, could
+not identify the root cause of the problem, which appeared to lay somewhere
+between Escher code and network issues. Therefore, there was no realistic
+expectation of a code fix from any source.
+
+115. Again looking at the call, it appears that it was not possible to recreate the bug
+in a test environment, there was also no realistic expectation of being able to
+test any code fix supplied from any source. The development team's suggestion
+was that any potential code fix would be likely to cause more problems than it
+solved, and a workaround was available (documented in the call as a change
+to the relevant Post Office branch's network type), which was the solution that
+I recommended. The underlying problem was a combination of a Riposte
+process error and a network failure occurring simultaneously. This only
+happened on the ISDN network, and the effect of the workaround was to switch
+
+Page 38 of 54

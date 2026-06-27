@@ -1,0 +1,33 @@
+WITN09090100
+WITN09090100
+
+WITN09090100
+
+something that NBSC did suggest to branches as although transactions went
+through the Horizon System, they were still mainly manual based with a piece
+of paper or counterfoil for every transaction processed so it was relatively
+easy to run a manual system alongside Horizon. What this would do was
+either reassure the Postmaster that everything in Horizon was correct
+because they could check the manual figures against what Horizon said, or it
+could potentially identify any anomalies assisting HSH in pinpointing an issue.
+The second suggestion in this email was to take a snapshot before and after
+doing a remittance. This would satisfy the Postmaster that remittances were
+not doubling up as they could check the figures on both snapshots.
+
+46. I do not recall whether at the time I thought the investigations set out in the
+email to Cath Oglesby (Witness Statement of Andrew Wise, Exhibit AW1
+Page 30 (LCAS0000110)) were sufficient or not. From my memory of working
+in NBSC the investigations detailed were what I would have expected at that
+time given the scope of what a Tier 2 Service Support advisor at NBSC was
+able to do.
+
+47. In the email from Andrew Price dated the 20/04/2004 (Witness Statement of
+Andrew Wise, Exhibit AW1 Page 30 (LCAS0000110)) he writes that 'Andrew
+Wise and myself both feel that the Horizon system is working properly and we
+are unable to help the PM further'. In my witness statement from 2006
+(Witness Statement of Andrew Wise, (LCAS0000110)) I comment that I did
+not recall saying that and I still do not recall a conversation with Andrew Price
+where this was discussed. Generally, when NBSC looked at branch Cash
+Accounts to assist a Postmaster we were looking to see if any mistakes
+
+Page 16 of 33

@@ -1,0 +1,31 @@
+WITN09900100
+WITN09900100
+
+addition to the bottom up approach that we had adopted was something that I
+wished we had implemented as it would have been a more complete
+approach and would have enabled more conclusive findings.
+
+DALMELLINGTON BUG
+
+173. I have been asked to consider document POL00153527 which is an email
+from Melanie Corfield me and others on 10 November 2015. Whilst this
+document does not reference the 'Dalmellington Bug' specifically, my
+knowledge of the detail of this 'bug' is limited due to the passage of time and I
+have therefore assumed that 'the issue' referenced in the email is the
+Dalmellington bug. I believe that this was a bug that impacted Outreaches
+only (an outreach is not a Post Office in its own right but is attached to a 'core'
+Post Office and treated as one Post Office branch for the purpose of branch
+accounts). The issue occurred when the Core Post Office was remming
+(transferring /remitting money) money out to the Outreach. I think that they
+were able to press the button again and transfer of money doubled up. I don't
+recall what POL's response was at the time.
+
+GROUP LITIGATION
+
+Early stages
+
+174. I can confirm that I have reviewed the following documents:
+i. POL00025509 (draft terms of reference for Postmaster Litigation
+Steering Committee);
+
+Page 85 of 132

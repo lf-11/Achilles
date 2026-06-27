@@ -1,0 +1,32 @@
+WITN03920100
+WITN03920100
+
+As part of the team effort, the role also required support in the provision of end
+users in User Acceptance Testing.
+
+7. The early stages of the BA/POCL Programme had many challenges such as the
+supplier ramping up with sufficient capable resources and the various
+programme teams becoming established. Work was conducted in ICL Pathway's
+Feltham facility and Terminal House and meetings were undertaken with POCL
+and Benefits Agency business function representatives. Change management
+was established and engagement with staff and various representative bodies
+was developed. The scope and scale of the Programme was significant, I believe
+that it was sometimes referred to as the largest infrastructure Programme in
+Europe, outside of military contracts.
+
+8. Software Releases and the effects of such releases
+
+(Referring to FUJ00058348, FUJ00058333, FUJ00058331, FUJ00078114.)
+
+The first Release of the BA/POCL Programme was, in my view, part of the
+confidence building exercise for stakeholders. The Initial Go-Live (IGL) Release
+was to 10 offices located in the South Wales / South West of England and
+provided a standalone Benefits Encashment Service (BES). From memory the
+BES was based on a small number of volunteer Child Benefit recipients agreeing
+to use a Smart Card to enable them to access their benefits in 10 selected post
+offices. The BES ran alongside legacy services with an appropriate adjustment to
+the end of week accounting process to reflect both BES transactions and legacy
+paper token benefits transactions. This Release was known as Initial Go-Live
+(IGL) and as Release 1a.
+
+Page 3 of 32

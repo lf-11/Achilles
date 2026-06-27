@@ -1,0 +1,12 @@
+WITN04640100
+WITN04640100
+
+231. I have been asked to explain what the Smart ID/'End User Management' programme entailed and the reason for pursuing it. As stated in paragraph 229, I have reviewed the documents identified in respect of this issue.
+
+232. The Smart ID programme was about implementing a new way of controlling access to the Horizon system. It was all about user management and how Postmasters log on to Horizon.
+
+233. The main change made by the project was the allocation of a Smart ID to each individual user within Horizon, except for those users in British Forces Post Offices which were branches run by the Ministry of Defence. Global ID users (for example engineers, auditors and trainers) could also continue to use their previous Horizon logins. I should also note that certain back office staff were issued Smart IDs to allow them to administer the Smart ID system. For example, the Smart ID Operational team were allocated Smart IDs so they could log in to the Smart ID system to create and deactivate Smart IDs for Postmasters and undertake other Smart ID maintenance activities. This Smart ID was only to be issued to a user once they had passed a vetting process and only individuals with Smart IDs were allowed to work on branch counters.
+
+234. This control was one of the key reasons for pursuing the programme. Prior to the Smart ID project, Postmasters should have vetted individuals before putting them on the counter. However, there were no system controls within Horizon to ensure this was happening and, in reality, Postmasters could put staff on branch counters without them being vetted. The Smart ID programme aimed to manage some of this risk.
+
+Page 69 of 95

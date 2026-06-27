@@ -1,0 +1,34 @@
+WITN05210200
+WITN05210200
+
+implemented as at 12th August 1999. Document POL00043711 contains the
+minutes of subsequent meetings on 25th and 26th August 1999 which again
+provide an account of the progress made and actions required. To the best of
+my recollection these documents accurately set out the action Pathway were
+taking.
+
+Question 9: Did you consider that the action being taken by ICL Pathway to
+investigate the underlying root cause(s) of the accounting discrepancies was
+sufficient? Please explain the reason(s) for your answer.
+
+18. Yes, for the reasons set out above and having regard to the actions Pathway
+were taking as set out in the documents referred to.
+
+PLEASE CONSIDER FUJ00079176 AND FUJ00118150
+
+Question 10: Please describe and explain how the error rate of 0.6% came to
+be proposed by you and Keith Baines as a condition for acceptance of the
+Horizon system?
+
+19. There was an End to End Working Party which came up with the 0.6% error
+rate which came to be proposed by Keith Baines and I. This Working Party
+included Mark Burley who worked for me and various members of Keith
+Baines' team. For the avoidance of doubt, this working party was not confined
+to those with technical/IT backgrounds but also included Transaction
+Processing, Finance, the Operational Retail Network Management and the
+Investigation and Audit teams. I believe that the 0.6% error rate would have
+had to have been agreed by the Head of Transaction Processing, which was
+the relevant business unit. This position owned the operational business
+process, which was the relevant school of management thought at that time.
+
+Page 6 of 21

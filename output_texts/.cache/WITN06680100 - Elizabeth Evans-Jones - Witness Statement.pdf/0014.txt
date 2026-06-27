@@ -1,0 +1,31 @@
+WITN06680100
+WITN06680100
+
+34. I have been asked to consider various document FUJ00002010, FUJ00080024,
+FUJ00080033 and FUJ00002112.
+
+35. I was listed as a reviewer on the documented procedures for rectifying and
+problems and issues in the Horizon system. My area of expertise is Service
+Management and my role was to ensure that the Horizon IT system procedures
+accurately referenced the services management procedures on the account, such
+as Incident Management and Operational Level Agreement (OLA) documentation.
+I do not have a technical background and had no input into the actual technical
+procedures. I also had no exposure into the efficacy of these procedures in
+rectifying issues in Horizon.
+
+F. ERRORS OR ISSUES WITH THE HORIZON SYSTEM
+Issues with the Horizon System
+
+36. The Inquiry has requested me to comment on my understanding of issues or
+problems with the Horizon system. In particular, I have been asked to consider
+various documents FUJ00092942, FUJ00092943, FUJ00095212, FUJ00095213,
+FUJ00095331, FUJ00095332, FUJ00095576, FUJ00095577, FUJ00096845,
+FUJ00084715 and FUJ00084717.
+
+37. I am not a subject matter expert on the Horizon software, however I was aware
+that software Incidents were logged with the HSD. My remit was to ensure that
+these were accurately logged and passed in accordance with the agreed
+timescales, to the correct SDU for them to diagnose and resolve the incidents. To
+the best of my recollection, I was not involved in any analysis relating to the nature
+
+Page 14 of 21

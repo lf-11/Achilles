@@ -1,0 +1,31 @@
+WITN09750100
+WITN09750100
+
+thoughts on how some of the objectives in relation to risks and control measures
+present within the HNG-X system could be addressed by Deloitte specialist teams to
+help POL assess the reliability of the computer processing environment. The
+'processing environment' refers to the combination of IT processes and controls
+within POL, or their third-party suppliers, which underpin the operation of the HNG-X
+system.
+
+17. We were not ultimately instructed on Project Spire.
+
+PROJECT ZEBRA
+
+2012: Initial scoping options discussions
+
+18. I recall that after our Project Spire proposal, but still in 2012, POL was keen
+to understand if and how Deloitte could undertake some work that would enable us
+to provide an opinion on the integrity of the HNG-X processing environment, and so
+we had a further discussion with POL.
+
+19. These discussions with POL resulted in the production of the Project Zebra
+scoping options document (POL00116802), which identified some commonly used
+international standards that can be used as the basis of fomal assurance opinions.
+
+20. The Project Zebra paper was built upon the Project Spire proposal and
+outlined three possible engagement options identified by us. Deloitte was not
+engaged by POL to proceed with the work in 2012; scoping and drafting the
+eventual engagement parameters of Project Zebra did not occur until 2014.
+
+Page 5 of 39

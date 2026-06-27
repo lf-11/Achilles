@@ -1,0 +1,35 @@
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+g) Dunelm; CIO (2021-2023) – a member of the Executive team
+responsible for all IT with a focus on the switch to digital retailing.
+
+h) POL; CTO (2023-2024) - a member of the Strategic Executive Group
+responsible for IT including the delivery of the SPM programme which is
+replacing the Horizon system.
+
+6. I have been asked to summarise my understanding and experience with the
+Horizon IT system. This is a complex system, and I appreciate the Inquiry is very
+aware of the detail and history of the system. Horizon is the IT system which
+manages all POL branch transactions and it is deployed to all 11,700 branches
+and 22,000 counters. Support and ongoing development are largely outsourced
+to Fujitsu and it runs from two Fujitsu managed data centres in Belfast.
+
+7. In terms of my experience with the Horizon IT system, I am accountable for the
+day-to-day operation of Horizon from a POL perspective although, as I noted, the
+service is still mostly outsourced to Fujitsu with some activities being moved into
+POL (as part of the Application Modernisation project).
+
+8. Application Modernisation involves POL re-building components of Horizon which
+interface with 3rd party partners (e.g. the Banks and the Royal Mail Group). This
+allows POL to own and support these critical components and also minimises the
+impact of migrating from Horizon to the new system (NBIT).
+
+9. Another of my responsibilities is all change activities on the Horizon system. These
+include:
+
+a) the regular Horizon software releases which include defect fixes and
+enhancements for Postmasters
+
+Page 3 of 25

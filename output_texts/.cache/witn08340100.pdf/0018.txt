@@ -1,0 +1,32 @@
+WITN08340100
+WITN08340100
+
+of the document deals at section 2.4 with "Service Limits and Volumetrics" and
+this gives the figure of 720 ARQ requests per year. I have some recollection that,
+to begin with, the figure was lower and it increased to 720, but I can't remember
+when that change came about.
+
+58. My recollection is that any requests over and above the amount that Fujitsu were
+obliged to provide had to be paid for. Looking at the document at FUJ00152212
+("Management of the Litigation Support Service" dated 27.10.09), paragraph 7.1
+says that ARQ requests beyond that specified under contract would be agreed on
+a "case by case basis". I don't now recall exactly the process which had to be
+followed, but having looked at another document at POL00052222 (some emails
+exchanged in June - August 2009 relating to the prosecution of Seema Misra) it
+would appear that I asked Penny Thomas, Security Analyst at Fujitsu, for an
+estimate of the cost. This correspondence also indicates that a "formal quote"
+could then be obtained. So I think there was a practice of obtaining an initial
+estimate of the cost from Fujitsu, which might then lead to a request for a formal
+estimate.
+
+59. I do not recall what, if any, changes to Fujitsu's obligations arose as the Horizon
+system evolved from Legacy Horizon to Horizon Next Generation and to Horizon
+Online. As far as I was aware at the time, they were just updated versions of the
+Horizon system which were rolled out over time.
+
+60. As I mentioned elsewhere, between 2007 and 2008 I worked as a Casework
+Manager managing the Casework Team and one of my roles was to act as the
+point of contact between POL and Fujitsu in relation to ARQs. The Casework
+Team would receive email requests for Horizon data from Security Managers. I
+
+Page 18 of 48

@@ -1,0 +1,51 @@
+WITN06680100
+WITN06680100
+
+No URN Description Control Number
+Horizon service. The
+document also details the
+planned actions that will be
+taken to minimise the risk of
+this service not being
+available – dated
+20/11/2008
+11 FUJ00002042 Branch Network Service POINQ0008213F
+Description – dated
+28/02/2007
+12 FUJ00002058 Service Level Target and POINQ0008229F
+Liquidated Damages
+Exclusions – dated
+20/11/2007
+13 FUJ00080016 POA Fujitsu/PO Customer POINQ0086187F
+Service Incident
+Management Process - V1.1
+– dated 02/03/2007
+14 FUJ00080495 Report: report detailing the POINQ0086666F
+prioritisation and call codes
+for implementation incidents
+logged on PowerHelp –
+dated 17/04/2007
+15 FUJ00080496 Report: report detailing the POINQ0086667F
+prioritisation and call codes
+for Operational Business
+Change incidents logged on
+PowerHelp – dated
+16/04/2007
+16 FUJ00080498 Report: report detailing the POINQ0086669F
+prioritisation and call codes
+for Reference Data incidents
+logged on PowerHelp –
+dated 23/04/2007
+17 FUJ00080499 Report: report detailing the POINQ0086670F
+prioritisation and call codes
+for Software incidents
+logged on PowerHelp –
+dated 23/04/2007
+18 FUJ00080500 Report: document detailing POINQ0086671F
+the prioritisation and call
+codes for hardware
+incidents logged on
+PowerHelp – dated
+23/04/2007
+
+Page 18 of 21

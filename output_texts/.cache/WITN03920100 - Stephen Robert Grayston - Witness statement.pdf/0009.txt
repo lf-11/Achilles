@@ -1,0 +1,28 @@
+WITN03920100
+WITN03920100
+
+branch configurations that represented the different branch types in the Network.
+The Model Office was also the place where MiMan and MiECCO was tested and
+so was not purely focussed on Horizon business as usual.
+23. The Model Office ran through agreed testing scripts that each had defined
+expected outcomes. The scope of testing covered the business day transactions,
+to end of day processing, to end of week or accounting period processing. To
+enable a faster testing cycle logical days were used so that an accounting week
+could effectively be completed in 1-2 days.
+24. One significant benefit of the Model Office was that the users represented 'real
+people' who worked in branches and who were therefore non-technical and
+unpredictable. Users hitting keys in unexpected sequences or not following the
+expected process to system flow would identify additional defects.
+25. Of course, the effectiveness of the Model Office was also dependent on a very
+clear understanding of the environments being used and their version number. In
+scenarios that tested integrations the reports highlight defects that were
+attributed to environment version incompatibility; I would expect that all such
+instances would have been resolved by re-running tests with environments
+running the appropriate versions.
+26. In terms of test reports, it was critical that the test management team led by ICL
+Pathway (with POCL test management involvement) produced updated reports
+showing progress made in testing with number of test scripts run, tests passed
+and failed and a list of defects. Analysis and agreement needed to be made of
+the severity of test incidents and root cause analysis of incidents was
+
+Page 9 of 32

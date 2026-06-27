@@ -1,0 +1,32 @@
+WITN09840100
+WITN09840100
+DocuSign Envelope ID: 35848B78-14EA-4B48-AF01-6881BFF848DD
+
+implemented, it reflects the sense of potential crisis as we awaited the outcome
+of the HIT judgment.
+
+355. On 4 December 2019, Ben Foat sponsored a paper to provide a HIT Judgment
+Contingency Planning Update (Horizon Issues Trial Judgment Contingency
+Planning Update 4 December 2019, POL00129086). This paper was intended
+to provide reassurance that POL was prepared to respond to potential
+operational impacts following the HIT judgment and that these measures could
+be refined and adapted quickly to suit the outcome and reassure Postmasters.
+The paper also acknowledged the likely sources of historical claims including
+suspension pay, notice periods and repaying shortfalls. This contingency
+planning operated in conjunction with tactical meetings on settlement (see from
+paragraph 358).
+
+356. On 9 December 2019, we received the embargoed HIT judgment, which found
+that the latest version of Horizon was relatively robust. However, the remainder
+of the judgment, including the conclusions on the robustness of historic versions
+of Horizon (Legacy), were adverse to POL and the Claimant's expert evidence
+had been preferred. Mr Justice Fraser concluded that there was a material risk
+that bugs in older versions of Horizon had caused shortfalls in branches.
+
+357. As a result of the HIT judgment, Ben Foat noted that Horizon contingency
+planning should now be implemented as POL could expect to receive claims
+based on historical shortfalls, and analysis would need to begin in respect of
+Postmasters who had convictions on the basis of evidence of Horizon (Email
+chain between Ben Foat, Tim Parker, Tim Franklin and others RE: GLO - High
+
+Page 92 of 137

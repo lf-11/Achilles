@@ -1,0 +1,33 @@
+WITN04510100
+WITN04510100
+
+mainly accessed by the operating systems on the servers, primarily Windows
+NT. The operating systems were not supported by the SSC, which only support
+code written or implemented by Fujitsu.
+
+138. BOC Personnel, which I mention at paragraphs 56 and 120 above, supported
+the operating systems and databases. These staff were based in Belfast. I do
+not know what tools they used to support those parts of the Horizon system.
+
+139. At the time that the System Outline Design was produced, access to the live
+estate was not fully audited. Audit trails did exist, and included recording of staff
+login/logout on SSC PCs and SSC servers in the data centres.
+
+140. What was not directly auditable in the early stages of Horizon was exactly what
+the SSC staff had typed when logged into the SSC PCs and SSC servers,
+although the logins themselves were auditable. Other audit trails were manual,
+through the use of OCPs or updates to the Peak system. If a transaction had
+been inserted into a message store, this would have also been visible in the
+message store.
+
+141. The purpose of the System Outline Design seems to be to specify a toolset for
+different support units to enable them to continue to support the systems, and
+to be fully auditable. The System Outline Design resulted in the use of SSH
+software, which was fully auditable—I believe via the audit servers, which were
+not accessible by the SSC.
+
+142. SSC access to the live system from the secure area in Bracknell was not
+automatically audited in the early stages of Horizon because at the time, the
+only software that could provide the access necessary to support the Horizon
+
+Page 45 of 54

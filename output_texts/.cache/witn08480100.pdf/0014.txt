@@ -1,0 +1,10 @@
+WITN08480100
+WITN08480100
+
+would be escalated to the Contracts Advisor while the Auditors were still onsite.
+
+38. The Inquiry has asked me to consider two documents, the "Audit Trail Functional Specification" (version 8.0, 18 October 2004) (FUJ00001894) and Global User Account (September 2016) (POL00002841). I cannot recall seeing these documents previously, but I do recall I had a Global User Account issued to me. I cannot remember ever using it, but this may be because I was usually the Assistant Auditor rather than the Lead Auditor who would have taken on this responsibility. As far as I can recall the Audit Global User Account would allow an Auditor access to log onto the Horizon system where they could be identified as a user. This would be used when there was nobody in branch with "Manager Access" to Horizon and would allow the reports to be sourced and printed. I do not recall the audit measures that were in place but note that POL00002841 explains the process for who would be given an account and the actions that were required. I cannot recall this process from my time in the Audit Team.
+
+39. The Inquiry has asked me what involvement Fujitsu had in the audit process. I cannot recall any interactions with Fujitsu in the Audit process, and I am not aware of any involvement they had in completing an Audit.
+
+40. The Inquiry has also asked me whether Auditors had access to any information which was not available to Subpostmasters. I cannot recall anything from memory although I do remember that at one point Auditors were able to ring and check if any error notices or transaction corrections were imminent which I do not believe was available to Subpostmasters.

@@ -1,0 +1,32 @@
+WITN09940200
+WITN09940200
+
+question. POL was not involved in making the operational decisions about de-
+duplication.
+
+75 The main method used to identify duplicates is MD5# analysis, in which an
+algorithm assigns documents with an MD5 value (which has been described to
+me as the equivalent of a digital fingerprint) and where 2 documents have the
+same MD5 value they are identified as duplicates. There is also textual de-
+duplication, which looks to see whether 2 documents contain the same text. I
+understand from POL's external advisers that they have primarily used MD5#
+analysis.
+
+76 De-duplication can be applied at more than 1 stage, including:
+
+(a) before the document review stage, to reduce the number of documents
+that fall to be manually reviewed; and
+
+(b) at production stage (after documents have been reviewed and relevant
+documents identified), to avoid producing multiple copies of the same
+document.
+
+77 I have been told by POL's external advisers that they have de-duplicated
+documents at both stages.
+
+78 There are also 2 relevant levels at which de-duplication can be applied:
+
+(a) family-level de-duplication - duplication is analysed as between
+complete families of documents, excluding duplicate families and
+
+Page 24 of 38

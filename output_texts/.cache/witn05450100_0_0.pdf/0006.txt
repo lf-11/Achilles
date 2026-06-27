@@ -1,0 +1,23 @@
+WITN05450100
+WITN05450100
+
+Index to First Witness Statement of David Patrick
+
+No. URN Control Number Document Description
+1 POL00032698 POL-0029633 Assurance Review - Recruitment (Vetting & Training)" (version 1.0, 27 October 2009)
+2 POL00086765 POL-0083823 "Network auditing approach, methods and assurance" (2013)
+3 POL00088453 POL-0085511 "Training & Audit Advisor" (undated)
+4 POL00088557 POL-0085615 "Audit Advisor" (undated)
+5 POL00084650 POL-0081708 "Audit Plan & Scheduling, Chapter 1 of the Audit Process Manual" (Version 8.0) (2010)
+6 POL00083966 POL-0081024 "Audit Charter" (version 4.0, undated)
+7 POL00084801 POL-0081859 "Performing a Branch Audit", Chapter 3 of the Audit Process Manual (version 5.1, May 2010)
+8 POL00085534 POL-0082592 "Core & Outreach Audit Process", Chapter 3a of the Audit Process Manual (version 1.0, 27 May 2011)
+9 POL00087627 POL-0084685 "Follow Up Audit Process", Chapter 3b of the Audit Process Manual (version 3.0, May 2015)
+10 POL00088252 POL-0085310 "Performing a Cash Centre Audit", Chapter 7 of the Audit Process Manual (version 5.0, Aug 2016)
+11 POL00087672 POL-0084730 "Quality Assurance", Chapter 11 of the Audit Process Manual (version 5.0, Apr 2015)
+12 POL00084003 POL-0081061 "Post Incident Auditing without Horizon", Chapter 14 of the Audit Process Manual (version 1.0, Nov 2006)
+13 POL00084813 POL-0081871 "Condensed Guide for Audit Attendance" (version 2, Oct 2008)
+14 POL00085652 POL-0082710 "Requirement of Network Field Support Advisors at audit, following discovery of discrepancy" (version 1.0, Oct 2011)
+15 POL00086765 POL-0083823 "Network auditing approach, methods and assurance" (2013)
+
+Page 6 of 7

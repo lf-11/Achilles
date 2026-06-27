@@ -1,0 +1,31 @@
+WITN04510100
+WITN04510100
+
+the SMC and SSC would be judged by other lines of support and which allowed
+Support Units to monitor their performance relative to expectations, which are
+detailed in the End to End Support Process (FUJ00079897). This document set
+a target on the SMC to only pass to the SSC the first instances of new software
+bugs. That is to say, no calls which were subsequently closed as user error,
+network error, hardware, documentation, duplicate calls and other categories
+documented in the End to End Support Process (FUJ00079897).
+
+66. Initially the number of incidents passed to the SSC was very high and the
+"filtration" from the SMC was inadequate, which could result in SSC staff being
+overloaded with calls which were not software-related. Measures were put in
+place to change this. I remember going to Stevenage on several occasions to
+give presentations on the system structure, and there were also some
+secondments from the SMC to the SSC. SSC-developed tools such as the KEL
+system were also introduced, and SMC were granted access and encouraged
+to create KELs. Over time the filtration rate from the SMC improved
+consistently, meaning the SSC was adequately staffed to deal with incoming
+incidents.
+
+Major incidents
+
+67. At the request of the Inquiry, I have considered the "Horizon Service Desk Joint
+Working Document" dated 4 September 2008 (FUJ00080096). The document
+does not appear to mention the SSC and relates to the HNGX, which had just
+gone live when I left Fujitsu. As far as I can tell, the document sets out the
+processes to be followed by helpdesks.
+
+Page 24 of 54

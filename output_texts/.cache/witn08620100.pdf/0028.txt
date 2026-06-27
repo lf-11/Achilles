@@ -1,0 +1,38 @@
+WITN08620100
+WITN08620100
+
+Simon Baker (Head of PR) to confirm that there are no other bugs and
+"[Rodric Williams] / [Jarnail Singh] to confirm that no prosecutions relate to
+these bugs etc.". I was relying on Rodric Williams and Jarnail Singh to
+respectively consider the important civil and criminal implications outside
+of my knowledge and expertise, with assistance from Bond Dickinson and
+Cartwright King as appropriate. Jarnail Singh was getting Cartwright King
+up to speed to provide POL with specialist criminal advice regarding the
+developments.
+
+117. I refer to "put[ting] it in context – size of incorrect balances vis a vis all the
+transactions we process a day etc". Although these limited bugs had been
+identified (as subsequently confirmed by the Second Sight report), POL's
+impression was still that the Horizon system was robust.
+
+118. On Sunday 30 June 2013, at 18:00, Jarnail Singh replied to my 28 June
+2013 email above (POL00060572). He added the name of the defendant
+(Balvinder Samra) to the subject of my email. Jarnail Singh referred to
+discussions which had taken place with prosecution counsel, Cartwright
+King and Gareth Jenkins. Gareth Jenkins had confirmed that he had raised
+two Horizon bugs (I understand this to be the 14 and 64 branch issues)
+with Second Sight. The judge was to be updated the next day. Jarnail
+Singh noted POL's duty to be "open and honest" (page 1 of
+POL00060572).
+
+119. On 1 July 2013, I understand that I received an invitation to what was
+described as an "emergency" Second Sight meeting (POL00296868). This
+meeting took place against the background of the discussions above
+regarding the 14 and 64 branch issues. The meeting was scheduled from
+12:00 until 13:30. I do not recall this meeting, but I sent an email at 13:16
+on the same day containing high level draft points for the board
+(POL00060587). I appear to have been contributing remotely by preparing
+a first draft of high-level notes which was sent following the meeting
+finishing early, in anticipation of my being out of the office in the afternoon.
+
+Page 28 of 56

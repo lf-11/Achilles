@@ -1,0 +1,30 @@
+WITN09830100
+WITN09830100
+
+out how Integrity in Horizon is assured and how this forms the basis for
+responding to the various challenges made."
+
+138 In my response to Belinda Crowe, I said that I thought it was important to ask
+a question so that there was absolute clarity about governance structure and
+the processes through which requests for access must follow, setting out who
+at POL authorised the requests to Fujitsu. I also thought that it would be helpful
+for there to be a worked example to illustrate this, and to understand whether
+there was difference between Horizon online (the second version of Horizon)
+and its predecessor. I also thought that it would be sensible to ask for
+confirmation that remote access had not taken place in respect of the terminal
+at any branches in cases considered by the Scheme.
+
+139 [POL00091397] indicates that on 23 October 2014 Belinda Crowe forwarded
+James Davidson's email of 22 October 2014 at 14:29 on to me, Rodric William
+and Tom Wechsler, stating that she "did not understand all of this", and that it
+raised further questions.
+
+140 It appears from the documents [POL00149488] that Mark Underwood and I
+were tasked with trying to obtain straightforward answers from Fujitsu.
+[POL00149488] indicates that Mark Underwood and I met with Fujitsu on 6
+November 2014. From the follow up email dated 7 November 2014 at 11:45,
+Mark Underwood and I were tasked with drawing up "plain English questions"
+on remote access - about what it is and what is not possible to do when not
+using a sub postmaster's user ID.
+
+Page 69 of 168

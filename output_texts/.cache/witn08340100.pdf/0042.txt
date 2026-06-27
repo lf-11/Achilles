@@ -1,0 +1,32 @@
+WITN08340100
+WITN08340100
+
+individual prosecutions were to be taken on their own merits, and that evidence
+from Fujitsu would be required in each case where these issues were raised.
+
+142. The Request also asked me to what extent I considered the investigation into
+bugs, errors and defects in Horizon was sufficiently carried out by POL, and
+whether sufficient information was provided by Fujitsu. With the benefit of
+hindsight, I do not consider the investigation into bugs, errors and defects in
+Horizon was sufficiently carried out by POL. This is based on my recollection that
+POL maintained a position that the system was sound and robust and working
+properly at all times, which has transpired not to be the case.
+
+143. Again, with the benefit of hindsight, it seems to me that Fujitsu, as the owner and
+operator of Horizon, ought to have identified bugs, errors and defects in Horizon,
+which may have caused losses, and passed such information to POL. This may
+have occurred at some stage by default or by accident, but the impact to
+numerous individuals has been significant and issues should have been reported
+speedily and as a matter of course.
+
+144. I do not consider that I had sufficient information regarding bugs, errors and
+defects in Horizon which may have caused losses; indeed I do not recollect being
+informed by POL or Fujitsu of such issues. I feel as though these are the two
+sources that should have informed myself and teams within POL. I cannot
+attribute these failures to specific individuals; for example, I have no awareness
+of who in Fujitsu might have been responsible for 'signing off' Horizon as being fit
+for purpose if that assessment wasn't merited, or who within POL accepted that
+position, or who knew that there might be issues with Horizon or how they found
+out about this. My understanding of the situation is informed by the general stories
+
+Page 42 of 48

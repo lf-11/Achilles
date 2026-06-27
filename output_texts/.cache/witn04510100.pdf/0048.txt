@@ -1,0 +1,17 @@
+WITN04510100
+WITN04510100
+
+153. In this particular case, the person at Fujitsu who was originally responsible / going to give evidence at court declined to go. I cannot recall who this person was or why they declined. My recollection is that Brian Pinder was the Customer Service manager of the security team at the time, and I believe it would have been his responsibility to perform this task within his team.
+
+154. I was instructed by the Director of Customer Services at the time, whose name I cannot recall, to detail someone from the SSC to go to court to explain the workings of the message store. I objected strongly that nobody in the SSC had any experience of courts, or was legally trained. I was overruled.
+
+155. I then persuaded Ms Chambers (over her equally strong objections) to appear in court because I considered her to be the most experienced and technically best in the area of counter code. I also chose Ms Chambers because I had complete confidence in her honesty and personal integrity to tell the court exactly what she was seeing in the Riposte message store, and I had confidence that she would not be rattled into saying anything other than what she was seeing in the message store.
+
+156. I also informally de-briefed Ms Chambers after her evidence, and my recollection of the conversation was that she had found the experience very stressful.
+
+GENERAL
+Robustness
+
+157. During my time working on Horizon, I was aware there were incidents that would affect the robustness of Horizon. Incidents that occurred during the overnight harvesting of transactions and subsequent processing of those
+
+Page 48 of 54

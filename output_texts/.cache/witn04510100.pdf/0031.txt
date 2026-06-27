@@ -1,0 +1,22 @@
+WITN04510100
+WITN04510100
+
+Fujitsu's process upon identifying bugs
+
+90. The steps taken to identify bugs and discrepancies in branch accounts were no different, from the SSC point of view to the steps taken to identify any potential bug in any part of the system, namely some, or all of the following:
+
+a. Gather the evidence for the reported incident
+
+b. Analyse the data from Horizon to identify the source of the problem
+
+c. Attempt to recreate the problem using reference equipment
+
+d. Analyse the source code (as noted in paragraph 77 above, this step could not be taken in relation to third party software)
+
+e. If the problem could be fixed by a workaround, then develop and test that workaround
+
+f. If the problem required a code fix, then attach the evidence to the Peak and pass to the relevant development team
+
+91. If it was recognised by the SSC that an issue could affect branch accounts, this would be stated on the relevant Peak. There were problem and major incident processes in place, but do not remember them, and these processes were run outside of the SSC, which is noted in the "POA Customer Service Problem Management Process" dated 29 July 2005 (Problem Management Process) (FUJ00079953). The only difference that I can remember in relation to the SSC's process for dealing with a potential bug that could impact branch accounts and any other potential bug would be the parts of the system from which the SSC would gather evidence.
+
+Page 31 of 54

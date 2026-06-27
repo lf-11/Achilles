@@ -1,0 +1,28 @@
+WITN09090100
+WITN09090100
+WITN09090100
+Pension and Allowance dockets, Green Giro cheques, Postal Orders, Car Tax
+transactions, and redeemed saving stamps. There were other mandatory
+weekly reports that were produced such as suspense account report and
+rejected postage label report, these were kept in branch for reference.
+32. Once all daily and weekly reports were printed and reconciled the branch
+would move onto the actual balance process. The next step would be to
+check the physical stock on hand (this check at this point did not include the
+other postage stamps) and check that what physical stock was on hand
+agreed with the figures on Horizon. This could be done several ways; the
+branch could produce a stock report or a balance snapshot and check the
+figures against one of those. They could also go directly into the adjust stock
+screen and scroll down on the screen checking the figures. Any differences
+found in either of these ways should be corrected by either adjusting their
+stock in the adjust stock screen or making a sale or completing a reversal
+against the stock item. Making the sale would reduce the system held stock
+figure (this is where the branch physically has less stock than Horizon shows)
+and completing a reversal would increase the system held stock figure (this is
+where the branch physically has more stock that Horizon shows). The last
+way a branch could check their stock against Horizon would be to make a
+stock declaration, the branch would type in the value of every stock item they
+have, and Horizon overwrites the existing stock figures with the newly
+declared stock figures. The declare stock option was rarely recommended for
+branches to do as it could often cause confusion and leave the branch
+struggling to balance.
+Page 11 of 33

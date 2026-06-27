@@ -1,0 +1,692 @@
+# witn09840200_0.pdf
+
+
+=== Page 1 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+Witness Name: ALISDAIR CHARLES JOHN CAMERON
+Statement No.: WITN09840200
+Dated: 8 August 2024
+
+POST OFFICE HORIZON IT INQUIRY
+
+SECOND WITNESS STATEMENT OF ALISDAIR CHARLES JOHN CAMERON
+
+I, ALISDAIR CHARLES JOHN CAMERON, will say as follows...
+
+INTRODUCTION
+
+1. I was an employee of Post Office Limited ("POL") from January 2015 to 23 June 2024. Throughout this period, I was Chief Financial Officer ("CFO"). From 2017 to 2019 I was Chief Financial and Operating Officer ("CFOO"). I was Interim Chief Executive ("Interim CEO") from April 2019 to September 2019. I was on medical leave from 7 May 2023 until 23 June 2024, when I retired due to ill-health.
+
+2. During my employment with POL, I undertook other roles and responsibilities at different times, which I set out in my first witness statement (First Witness Statement of Alisdair John Charles Cameron, dated 18 April 2024, WITN09840100).
+
+3. This second witness statement is made to assist the Post Office Horizon IT Inquiry (the "Inquiry") with the matters set out in the second request made by the Inquiry pursuant to Rule 9 of the Inquiry Rules 2006 ("the Request"), dated 5 July 2024.
+
+Page 1 of 26
+
+
+
+=== Page 2 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+4. Except where I indicate to the contrary, the facts and matters contained in this witness statement are within my own knowledge. Where any information is not within my personal knowledge, I have identified the source of the information or the basis for my belief. The facts in this witness statement are true to the best of my knowledge and belief.
+
+5. To the extent that documents have assisted my recollection, I set out the URN of the relevant document. I no longer have access to my POL emails or calendar.
+
+6. I was assisted in preparing this statement by Bates Wells and Braithwaite LLP, my recognised legal representative in the Inquiry.
+
+BACKGROUND
+
+Education and Professional Qualifications
+
+7. I received three A-Levels in 1983. I received a degree in 1987. I qualified as a Chartered Accountant in December 1993.
+
+Career and appointment to POL
+
+8. My career prior to joining POL is set out in paragraphs 7-15 of my first Witness Statement (WITN09840100).
+
+9. The circumstances of my appointment to POL are set out in paragraphs 79-87 of my first Witness Statement (WITN09840100). I was appointed to the POL Board at my first Board meeting, on 28 January 2015 (POL00021531).
+
+Page 2 of 26
+
+
+
+=== Page 3 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+EXPERIENCE WITH THE HORIZON IT SYSTEM AND SUBPOSTMASTER
+TRAINING
+
+10. I have never operated the Horizon IT system ("Horizon") in a live branch
+environment.
+
+11. I did operate an off-line version of Horizon while attending a Sub-Postmaster
+("Postmaster") training course in 2017, which I noted in paragraph 111 of my first
+Witness Statement (WITN09840100). I attended this training at my own request,
+to help me understand the business better, as part of my additional accountability
+as CFOO.
+
+12. As per paragraph 111 of my first Witness Statement (WITN09840100), following
+the Postmaster training course I set out in an email my concern that it was simply
+a poor course which, in isolation from the other components of new Postmaster
+training, did not provide a strong basis to support Postmasters. I cannot recall to
+whom I sent the email. My recollection is that I followed up a couple of times to
+check whether the course was being updated to make it more relevant and useful
+to Postmasters. I also recall supporting plans to enable the course to be delivered
+on machines connected to the Internet, enabling the training to be more complete
+and realistic. I cannot recall the detailed outcomes of my feedback.
+
+TRAINING AND INDUCTION OF BOARD MEMBERS
+
+Page 3 of 26
+
+
+
+=== Page 4 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+13. I do not remember having any specific training or being part of a formal induction programme when I joined the POL Board. However, I no longer have access to my POL emails or calendar and I may simply have forgotten if such a formal process did take place.
+
+14. I do not recall any briefing on the issues addressed by the Inquiry, such as Horizon or the prosecution of Postmasters, when I joined the POL Board.
+
+15. The Group Litigation claim ("GLO") was not issued in the High Court against POL until April 2016, so it did not form part of any briefing I received upon joining the POL Board in January 2015.
+
+16. As I set out in paragraph 146 of my first Witness Statement (WITN09840100), the CEO's Report of January 2015 (CEO's Report January 2015, POL00219395) set out POL's position that there was no evidence of any faults with Horizon, or unsafe convictions, nor had any convictions been appealed.
+
+17. An induction programme was developed for new Board members, supported by the Company Secretary. I recall helping to develop some briefing material on the commercial business, possibly when Tim Parker became Chairman, later in 2015.
+
+18. In more recent years, I was not closely involved with the induction of incoming Board members. My role as CFO was primarily to brief new Directors on the way in which POL's finances and financial results worked.
+
+19. My sense, therefore, is that when I stopped working (in May 2023, when I was signed off work) there was a more effective induction programme than when I
+
+Page 4 of 26
+
+
+
+=== Page 5 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+joined the business. However, I was not involved enough to say whether the
+induction programme was adequate at the time I left. I do not recall seeing any
+specific induction material on Horizon, Postmaster prosecutions or
+compensation.
+
+GOVERNANCE
+
+My view of corporate governance issues in 2023
+
+20. In paragraph 74 of my first Witness Statement (WITN09840100) I exhibited an
+exchange, dated 23 March 2023, between Nick Read (CEO), myself and other
+executives (including the General Counsel and Strategy Director) which set out
+our views of governance issues in the business at that time (Email Subject: The
+robustness of our governance 26 March 2023, POL00423699). Nick had asked
+us to summarise our concerns about the governance of POL over email to be
+used to agree a plan balancing between improving governance internally and
+arranging an independent review by an external party.
+
+21. I have been asked to comment on the progress that has been made following that
+email exchange in resolving the corporate governance issues highlighted. I have
+set out in paragraph 22 to what extent progress had been made by 7 May 2023,
+my last effective working day at POL. I do not know what progress has been made
+since May 2023.
+
+22. My most material concerns about the governance of the business in March 2023,
+which I put to Nick Read and the other executives, were:
+
+Page 5 of 26
+
+
+
+=== Page 6 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+• The role, purpose and accountability of the Group Executive ("GE"). My assertion had been that the GE was not operating effectively as the senior, executive governance of POL. This had, in my view, made it harder for the business to get the decisions it needed and to provide oversight. Nick's reply included his view on why that might be the case, but he also suggested that more matters should be dealt with by individual executives and not by the GE. As of 31 July 2024, according to POL's website, the GE comprised four people, including Nick and Owen Woodley (Deputy CEO), who I understand to be leaving the business. Two further interim appointments have been announced. This suggests that the lack of robust, consistent executive governance may still be an issue.
+
+• Retail oversight, including the management of stamps and, most significantly, of branch shortfalls (see paragraphs 125-140 of my first Witness Statement, WITN09840100). Both areas are, in my view, critical to treating Postmasters fairly, to the safe functioning of POL now and to the safe delivery of a future Horizon replacement. Progress had not been made in these areas when I stopped working in May 2023.
+
+• The decisions about compensation schemes being made by a non-executive committee with limited executive input, prioritising the interests of the Department of Business and Trade ("the DBT" or "the Shareholder") over the fair treatment of Postmasters. This included both the speed of compensation (paragraphs 142-144 of my first Witness Statement, WITN09840100) and whether amounts taken from Postmasters to repay shortfalls through deductions from remuneration, without proper investigation, should be
+
+Page 6 of 26
+
+
+
+=== Page 7 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+returned to them (paragraph 145 of my first Witness Statement, WITN09840100). Progress had not been made when I stopped working in May 2023, but new schemes are now being introduced.
+
+• Data. My view was that POL will not be able to properly manage its obligations or support the Horizon replacement without improved access and interpretation of branch data. Progress had not been made when I stopped working in May 2023.
+
+• Governance of the Horizon Replacement Programme. My sense is that an enormous amount of work, led by Nick Read, has gone into fundamentally restructuring the programme and seeking additional financial support.
+
+THE BOARD
+
+Culture
+
+23. The POL Board has recently changed rapidly and materially, with 5 new people appointed to the Board since March 2023. I therefore have very limited experience of the culture of the current Board given that I did not attend Board Meetings after 7 May 2023.
+
+24. Many of the Directors and Executives on the Board were brought in, as I was, because of our commercial experience. As a result, my experience of the Board's culture was that there was a general enthusiasm to focus on the current commercial performance of the business even while acknowledging, from 2020
+
+Page 7 of 26
+
+
+
+=== Page 8 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+and the conclusion of the GLO, that driving justice for Postmasters should be
+POL's greatest priority.
+
+25. In 2020 and 2021, the Board accorded considerable time to matters relating to
+the Inquiry, the compensation schemes and the legal processes to secure justice
+for Postmasters. This time was reduced once the Historical Remediation
+Committee ("HRC") was formed, and the work was largely delegated.
+
+26. More Board time was spent considering the legal processes, such as supporting
+the appeals and the compensation structures, than on understanding the ways in
+which the findings of Mr Justice Fraser in the GLO trial judgments were being
+implemented.
+
+27. From an Executive perspective, in early 2021, Nick Read introduced a focus on
+"Putting Postmasters First", including better listening and more time spent in
+branches. At the same time, a programme was developed to ensure that the
+business implemented the changes required by Mr Justice Fraser in the GLO trial
+judgments, with the results audited by a third party.
+
+28. My sense was that the cultural work introduced to improve relationships with
+Postmasters had a limited impact. The ongoing issues of shortfall management
+and recoveries through remuneration deductions suggested to me that POL's
+culture had not changed enough.
+
+29. Financially, POL has been unsuccessful in getting Shareholder support to
+increase the total amount of remuneration paid to Postmasters. I set out in
+paragraph 438 of my first Witness Statement (WITN09840100) the Board's focus
+
+Page 8 of 26
+
+
+
+=== Page 9 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+on hitting POL's own targets first. Putting these things together suggested that
+the slogan "Putting Postmasters First" was a largely rhetorical device.
+
+Reflections: 'What Went Wrong?'
+
+30. I have been asked to consider whether the issues I raised in my paper "What
+Went Wrong" ('What went wrong? A draft for discussion' 19 November 2020,
+POL00175235) had been addressed and changes implemented in relation to the
+GLO when I left the business.
+
+31. This document was prepared for Nick Read to help ensure that lessons were
+learnt (see paragraphs 385-387 of my first Witness Statement, WITN09840100)
+after the conclusion of the GLO.
+
+32. My view of where POL was in respect of each of these issues at the time I stopped
+working are as follows:
+
+1. "Our culture, self-absorbed and defensive, stopped us from dealing with
+Postmasters in a straightforward and acceptable way." The financial liability
+for shortfalls now sits far more with POL, which is a significant change in
+approach since the GLO. However, until POL has the data and processes to
+investigate shortfalls thoroughly and reach fair and transparent conclusions
+as to how they were caused, I do not believe that Postmasters' issues can be
+dealt with appropriately or that a replacement to Horizon can be properly
+implemented.
+
+Page 9 of 26
+
+
+
+=== Page 10 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+2. "We did not disclose Horizon issues to the defence when we prosecuted Postmasters". Horizon's numerous issues are now in the public domain since the Horizon Issues Trial ("HIT") judgment and, as far as I am aware, Postmasters are not being prosecuted for losses where the case would rely on Horizon.
+
+3. "We should never have conducted our own prosecutions. Some of the behaviours during the Prosecutions were unacceptable". I believe that this lesson has been learnt and understand that POL does not and will not undertake its own prosecutions.
+
+4. "We did not re-assess our behaviour as prosecutors between 2014 and 2020". I believe this has since been considered as part of the Court of Appeal process reviewing convictions. I am unsure whether it has been fully and formally considered for all prosecutions.
+
+5. "We relied on anecdotal evidence that Horizon and our surrounding processes were working properly without fully investigating concerns on a proactive basis. We did not properly challenge and test what Fujitsu told us. This seems in part to still be the case". Considerable work was undertaken, by Simon Oldnall (Horizon and GLO IT Director at POL) and his team, to try and prove that the current version of the Horizon system was operating as it should. This was overseen by the Improvement Delivery Group (paragraph 71 of my first Witness Statement, WITN09840100). This was an improvement in the scrutiny of the system. There have also been reviews of surrounding processes which support Horizon and for which compensation is being
+
+Page 10 of 26
+
+
+
+=== Page 11 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+contemplated. This is confirmed on Page 80 of the published 2022/2023
+Annual Report and Accounts as “Remediation Matters – Process review”
+(Post Office Limited Annual Report & Consolidated Financial Statements
+2022/23, UKGI00044323). In May 2023, I was not aware of evidence that the
+relationship with Fujitsu involved any more collaborative and open challenging
+on the operation of Horizon than previously.
+
+6. “We were and perhaps still are too focused on our tactical battles. Other
+priorities took second place”. In the 2022/2023 Annual Report and Accounts,
+the Chairman and CEO reports focused on the priorities of commercial
+outcomes, re-building trust and branch profitability. It is hard to argue that
+systemic progress has been made on any of these priorities. Given the
+different issues focused upon at the Select Committee in 2024, it may be that
+tactical battles still hold sway.
+
+7. “We did not sufficiently challenge and test our legal advice until it was too late”.
+The only point where I am aware that POL has challenged legal advice was
+relating to the HRC’s insistence, up until December 2022, that POL continue
+to take monthly deductions from Postmasters relating to shortfalls that had not
+been properly investigated. This decision was changed in December 2022 but
+not made retrospective (see paragraph 145 of my first Witness Statement,
+WITN09840100).
+
+Composition of the Board
+
+Page 11 of 26
+
+
+
+=== Page 12 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+33. I have been asked to comment on the composition of the Board generally, and specifically the desirability of appointment of Non-Executive Directors ("NEDs") with specialist knowledge in areas such as legal; IT; acting Postmasters.
+
+34. It is helpful to have specialist knowledge on the Board when debating technical issues so that the Executive can be properly held to account. This is effective on the financial side; for example, the Audit, Risk & Compliance Committee usually included two NEDs with relevant financial experience, which enabled considerable scrutiny and challenge.
+
+35. An expert in, for example, IT should help the Board to challenge issues, for example relating to Horizon and its replacement. However, the Board should avoid delegating the role of challenging issues solely to that individual.
+
+36. This approach is less effective when the NED takes on a quasi-executive role, as has occurred with the HRC and often with the work of the Shareholder Representative (UK Government Investments, "UKGI"). In my view, maintaining the proper separation of Executive and Non-executive roles is important and probably requires a much stronger executive team.
+
+37. I supported the appointment of Postmaster NEDs, to bring the voice of the Postmaster alive in the Board Room. Since their appointment in 2021, I have been a supporter of both of the Board's current Postmaster NEDs, Elliot Jacobs and Saf Ismail. However, having representative NEDs is never straightforward.
+
+38. Firstly, the impact two NEDs can have at Board level is limited. For example, Elliot Jacobs and Saf Ismail's perfectly proper focus on increasing Postmaster
+
+Page 12 of 26
+
+
+
+=== Page 13 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+remuneration to support the POL branch network (“the Network”) did not lead to change. I can understand why they may have therefore felt ignored, although I had perceived that to be a Government (“HMG”) response more than a POL one.
+
+39. Secondly, being bound by the need for the Board to agree majority decisions in an atmosphere of confidentiality put Postmaster NEDs in an extremely difficult position when they and other Postmasters were disappointed by decisions.
+
+40. I had been absent for eight months from duties on the Board when Postmaster NED disagreements with Post Office became public (The Times article ‘Postmasters on Post Office board “ignored and unwanted”’, dated 19 February 2024, RLIT0000201).
+
+41. My reflections on this article are that I had not heard Nick Read describe investigators as ‘untouchables’ and I do not understand why they would be considered untouchable by POL.
+
+42. However, the underlying issue of whether POL can investigate branch shortfalls in a way that is fair, transparent, consistent and which would with stand legal challenge remains a central challenge to POL. It was clear to me that these issues were unresolved when I left the business and, in my view, getting this right is fundamental to Postmasters, to their working relationship with POL, to POL’s reputation and financial sustainability and to the effective operation of a Horizon replacement.
+
+43. I do not agree with the NFSP that the solution is an Oversight Committee (“NFSP Statement on PO Board Postmaster NED role”, dated 19 January 2024,
+
+Page 13 of 26
+
+
+
+=== Page 14 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+RLIT0000245). The last thing POL needs is more introspection and a more complicated bureaucracy when the underlying, financial conflict of interest between POL and Postmasters is unresolved.
+
+44. In the end, however hard the journey, I consider that the only feasible solution is for Postmasters to own the Post Office, whether that is POL or a successor organisation, with a proven Horizon replacement, a transparent shortfall investigation process using real time data and new Postmaster contracts (see paragraphs 437-440 of my first Witness Statement, WITN09840100).
+
+DEPARTURE OF HENRY STAUNTON, CHAIR OF POL
+
+45. I have been asked to comment on The Times article in February 2024 (RLIT0000201) which highlighted the issues surrounding the departure of Henry Staunton, the former Chair of POL, in January 2024. This happened when I had not been at work for between seven to eight months.
+
+46. The references in this article to Henry Staunton's claims that he was asked to delay compensation reflect, I suspect, a misunderstanding.
+
+47. My knowledge of the financial background was that the last formal funding decisions (that I was aware of) made by HMG in respect of POL were difficult (Page 10 of POL's Annual Report and Accounts, 2020/2021). Even following amendments, the funding available was not sufficient, and there was no support for POL to reduce its own costs. The costs of the compensation schemes and of supporting the Inquiry then proved greater than expected and POL, in addition, had had to propose funding for the Horizon replacement too early in the
+
+Page 14 of 26
+
+
+
+=== Page 15 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+programme. POL's funding request had been too low and even that had not been met.
+
+48. It was therefore clear that increased funding would be required for POL to maintain the Network. My understanding from conversations with Nick Read is that HM Treasury had indicated to the DBT that any further funding was dependent on a strategic review of the policy of HMG towards the Network.
+
+49. I also understood from Nick that, probably in late 2022 or early 2023, the then Secretary of State for the DBT had said that such a review would not be started and asked POL to carry on until after the General Election as best it could.
+
+50. It may have been this conversation that was referred to by Henry Staunton, and not a request to delay the compensation for Postmasters. My understanding was that the compensation was already funded by HMG and there was a shared anxiety that, for overturned convictions, it was being paid out too slowly and less generously than originally forecasted.
+
+51. However, my views on this topic only repeat my understanding following informal conversations with Nick Read. Clearly, he, and others, will have a much greater knowledge of the events which led to Henry Staunton's departure.
+
+52. The current Postmasters, who have been working heroically to maintain their businesses through the scandal and the pandemic would, I imagine, have been infuriated by the further brand damage.
+
+BOARD RELATIONSHIPS WITH KEY STAKEHOLDERS
+
+Page 15 of 26
+
+
+
+=== Page 16 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+53. The Board's relationship with the National Federation of Sub-Postmasters ("NFSP") was non-existent. I do not recall the NFSP ever attending a Board meeting.
+
+54. I set out in my first Witness Statement (paragraphs 411-415, WITN09840100) that I did not consider the NFSP to be independent of POL because it received the bulk of its funding from POL and not from Postmasters paying membership subscriptions.
+
+55. My views on what constitutes independence are grounded in the assessment of audit relationships. No audit firm would consider itself independent of a client that paid such a high proportion of its income. My view, therefore, is that NFSP cannot consider itself independent until it is funded by Postmasters. This has not changed.
+
+56. I have said to the NFSP that they need to become more representative of Postmasters and I understand anecdotally that this has, at times, upset them.
+
+57. I cannot recall the Communications and Workers Union ("CWU") attending a Board meeting during my time at POL. The responsibility for that relationship sits predominantly within the People team and is focused heavily on pay awards.
+
+58. Regarding Fujitsu, I set out more fully in my first Witness Statement my own relationship with this stakeholder (see paragraphs 420 - 436, WITN09840100). In my view Fujitsu's relationship with the Board has never been satisfactory. I
+
+Page 16 of 26
+
+
+
+=== Page 17 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+suspect that both parties would like to end the relationship and have attempted
+to do so previously.
+
+59. However, until a Horizon replacement is rolled out with all the supporting data
+and processes in place, it cannot be terminated. This still felt some years away
+when I left in May 2023 and there was simply no plan to improve the processes
+that sit around the system, including the management of shortfalls, the data
+needed to support them or for the roll-out of a new IT system. Any roll-out would
+inevitably be difficult, expensive and controversial.
+
+60. In my first Witness Statement (paragraphs 26-27, WITN09840100) I said that I
+did not believe that the relationship between the Shareholder, the Shareholder
+Representative and POL worked properly, although it may have improved since
+I left. UKGI was consistently unable to explain POL to the DBT or vice-versa.
+Fundamentally, if UKGI is going to act with the authority of being the Shareholder
+Representative then it must represent the views of the Shareholder at all times
+and this has not always been the case. In addition, not all commercial experience
+is equally useful to the oversight of a franchise retailer.
+
+61. The commercial and other skills and abilities needed to understand and oversee
+POL need careful consideration and the team recruited should sit within the DBT,
+not separately, creating a unified and consistent perspective, improving the DBT's
+understanding of POL and reducing the likelihood of poor communication.
+
+62. At the time I left the business, the reality was that many decisions were made by
+or significantly affected by the views of HM Treasury, and this should have been
+more transparent to all parties.
+Page 17 of 26
+
+
+
+=== Page 18 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+WHISTLEBLOWING
+
+63. During my time at POL, formal whistleblowing processes were established and refined. A summary report was produced for a monthly GE review, and I think was also shared with the Board. I no longer have access to this document.
+
+64. I do not recall issues relevant to the Inquiry being flagged through this process. The team led by Ben Foat (General Counsel) could give a comprehensive reply covering the issues raised and the outcomes.
+
+65. My sense was that the process was dealing sensibly with the issues that were raised, although it is of course difficult to know whether important issues were not being raised. My view is that the processes were much improved by the time I stopped working but I do not have a considered judgement on whether they were entirely adequate.
+
+LEGAL PRIVILEGE
+
+66. I have been asked to consider whether I properly understand issues of legal professional privilege. It became clear to me during the development of my first Witness Statement and attendance to give oral evidence to the Inquiry in May 2024 that I do not. I have generally followed legal advice from General Counsel on what was privileged, and this was clearly unhelpful in terms of the Chairman's Review / Swift report (see paragraph 37 of my first Witness Statement, WITN09840100).
+
+MY RESIGNATION FROM POL
+
+Page 18 of 26
+
+
+
+=== Page 19 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+67. As set out in the introduction to this statement, my employment with POL ended on 23 June 2024. That was the formal date of my departure from the POL Board. However, I had not been working or attending Board meetings after 7 May 2023.
+
+68. I have been asked to comment on three Daily Telegraph articles dated 5 March 2024 (Telegraph article, 'Post Office Executive off sick for almost a year after clash with boss', RLIT0000242), 25 June 2024 (Telegraph article 'Post Office finance boss quits after two months sick leave', RLIT0000243) and 29 June 2024 (Telegraph article, Post Office exec paid for years after leaving, RLIT0000244) insofar as they relate to my departure from POL. I have also been asked to comment on my working relationship with Nick Read.
+
+69. In early 2021 Nick Read told me that I would be leaving the business by the end of June of that year. He did not give me any reasons for this, but he was clear that it was not a reflection on my performance and that POL would reach a financial settlement with me.
+
+70. In my experience, it is not unusual in the commercial world for CEOs to want to recruit their own teams. Indeed, even within POL, many Executive colleagues had previously received settlements to leave the business.
+
+71. Following my conversation with Nick, nothing happened for a period. In May 2021 I raised a formal grievance, the fact of which was recently inadvertently disclosed by the DBT. The grievance covered my general treatment by POL, including the decision that I must leave the business which had followed no fair or transparent process. I also raised a concern about the treatment of Executives with protected
+
+Page 19 of 26
+
+
+
+=== Page 20 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+characteristics. These matters were investigated by a POL employee, but not independently.
+
+72. After a few months, Nick told me that HMG were not prepared to authorise a financial settlement after all, and he therefore asked me to stay with POL. We explored the true reasons for him wanting me to leave and he told me that he thought I wanted his job. Not for the first time, I explained that I had very quickly and permanently concluded that the decision not to make me CEO was correct. He acknowledged this, saying that he wished he had talked to me about it earlier.
+
+73. We agreed that I had, to date, made a useful contribution by being able to identify aspects of the business that were not working well, and Nick agreed that it would be helpful if I continued to share these with him on a 1-2-1 basis.
+
+74. I remained open and supportive of Nick for the remainder of my employment with POL. He was largely reluctant to share his personal views or opinions, although he could be very negative about colleagues. He was not negative about me face-to-face, but I assumed he was when talking to others and it felt like there was an increasing sub-text of him still wanting me to leave POL, with more and more people becoming aware of this.
+
+75. In late 2022 and into 2023 the issues I was raising around shortfall management, deductions from Postmaster remuneration, governance, the lack of cost reduction programmes and issues with the Horizon replacement were not being tackled. I felt that we were not fighting hard enough to improve the business and get adequate support from HMG. Nick did not seem to disagree with many of my
+
+Page 20 of 26
+
+
+
+=== Page 21 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+challenges, but equally I did not see the CEO's weight behind resolving them and colleagues appeared to be getting mixed messages.
+
+76. We were both finding this stressful and, in April 2023, Nick told me that my position was untenable. Again, he said he would seek a financial settlement for me to leave.
+
+77. Around this time, Jane Davies asked me whether the situation was making me ill. I was finding the deterioration in the business, including the issues set out in paragraph 75 above, and the sense of being unwelcome, very stressful.
+
+78. I had two weeks holiday in late April to early May 2023, at the end of which I felt unable to return to POL. As soon as I got back home from my holiday, I sought the view of my GP, who signed me off on grounds of ill-health. She required me to speak to her every month. I undertook other medical interventions in the following months.
+
+79. In early 2024, I sought a view from the Occupational Health team funded by POL. After several months and a number of medical consultations, they advised POL that I was not fit to work and would not be fit for the foreseeable future. They concluded that I was eligible for ill-health retirement. At that stage, POL proposed a settlement which was signed on 23 June 2024, at which point I formally resigned as a Director and employee of POL.
+
+80. The amounts quoted for my settlement in the Telegraph articles provided to me by the Inquiry are substantially overstated. The financial settlement will be
+
+Page 21 of 26
+
+
+
+=== Page 22 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+published in POL's accounts for 2024/2025 in due course. For clarity, my
+settlement is for two years' salary, excluding benefits, of £245,000 per annum.
+
+81. The Telegraph article dated 29 June 2024 (RLIT0000244) provided to me by the
+Inquiry also mentions allegations made about Nick Read's behaviour more
+generally at POL, including that he oversaw a "culture of misogyny". It has
+seemed to me, and I have raised this with Nick, that he is instinctively more
+comfortable with a team of younger, deferential, male colleagues - who are often
+also talented, enthusiastic and hard-working. By contrast very few senior and
+independent-minded colleagues, especially female colleagues, have thrived at
+POL, and a number have been paid off and left the business.
+
+82. I would note, however, that retaining Chief People Officers was an issue at POL
+before Nick's arrival as CEO. In my time at POL there have, from memory, been
+seven Chief People Officers. Paula Vennells had three in four years between
+2015 and 2019 and Nick has had four in five years between 2019 and 2024.
+
+83. It has seemed to me that Nick Read has felt, understandably, very insecure in his
+CEO role at POL and a lot of his reactions have been led by the need to evidence
+reassurance and support from the Shareholder, Board and Executive. The
+Shareholder has supported Nick in principle but rarely supported his decisions or
+requests.
+
+OTHER MATTERS
+
+Page 22 of 26
+
+
+
+=== Page 23 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+84. The Post Office business is capable of supporting a national network of Post Offices, providing enormous value to the UK through access to parcel networks, cash, foreign currency and much more.
+
+85. Its immediate priority, through compensation schemes, legal processes and this Inquiry is to provide justice for wronged Postmasters. This should include Postmasters who paid for shortfalls through deductions from their remuneration without full investigations having been completed.
+
+86. Over the last few years, the business has become less resilient, financially and operationally.
+
+87. Horizon must be replaced, which may require new contracts for Postmasters. These are hugely difficult undertakings. POL's relationship with Fujitsu must be exited. A whole new shortfall process must be developed, shared, implemented and made transparent.
+
+88. POL's costs are at least £100m per annum higher than they should be and must be reduced to support Postmasters better financially.
+
+89. If HMG wants a sustainable, national set of Post Offices, it will have to finance this complex, multi-year set of challenges and then arrange for Postmasters to own the network long-term.
+
+Statement of Truth
+
+I believe the content of this statement to be true.
+
+Page 23 of 26
+
+
+
+=== Page 24 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+Signed: GRO
+Dated: 08 August 2024 | 15:53 BST
+Page 24 of 26
+
+
+
+=== Page 25 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+Index to Second Witness Statement of Alisdair Charles John Cameron
+
+No. URN Document description Control Number
+1. WITN09840100 First Witness Statement of WITN09840100
+Alisdair John Charles
+Cameron, dated 18 April
+2024
+2. POL00021531 Meeting minutes: minutes of POL0000064
+Board meeting held on 28th
+January 2015
+3. POL00219395 CEO's Report January 2015 POL-BSFF-
+(01/01/2015) 0057458
+4. POL00423699 Email Subject: The POL-BSFF-
+robustness of our 0238490
+governance 26 March 2023
+5. POL00175235 What went wrong? A draft POL-0170332
+for discussion' 19 November
+2020
+6. UKGI00044323 Post Office Limited Annual UKGI00044323
+Report & Consolidated
+Financial Statements
+2022/23
+7. RLIT0000201 The Times article RLIT0000201
+'Postmasters on Post Office
+board "ignored and
+unwanted", dated 19
+February 2024
+8. RLIT0000245 NFSP article 'NFSP RLIT0000245
+Statement on PO Board
+Postmaster NED role",
+dated 19 January 2024
+
+Page 25 of 26
+
+
+
+=== Page 26 ===
+
+WITN09840200
+WITN09840200
+Docusign Envelope ID: 931572A6-02A7-43B1-9F41-FAF5CF3119AF
+
+9. RLIT0000242 Telegraph article, 'Post RLIT0000242
+Office Executive off sick for
+almost a year after clash
+with boss' 6 March 2024
+
+10. RLIT0000243 Telegraph article 'Post RLIT0000243
+Office finance boss quits
+after two months sick leave'
+25 June 2024
+
+11. RLIT0000244 Telegraph article 'Post RLIT0000244
+Office exec paid for years
+after leaving' 29 June 2024
+
+Page 26 of 26
+

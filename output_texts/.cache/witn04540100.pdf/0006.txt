@@ -1,0 +1,33 @@
+WITN04540100
+WITN04540100
+
+process. Having done so, I can recall that I was not involved in identifying or
+escalating problems. I therefore cannot say whether the relevant processes were
+effective. I believe it would ordinarily have been the HSH duty manager who did this.
+My understanding is that if a trend was observed by HSH operators, they would
+escalate that to the duty manager who would decide whether it was a problem that
+required further management.
+
+21. I would usually be informed of any incident. However, I would not be involved in
+evaluating, escalating or managing the incident, as that would be done by individuals
+who had the relevant technical skills.
+
+Complaints
+
+22. I had responsibility for managing any complaints about the HSH service or about
+Horizon that originated from Horizon users. While this is something I had primary
+responsibility for, it was not the focus of my role. My primary task, and on which I
+spent the most amount of my time, was on monitoring the service levels of the HSH.
+
+23. I reviewed WITN0454_01/6 and WITN0454_01/3 to refresh my memory of the
+complaints process. I can recall that there were a number of sources of complaints
+from Horizon users. These included the NBSC, the HSH itself, feedback cards
+following engineer visits, as well as complaints that were sent to Fujitsu directly. In
+most cases, I recall that complaints were received by me in writing.
+
+24. From reviewing section 3.1 of WITN0454_01/6, I recall that the first step followed after
+receiving a complaint was to determine if it was a complaint that was proper for Fujitsu
+to deal with. While I do not have a clear memory of this process, I recall that I would
+usually treat as proper any complaint that related to an area that Fujitsu managed or
+
+Page 6 of 17

@@ -1,0 +1,20 @@
+WITN03920100
+WITN03920100
+
+WITN0392_01/34 Horizon Acceptance Dispute Workshop, Outline Agenda and accompanying reports, 2 September 1999 POL-0024954 POL00028472
+WITN0392_01/35 Report re: ICL Pathway Scheduling Strategy (v.1.0) POINQ0007455F FUJ00001284
+WITN0392_01/36 Report: This document describes the requirements to provide in-office migration during National Rollout. POINQ0007498F FUJ00001327
+WITN0392_01/37 ICL Pathway High Level Counter Infrastructure Rollout Strategy version 5.0 POINQ0007685F FUJ00001514
+WITN0392_01/38 Installation Strategy POINQ0007686F FUJ00001515
+WITN0392_01/39 High Level Counter Infrastructure Rollout Strategy (version 2.0). POINQ0064529F FUJ00058358
+WITN0392_01/40 Report: Documents the strategy by which the Scheduling of the Rollout Events will occur to achieve installation of Horizon counter system in the post office outlets. POINQ0007687F FUJ00001516
+WITN0392_01/41 Installation Programme Review Meeting 10 - meeting minutes POINQ0064438F FUJ00058267
+WITN0392_01/42 Installation Programme Review Meeting 13 - meeting minutes POINQ0064443F FUJ00058272
+WITN0392_01/43 S70/S75 Release Testing Plan Version 0.3 POL-0035363 POL00038881
+WITN0392_01/44 Report: Change Work Package providing for Fujitsu to implement a number of changes to the Host and Counter Software as requested by POL. POINQ0096486F FUJ00090315
+WITN0392_01/45 Fujitsu Services Ltd Commercial Terms re IMPACT Release 3: Counter and Host changes (V7.0) (CT No. 0290) POINQ0097248F FUJ00091077
+WITN0392_01/46 IMPACT Programme S80 Migration Strategy (V0.7). POL-0035391 POL00038909
+WITN0392_01/47 S80 ReleaseTesting Plan (V1.0) POL-0035419 POL00038937
+WITN0392_01/48 Report: The purpose of this document is to provide visibility and understanding, to the impact Programme and relevant BAU domains, of a high-level business implementation plan for BT and POL-0035468 POL00038986
+
+Page 31 of 32

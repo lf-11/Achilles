@@ -1,0 +1,16 @@
+WITN06680100
+WITN06680100
+
+B. USE OF THE HORIZON IT SYSTEM
+
+12. The Inquiry has asked me to explain when I used the Horizon IT System during the course of my work. I never used nor had access to the Horizon IT system during my time in POA, as my role was not related to the system.
+
+C. MY ROLE IN RELATION TO THE HORIZON SYSTEM
+
+13. I have been asked by the Inquiry to describe my roles in relation to the Horizon IT system. My role was not directly related to the Horizon IT system but was in relation to the management of services which supported the branch network.
+
+14. To explain my role, I will briefly outline the Fujitsu Core Services and Account Model, as was in existence when I was employed by the company. At this point in time, services in Fujitsu were either provided by Core Services or were Account Owned Services.
+
+15. Core Services provided standard services which would be required by more than one account, but could be customised for each account. For example, for the Horizon Service Desk, the same toolset (TfS) would be used across Core Services but it would be customised for the account needs (initially POA used its own tool, Powerhelp, but migrated to TfS), along with specific training for the account. Those that worked within Fujitsu Core Service would not have been part of the POA (or any other account team). Operational Management of the Core Services provided functions resided with the management team in Core Services, who were responsible and accountable to provide the services to the account team. The account team had Service Delivery Managers who interacted with Core Services
+
+Page 4 of 21

@@ -1,0 +1,31 @@
+WITN08200100
+WITN08200100
+
+place and who undertook them. We would match these up with the associated
+documentation to show that the system had been used fraudulently. In an
+audit shortage case, I am not sure what Horizon would be able to tell us.
+Though it has been a long time since I looked at one.
+
+33. I am asked about the arrangements for obtaining data from Fujitsu relating to
+investigations, and I have been referred to documents POL00029169,
+FUJ00152176, FUJ00002033 and FUJ00080107. I have no specific memory
+of how the process worked, other than to say that we had an arrangement
+whereby data could be obtained for analysis as part of an investigation, that
+there were limits on how many requests were allowed per year and that the
+data received was to include all transactions and events that took place at the
+branch concerned for the period requested. I know that we exceeded the
+request numbers one year, but am not sure how we managed the situation. I
+don't know who provided the data from Fujitsu, but I believe that requests
+were managed by the casework team. I believe that the data was provided on
+CDs in the form of .csv files. It is my understanding that the Fujitsu contract
+included the requirement to provide witness statements relating to the
+performance of the system and the accuracy of the data we received.
+
+34. By reference to document POL00114566, I have been asked to explain my
+involvement in the discussions that took place in 2003-4 relating to increasing
+the number of audit request that POL could make of Fujitsu. I believe I was
+drawn into discussions due to the number of requests we were using and the
+restrictions on data that were placed upon us. My role was to try to persuade
+the business leaders that we needed better access to data in order to carry
+
+Page 14 of 33

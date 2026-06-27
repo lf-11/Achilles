@@ -1,0 +1,22 @@
+WITN05210200
+WITN05210200
+
+Question 35: What did you understand ICL Pathway's obligation(s) to be in the event that it could not establish the root cause of a cash account imbalance and / or the appropriate corrective action to take to rectify the imbalance?
+
+54. My understanding is that Pathway were responsible for issues/errors caused by their system and would therefore need to provide a fix for any issues which were attributable to them.
+
+PLEASE CONSIDER FUJ00080690
+
+Question 36: Were you shown a copy of this report at or around the time it was first produced in September 1998?
+
+55. I do not recall seeing this document. The author names do not mean anything to me. This was a Pathway only report as far as I can see.
+
+Question 37: Were you aware, at the time, of the concerns expressed by ICL Pathway developers within this report concerning the quality of the EPOSS application, code and design?
+
+56. No.
+
+Question 38: What (if any) impact would knowledge of these concerns have had upon your handling of Acceptance Incident 376 had you been aware of them at the time?
+
+57. This report appears to contain concerns attributable to the authors regarding matters between August and September 1998. I feel that it is impossible for me to say, had I know about this, whether this would have had any bearing on the process of dealing with Acceptance Incident 376, which was of course being worked on constantly from the Summer of 1999 onwards.
+
+Page 17 of 21

@@ -1,0 +1,14 @@
+WITN04640100
+WITN04640100
+
+Online Help (including feedback from postmasters through the Branch User Forum) may be found in section 2.3.3 of the Business Solution Design for the EUHSP (POL00027044).
+
+43. As part of the BTTP, we conducted initial scoping on a number of different programmes that might make improvements to the current Horizon system, with the EUHSP being one of them. Once the scoping for a programme had been carried out, we then submitted a business case to the Senior User Forum ("SUF") for approval (as shown in POL00035811). I think the SUF was chaired by Gill Tait, the project lead at the time. I have exhibited the slide deck that was attached to the email in POL00035811 at WITN04640101.
+
+44. Ultimately, it was decided not to progress with the EUHSP. The financial business case for the EUHSP was largely based on to what degree improvements to Horizon Online Help would reduce call volumes to the NBSC, which was very difficult to quantify. Of the three BTTP strands that I was involved in (the EUHSP, the EUMP and the Screen Sharing Project), only the EUMP was ultimately implemented.
+
+45. I have been asked whether the EUHSP was being implemented to address deficiencies in training.
+
+46. The EUHSP was concerned with improving operational support provided to branches through Horizon Online Help, rather than training. The main drivers were to deliver information to branches more quickly to resolve any issues while serving customers and as a consequence, we would potentially reduce the number of calls being made to the NBSC Helpline.
+
+Page 15 of 95

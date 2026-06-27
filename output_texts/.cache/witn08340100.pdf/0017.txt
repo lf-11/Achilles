@@ -1,0 +1,33 @@
+WITN08340100
+WITN08340100
+
+in branch, I obtained event logs which showed declarations of cash with an
+associated shortage, followed by almost immediate increased declarations of
+cash to show a balance.
+
+Audit data from Horizon to support investigation, prosecution and / or other legal
+proceedings
+
+55. The Request asked me to describe the process for requesting Horizon data, and
+the Supplementary Request asked me to include in my account a description of
+the contractual requirements on Fujitsu as I understood them and the limits on the
+number of ARQ requests that could be made, and whether there were any
+changes between the Legacy Horizon and Horizon Online systems. I am also
+asked to give an account of my role in obtaining ARQ data; who was responsible
+on Fujitsu's side for providing ARQ data and an account of any other prosecution
+support Fujitsu was obliged to provide.
+
+56. As far as I can recall, the process for requesting Horizon data involved an
+Investigator emailing a request to the Casework Team. The Casework Team
+completed an ARQ form and emailed it to Fujitsu. I'm not aware that this process
+changed over the time I worked for POL.
+
+57. My recollection is that Fujitsu were obliged to provide a quota of Horizon logs
+(mainly transaction logs and event logs) per month and per year to the Security
+Team. Though I can't remember precisely, I believe they were also obliged to
+provide banking and possibly other data. The Supplementary Request drew my
+attention to a series of documents called "Security Management Service: Service
+Description" (FUJ00002033, FUJ00080107, FUJ00002264, FUJ00088868,
+FUJ00002555, POL00002572 and POL00002666) dating from 2006. Each version
+
+Page 17 of 48

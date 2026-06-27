@@ -1,0 +1,31 @@
+WITN09900100
+WITN09900100
+
+for 18 June 2012. This contains speaking notes for Paula Vennells
+which states "I am confident about the integrity of Horizon; it was built
+on robust principles of reliability and integrity. It has undergone many
+external audits and no problems of this nature have ever been raised."
+
+b. 8 July 2013: Document POL00099063. Second Sight's Interim Report
+quotes Ed Davey (Postal Affairs Minister) – "However, POL continues
+to express full confidence in the integrity and robustness of the Horizon
+system and also categorically states that there is no remote access to
+the system or to any individual branch terminals which would allow the
+accounting records to be manipulated in any way." This was at a time
+when two bugs had been disclosed but, in my mind, were reviewed and
+dismissed as minor.
+
+c. 9 April 2014: Document POL00148075. Update on Deloitte's work to
+Project Sparrow subcommittee – "Although no system could be
+absolutely "bullet proof", no issues had yet been identified through the
+cases being investigated or any other route that has called into
+question the integrity of Horizon. Nor have any wide-spread systemic
+faults been identified since Horizon online was implemented."
+
+d. 25 July 2014: Second Sight's Part One Report (POL00004439)– "Post
+Office has advised that a limited number of security personnel at
+Fujitsu had read-only access to this audit server. Post Office has
+additionally confirmed that it is their understanding that it is not, and
+never has been, possible for anyone to access Branch Data and
+
+Page 16 of 132

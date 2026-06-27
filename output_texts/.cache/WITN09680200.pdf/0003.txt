@@ -1,0 +1,10 @@
+WITN09680200
+WITN09680200
+
+5. I provided Mr. Clarke with copies of several statements of Gareth Jenkins which had been served and I also expressed my surprise that Mr. Jenkins had not referred to the existence of the bugs during Mr. Ishaq's case. I also noted that Mr. Jenkins had confirmed at Court that Mr. Ishaq's branch had not been affected by a bug and that Mr. Ishaq had pleaded guilty. Mr. Clarke advised that the existence of the two bugs should nevertheless have been disclosed to Mr. Ishaq. He explained that it would have been open to Mr. Ishaq to argue that there were, perhaps, bugs affecting his branch which had yet to be detected. I can recall feeling deeply unhappy about the situation and asked Mr. Clarke to review Mr. Ishaq's case.
+
+6. Mr. Clarke and I also discussed a case listed for trial before the Crown Court at Birmingham in which he was Counsel for the Prosecution. I think it was due to commence the following week and he was concerned that he could not properly deal with disclosure. It was in those circumstances that Mr. Clarke and I called Mr. Jenkins. During the course of the telephone call he confirmed that Fujitsu had declared the existence of two bugs to Second Sight. He also indicated that Fujitsu was confident that the audit trail being used for the purposes of prosecution had not been compromised by the bugs.
+
+7. Simon Clarke advised that a team of solicitors should be assembled to conduct a file review process from the Derby Office of Cartwright King. I can recall that a meeting took place at which the questions to be asked were formulated and following that meeting a template document was designed for use during the review process. I was one of the solicitors who reviewed the case files. Given that the review process included cases prosecuted by Post Office Ltd prior to
+
+Page 3 of 57

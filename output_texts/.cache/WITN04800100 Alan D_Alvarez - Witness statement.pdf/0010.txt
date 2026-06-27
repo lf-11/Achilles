@@ -1,0 +1,20 @@
+WITN04800100
+WITN04800100
+
+Testing
+
+28. The KMS then went through testing and user acceptance. While I have a general awareness of ICL Pathway's testing procedures as a member of the Horizon Programme, I was not responsible for testing. I cannot remember who was responsible for testing at the time.
+
+29. Based on my general understanding, at the time, ICL Pathway had the following test phases:
+
+a. System Test
+b. Security Test
+c. System Integration Test
+d. Performance and Integrity Test
+e. Release Test
+
+30. Within ICL Pathway, we made use of agencies and partner organisations to resource test teams, but any testing carried out by ICL Pathway was managed internally. The customer was responsible for the User Acceptance Test ("UAT") and supplied their own team for this.
+
+31. I have had an opportunity to consider WITN480_01/6, which are minutes of a meeting I attended between ICL Pathway and Utimaco on 5 November 1998. Utimaco were the suppliers of the Virtual Private Network ("VPN") hardware devices that were chosen for Horizon. A VPN establishes an encrypted link to securely transmit data and, in Horizon, was used to encrypt data between the data centres, Post Office branches and other third party interfaces. My recollection is that the design for Horizon's VPN was completed by Alex Robinson supported by Utimaco, who supplied
+
+Page 10 of 26

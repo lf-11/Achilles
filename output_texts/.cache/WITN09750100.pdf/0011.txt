@@ -1,0 +1,37 @@
+WITN09750100
+WITN09750100
+
+integrity of system audit trails and other background matters that Deloitte
+may deem necessary to complete our Deliverable (defined below). The intent
+of this part of the Scope was to explore with POL which parts of the
+processes sub-postmasters were alleging were not working.
+
+(ii) Obtain an understanding of the key differences between the current
+hardware and software used to make up the Horizon HNG-X System,
+compared to that of the Legacy Horizon system. It is important to note that
+this did not involve providing any assurance as to the integrity of the Legacy
+Horizon System because as I have indicated already my recollection is that
+we were told that no data from Legacy Horizon was retained so this part of
+the Scope was simply to understand what had changed in the transition from
+Legacy Horizon to HNG-X.
+
+(iii) Review, understand and consolidate the existing Third-Party Assurance
+Work (as was detailed in Appendix 1 to the Engagement Letter).
+
+(iv) Hold discussions with relevant members of POL staff and other key
+stakeholders as pre-agreed with POL.
+
+(v) Prepare a report on findings in the format and with the details outlined in
+section 2(d) of the Engagement Letter (the "Deliverable").
+
+(vi) Attend twice-weekly meetings or conference calls with the POL client team
+("Client Team"), to explain Deloitte's approach, status of work and
+commentary within our Deliverable.
+
+(together referred to as the "Scope")
+
+40. The POL Client Team consisted of Lesley Sewell, Chief Information Officer;
+Chris Aujard, General Counsel; Belinda Crowe, Programme Director; and Rodric
+Williams, Litigation Lawyer. The Client Team was to report on the Project Zebra
+
+Page 11 of 39

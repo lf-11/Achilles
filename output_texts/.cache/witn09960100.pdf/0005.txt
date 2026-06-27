@@ -1,0 +1,16 @@
+WITN09960100
+WITN09960100
+
+Family documents
+
+17. Many documents that are hosted in the Relativity eDisclosure Database are part of a family. A parent-child relationship exists for those document families. For instance, an email (the parent) with an attachment (the child).
+
+18. Typically, search terms will identify one or more individual documents that are part of a family, but not every family member. Using the example above, the attachment to the email may be responsive to the search terms whilst the parent email is not.
+
+19. In the vast majority of cases, the instructions that KPMG has received (prior to recent changes following the identification of the disclosure issues) were to provide only the responsive documents for review, i.e., only those members of a family with a direct search hit. This means that the reviewer only had to make a decision on a specific document responsive to the search terms, albeit a reviewer always had the ability to examine family documents in Relativity.
+
+20. I am not aware of POL's instructions to its external solicitors regarding the review of families of documents.
+
+21. All 19 versions of Appendix 3 referred to in paragraph 14 were responsive to search terms. These responsive documents were reviewed by HSF and given a relevance decision.
+
+Page 5 of 15

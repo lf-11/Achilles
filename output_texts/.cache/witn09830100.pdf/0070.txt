@@ -1,0 +1,10 @@
+WITN09830100
+WITN09830100
+
+141 It is clear from the email exchange between Mark Underwood and I on the morning of 7 November 2014 that our understanding of remote access following our meeting with Fujitsu was, to use Mark's words, "that there is no functionality that allows FJ to edit, remove or manipulate a transaction remotely in any way. Any change takes the form of an insertion with distinct ID that is easily identifiable in the audit trail it leaves."
+
+142 Mark Underwood's email to me on 11 November 2014 13:37 [POL00149488] suggests that Andrew Parsons (referred to as AP) prepared a paper which covered the scenarios that enable transactions to be added/injected into a branch account, leaving Mark and I to focus at a very high level on preparing questions in writing for Fujitsu on the audit trail linked to additions/injections. I cannot remember precisely when I read Andrew Parsons' draft paper, but I recall that the three scenarios were in branch; transaction acknowledgments and transaction corrections; and, balancing transactions. Our understanding was that if a transaction was added to a branch account, it would leave a distinct identifier, which could be searched for.
+
+143 With reference to suggested questions to Belinda Crowe about the status of cases in the Scheme, having reviewed documents provided to me by POL, I can see that Mark Underwood emailed me on 20 November 2014 at 11:56 following a telephone call with James Davidson and reported that "the auditors have searched the data and no 'remote access scar' is present and thus did not take place" [POL00149598]. On 20 November 2014 at 10:49 Mark Underwood emailed Tom Wechsler. A further email from Mark Underwood to Tom Wechsler
+
+Page 70 of 168

@@ -1,0 +1,37 @@
+WITN11350100
+WITN11350100
+Docusign Envelope ID: 720D9434-EC2E-43CF-946A-CC41240251EF
+
+b) implementation of the Horizon Issues Judgement (HIJ)
+recommendations and improvements
+
+c) Infrastructure upgrades to reduce operational risk (known as Datacentre
+Fortification), and
+
+d) projects to re-architect components of the Horizon system to bring them
+into POL control and support.
+
+10. I have a full time IT Director reporting to me, who is responsible for all Horizon
+work at POL, Simon Oldnall. This is one of his various responsibilities, and he has
+a team of approximately forty-five people who manage the service provided by
+Fujitsu through the following functions:
+
+a) Horizon service management
+
+b) Commercial and contract management
+
+c) Reference data services
+
+d) Testing
+
+e) Architecture
+
+f) Postmaster engagement
+
+11. I understand this team structure has been in place for some time.
+
+12. POL have a monthly governance meeting with Fujitsu. This is led from the POL
+side by Simon Oldnall and from Fujitsu by Dan Walton. These meetings are
+formally minuted, and have a standing agenda which covers:
+
+Page 4 of 25

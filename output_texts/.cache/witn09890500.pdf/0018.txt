@@ -1,0 +1,102 @@
+WITN09890500
+WITN09890500
+
+Case type recorded
+on the MCS
+Horizon-related (i.e.
+within scope of the
+PCDE or treated as
+‘like for like’ pre-
+Horizon)
+Shortfall-related
+
+18. Mint Redemption
+Fraud
+Yes
+Yes
+
+19. Missing Voucher
+Yes
+Yes
+
+20. Other30
+Yes
+Yes
+
+21. Post Office Card
+Account31
+Yes
+Yes
+
+22. Stock (Inflated) or
+Stock Loss
+Yes
+Yes
+
+23. Theft
+Yes
+Yes
+
+24. Theft of Official Cash
+Yes
+Yes
+
+25. Theft / False
+Accounting
+Yes
+Yes
+
+26. DVLA
+Yes
+No
+
+27. DWP Overclaims /
+Fraud / IR Girocheque
+Exception Fraud
+Yes
+No
+
+28. Giro suppression
+Yes
+No
+
+29. P&A Encashment
+Fraud
+Yes
+No
+
+30. P&A Laundering
+Yes
+No
+
+31. P&A Overclaims
+Yes
+No
+
+32. P&A Fraud
+Yes
+No
+
+33. Postal Order Fraud /
+Theft
+Yes
+No
+
+34. Theft (P&A)
+Yes
+No
+
+35. Suppression /
+Suppression of
+Banking Document
+Yes
+No
+
+36. Armed Robbery
+No
+No
+
+30 Unless it is clear from the data that it was not a ‘like for like’ or shortfall related case.
+31 Unless it is clear from the data that it was not a ‘like for like’ or shortfall related case.
+
+18

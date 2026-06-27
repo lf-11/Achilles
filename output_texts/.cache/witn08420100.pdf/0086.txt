@@ -1,0 +1,41 @@
+WITN08420100
+WITN08420100
+
+Witness: Rodric David Alun Williams
+Statement Number: WITN08420100
+Exhibits: None
+Date: 11 March 2024
+
+that POL wanted to know what Panorama was planning to say in the broadcast,
+so it could provide an informed response for the BBC to consider before it aired.
+This was initially explored through exchanges between Comms (with legal
+support) and the Panorama editorial team. As the broadcast came nearer, and
+POL felt that its position would not be fairly portrayed, a formal letter from CMS
+was then drafted and sent on 10 August 2015 so POL's position was understood
+and reflected as the broadcast was being edited.
+
+172. The statement "It is not possible for Post Office or Fujitsu to remotely edit
+transactions as they were recorded by branches" essentially repeated POL's
+statement made to the BBC on 4 August 2015 and focused on balancing
+transactions.164 It is however incorrect, as it was theoretically possible for
+administrators at Fujitsu with the appropriate level of privilege to alter
+transactions. The statement should therefore have reflected that possibility of
+"superuser access", which Deloitte had identified in their 2014 reports.165 It is
+regrettable that it did not, but this was not deliberate; I did not intend to mislead
+the BBC. As noted above at [144], this was not something I believe that anyone
+within POL registered at the time.
+
+(POL00065499); Letter from CMS to BBC Programme Legal Advice dated 10 August 2015
+(POL00065519); Email from Susan Barty to Mark Davies and others dated 15 September 2015 at 15.04
+(POL00105862); Email from Tom Reid to Rodric Williams dated 11 January 2016 at 18.16
+(POL00105866); and Email from Rodric Williams to Mark Davies and others dated 3 March 2016 at
+13.23 (POL00106920)
+164 This stated "Neither Post Office nor Fujitsu can edit the transactions as recorded by branches. Post
+Office can correct errors in and/or update a branch's accounts by inputting a new transaction (not editing
+or removing any previous transactions). However, this is shown transparently in the branch transaction
+records. There is no evidence that any branch transaction data was inappropriately accessed from a
+remote access point." (Email from Rodric Williams to Tom Reid dated 10 August 2015 at 16.13
+(POL00152834), attaching POL 'Statement for Panorama' dated 4 August 2015 (POL00152835)
+165 As noted in the May 2014 Deloitte Report (POL00028062) (discussed above at paragraph [145]).
+
+86

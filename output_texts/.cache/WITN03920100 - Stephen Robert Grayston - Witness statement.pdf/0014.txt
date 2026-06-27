@@ -1,0 +1,29 @@
+WITN03920100
+WITN03920100
+
+responsible within the POCL programme team for ensuring that ICL Pathway
+produced an effective and accurate migration tools and processes. To achieve
+this POCL provided subject matter experts for ECCO and from areas such as
+Finance and Operations and the Reference Data Team to support ICL Pathway
+development and provide assurance that the migration tool was fit for purpose.
+Once ICL Pathway had developed a version of MiECCO the tool was then
+reviewed and tested to ensure that MiECCO was capable of delivering the
+required outcome to support the national rollout of Horizon. ICL Pathway worked
+with POCL subject matter experts on defects and were responsible for
+implementing the changes in the MiECCO tool that would then be retested to
+confirm incident closure.
+
+38. As with MiECCO, ICL Pathway undertook the development of the MiMan
+migration process, the difference is that this was a manual data migration
+process that required manual input of data into the Horizon system to create an
+opening operational and accounting position for a Horizon office. The vast
+majority of offices in the POCL network would follow the MiMan migration
+process. As with MiECCO it was critical that data from offices operating manual
+transaction management and accounting processes was correctly mapped and
+keyed into the Horizon data tables such that the closing office position could
+clearly be recognised and reconciled in the opening position in the Horizon office.
+Once ICL Pathway had developed the MiMan process it was then reviewed and
+tested to ensure that MiMan was capable of delivering the required outcome to
+support the national rollout of Horizon. ICL Pathway worked with POCL subject
+
+Page 14 of 32

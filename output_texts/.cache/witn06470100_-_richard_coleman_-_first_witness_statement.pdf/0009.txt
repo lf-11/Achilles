@@ -1,0 +1,29 @@
+WITN06470100
+WITN06470100
+
+potential solution developed by the SSC would have been passed on to
+development in the usual way for them to raise the issue with Escher.
+
+28. Again I do not recall there being any pressure placed on us to avoid finding
+bugs, errors or defects. When a call was passed to us we were expected to
+investigate and resolve the issue and to record our findings in the PinICL and
+KEL as appropriate.
+
+REMOTE ACCESS
+
+29. Normally we would access the Riposte messagestore on the Correspondence
+Servers and we had workstations specifically for that which were on a
+completely separate network to the workstations we used to access PinICL
+and email, etc. Access to the Correspondence Servers would either be via a
+Windows Command window or through one of the tools developed internally
+by the SSC.
+
+30. I do not recall remote access onto a Post Office counter being a common
+function as the Riposte data we would need to look at for most problems
+would normally be replicated to the Correspondence Servers, which we would
+access. However, I believe there would be times when we would need to
+access files directly on the counter which were not replicated to the
+Correspondence Servers, such as the Windows Event logs, which we would
+need to look at if we suspected a hardware issue for example.
+
+Page 9 of 11

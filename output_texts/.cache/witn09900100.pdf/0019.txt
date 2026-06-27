@@ -1,0 +1,29 @@
+WITN09900100
+WITN09900100
+
+correct errors in and/or update a branch's account by inputting a new
+transaction (not editing or removing any previous transactions).
+However, this is shown transparently in the branch transaction records.
+There is no evidence that any branch transaction data was
+inappropriately accessed from a remote access point."
+
+k. 21 July 2016: Remote access wording presented by Bond Dickinson to
+PLSG (POL00024802) - "Balancing transactions. Fujitsu (not Post
+Office) has the capability to inject a new "transaction" into a branch's
+accounts. This is called a balancing transaction...A balancing
+transaction can add a transaction to the branch's accounts but it cannot
+edit or delete other data in those accounts. Balancing transactions only
+exist within Horizon Online (not the old version of Horizon) and so have
+been in use since around 2010...Access to databases. There are a
+small number of persons at Fujitsu (not Post Office) who have special
+permissions to access and edit, within strict controls, the databases
+and servers that sit behind Horizon. Use of these permissions is logged
+and so there would be an audit trail of any activity undertaken using
+these permissions...During the Scheme, it was alleged that Post Office
+had the ability to 'remotely access' Horizon in order to conduct
+transactions. This allegation is understood to mean that a Post Office
+(or Fujitsu) employee could log on to a terminal in a branch from a
+different location outside the branch and conduct (or edit or delete)
+customer transactions. To be clear: this is not possible."
+
+Page 19 of 132

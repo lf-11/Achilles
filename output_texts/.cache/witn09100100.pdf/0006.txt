@@ -1,0 +1,29 @@
+WITN09100100
+WITN09100100
+
+keying and transmitting and filing the documents. I knew that they were issued
+to correct misbalances on the cash account lines in CBDB – Counters
+Business Data Base. I knew that they were brought to account on the cash
+account but had no knowledge of any dispute processes.
+
+12. In respect of TCs, my team rarely had cause to issue these so, my knowledge
+is limited. My understanding is that they were issued where there was a
+mismatch between Horizon data and e.g. Client, Cash, and Stock Centre data
+in the ‘Open Item’ managed GL Accounts. These TCs were issued by Postal
+Officers on the relevant Error Resolution team. The exceptions I am aware of
+were PIVOT volumes where the correct volume was agreed with the SPM and
+a TC issued, and in the case of robberies whereby a few days after the
+robbery my team member would contact the branch to advise that a TC would
+be issued to remove the amount from their ‘Robbery Suspense account’ and
+put into a ‘Pending Culpability account.’ It was always concerning if a branch
+was receiving a high volume of TCs and any high value TCs over £25k. This
+was an indicator of non-conformance, an SPM who may be struggling and
+need support in a particular area, or possible suspicious activity. Processes
+were put in place around 2009 within P&BA so that the Branch Control Team
+could establish if there were any other concerns at the branch, e.g. training
+issues, high or increasing debt, and then take any necessary steps, e.g.
+training requests or special audits, notifying Contract Advisors, Multiple
+Partners, or Crown Office Area Managers. A ‘Large Value Transaction
+Correction’ process was put in place in 2009.
+
+Page 6 of 19

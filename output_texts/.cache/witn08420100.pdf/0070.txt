@@ -1,0 +1,20 @@
+WITN08420100
+WITN08420100
+
+Witness: Rodric David Alun Williams
+Statement Number: WITN08420100
+Exhibits: None
+Date: 11 March 2024
+
+without that PMR being aware. I am not an IT specialist and this was a highly technical matter, however, to assist the Inquiry I set out at this juncture what I recollect my knowledge to be of the issue at different stages prior to the commencement of the Group Litigation.
+
+2013 Allegations of Remote Access
+
+141. As I mention at paragraph [53] I first became aware of remote access allegations in mid-2013 in the context of the Spot Reviews where a PMR had alleged that Fujitsu could remotely alter transaction records. As I explain at paragraph [54], I instructed WBD to obtain a witness statement for Second Sight in response to this.
+
+Remote Access in Spring 2014
+
+142. In April 2014 in the context of the Scheme, the issue of remote access came to my attention again. I again discussed this with WBD, who advised what information should be sought from Fujitsu. I wrote to James Davidson of Fujitsu on 17 April 2014 and asked whether POL or Fujitsu could change branch transaction data without a PMR being aware of the change. He confirmed that POL could not change branch transaction data without a PMR being aware of the change. He stated in his summary that there was "no ability to delete or change records a branch creates in either old Horizon or Horizon on line. Transactions in both systems are created in a secure and auditable way to assure integrity".127 Fujitsu explained that it was possible for additional transactions to be inserted by Fujitsu (and not POL) in the event of error and
+
+127 Email from James Davidson to Rodric Williams dated 17 April 2014 at 16.27 (FUJ00087119)
+70

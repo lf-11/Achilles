@@ -1,0 +1,10 @@
+WITN09900100
+WITN09900100
+
+191. Paragraph 48(3)(b) of the Defence states that it is denied that Fujitsu "edited or deleted specific items of transaction data". As above, I cannot recall having a specific discussion about the Defence, however I believe the approach would have been to seek input from the business expert/subject matter expert and/or have them verify that the wording was accurate. In this instance, the expert was Fujitsu with the oversight/assurance also sought from Rob Houghton, POL's CIO and Deloitte as referenced in POL00024801 and POL00025167.
+
+192. Paragraph 57(4) of the Defence states "To have abused those rights so as to alter branch transaction data and conceal that this has happened would be an extraordinarily difficult thing to do, involving complex steps...which would require months of planning and an exceptional level of technical expertise. Post Office has never consented to the use of privilege user rights to alter branch data and, to the best of its information and belief, these rights have never been used for this purpose." Whilst I am unable to answer from memory the basis on which POL pleaded this, my understanding is that the same approach would have been adopted in that POL would have requested input/assurance from Fujitsu in the first instance and then possibly requested an assessment from Rob Houghton and/or Deloitte of the statement from Fujitsu.
+
+193. I do not recall from memory why POL decided to bring counterclaims against the SPMs in the group litigation, however having read POL00024653, it was
+
+Page 92 of 132

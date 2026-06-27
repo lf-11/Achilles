@@ -1,0 +1,31 @@
+WITN09950100
+that an additional 1,200 documents would have had to be reviewed for those
+Questions alone had that methodology been adopted; and of course it is only
+hindsight that suggests those particular Questions might have been treated
+differently – adopting that methodology across all the Questions in Rule 9(11),
+or indeed as a blanket policy across all Rule 9 Requests, would have increased
+the review work by an order of magnitude.
+
+The use of deduplication
+
+106. Deduplication is a conventional and common step in disclosure: to state the
+obvious, there is no utility in my team reviewing the very same documents
+multiple times in response to a particular request from the Inquiry and there is
+no evidentiary value in providing to the Inquiry the very same document multiple
+times in response to the same request.
+
+107. I understand that there are different forms of deduplication. "Family level" (or
+"parent level") deduplication analyses duplication as between complete families
+of documents. It can be used to exclude duplicate families, ensuring that only
+one copy of a family survives and is identified for review (and, if applicable,
+produced) based on MD5# value. "Item level" deduplication analyses
+duplication between copies of one singular document – it can be based on a
+document's MD5# value and/or extracted text.
+
+108. If used to exclude documents from review, item level deduplication has the
+effect that the reviewer will only see one version of a search criteria-responsive
+document, with other duplicates being excluded from the review pool,
+irrespective of whether they appear in a different family context. This 'chosen' /
+'primary' version of the search criteria-responsive document will be identified by
+
+Page 41 of 63

@@ -1,0 +1,30 @@
+WITN08290100
+WITN08290100
+
+with my colleague Andrew Wise would be in essence the admin function for the
+Security Team. We would have requested ARQ data from Fujitsu when required
+and therefore would have contacts at Fujitsu to email for any questions or
+requests like this. My understanding of the Scottish Legal system is that they
+refer to Witness Statements as Certificates. In this case it appears there was a
+Certificate that had been laid out in a different format to the usual Witness
+Statements I have seen supplied by Fujitsu when they produce ARQ data.
+
+61. The Inquiry has provided me with document POL00141218 (Email chain dated
+July 2010) and asked me to explain my understanding of the issue concerning
+duplication of transactions in the ARQ data and any involvement I had in
+addressing this issue. POL00141218 is an email sent from Jane Owen and
+forwarded on by Andrew Daley, the North Team Leader at that time. I do not
+recall the email and the branches were not ones I was involved in. From reading
+the document and the email from Penny Thomas my interpretation would be
+that the ARQ data could contain duplicate information and not the actual
+Horizon data.
+
+62. The Inquiry has asked me to describe my responsibilities in respect of data
+handling processes. I did not have any responsibilities in respect of the data
+handling processes other than those of everyone who had a responsibility to
+safeguard the physical ARQ discs.
+
+63. My role in the ARQ Disc handling process was only to explain to Moynd Uddin,
+Information Security Advisor, who was reviewing the POL Security Team
+
+24

@@ -1,0 +1,31 @@
+WITN04510100
+WITN04510100
+
+system was called RClient. RClient was a Microsoft utility which did not support
+the audit of specific keystrokes. The operating systems—Windows NT at the
+time—logged all Login/Logout events, so it could be determined when any SSC
+staff accessed the live system and when, but exactly what they had done could
+not.
+
+143. After 2002, SSH was implemented on all elements of the Horizon solution, and
+exact keystrokes could be audited.
+
+Operational Change Proposal 21918
+
+144. At the request of the Inquiry, I have considered OCP 21918 (FUJ00084131)
+and the email from Matthew Lenton to Jonathan Gribben dated 25 June 2019
+(FUJ00087871).
+
+145. I have no recollection of the specific error relating to this OCP. However, it is
+apparent from OCP 21918 (FUJ00084131) that POL were aware that a
+corrective transaction was being inserted and had approved it (Julie Edgeley of
+POL is quoted as having agreed to the change and Gary Blackburn of POL is
+copied), and Gaby Reynolds of Fujitsu records that POL signoff has been
+attached to the OCP. The document also contains a note from Julie Edgeley to
+Anne Chambers informing her that the manager at the Post Office branch
+(Wendy) has also been informed.
+
+146. I have no recollection of the term APPSUP being used while I was SSC
+Manager.
+
+Page 46 of 54

@@ -1,0 +1,30 @@
+WITN09010100
+WITN09010100
+
+Knowledge of bugs, errors and defects in the Horizon system
+
+77. I have been asked whether I was aware of a trend of increasing debt and
+average audit loss and whilst I am unable to recall being aware of such a trend
+I note from [POL00107129] that year on year from April 2007 to June 2010 the
+percentage of agents suspended and audit shortages to audits completed was
+declining .
+
+78. I have been asked if I had, or was aware of, any concerns relating to the
+robustness of the Horizon system during the time I worked for POL. I can
+confirm that from my perspective, as an operational manager, I did not have
+concerns about any aspect of the Horizon system in terms of its operation,
+accuracy or integrity. I am aware that there were a small number of
+challenges around the integrity and accuracy of the system, however, there
+were assurances being given from within the business that the system was
+robust. I note from document [POL00105565] that I was asked to provide
+information to enable the business to consider a response to a Channel 4
+programme. I assume with input from my team that I would have provided the
+information requested but cannot recall the programme or whether the
+business provided a response to the programme. I have also read Rod Ismay's
+report at [POL107129] and from information in this report I can see that at
+Appendix 3 there is a report from Fujitsu that covers a number of points related
+to Horizon data integrity and describes failure scenarios and measures in
+place to ensure data integrity in each scenario. I had no reason to consider
+that the assurances being given by the business were not accurate and I
+
+Page 25 of 28

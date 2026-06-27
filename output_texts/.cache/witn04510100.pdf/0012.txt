@@ -1,0 +1,29 @@
+WITN04510100
+WITN04510100
+
+the call was believed to be a software issue, the call would be passed to
+the SMC for analysis.
+
+b. 2nd line support was provided by the SMC, also based in Stevenage. In
+addition to receiving calls from HSH, the SMC was tasked with
+monitoring the state of the counters and the servers in the data centres
+using the Tivoli system. The SSC did not use the Tivoli software directly,
+but my understanding is that the system automatically reported on the
+state of the servers in the data centres, and the Tivoli software running
+on the counters would collate event messages and pass them to a data
+centre server. Event messages are entries in Windows NT (which was
+the operating system at the time) “event logs”, which are included in all
+Windows systems. Windows operating systems and applications
+running on Windows write messages to the event logs which, as a result,
+are a major source of diagnostic information. There were an agreed set
+of targets with regard to SMC’s relationship to the SSC—specifically
+“filtration” (i.e., the ratio of incidents which were inappropriately passed
+to the SSC). For example, the SMC had a target not to pass calls relating
+to hardware faults to the SSC. If the SMC passed 100 fault calls to the
+SSC, and 5 of these were subsequently closed as hardware faults, then
+the SMC’s filtration rate would be 95%. The “End to End Support
+Process, Operational Level Agreement” dated 17 June 2003 (End to
+End Support Process) (FUJ00079897) sets out the categories of calls
+which should not be passed to each of the different support lines.
+
+Page 12 of 54

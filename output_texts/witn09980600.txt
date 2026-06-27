@@ -1,0 +1,3420 @@
+# witn09980600.pdf
+
+
+=== Page 1 ===
+
+WITN09980600
+WITN09980600
+
+Witness Name: Benjamin Andrew Foat
+Statement No: WITN09980600
+Dated: 8 October 2024
+
+THE POST OFFICE HORIZON IT INQUIRY
+
+SIXTH WITNESS STATEMENT OF
+BENJAMIN ANDREW FOAT
+
+I, Benjamin Andrew Foat, will say as follows:
+
+Introduction
+
+1. I have been employed by Post Office Limited (POL) as its Group General Counsel (GC) since 1 May 2019.
+
+2. This witness statement has been prepared in response to a request made by the Post Office Horizon IT Inquiry (the Inquiry) pursuant to Rule 9 of the Inquiry Rules 2006, dated 4 July 2024.
+
+Page 1 of 124
+
+
+
+=== Page 2 ===
+
+WITN09980600
+WITN09980600
+
+3. The facts in this witness statement are true, complete, and accurate to the best of my knowledge and belief.
+
+4. I have been assisted in preparing this witness statement by Farrer & Co, who act for me in my personal capacity.
+
+5. I have previously given three corporate witness statements to the Inquiry (dated 23 March 2023, 21 June 2023 and 22 August 2023) and four interim disclosure statements (dated 27 May 2022, 18 October 2022, 30 November 2022 and 12 January 2023). I attended a hearing about disclosure at the Inquiry as a corporate witness on 4 July 2023. I have previously given two personal witness statements to the Inquiry (dated 3 May 2024 and 28 May 2024).
+
+6. As the current Group General Counsel (GC) to POL, due to the limited privilege waivers by POL, there is material that I am unable to place before the Inquiry. I have requested that privilege be waived in respect of my evidence, and certain categories of evidence, but that has not been permitted. As such, I must remain operating within the confines of the current waivers. A number of areas of improvement, conformance and transparency were advised and facilitated by me, and I consider those in this statement although I have not made the direct link between my advice and those matters for the reasons detailed in this paragraph.
+
+Page 2 of 124
+
+
+
+=== Page 3 ===
+
+WITN09980600
+WITN09980600
+
+7. I have been out of the business on leave of absence since 10 June 2024.
+Sarah Gray (SG) has been Interim GC since the beginning of April 2024. As
+such, I am only aware of matters which took place before this date and there
+may have been developments since then of which I am not aware.
+
+8. I include here abbreviations that I use throughout my statement which I hope
+is helpful to the Inquiry.
+
+Acronym
+Name
+AC
+Alisdair Cameron, CFO and former interim CEO, and
+former CFOO (Chief Finance & Operations Officer)
+ACI
+Assurance & Complex Investigations
+ARA
+Annual Report & Accounts
+ARC
+Audit & Risk Committee (board subcommittee)
+BAU
+Business as Usual
+The Board
+The POL Board
+BT
+Ben Tidswell (RU Chair, SID, Investigations Board
+Champion)
+
+Page 3 of 124
+
+
+
+=== Page 4 ===
+
+WITN09980600
+WITN09980600
+
+CIJ
+CWU
+DBT
+DW
+GC
+GE
+GLO
+Government
+Shareholder
+Group Litigation
+HS
+HIJ
+
+Common Issues Judgment
+Communications and Workers Union
+Department for Business and Trade
+Diane Wills (former RU Legal Director, subsequently the
+Inquiry Director)
+Group General Counsel
+General Executive (now known as Strategic Executive
+Group (SEG) since January 2024 – see below)
+Group Litigation Order
+Secretary of State for the Department of Business and
+Trade
+Horizon Group Litigation (including the GLO)
+Henry Staunton (former Chairman of POL)
+Horizon Issues Judgment
+
+Page 4 of 124
+
+
+
+=== Page 5 ===
+
+WITN09980600
+WITN09980600
+
+HIT
+Horizon Issues Trial
+
+HMU
+Historical Matters Unit (which is now referred to as the Remediation Unit (RU))
+
+HSF
+Herbert Smith Freehills
+
+IDG
+Improvement Development Group
+
+The Inquiry
+Post Office Horizon IT Inquiry
+
+ISC
+Inquiry Steering Committee (executive subcommittee)
+
+JB
+John Bartlett, ACI Director (formerly Head of ACI)
+
+LCASR
+Legal, Compliance, Assurance, Secretariat & Risk
+
+NED
+Non-Executive Director
+
+NFSP
+National Federation of SubPostmasters
+
+NomCo
+Nomination Committee (Board subcommittee)
+
+NR
+Nick Read
+
+Page 5 of 124
+
+
+
+=== Page 6 ===
+
+WITN09980600
+WITN09980600
+
+POI
+Post Office Insurance
+
+POL
+Post Office Limited
+
+RC
+Remediation Committee (Board subcommittee for RU)
+
+RCC
+Risk and Compliance Committee (executive subcommittee)
+
+RU
+Remediation Unit (formerly HMU as referred to above), a transformation program separate from BAU
+
+RemCo
+Remuneration Committee (Board subcommittee)
+
+SEG
+Strategic Executive Group (formerly known as the GE prior to January 2024)
+
+SG
+Sarah Gray, Interim GC BAU (whose permanent role is the Group Legal Director)
+
+SID
+Senior Independent Director
+
+UKGI
+UK Government Investments
+
+WBD
+Womble Bond Dickinson
+
+Page 6 of 124
+
+
+
+=== Page 7 ===
+
+WITN09980600
+WITN09980600
+
+Background
+
+9. I have been asked to provide details of any updates to my role as General Counsel, my duties and areas of responsibility at POL since my last statement.
+
+10. I remain employed as the GC of POL, although, as above, I have been on leave since 10 June 2024.
+
+11. Later in June 2024 I was informed, and it was subsequently announced to the business, that the areas of Compliance, Assurance and Risk were to be restructured and placed under the interim CFO (Preetha Mccann), having previously fallen within my remit.
+
+12. In August 2024 I was informed that, given my absence from the business, I would cease being Director of First Rate Exchange Services, on an interim basis until my return.
+
+General experience as General Counsel
+
+13. In respect of my role as General Counsel, my duties and areas of responsibility, I have been asked to describe what relevant changes, if any, have occurred in the period since the findings of Fraser LJ, including following the evidence that has been heard in the Inquiry.
+
+Page 7 of 124
+
+
+
+=== Page 8 ===
+
+WITN09980600
+WITN09980600
+
+14. Several changes to the role of GC have been made in the period since the findings of Lord Justice Fraser.
+
+15. Prior to the Common Issues Judgment (CIJ), and prior to me becoming GC, I was told by the then-interim CEO, Alisdair Cameron (AC), that the former GC role involved making operational and business decisions, particularly in relation to the Group Litigation. Following the handing down of the CIJ and given its findings, it was decided by AC that POL needed to reinforce that decisions were made only by the appropriate accountable forum and that the Board needed greater oversight and assistance. The phrase "advise not decide" was used frequently to reflect this change in relation to the GC's and legal team's role. The role of GC (and the legal team) is to advise the General Executive (GE), the Board and the business, rather than to make decisions. This is noted in the GE and subsequent SEG terms of reference. It is further reinforced by the Legal Policy (more on which below).
+
+16. The POL Board and Executive had realised that given the scale and complexity of the issues at hand, the Executive and the Board needed additional external advice and assurance from experts to better understand and test the multitude of issues and implications arising from the CIJ and other issues brought about by the Group Litigation.
+
+17. In April 2019, HSF was appointed to provide the oversight that the former GC's role covered in respect of the Group Litigation. In due course, Sir David Calvert-Smith was appointed specifically to provide assurance and advice in
+
+Page 8 of 124
+
+
+
+=== Page 9 ===
+
+WITN09980600
+WITN09980600
+
+respect of the conduct of the criminal appeals including disclosure. Womble
+Bond Dickinson (WBD) remained on the record for some time as the solicitors
+acting for POL. POL via HSF has also been supported with the provision of
+numerous expert legal advices from external KCs (and their juniors).
+
+18. The following specific changes have also been made to the remit and role of
+the GC since the findings of Lord Justice Fraser:
+
+18.1 The role of Company Secretary, which sat with Jane McLeod when she was
+the GC, was moved away from the GC role to the experienced Company
+Secretary (Veronica Branton and subsequently Rachel Scarrabelotti), who
+managed the Company Secretariat team. The GC is responsible for the
+Company Secretariat team but retains only limited oversight over this role (in
+part due to the statutory nature of the Company Secretary role). I would
+support the Company Secretary as much as I could with the provision of
+headline updates in the monthly CEO report from the Company Secretary and
+in our 1:1 discussions. I also helped secured more resource for the Company
+Secretariat function. However, this change has meant that the GC is more
+removed from the Board and does not attend the Board meetings other than
+when invited for specific agenda items. I am not consulted on Board agendas
+and certain papers. This is undertaken directly between the Company
+Secretary and the relevant Chair and CEO. Moreover, the GC does not see
+certain reports, including Remuneration Committee (RemCo) papers, which
+are discussed between the Company Secretary, the Board and the relevant
+
+Page 9 of 124
+
+
+
+=== Page 10 ===
+
+WITN09980600
+WITN09980600
+
+accountable people within the business. Since approximately 2020, I have raised my concerns about the above with the SID (Ben Tidswell), CEO (Nick Read), various CPOs and both Company Secretaries (Veronica Branton and Rachel Scarrabelotti) about the gaps created by the ways of working around this separation of roles. Since April 2023, my understanding is that the Transformation & Strategy Director, Tim McInnes, and subsequently the Chief of Staff, Chrysanthy Pispinis, were tasked to progress governance issues following the issue having been raised by several people including the CFO (AC).
+
+18.2 At my appointment on 1 May 2019, responsibility for the Risk team was removed from the GC role. On 1 January 2024, my role was expanded to include responsibility for the Risk team again (more details of this below), but this now sits under the CFO (effective from 1 September 2024).
+
+18.3 During 2023, a Group Assurance Director, Anshu Mathur, was appointed who reports into me as the GC. This role encompasses a 'second line of defence' quality assurance function. Given the limited resource and budget, it was agreed with the CEO, CFO (AC) and CPO (Jane Davies) that this role would strategically focus on the Retail and IT teams, covering their accountability to remediate their operations to ensure compliance with the CIJ and Horizon Issues Judgment (HIJ) remediation programs.
+
+18.4 An LCASR (legal, compliance, assurance, secretariat, and risk) Operations Director role was established around April 2020 to ensure coordination
+
+Page 10 of 124
+
+
+
+=== Page 11 ===
+
+WITN09980600
+WITN09980600
+
+between my direct reports (the directors of each of those functions), as well
+as providing Executive management support to those directors and the GC.
+This role was also to support those directors to put in place industry
+benchmarked policies and procedures such as a Legal Policy and a Contract
+Management Framework, as well as to support the GC on the functional
+management of the teams. From time to time, the LCASR Operations Director
+role has had to support other teams to put in foundational work so that other
+areas of my team could progress their work. By way of example, I asked the
+LCASR Operations Director, Mark Underwood, to assist the CIO team in
+mapping out POL's data universe so that a more accurate understanding of
+POL's data could be understood by the organisation. To be clear, the
+accountable business owners remain accountable for their areas, including
+their data.
+
+18.5 There have been numerous changes and improvements made to the
+Whistleblowing team and processes, as set out below. This has included the
+appointment of a Board Whistleblowing Champion (Zarin Patel and
+subsequently Amanda Burton) (removing the GC as Whistleblowing
+Champion and sponsor). This allows the GC, especially in the event of a
+conflict, to provide legal advice (via external lawyers if necessary) to the POL
+Executive and the Board regarding whistleblowing. The dedicated
+Whistleblowing Officer reports to the Assurance and Complex Investigations
+(ACI) Director, John Bartlett (JB), and in turn to the Group Legal Director,
+
+Page 11 of 124
+
+
+
+=== Page 12 ===
+
+WITN09980600
+WITN09980600
+
+Sarah Gray (SG), as sponsor of the Speak Up Policy (more details in relation
+to this below).
+
+18.6 Following my direction that Speak Up & Investigations be reviewed by external
+experts (resulting in part from the Hamilton judgment), there have been
+improvements to investigations processes through the establishment of an
+Assurance and Complex Investigations (ACI) team to act predominantly as a
+'second line of defence' (one of the recommendations from the review). I
+requested that the review be done externally, rather than by anyone within
+POL, because I wanted it to be done independently and transparently, so we
+could understand what industry best practice was and the gaps within POL,
+so the recommendations could then be put to the relevant decision-making
+forums.
+
+18.7 The ACI Director, John Bartlett ((JB) previously Head of the then-named
+Central Investigations Unit) and the ACI team report to the Group Legal
+Director, SG (who recruited JB). SG is responsible for overseeing and
+managing the ACI Directors team and providing guidance and support to
+them. The team are properly trained experienced investigators empowered to
+improve investigations processes across POL. They also undertake complex
+investigations where required by the Board or the Executive including in
+compliance with the Board approved policies (for example, Law Enforcement
+and Cooperation Policy or Speak Up Policy). The ACI team does not generally
+undertake Postmaster investigations (which are carried out within the Retail
+
+Page 12 of 124
+
+
+
+=== Page 13 ===
+
+WITN09980600
+WITN09980600
+
+team) or employment investigations (which are carried out by the People
+team) but they might provide guidance and support to those undertaking such
+investigations. Where there are investigations which are particularly sensitive,
+complex and/or material, the ACI team itself may conduct the investigation.
+During my tenure as GC, the Retail team (responsible for Postmaster
+investigations) has not sat within my remit. Those in the Postmaster
+investigations Retail team are not part of LCASR and do not report to me.
+
+18.8 As noted above, the GC sits on the SEG in an advisory capacity only.
+
+18.9 In or around the beginning of 2020, the Board and Executive were increasingly
+concerned about the lack of time and resource being directed to the running
+of the Post Office. It was raised and discussed with Board, including the
+Government Shareholder Representative, Tom Cooper, as to whether it would
+be preferable that the Government take the compensations matters away from
+POL, to be administered by a different entity. The Government Shareholder
+Representative informed the Board that the Government would not be
+amenable to that option. As a result, in or around June 2020, the Board
+decided to separate the matters arising from Lord Justice Fraser's findings
+from the BAU business. It appointed Declan Salter to be the Director of that
+separate program (his title was therefore Historical Matters Unit (HMU)
+(subsequently RU) and Inquiry Director)), reporting directly to the CEO and
+the Board.
+
+Page 13 of 124
+
+
+
+=== Page 14 ===
+
+WITN09980600
+WITN09980600
+
+18.10 Between September 2021 and July 2023, my role as GC was subsequently expanded to be the temporary sponsor of the RU and Inquiry programs. The role was backdated to June 2021 as I informally tried to assist these teams during that period, but I was not undertaking the role formally until September 2021. During that intervening period, I raised concerns I had around potentially undermining the ‘adviser not decider’ role which I felt was important because of my SRA obligations (more on which below).
+
+18.11 At this point the RU and Inquiry programs were separated and subsequently two new directors were appointed. Fintan Canavan was appointed in October 2021 as Inquiry Director and Simon Recaldin as RU Director in January 2022. My temporary sponsor responsibilities were to keep the Executive and the Board updated (through the SEG and Board reports), and to be a contact point (instead of the CEO who had previously performed that role). In addition, I was responsible for conducting line management of the two directors (for example, day to day support, performance management reviews, pay, leave requests, budget, employee support). Given my existing role and its limits of authority (i.e. advise and not decide), the above directors were empowered to make decisions and have decision making forums established above them (more on which below).
+
+18.12 Prior to the directors’ appointments, other SEG members attended the RU and Inquiry Steering Committee (ISC) to ensure that decision-making continued. The RU Director had decision-making authority and, where it was not within
+
+Page 14 of 124
+
+
+
+=== Page 15 ===
+
+WITN09980600
+WITN09980600
+
+his authority, such decisions were taken by the Remediation Committee (RC),
+which is the Board Subcommittee established to oversee compensation
+matters arising from Lord Justice Fraser's findings. The RC was chaired by
+Ben Tidswell (BT) in or around August 2021.
+
+18.13 Given that the compensation principles had a financial impact above a certain
+authority level, a substantial amount of decision making was taken by the RC.
+
+18.14 The Inquiry Director had authority to make certain day to day decisions, but
+significant decisions were taken by an Executive SteerCo (utilising the CEO's
+delegated authority - the ISC as previously referred to). Material decisions
+which were not within the ISC's Terms of Reference, would be made by the
+Board (for example, the waiver of legal professional privilege for the Inquiry).
+
+18.15 Both the Inquiry and RU programs had their own legal teams including Legal
+Directors outside of the Business As Usual (BAU) teams reporting to the RU
+and Inquiry Directors.
+
+18.16 In July 2023 I ceased my temporary sponsorship of the RU and Inquiry
+programs. I first started conversations with the CEO around March or April
+2023 about me ceasing my sponsorship. There were a number of reasons for
+my request to the CEO including that I may be called to give evidence to the
+Inquiry and as such an issue of conflict might arise. In addition, I had not felt
+(for some time) that, in reality, I had the requisite information, control or
+
+Page 15 of 124
+
+
+
+=== Page 16 ===
+
+WITN09980600
+WITN09980600
+
+authority in order for me to properly undertake my role as sponsor (including
+in relation to overseeing or directing the programs).
+
+18.17 After ceasing my temporary sponsorship in July 2023, the Group Legal
+Director, SG, and Inquiry Director (Diane Wills (DW)) continued to liaise with
+each other on the management of legal issues, particularly in the event of
+conflicts, and ensuring that POL BAU legal policy and procedures were
+complied with in the programs, together with engagement with the SID, who
+was legally qualified. I have not been part of the ISC from that time and was
+excluded at various times from the SEG and Board meetings on the Inquiry
+issues.
+
+18.18 At no time have I been responsible for the Postmaster investigations team
+which sits in the Retail team.
+
+18.19 Shortly before 1 January 2024, I was informed that the SEG would be
+restructured, and that the GC would not sit on the proposed executive forum.
+I was not consulted on this until the decision had been made but did suggest
+that it would be appropriate for the CEO and CPO to take direct external legal
+advice so that they could ensure that legal risks were managed. I was asked
+about my thoughts on the proposed restructure. I queried whether the
+restructure had gone through proper governance and whether the risks were
+understood (regarding not having the GC attend the SEG) specifically in terms
+of risk management, including legal and regulatory risk. The SEG was
+
+Page 16 of 124
+
+
+
+=== Page 17 ===
+
+WITN09980600
+WITN09980600
+
+subsequently amended to continue with GC attendance in an advisory
+capacity (as had always been the case).
+
+18.20 From 14 May 2020, I was the Chairman of First Rate Exchange Services
+Limited which is a joint venture travel currency between the Bank of Ireland
+and POL. As noted above, I have been informed that for an interim period I
+will step down from this role until my return to the business.
+
+19. In respect of my role as GC, my duties and areas of responsibility, I have been
+asked to summarise any proposed changes that have been considered by
+POL or are currently being considered by POL, if any, to address the issues
+highlighted by the findings of Fraser LJ and/or following the evidence that has
+been heard in the Inquiry.
+
+20. For some time throughout my tenure as GC, I recommended that a
+Governance Review be undertaken. Around November 2023, a Governance
+Review was conducted by Grant Thornton to look at POL's corporate and
+enterprise governance and also at the strategic oversight by the Government
+Shareholder. I understand that the draft report was provided to the Board,
+CEO, Deputy CEO (Owen Woodley) Chief of Staff and Company Secretary.
+As the GC, governance issues create legal risk and I wanted to have oversight
+of the report as a result. Over the course of several months, I asked a number
+of times to see the draft Grant Thorton report but was refused. I raised this
+with the CEO, Chief of Staff and Company Secretary who were responsible
+for Governance at this time and had access to this report. This is not intended
+
+Page 17 of 124
+
+
+
+=== Page 18 ===
+
+WITN09980600
+WITN09980600
+
+as a criticism of the Company Secretary or Chief of Staff who I understand
+were acting upon instructions.
+
+21. In my view, it would be helpful for a GC to attend the Board meetings as an
+attendee (not as a voting member) as it has been difficult to have oversight
+over issues which I do not have access to information or control over. It
+therefore makes it more challenging for the GC to be aware of all legal and
+regulatory risks in the business. I understand that POL is considering the
+outcome of the report, but I am not aware of any decisions having been made.
+Although I had advised POL to obtain this report and contributed to its
+examination, I have not been involved in its evaluation, drafting, and
+implementation to the Board or Executive.
+
+22. Save as set out above, I am not aware of any further changes which have
+been considered by POL or are currently being considered by POL. As set out
+above, I have been on leave since 10 June 2024, so it is possible that there
+are other changes being considered which I am not aware of.
+
+23. For the purposes of this question, and as I have been asked, I have focused
+on the changes in respect of my role as GC, my duties and areas of
+responsibility, not in respect of the wider business.
+
+24. In respect of my role as GC, my duties and areas of responsibility, I have been
+asked in respect of any proposed relevant changes that were not adopted or
+
+Page 18 of 124
+
+
+
+=== Page 19 ===
+
+WITN09980600
+WITN09980600
+
+implemented to detail these, explaining the decisions that were taken and the
+reasons why they were not adopted or implemented.
+
+25. I am not aware of any proposed changes arising from the Grant Thornton
+Review or other recent restructures which were not adopted or implemented.
+
+26. As discussed further below, I raised concerns regarding the temporary
+sponsorship role, which were not acted upon.
+
+27. In respect of my role as GC, my duties and areas of responsibility, I have been
+asked to explain the role I played in proposing and/or implementing any of
+these changes, if any.
+
+28. I was in support, and involved in the implementation of, the change made to
+the role of the Legal team to reinforce it was only advising rather than making
+material business decisions (including that the GC is not a voting member of
+SEG or other executive decision-making forums). This model is consistent
+with industry discussions and academic literature; it gives inhouse lawyers a
+greater degree of independence; reinforces an understanding of who is the
+client and the duties owed; and it is consistent with good governance practice
+of having the appropriately authorised Board and Executive Committees
+making decisions.
+
+29. The risk around the GC making decisions or being a part of the decision (in
+decision making forums) is that they may have to recuse themselves where
+they or their team have provided legal advice. Furthermore, the GC being a
+
+Page 19 of 124
+
+
+
+=== Page 20 ===
+
+WITN09980600
+WITN09980600
+
+voting member of a Board or Executive can risk compromising their ability to
+act as an independent advisor to the Board (if they are having to weigh up
+other factors like cost pressures, stakeholder management issues and political
+pressure) - this can result in a conflict of interest for the GC.
+
+30. These issues have been examined in a number of academic and industry
+publications such as the Centre for Legal Leadership and by way of example
+by Ben W Heineman Jr in Corporate Counsel (former GE senior vice president
+for law and public affairs and senior fellow at Harvard University's schools of
+law and government), as well as having been discussed in various industry
+forums where other GCs have advised that the GC should sit "beside the
+Board". Should it be helpful to provide further industry or academic literature
+on this approach I am happy to do so.
+
+31. In this way they can still advise the Board and Executive to make the good
+commercial decisions, but not decisions that may come into conflict with legal
+obligations and the SRA. Furthermore, this preferred model gives clarity in
+terms of roles and responsibilities, emphasising the adviser and client
+relationship and reinforces the lawyer's role as an independent adviser. There
+are different schools of thought or models on this issue, but I believed that
+adopting the "adviser not decider" approach was the preferable model for the
+management of legal and regulatory risk at POL. In any event, that was the
+decision that the former CEO, AC, and then CEO, Nick Read (NR) adopted.
+
+Page 20 of 124
+
+
+
+=== Page 21 ===
+
+WITN09980600
+WITN09980600
+
+32. I proposed and implemented the appointment of the LCASR Operations Director as referred to above. I created the remit for this role based on a legal operations role. I wanted to create a better coordinated process between those who directly reported to me, and to ensure that there was better management and reporting of the legal and regulatory risks and that the second line of defence teams were also putting in place appropriate policies, processes and controls.
+
+33. I also recommended a comprehensive review of Compliance & Assurance across the organisation including reform to the Compliance team, the establishment of a formal Assurance team (including a Group Assurance Director) and the design and implementation of a Controls Framework. I felt this was critically important for the organisation as it provides an enhanced check on the first line of defence, including POL's conformance with the findings of Lord Justice Fraser and response to the Inquiry's evidence. I first raised this to the SEG, RCC and ARC as I believed it to be a key component to any ongoing remediation. A Controls Framework would support the organisation to ensure ongoing conformance with the changes following the findings of Lord Justice Fraser. However, the design and implementation of the Controls Framework would take resource and management time, so the approach taken by the business was to decentralise the design and implementation to the first line of defence. This resulted in a delayed rollout and the need to strategically prioritise Retail and IT. It is an ongoing exercise
+
+Page 21 of 124
+
+
+
+=== Page 22 ===
+
+WITN09980600
+WITN09980600
+
+as Improvement Development Group (IDG) oversees the conformance with
+Lord Justice Fraser's judgments.
+
+34. When I was appointed GC, there was not a central investigations team. As
+outlined above, Postmaster investigations were (and remain) carried out by
+the Retail team. Employment investigations such as conduct issues are (and
+remain) carried out by the People Team. Speak Up issues were carried out
+within the Compliance function which reported into me as GC. As I set out in
+further detail below, following the Hamilton decision and approval of my advice
+to POL to conduct an external review of Investigations generally, including
+Whistleblowing at POL, I provided the recommendations to the Executive and
+Board which included, in respect of my remit, a review of the Speak Up Policy,
+the establishment of a dedicated whistleblowing officer reporting to the ACI
+Director (that was sponsored by the Group Legal Director) and the
+establishment of a Board Whistleblowing Champion. This was to provide
+better and dedicated expertise to the Speak Up team as well as better
+awareness of the importance of Speak Up across the organisation.
+
+35. The external review, conducted by KPMG, examined the manner in which
+POL conducted investigations more broadly, including Postmaster
+investigations. The purpose of this external review was to ensure that POL
+operationally and culturally acted upon issues that were raised in the CIJ and
+Hamilton judgment, took subject matter expertise and reported to the
+Executive and Board, to drive progress in this area. My objective was to 'shine
+
+Page 22 of 124
+
+
+
+=== Page 23 ===
+
+WITN09980600
+WITN09980600
+
+a light' on issues that had been flagged which I thought POL should address.
+The report recommended the establishment of a centralised Investigations
+team (now known as ACI). Following approval and with specific input from the
+Speak Up Board Champion this was undertaken and the role, Head of ACI
+(now ACI Director), was established and reported into, and was overseen by,
+the Group Legal Director, SG. Subsequently, a Board Investigations
+Champion, BT (who is legally qualified), was also appointed. BT was also the
+Chair of the Remediation Committee.
+
+36. As part of my role as both GC and temporary sponsor I have raised the issues
+of poor governance in respect of various issues repeatedly through
+discussions with Board members but also formally through CEO reports,
+Executive and Board reports including RCC and ARC reports, as well as
+through dedicated papers and requesting dashboards on CIJ and HIJ
+conformance. In addition, monthly management information pertaining to
+Speak Up and Investigations is given to the Board and Executive. Given the
+separation of the RU and Inquiry programs, I recommended a number of
+matters, including that a RACI (responsibility, accountabilities, consult and
+informed), with intersectionality between the RU and Inquiry programs and the
+BAU, be undertaken.
+
+37. In respect of my role as GC, my duties and areas of responsibility, I have been
+asked to address the extent to which any changes implemented thus far, if
+any, are in my view sufficient to address the findings of Fraser LJ and/or
+
+Page 23 of 124
+
+
+
+=== Page 24 ===
+
+WITN09980600
+WITN09980600
+
+following the evidence that has been heard in the Inquiry and whether further
+changes are required.
+
+38. I have addressed elements of this question in subsequent questions where
+the issues or changes have been more specifically raised. I would reiterate my
+comments in paragraph 6 above in which I note that due to the limited privilege
+waivers by POL there is material that I am unable to place before the Inquiry.
+
+39. The role of GC was not directly addressed in the findings of Lord Justice
+Fraser. However, the findings raised a number of issues within the GC's areas
+of responsibility. Part of my role and area of responsibility is to support the
+business (Board, Executive, accountable business owners and organisation)
+to comply with the findings of Lord Justice Fraser (and the Hamilton judgment):
+
+40. CIJ Legal Advice – Postmaster Contracts, Operations and Culture
+
+41. In summary, the Common Issues Judgment (CIJ) established a mutual duty
+of good faith between POL and its Postmasters and implied numerous new
+terms into the contract on the basis that they were consequential upon the
+duty of good faith or on the grounds of necessity for business efficacy. The
+principles and behaviours relevant to good faith include fair dealing,
+transparency, cooperation, and trust and confidence throughout the life cycle
+of the Postmaster relationship (i.e., from onboarding to termination).
+
+42. The POL legal team with extensive support from external lawyers articulated
+the changes set out by the CIJ to the business. POL Legal updated their
+
+Page 24 of 124
+
+
+
+=== Page 25 ===
+
+WITN09980600
+WITN09980600
+
+understanding of the Postmaster contracts including their own tools and
+procedures. For example, the legal precedent database was updated, to
+ensure that previous external legal advices were not used and updated advice
+would be given to the business going forward.
+
+43. Extensive legal advice including drafting amendments to contract templates,
+policies and processes; guidance; and training has been provided to the
+business including the Board, Executive and specifically to the relevant
+accountable owners within the business (who have responsibility for such
+areas (broadly Retail for CIJ and IT for HIJ)). The legal team has supported
+the accountable owners / their business client to change their operations and
+culture including, by way of example, the contractual restatement work and
+communications to existing Postmasters. POL Legal and external legal
+advisors have reviewed the Retail Team's policies and procedures. Moreover,
+further legal assurance was also undertaken to support the accountable
+business owners' understanding on whether their operational processes had
+changed in conformance with the CIJ. Such assurance also set out numerous
+recommendations for the business to undertake. Further external assurance
+was recommended. Other initiatives were also undertaken by the Legal and
+Compliance team such as the introduction of GLO training and Ethics training
+across the business to not only support the accountable owners to
+operationalise the findings of Lord Justice Fraser into their policies and
+procedures but also to embed cultural improvements.
+
+Page 25 of 124
+
+
+
+=== Page 26 ===
+
+WITN09980600
+WITN09980600
+
+44. HIJ Advice – Robustness of Horizon
+
+45. Similar to the CIJ, the legal team with support from external lawyers needed to set out the findings of Lord Justice Fraser in respect of the HIJ. Broadly, the HIJ required POL to remediate the management of Horizon defects, core Horizon data, privilege and remote access of branch accounts, discrepancies and shortfalls, and identification of defects and causes of shortfalls in branch accounts. POL needed to ensure that Horizon was sufficiently robust and fit for purpose. Further external assurance was also recommended.
+
+46. The CEO established an Executive Group to oversee the accountable business owners’ progress of these improvements. This was referred to as the post-GLO program and, as referred to above, the IDG. This group was initially chaired by the CEO but was subsequently chaired by the COO and, following that, by the Transformation and Strategy Director.
+
+47. Generally, I believe the changes that have been made arising from Lord Justice Fraser’s findings and the evidence heard from the Inquiry are positive cultural and operational changes, but further work is still required and the pace in which these changes were implemented could have been improved.
+
+48. The following changes were made to the way in which the LCASR operates in response to the findings:
+
+48.1 There is greater oversight and assurance over the advice given by external lawyers and the instructions being provided by the business (the Legal team’s
+
+Page 26 of 124
+
+
+
+=== Page 27 ===
+
+WITN09980600
+WITN09980600
+
+internal client). By way of example, in relation to a particular project, a third-party company was appointed to check the business' instructions and additional, specialist counsel was appointed to oversee and test the advice being given by POL's external lawyers to give POL assurance. Moreover, UKGI and the Government Shareholder Representative requested a third counsel to assure the position even further.
+
+48.2 Every member of the Legal team (including new recruits) is trained to ensure that they understand the findings of the Group Litigation Order and are specifically trained on the findings of Lord Justice Fraser, which covers both the legal principles but also general governance. For example, addressing the criticisms in relation to the culture of secrecy. Moreover, multiple ethics training sessions have been given to the Legal team to ensure that they are aware of their regulatory obligations but also the broader ethical framework from which to operate. Furthermore, the creation of the Ethical Decision Making Framework has been approved and is incorporated into the Executive and Board papers. In addition, Speak Up training is mandatory.
+
+48.3 I directed that a new Legal Policy and a Law Enforcement and Cooperation Policy be implemented following approval from ARC and RCC. The Legal Policy sets out the minimum operating standards relating to the management of legal and regulatory risks and clarifies the roles and responsibilities throughout POL. The Law Enforcement and Cooperation Policy was drafted
+
+Page 27 of 124
+
+
+
+=== Page 28 ===
+
+WITN09980600
+WITN09980600
+
+to prevent POL from being able to engage in private prosecutions without the
+consent of the Government Shareholder.
+
+48.4 As above, the Legal team ensures that material decisions are being made by
+the internal client. This is enshrined in POL's Legal Policy.
+
+48.5 As part of my role as temporary sponsor of the RU and Inquiry programs, I
+conducted a review aided by external lawyers and consultants, the people
+team, the change team and finance. I made a number of findings about the
+status of the programs and recommendations. A number of these
+recommendations were not approved including having KPMG support POL in
+developing the RACI structure of the RU and Inquiry programs.
+
+48.6 As part of my role as temporary sponsor of RU, and having witnessed the
+challenges faced by Declan Salter, I provided advice on the approach to be
+taken in respect of compensation. I understand that privilege over this advice
+has not been waived. However, the fact that compensation still has not yet
+been completed is of extreme concern and one which I repeatedly flagged.
+Moreover, a number of ways of working meetings were held to try to increase
+the pace regarding the provision of compensation. I have also flagged the
+concern that some directors were so focused on cost management that there
+was a risk around losing sight of outcomes in terms of quality and speed. As
+I say this was repeatedly raised in September, October, and December 2021;
+as well as the implications arising from the increased administration, oversight
+and assurance of UKGI and Government Shareholder teams in December
+
+Page 28 of 124
+
+
+
+=== Page 29 ===
+
+WITN09980600
+WITN09980600
+
+2021, April 2022, and May 2022, by way of example. As noted above, there
+are many times that I have challenged the approach taken by decision makers
+and or advisors in these matters in which I have encouraged them to consider
+the matter through the postmaster lens or be postmaster centric. Specifically
+in respect of my role as temporary sponsor I also flagged that delayed justice
+was neither just nor fair in reference to the pace of the compensation schemes.
+
+48.7 As part of my role as temporary sponsor of the Inquiry program, I was directly
+involved in recommending a design for the Inquiry program operational
+processes and further internal resources and support. This included amongst
+a number of things; a Response Tracker to the Inquiry's evidence as well as
+communication of the evidence from the Inquiry to the Board, Executive, and
+more broadly across the organisation. There are a number of issues I am not
+permitted to bring to the Inquiry's attention due to privilege not being waived.
+
+48.8 The POL Inquiry team provided both executive summaries and
+comprehensive information pertaining to the evidence arising from the Inquiry
+to the Board, Executive and senior leaders accountable for matters which
+arose in the course of the evidence to the Inquiry as well as more general
+information across the organisation. Separate from the Response Tracker, the
+Inquiry team provided summaries of each phase to such accountable
+personnel to ensure that they were; (1) aware of the evidence arising from the
+Inquiry; and (2) could take the necessary action in light of this evidence.
+
+Page 29 of 124
+
+
+
+=== Page 30 ===
+
+WITN09980600
+WITN09980600
+
+48.9 The Response Tracker identified, by way of example, over 280 matters in
+Phase 1 which the business needed to address. This Response Tracker was
+reported to the ISC.
+
+48.10 In January 2022, I directed SG and the former Inquiry Director that
+"outstanding areas needed more focus and really quickly... including
+corporate governance and investigations".
+
+48.11
+To be clear,
+accountability of POL's response to the issues raised in the Inquiry was to be
+addressed by the relevant accountable business owners. There are several
+examples, including:
+
+48.11.1 When the CEO - Retail, Martin Roberts, and Postmaster Network
+Director, Tracey Marshall attended the Inquiry they noted that the
+training and onboarding issues that had been experienced in the
+past were not adequate and more importantly that the proposed
+approach to training for the potential new system would not be
+sufficient. Accordingly, they changed the approach that they were
+taking in respect of training and onboarding of the potential new
+system.
+
+Page 30 of 124
+
+
+
+=== Page 31 ===
+
+WITN09980600
+WITN09980600
+
+48.11.2 When the CIOs, Jeff Symth and Zdravko Mladenov, attended Phase
+2 of the Inquiry, they noted the extensive design issues and
+governance concerns throughout that time. Consequently, the
+approach taken to the new Horizon system was amended to take
+into account the evidence from the Inquiry including, specifically, the
+need for greater assurance.
+
+48.11.3 When the Postmaster NEDs (Sarfraz Ismail and Elliot Jacobs)
+attended, they were concerned that some investigators giving
+evidence were still employed at POL. Of particular concern was that
+some of them had been re-hired in the RU team. Although overall
+accountability for these matters was with the People team. My area
+of responsibility included the ACI and Legal team's support to the
+People team.
+
+48.12 During the course of the Phase 1 Evidence, I directed that the Group Legal
+Director, SG, and ACI Director, JB, ensure that the potential Speak Up issues
+arising from the Inquiry were acted upon. I gave privileged advice in respect
+of the investigations into Phoenix and Past Roles. I directed that other BAU
+work should be stopped in the Legal team and be devoted to this issue if
+necessary. During this time the Legal and ACI teams with my sponsorship
+advised the Executive that there was insufficient resource to cope with the
+new demand arising from: (1) the newly established central investigations
+team; and (2) matters arising from the evidence from the Inquiry. I directed SG
+
+Page 31 of 124
+
+
+
+=== Page 32 ===
+
+WITN09980600
+WITN09980600
+
+to strategically prioritise these matters. Later, more resource was secured
+from the investment group (which is an executive steering committee). More
+details of the above is set out in below..
+
+48.13 I ceased being temporary sponsor in July 2023. I did however continue to raise
+my concerns about the limited resource and budget for the POL Legal and ACI
+teams. This was reported through the CEO reports, the bi-annual legal reports,
+the RCC and ARC papers as well as 1:1s with the Chairman, SID, Speak Up
+Champion and CEO.
+
+48.14 In terms of my areas of responsibility and setting the right cultural approach in
+relation to Postmasters, I have challenged my team members generally about
+their approach to issues which are before the Inquiry in both a technical,
+operational and cultural sense. This would be done on an ad hoc basis but
+also formally in mid-year and end of year reviews.
+
+48.15 By way of example, I will refer to a specific Postmaster investigation. This
+investigation was initially being conducted by the Retail team as a postmaster
+discrepancy but subsequently POL received a potential Speak Up in relation
+to the particular Postmaster. Consequently, the Speak Up team within the ACI
+team became involved in the matter. Subsequently, the ACI Director
+(overseen by the Group Legal Director - SG), as a result of a Board discussion
+given its complexity, was requested to review and investigate the matter
+further. Given the investigation concerned a Board Director, the Chair, Henry
+Staunton (HS), spoke to me regarding the matter, together with the CEO (NR)
+
+Page 32 of 124
+
+
+
+=== Page 33 ===
+
+WITN09980600
+WITN09980600
+
+and SID (BT). I provided feedback to the ACI Director, copying in SG, about
+the manner and approach in which the investigation was being conducted and
+in what they were intending to do. I emphasised that the investigation needed
+to be robust and comply with the CIJ and Hamilton judgments. I noted that
+although I was not privy to the Board discussion, the Postmaster NEDs had
+challenged the behaviours of those that had been involved in the process and
+we needed to ensure that we acted within our culture to address the lessons
+from the past and do such investigations properly. I also explicitly highlighted
+the cultural point which is that we need to ensure that we are doing the right
+thing, testing our processes, and ensuring that they are Postmaster centric
+and so I asked the ACI Director to convey that to the branch audit team. I
+provide more information about these changes below.
+
+49. With respect to how specifically the Legal department supported POL in
+addressing the findings of Lord Justice Fraser and/or following the evidence
+that has been heard in the Inquiry, I consider this further below in my
+statement.
+
+Relationship with the Executive and the Board
+
+50. I have been asked to summarise my current relationship with (a) the POL
+Executive and (b) the POL Board, including:
+
+Page 33 of 124
+
+
+
+=== Page 34 ===
+
+WITN09980600
+WITN09980600
+
+51. I have not really had any substantive engagement with the POL Board since the end of March 2024 (and the POL Executive since June 2024), however the issues on which I brief the Board and Executive are as follows:
+
+52. I, together with the LCASR team, typically brief the Board and the Executive on material legal and regulatory issues having regard to the matters reserved, delegated authority statement and other governance documents. This also includes BAU legal matters across the business and material projects. For example, contracts, commercial disputes, employment issues, investigations, financial services regulations and competition law. Typically, I brief the Board and/or Executive following advice obtained from inhouse or external lawyers or the Compliance team on the specific issues.
+
+53. As part of industry practice, topics would generally go through the SEG or its subcommittees prior to going to the Board.
+
+54. The briefing of the Board in particular can occur through different routes including, for example, attending Board meetings (on invitation only), submission of Board papers (on invitation only subject to Board agenda), advising the Board through the CEO monthly report (each member of the SEG provides a report to the CEO which is included in the CEO report), legal risk notes attached to Board papers on material matters, the bi-annual legal risk review which is provided to the RCC (Executive subcommittee) and ARC (Board subcommittee), and meetings with Board members such as regular
+
+Page 34 of 124
+
+
+
+=== Page 35 ===
+
+WITN09980600
+WITN09980600
+
+meetings with the ARC Chair, Speak Up Board Champion or the Investigations
+Champion (who is also the SID & RU Chair).
+
+55. I do not brief the Board on issues pertaining to the Company Secretariat, which
+is done by the Company Secretary directly.
+
+56. During my temporary sponsorship of the RU and Inquiry programs, the
+relevant directors and I would brief the Board via the Board reports and
+attendance at the formal Board meetings with significant support from external
+lawyers.
+
+57. Who my main point(s) of contact with the Board are
+
+58. My main points of contact with the Board are the CEO, the CFO, the Chairman,
+the Chair of ARC, Simon Jefferies, the Government Shareholder
+Representative and the SID. I also have formal meetings with the non-
+executive directors including the Speak Up Board Champion, Zarin Patel and
+Amanda Burton, and Investigations Champion, Ben Tidswell.
+
+59. In addition to formal Board meetings and as briefly mentioned, I also have
+meetings with the ARC Chair usually prior to ARC meetings to go through the
+agenda and any particular concerns that I have. I also attend the ARC
+meetings, but I am not a member of ARC. That said, in terms of my temporary
+sponsorship, both the RU and Inquiry Directors had direct access to the Board
+and SEG members. In practice, they would have meetings with the CEO,
+Chairman, SID and external legal representatives without my involvement.
+
+Page 35 of 124
+
+
+
+=== Page 36 ===
+
+WITN09980600
+WITN09980600
+
+60. In respect of the SEG, my main points of contact are the CEO, CFO, CPO and the Chief of Staff.
+
+61. In addition to the SEG papers and to assist the CEO briefing the Board, the CEO receives a report from each SEG attendee which is attached to his Board report. Such reports are generally prepared by the accountable directors (directors reporting to the SEG). In terms of my areas of responsibility, my directors prepare a summary of the relevant risks and issues in respect of their remit within the LCASR to ensure such relevant risks and issues in the business are communicated to the Board. This transparency is part of good governance. I would have sight of the reports from within my function (and would input on them when needed) before they go to the CEO, such that I could oversee the directors reporting into me and progress matters as necessary.
+
+62. How often I attend Board meetings and in what circumstances
+
+63. As GC, I do not sit on the Board and only attend upon invitation in respect of a particular agenda item. In that capacity, I provide an advisory role to the Board and the SEG and attend meetings to provide advice. I frequently attend Board meetings on invitation to advise on particular matters, but I only remain in the meetings for the matters on which I have been invited to advise.
+
+64. I attend (but am not a member of) ARC which is a Board Subcommittee to ensure the Board has oversight over the risk management of the business. I
+
+Page 36 of 124
+
+
+
+=== Page 37 ===
+
+WITN09980600
+WITN09980600
+
+attend these meetings in my capacity as GC to support the Board to
+understand and challenge the risk management of POL.
+
+65. I have been asked to set out in detail my interactions with (a) the POL
+Executive and (b) the POL Board with respect to any relevant changes
+proposed or implemented to POL as an organisation to address the findings
+of Fraser LJ and/or following the evidence that has been heard in the Inquiry.
+
+66. Following the judgments of Lord Justice Fraser, there was an extensive
+program of change established at POL. The initial forum was the Post-GLO
+Settlement Program, chaired by the CEO (NR). In my role as GC, I was
+involved in supporting the business to understand the legal requirements
+following Lord Justice Fraser's findings and to support the accountable
+business owners to implement these changes. The then-Operations Director,
+Julie Thomas, was responsible for the design and implementation of Lord
+Justice Fraser's findings across the organisation. Although the Operations
+Director reported into the CFO at the time, I understand that she also reported
+to the CEO on such matters. Her role required her to liaise with the Retail
+Postmaster Director, Amanda Jones, and the CIO, Shikha Hornsey (and
+subsequently Jeff Smyth, in respect of HIJ matters).
+
+67. The CEO evolved the Post-GLO Executive Group into an Executive forum, the
+previously referred IDG, to monitor the operational and cultural changes to
+address the findings of Lord Justice Fraser. Members of the IDG included the
+COO (Dan Zinner) (who chaired the meeting), the CEO - Retail (Martin
+
+Page 37 of 124
+
+
+
+=== Page 38 ===
+
+WITN09980600
+WITN09980600
+
+Roberts), the Chief IT Officer (CIO) (Jeff Smyth) , the CPO (at that point,
+Angela Williams, the CFO (AC), Transformation and Strategic Director, Tim
+McInnes, and me (or our delegates). The members and remit of the IDG have
+evolved over time. A series of working groups sit below the IDG and are
+overseen by the IDG, led by the accountable business owners and, where
+relevant, supported by legal representatives or other business services. The
+accountable business owners attend IDG meetings to set out the changes
+made within their areas of the business. The IDG would be the executive forum
+to oversee and test progress.
+
+68. The legal requirements and observations which arose from Lord Justice
+Fraser's judgments have been communicated in many ways to the
+accountable business owners, including through advices and various forums
+such as the IDG, as well as to the organisation generally including to the
+Executive directly (principally via members of my team or external legal
+advice). Since 2023 the Group Legal Director and the Assurance director have
+been my delegates on the IDG.
+
+69. As accountable business owners, the COO or the Transformation Strategy
+Director would attend Board meetings for these updates. Only on specific
+occasions would I attend Board meetings on such matters, for example for
+contract modernisation. However, the COO or Strategy Director would have
+had the benefit of the legal support prior to attending the Board meetings.
+
+Page 38 of 124
+
+
+
+=== Page 39 ===
+
+WITN09980600
+WITN09980600
+
+70. POL commissioned external lawyers, including WBD and HSF to provide extensive legal advice setting out the legal obligations enshrined in Lord Justice Fraser's findings. These advices were shared with the relevant accountable business owners and their teams, as well as the SEG and Board as necessary.
+
+71. By way of example, I directed and contributed to the drafting of an operational paper which set out the legal requirements of the findings and how they impacted the operating practices, policies and procedures within the organisation and flagged those which required amendment. A summary of this paper was provided to the SEG, and the Board was also provided with this paper for oversight.
+
+72. Following the implementation of these changes, the Legal team (through external lawyers) also performed an assurance function, to the extent it was able to, in respect of the changes. During this time, I strongly recommended to the Executive that external assurance and external audit over all changes ought to be conducted. Part of the rationale for this was the context generally and the findings of Lord Justice Fraser regarding culture.
+
+73. My view, along with others, was that key stakeholders (including Postmasters and the public) would take greater comfort that an external party had checked the changes rather than POL. However, this was not universally accepted. This was another issue where cost management became prioritised over quality of outcome. Following the implementation of Phase 2 of the CIJ
+
+Page 39 of 124
+
+
+
+=== Page 40 ===
+
+WITN09980600
+WITN09980600
+
+changes, I directed that Norton Rose Fulbright, supported by the Head of
+Legal – Retail, Zoe Brauer, and the Group Legal Director (SG), support the
+Retail team to review the changes which had been made to operational
+policies and procedures by way of assurance and advise the relevant
+accountable business owner (the CEO Retail and his responsible directors),
+the SEG and the Board on the level of conformance and further
+recommendations.
+
+74. In order to ensure the Board and SEG had oversight over the changes being
+implemented and ongoing conformance, I provided privileged advice which I
+do not believe POL has waived privilege in respect of and so I am unable to
+provide the Inquiry with further information on this point. My understanding is
+that the Retail and IT teams are working on a controls framework (i.e. a live
+document that sets out the controls that, if complied with, mean that the CIJ
+and HIJ findings would continue to be adhered to on an ongoing basis). In
+addition, the Retail and IT teams now provide a Dashboard on the issues
+arising from the findings of Lord Justice Fraser to the SEG and Board. Once
+I received approval for the Group Assurance Director role, I directed him to
+prioritise the CIJ and HIJ conformance. He together with SG have supported
+the IDG with that for at least a year.
+
+75. Upon starting that temporary sponsor role, I conducted a review of the RU and
+Inquiry programs which was reported to both the SEG and the Board. I
+provided advice in respect of the following areas; governance, previous
+
+Page 40 of 124
+
+
+
+=== Page 41 ===
+
+WITN09980600
+WITN09980600
+
+leadership, program structure, resource and morale and strategic prioritisation
+(including purpose and mission, weighing up competing interests of quality,
+speed and cost and the prioritisation of those).
+
+76. This additional Executive oversight did not include decision making authority
+for the reasons given above. Unfortunately, approval to have external support
+to conduct my review and specifically to have governance advice on the RACI
+(which is a project management tool that defines roles and responsibilities and
+is key to governance) of the programs and in particular the intersectionality
+with the rest of the BAU business was refused initially by the CFO (AC) and
+then when I challenged it, it was also refused by the CEO (NR). Had that
+recommendation been implemented I think the governance of both the RU and
+Inquiry programs would have been better.
+
+77. As mentioned above, the RU was established as a separate program, outside
+of POL BAU, to manage and remediate compensation issues arising from Lord
+Justice Fraser's findings as well as the subsequent Court of Appeal Criminal
+Division findings (Hamilton). It was not accountable for operational and cultural
+improvements arising from the judgments or the Inquiry generally as that sits
+within the BAU business. The IDG was the executive committee with
+oversight over the operational and cultural change.
+
+78. In my role as temporary Inquiry sponsor, I was keen to ensure that any issues
+raised during the Inquiry were tracked and reported to the ISC (which included
+the CEO, certain members of the SEG or their delegates). In the Response
+
+Page 41 of 124
+
+
+
+=== Page 42 ===
+
+WITN09980600
+WITN09980600
+
+Tracker, the actions that arose from the evidence from the Inquiry were
+allocated to the relevant accountable areas of the business to be addressed.
+Updates were reported regularly to the ISC, as well as to the SEG and the
+Board. This tracker did not continue in the format that I directed, and I
+understand that a different approach was taken by the Inquiry Director (DW)
+to capture issues thematically.
+
+79. I am not able to provide a proper description of the review which I believe to
+be privileged.
+
+80. I have been asked to what extent the relationship between the GC and (a) the
+POL Executive and (b) the POL Board changed since the findings of Fraser
+LJ and/or following the evidence that has been heard in the Inquiry and to
+what extent, if any, I consider these changes have improved POL as an
+organisation.
+
+81. As I set out in my Fourth Witness Statement, when I took the role of GC, the
+CIJ had just been handed down and my impression, although I was not
+involved in the Group Litigation at the time, was that the outcome came as a
+shock to POL. There had been a disconnect between the outcome and the
+legal advice (as provided by WBD and other external counsel) and, as a result,
+it felt like the Board and the SEG had less trust in the Legal team.
+
+82. Consequently, the scope of the Legal team was clarified, as I set out above,
+such that their role was clearly to advise rather than to decide. I agreed with
+
+Page 42 of 124
+
+
+
+=== Page 43 ===
+
+WITN09980600
+WITN09980600
+
+this change, having regard to industry and academic literature at the time, as
+I felt it allowed the Legal team to provide more objective and independent legal
+advice. It provided greater clarity around roles and responsibilities. This
+created a clearer separation between decision making forums such as the
+Board and the SEG (and their delegated accountable owners) from the
+lawyers advising the business. I also considered it beneficial as it made it
+clearer "who is the client" i.e. the Board or through the appropriately authorised
+decision-making forum. I consider this an improvement to POL.
+
+83. Another change which took place following the CIJ was that HSF was brought
+in to oversee the Group Litigation. This decision was made before I became
+the GC. It was felt that this was required in order to ensure greater oversight
+and it had the advantage of providing greater assurance than a single GC or
+small inhouse team to the Board and the SEG on such a complex and material
+matter.
+
+84. At Board meetings, a HSF representative (usually Alan Watts) would attend
+with me to take the Board through the issues pertaining to the Group Litigation
+and the post-GLO program, including the Inquiry. A Legal Director, Diane
+Wills, and HSF continued to support Simon Recaldin, RU Director, and the
+RC.
+
+85. Generally, the utilisation of informal team meetings and workshops (in addition
+to formal management networks such as business partnering) has also
+benefited the business. Broader business advice about foundational issues
+
+Page 43 of 124
+
+
+
+=== Page 44 ===
+
+WITN09980600
+WITN09980600
+
+such as data management, governance, people welfare issues and culture
+generally have helped restore the confidence of the Executive and some of
+the Board in the LCASR function.
+
+86. Upon chairing RCC earlier this year, I recommended that accountable
+business owners attend the RCC in respect of their risks rather than the risks
+just being reported through the Risk, Compliance or Audit teams. The rationale
+for this is (a) they are in fact accountable for them; and (b) it would culturally
+encourage greater ownership and capture “hearts and minds” on the
+importance of risk management including legal and regulatory risks.
+
+87. My view is that the changes above have improved POL as an organisation to
+be compliant across the broad range of legal obligations but particularly those
+arising from Lord Justice Fraser’s findings. However, I feel there are more
+changes which could happen and that the potential role that a GC could play
+in relation to corporate governance is not fully utilised. One way of doing this
+would be for the GC to sit on the Board in an advisory capacity so that they
+can be privy to the full Board discussion and have oversight of all the principal
+issues such that they can spot legal risks. Alternatively, formally authorising
+the GC to be accountable and empowering the GC with information and the
+ability to direct governance issues could also improve governance.
+Separating the role of GC and Company Secretary made it much more difficult
+to develop relationships with the Board and to have access to all information
+
+Page 44 of 124
+
+
+
+=== Page 45 ===
+
+WITN09980600
+WITN09980600
+
+and material discussions. I understand that the Chief of Staff, Chrysanthy
+Pispinis, is committed to clarifying the roles and accountabilities of SEG.
+
+88. I have been asked to describe my view as to the adequacy and effectiveness
+of POL's current corporate governance arrangements.
+
+89. Before setting out my view as to the adequacy and effectiveness of POL's
+corporate governance arrangements, I set out below what is meant by
+corporate governance (having regard to both ISCA the Governance Institute
+and practice) and then specifically the role of the Secretariat function at POL.
+I believe it is important to set out such information before an assessment can
+be commented upon.
+
+90. Corporate Governance, in basic terms, refers to the way in which a company
+is governed and to the functions of governing, such as practices and
+processes, to achieve its vision, mission and strategies including, by way of
+example, how authorised decision making occurs. The UK Corporate
+Governance Code notes that "The purpose of corporate governance is to
+facilitate effective, entrepreneurial and prudent management that can deliver
+the long-term success of the company... Corporate governance is therefore
+about what the board of a company does and how it sets the values of the
+company, and it can be distinguished from the day to day operational
+management of the company by full time executives". Within POL, reference
+has been made to two types of corporate governance: corporate governance
+and enterprise or organisational governance. This has been done to help the
+
+Page 45 of 124
+
+
+
+=== Page 46 ===
+
+WITN09980600
+WITN09980600
+
+business to understand its part in governance. Corporate governance refers
+to the management of the formal legal instruments (constitutional documents
+such as articles of association) and associated processes such as Board and
+Executive committees' terms of reference.
+
+91. The Secretariat team is focused on the Board and SEG governance
+processes, details of which are set out below. Enterprise or Organisational
+governance refers to how effective decision making is then made at an
+organisational level across the business (i.e., how effective and good
+decisions are then made across the organisation within the Delegated
+Authorities). In terms of roles and responsibilities and to illustrate the above
+types: the Secretariat does not sit on every decision-making forum and is not
+aware of every decision made across the business. Consequently, it is
+important to recognise the difference between governance of a company and
+its management and the different roles and responsibilities. Powers to manage
+the affairs of the company are given to the Board of Directors, but most of
+these powers are generally delegated to the CEO and are delegated further
+to the Executive and senior leaders. The Board retains some powers and
+responsibilities, and certain matters are reserved for Board decision-making
+rather than delegated to the management team. POL has a low delegated
+authority threshold. Consequently, most Group Litigation, GLO or IDG matters
+need to go to Board unless delegated to a Board Subcommittee or to the
+Executive (who may in turn delegate it to an Executive subcommittee).
+
+Page 46 of 124
+
+
+
+=== Page 47 ===
+
+WITN09980600
+WITN09980600
+
+92. Good governance is usually demonstrated through three core principles: fairness (ethical behaviour and integrity), accountability & responsibility, and transparency.
+
+93. The current accountable owner for governance at POL is the Chief of Staff, supported by others including the Company Secretariat team. Previously it sat with the Transformation and Strategy Director.
+
+94. The Company Secretariat team at POL is headed by the appointed Company Secretary, Rachel Scarrabelotti, who looks after the overall administration of the Board and the Executive. The GC therefore has a role in corporate governance by way of oversight, but that is limited as I have outlined in this statement.
+
+95. Overall, whilst POL has made some progress, it still has further work to do to improve its corporate governance and especially its organisational governance as set out below.
+
+96. In terms of corporate governance, significant improvements have been made, such as: (a) having Postmaster NEDs appointed to the Board; (b) the Government Shareholder Representative sitting on the Board and the RC (the Board subcommittee responsible for compensation and remediation matters for Postmasters); (c) improvements to the process around RemCo & Nomination Committee (NomCo) following the issue with bonus submetrics and the Annual Report and Accounts (ARA) with enhanced oversight following
+
+Page 47 of 124
+
+
+
+=== Page 48 ===
+
+WITN09980600
+WITN09980600
+
+a previous siloed approach; (d) revised articles of association; and (e) the
+introduction of the Shareholder Framework Agreement between the
+Government Shareholder, UKGI and POL, which is a non-legally binding
+agreement that sets out the expectations and obligations in respect of each
+party.
+
+97. In terms of SEG accountabilities, POL's commercial objectives are necessarily
+constrained by public or social purpose. The Board, SEG and senior leaders
+have to actively manage cost, for example. My view is that more strategic
+prioritisation (including resource and tools) is required in order to deliver what
+is needed from a legal and regulatory perspective in respect of the
+foundational and BAU issues. Transformation programs, such as RU and the
+Inquiry, are funded through a different process.
+
+98. The need for greater clarification around SEG accountabilities was flagged in
+SEG in 2020. Initially the CFO held the pen on drafting the clarification and he
+received input from the then CPO and myself. I, and the CFO, have
+continuously raised the issue of governance and the need for improvement
+since that time.
+
+99. To progress the SEG accountabilities issue, the "GE Accountabilities and
+Internal Decision-Making Paper" was produced by the Company Secretary
+after I consulted the CEO and CFO. The paper, including the
+recommendations, went to the SEG in or around November 2022. In short it
+sought to set out and seek SEG approval of:
+
+Page 48 of 124
+
+
+
+=== Page 49 ===
+
+WITN09980600
+WITN09980600
+
+99.1 the revised SEG Terms of Reference;
+
+99.2 clarification of SEG accountabilities;
+
+99.3 the establishment of a SEG sub-committee being the Retail Board (together with the proposed Terms of Reference);
+
+99.4 the establishment of a SEG sub-committee being the Information Technology Board (together with the Terms of Reference); and
+
+99.5 the revised IDG (including its Terms of Reference).
+
+100. The SEG generally approved the recommendations contained within the paper, but further discussions ensued in relation to how the subcommittee would be formed and report to SEG and the Board.
+
+101. In assessing the adequacy of corporate governance, I note that there was an issue as to the reporting of the bonus metric that related to the Inquiry. RemCo (which I do not sit on) set and approved a description of a bonus target which was not reported accurately in the ARA specifically in the Remco Chair's statement. The Inquiry will be aware that Amanda Burton provided a report, and the Government Shareholder requested that Simmons & Simmons also provide a report in respect of the matter. POL accepted that the approach and process around metric and metric owners was flawed and there was a lack of guidance and support from Remco and the People team. It was also noted that metric owners did not exercise any decision making power in respect of
+
+Page 49 of 124
+
+
+
+=== Page 50 ===
+
+WITN09980600
+WITN09980600
+
+the design or decision making for the bonus scheme and specifically the
+Inquiry submetric. Subsequently, following the Board's approval to implement
+the recommendations in full, I directed:
+
+101.1 the Company Secretary to ensure that Amanda Burton's and Simmons &
+Simmons' reports and recommendations were implemented; and
+
+101.2 that a more robust process around the ARA be implemented to ensure matters
+like this do not occur again including broadening and clarifying with specificity
+the responsibility of the different parts of the ARA (and as a whole) as well as
+additional resource and external assurance.
+
+102. There is no longer any Inquiry related bonus metric.
+
+103. The likelihood of such breaches of governance or errors occurring again
+should be materially reduced if; (a) the enhanced controls are maintained; (b)
+sufficient resource is maintained; (c) the more collaborative and less siloed
+ways of working from the recent ARA continues; and (d) as well as internal
+and external assurance and attestations.
+
+104. In terms of the principles of fairness, accountability & responsibility, and
+transparency, I believe that whilst the ethical decision-making checklist,
+training and program has made a good start, I would continue to recommend
+the appointment of an Ethics Director or industry leader to support POL in
+designing and implementing best practice in this area.
+
+Page 50 of 124
+
+
+
+=== Page 51 ===
+
+WITN09980600
+WITN09980600
+
+105. In relation to enterprise or organisational governance, there have been some improvements, but I consider this requires substantial ongoing attention by the SEG and senior leaders to ensure it is adequate.
+
+106. There is not sufficient clarity around decision-making at the Board, SEG and organisational level – i.e. knowing which team is responsible for issues but also ensuring that where decision-making has been delegated to an Executive accountable business owner, that they have properly established decision-making forums to ensure effective and good decisions are made and that such material decisions are documented and reported back to the Executive and Board.
+
+107. For example, greater clarity around accountabilities is required in respect of the roles of the GC, the Company Secretary, Transformation and Strategic Director and more recently the Chief of Staff. This was repeatedly flagged.
+
+108. Moreover, some of the Board and SEG are not clear on the SEG accountabilities particularly in respect of Postmaster issues which sits within Retail. Postmaster investigations and the branch audit team sits within the Retail team. They do not sit in the Legal team and have never reported to me. People issues and investigations generally sits with the People team. The ACI and Legal teams support those teams. In my view, some of the Board and SEG did not understand or sought to blur the accountabilities and decision making.
+
+Page 51 of 124
+
+
+
+=== Page 52 ===
+
+WITN09980600
+WITN09980600
+
+109. Culturally even where Delegated Authorities clearly empower Senior Leaders, there is still a reluctance to take ownership and make decisions, instead referring them up to the SEG, which is not necessarily the best forum for all types of decisions. This then has an impact on progression and timing of delivery. Those closest to the detail and have the expertise should be able to make decisions (with oversight and appropriate assurance) within their delegated authority levels.
+
+110. It is also important that the Board, SEG and senior leaders have a reasonable understanding of the role and remit of the LCSAR teams and other support functions, such as the People team, and view them as strategic partners to the decision-making process.
+
+111. I raised issues to the CEO and SID around my temporary sponsorship role and including, specifically, the approach of the POL Inquiry team (in a number of respects, including disclosure). I was increasingly side-lined, not given access to information and certain meetings, my advice and recommendations not acted upon but when anything went wrong, I was left on paper as the accountable person when in reality I had little control over the RU and Inquiry.
+
+112. Having said all of the above, several improvements have been made in relation to organisational governance. For example, the reporting and management information provided by different business units was not always provided or was at best conducted on an ad hoc basis.
+
+Page 52 of 124
+
+
+
+=== Page 53 ===
+
+WITN09980600
+WITN09980600
+
+113. Following my advice, there is now a dashboard to ensure greater transparency of reporting on performance of the Retail and IT teams which specifically includes CIJ and HIJ issues set out in Lord Justice Fraser's findings. There is still more to do, but this is a significant improvement, and, for the first time, it provides the Board and SEG with oversight over these areas in respect of POL.
+
+114. There has also been some clarity around SEG accountabilities, but as above further improvement is required in respect of this, particularly in how issues intersect between Retail and other functions such as IT for Horizon issues or Commercial in respect of products and services. An agreed RACI would assist. This was flagged several years ago in the SEG accountabilities paper but has, to my understanding, not yet progressed for a number of reasons including prioritisation, funding, numerous restructures but I also think in part due a lack of strategic prioritisation of good governance.
+
+115. Within my area of control, by way of example, a Legal Policy has been introduced. This sets out the minimum operating standards relating to the management of the legal and regulatory risks and clarifies the roles and responsibilities of legal risk management throughout POL. It specifically references its purpose is to ensure, amongst other things, that lessons from Lord Justice Fraser's findings are embedded in the organisation, through the Legal team supporting the provision of training and advice on the GLO, CIJ, HIJ and Hamilton judgments.
+
+Page 53 of 124
+
+
+
+=== Page 54 ===
+
+WITN09980600
+WITN09980600
+
+116. There is also a new proposal checklist on the legal intranet that sets out issues and findings from the CIJ and HIJ to ensure that the inhouse team understands the GLO findings when advising upon a new contract, product, service or ways of working for Postmasters. This checklist contains not just the requirements of good faith, for example, which has been incorporated contractually, but also sets out culturally appropriate behaviours. For example, communications to Postmasters are to have a warm and supportive tone and are written free of legal jargon where possible.
+
+117. Moreover, I have directed that assurance be conducted over all areas of my responsibility including and specifically Speak Up.
+
+118. At a broader public policy level, the strategy needs to be clarified with greater transparency being sought as to POL's public purpose (given it is Government owned) and its commercial purpose in order to achieve effective strategic prioritisation and decision-making and therefore better governance.
+
+119. To be clear, the purposes are not always at odds; in fact, they can often work together effectively. Some former and current members of the Board and SEG have commented, however, that they have been appointed because of the commercial purpose and therefore are more focused on strategically prioritising matters that will achieve commercial sustainability rather than being more focused on operational improvements and risk management which is required legally and/or by its public purpose.
+
+Page 54 of 124
+
+
+
+=== Page 55 ===
+
+WITN09980600
+WITN09980600
+
+120. Moreover, I have challenged the Executive that they often prioritise cost management over quality and speed. I have given advice on managing public monies – that it does not equate to the cheapest provision of services but is defined by reference to outcomes. By way of example in terms of compensation, it would be fair and speedy compensation which is the desired outcome. The organisation then has to find cost effective ways to achieve that desired outcome. At times I felt that decision making was focused on what the budget can deliver rather than what ought to be delivered. This was particularly apparent in the NBIT approach but one of the lessons learnt from the Inquiry was that the approach in NBIT needed to be revisited.
+
+121. My view, which I have expressed to the Board, SEG and wider organisation many times and in a number of forums, is that POL:
+
+121.1 needs to view legal, regulatory and governance requirements (which includes foundational issues considered below) as a licence to trade or otherwise risk causing legal and regulatory non-conformance;
+
+121.2 needs to operate in a more cross-functional way of working rather than in silos; and
+
+121.3 more targeted assurance and audit is critically important in rebuilding trust in POL.
+
+122. By August 2022, I had reached the view that POL should make clear to the Government Shareholder Representative that it needed more
+
+Page 55 of 124
+
+
+
+=== Page 56 ===
+
+WITN09980600
+WITN09980600
+
+transformational funding, in order to improve foundational issues including
+data, risk management and governance. The former ARC Chair wrote to the
+Shareholder Representative in December 2022 outlining the implications to
+risk management. I have continued to raise it in the CEO report which goes to
+Board and also through RCC and ARC.
+
+123. I have been asked to set out my view as to whether I consider the level of
+attention being directed by (a) the POL Executive and (b) the POL Board to
+addressing the findings of Fraser LJ and/or following the evidence that has
+been heard in the Inquiry to be adequate.
+
+124. The POL Executive, the POL Board and senior leaders within POL have been
+focused on addressing the findings of Lord Justice Fraser and the evidence
+heard in the Inquiry.
+
+125. However, as noted above and below, sometimes the POL Board and SEG
+have not given sufficient prioritisation and resource to foundational issues
+such as data, governance and assurance, which in my view are part of the
+broad themes arising from Lord Justice Fraser's findings and the Inquiry. That
+is not to say that improvements have not be made in these areas. However,
+the POL Board and SEG operate within the funding given by the Government
+Shareholder. Consequently, other matters including commercial sustainability
+and cutting costs result in there not being enough resource within POL to focus
+on everything and sometimes this has meant that it has not addressed proper
+
+Page 56 of 124
+
+
+
+=== Page 57 ===
+
+WITN09980600
+WITN09980600
+
+risk management, including the findings of Lord Justice Fraser, as quickly as
+it could have.
+
+126. I have consistently raised that there is inadequate operational resources and
+support to address the findings of Lord Justice Fraser and ensure proper risk
+management within the BAU parts of the business. During my time as Group
+Legal Director and GC I have advised that the LCSAR functions require more
+resource and funding. To be clear, this is distinct from the GLO, RU, Inquiry
+and other programs where the funding for external lawyers follows a different
+process. The issue has been flagged to the Board via ARC in the Legal Risk
+Reports and to SEG. These areas have not been resourced adequately
+(despite requests) and therefore progress has been made more difficult. I
+recognise that this is an experience that is shared by many teams across the
+business, but POL needs to ensure that it has a “licence to trade” by complying
+with its legal, regulatory and governance obligations as expected of an
+organisation generally and especially as one owned by a Government
+Shareholder.
+
+127. In terms of attention, I would also note that the individual Board Directors’
+focus, priorities and required level of detail varied. Although constrained by
+resource, the POL Executive and the business have tried to adopt a more
+individualised approach to supporting each director on material Board matters.
+
+Page 57 of 124
+
+
+
+=== Page 58 ===
+
+WITN09980600
+WITN09980600
+
+128. I have been asked to set out any concerns I may have about my experience
+with (a) the POL Executive and (b) the POL Board and to provide details as
+to:
+
+129. Their behaviour and attitudes
+
+130. Generally, I believe there was and is a genuine desire by the POL Executive
+and the Board to remediate the issues that POL got wrong and to do things
+the right way. However, I have, at times, had concerns with the Executive's
+approach to legal and risk management, which can make it difficult for these
+teams to perform their role and in turn for the company to manage its legal
+and regulatory obligations. The attitudes sometimes expressed at the SEG
+demonstrate a lack of maturity or lack of knowledge of governance and risk
+management, including compliance and assurance. In order to bring about
+improvements, which I have recommended, such as the Retail and IT
+Dashboard which seeks to show CIJ and HIJ indicia in the current context
+(described above), the Executive required a lot of persuasion and time before
+adopting such recommendations. Consequently, there is a need for further
+development for SEG in respect of the above matters.
+
+131. Generally, I have found some of the Board to be more capable around risk
+management and governance.
+
+132. Their accountability
+
+Page 58 of 124
+
+
+
+=== Page 59 ===
+
+WITN09980600
+WITN09980600
+
+133. Despite the Delegated Authorities and that the role of the GC and the Legal team is to provide advice and are not empowered to make certain decisions, some Executives have not utilised or acted upon their accountability. As a result, from time to time, the LCASR function and myself has had to intervene, but this has caused confusion to some Executives and Board directors over accountabilities who have then thought that LCASR has become responsible for such matters. LCASR is and remains broadly a second line of defence or support function.
+
+134. Notwithstanding the above, and despite the Delegated Authorities and some clarification to SEG accountabilities, it is not always clear, as I have set out above, who is accountable for what. I have advised the CEO, SEG and Board of the need for improved clarification around accountabilities. Governance issues have been taken off the SEG agenda and / or delayed. The Grant Thornton report, which I (as GC) was not permitted to see for many months, required clarification over the Government Shareholder Representative's role and the Board's authority, which would be helpful in providing clarification as to accountabilities, but further work is required at the organisational level.
+
+135. Whilst there have been various restructures within the SEG and the SEG Terms of Reference have improved the position, there is still not complete clarity as to the responsibilities. My understanding is that this clarification sits with the current Chief of Staff (and has done for approximately a year). Before that it sat with the Transformation and Strategy Director. The SEG can only
+
+Page 59 of 124
+
+
+
+=== Page 60 ===
+
+WITN09980600
+WITN09980600
+
+be accountable for matters up to a certain value, which means that many
+material decisions go to the Board. This in turn means that, while it is important
+for the Board to have oversight, in reality the Board makes more decisions
+than it perhaps need to and consequently it acts as an Executive function.
+Greater clarification around the role of a Board and management should be
+addressed following the Grant Thorton review.
+
+136. The lack of clarity together with lack of understanding of existing governance
+documents including the organisational structure has caused confused to
+some Board and Executive members. By way of example, it is not always clear
+to some as to the role of support functions to accountable business areas or
+the difference between the different lines of defence.
+
+137. Cultural and behavioural challenges
+
+138. There are, at times, tense discussions which happen at the Board and
+Executive. I recognise the importance of the Board and SEG robustly testing
+and challenging responsible business owners as part of the decision-making
+process, but at times they may not always listen to or discuss the issues with
+the subject matter experts, and/or they may act based on incorrect
+assumptions. Sometimes they are not actually aware of the organisational
+structure and responsibilities.
+
+Page 60 of 124
+
+
+
+=== Page 61 ===
+
+WITN09980600
+WITN09980600
+
+139. More challenge in how SEG is run, including use of the Delegated Authorities, could be considered. This would allow SEG to focus on strategically material decisions.
+
+140. I would otherwise repeat the comments I have made above regarding prioritisation of costs management over quality outcomes and speed including the need to address foundational issues and risk management.
+
+141. Any concerns in relation to the attitude of specific individuals
+
+142. Henry Staunton. Working with the former Chairman was of particular concern given his leadership approach and specifically unprofessional behaviours and attitudes. By way of example, when I did not answer his questions pertaining to the identification of a whistleblower and specifically whether it was a SEG member, he accused me of not "being commercial". Moreover, when I would not make a particular investigation "go away" in which he was subsequently identified, he was very adversarial. I understand he also communicated a similar message to the Speak Up Board Champion, Amanda Burton, who spoke to the Government Shareholder Representative and myself about Mr Staunton. He also accused me of "just being POL's lawyer" and he alleged that I was not interested in helping any members of the Board or CEO. An investigation was carried out, overseen by the Government Shareholder Representative and Speak Up Board Champion. Findings were made by an external investigator about the Chairman's behaviour and attitudes.
+
+Page 61 of 124
+
+
+
+=== Page 62 ===
+
+WITN09980600
+WITN09980600
+
+Mr Staunton's approach as set out in his Project Pineapple email also reveals
+a lack of understanding of the organisational structure of POL but also a
+willingness to depart from due process.
+
+143. Nick Read. Although I generally found the CEO to have a genuine desire to
+do the right thing in that he did acknowledge the importance of Lord Justice
+Fraser's findings, my concern is that he did not sufficiently prioritise critical
+issues and make decisions that I (and others) escalated to him to make. Such
+examples included foundational issues of data, governance, lack of resource
+within my teams and Data and People issues, including the former Chairman's
+behaviour, details of which are above. As my line manager, he did not address
+the concerns that I raised regarding my temporary sponsorship and certain
+Inquiry matters. Various teams are "fire-fighting" on a continuous basis but
+without sufficient support from the CEO and CFO. I want to emphasise that
+the CEO role is incredibly difficult given the challenging context within which
+POL operates. It is necessary for him to balance many issues including
+running the current POL network. However, I did have to raise numerous
+issues over the years.
+
+144. Alistair Cameron. Understandably as a Board director and CFO, AC, is
+particularly costs conscious and robust in respect of cost management.
+However, his approach to cost management from time to time has overly
+influenced the approach taken by other Executives, including the former CIO
+in respect of the NBIT program, to the point that hitting a set number allocated
+
+Page 62 of 124
+
+
+
+=== Page 63 ===
+
+WITN09980600
+WITN09980600
+
+in a budget took priority over what was necessary to bring about the
+appropriate outcome. That said, AC did champion and flag many
+improvements to POL operationally and tested and challenged the Board and
+Government Shareholder particularly on RU matters on a number of
+occasions.
+
+POL Legal Department
+
+145. I have been asked to provide organisational charts showing the current
+structure, personnel and supervisory roles / responsibilities of POL's in-house
+legal department.
+
+146. I have exhibited a structure chart to my witness statement [POL00458047] (as
+at 1 September 2024).
+
+147. SG, as Group Legal Director, manages the Legal department and ACI. The
+Group Legal Director has a number of Heads of Legal and the Investigations
+Director reporting into her. The Group Legal Director reports to the GC.
+However, since I have been on leave effectively from April 2024, SG has been
+the Interim GC - BAU.
+
+148. I have been asked to set out the extent to which, if any, there has been a
+change in the structure of, roles and responsibilities of POL's in-house legal
+department.
+
+Page 63 of 124
+
+
+
+=== Page 64 ===
+
+WITN09980600
+WITN09980600
+
+149. Since the commencement of my role as GC (from 1 May 2019), a number of changes have occurred, most notably:
+
+149.1 a Group Legal Director (contractor) was appointed sometime after I was promoted to GC and was subsequently replaced by a permanent Group Legal Director, SG (who is now the Interim GC). Once appointed, SG reviewed the Legal team structure;
+
+149.2 around April 2020, the LCASR Operations Director was appointed;
+
+149.3 around mid-2020, the former Head of Legal – Dispute Resolution, Rodric Williams, moved out of the POL Legal Department and into the RU Director's program reporting initially to Declan Salter. Subsequently, he reported to DW, RU Legal Director, who was appointed in 2022. DW did not sit in the POL in-house Legal team but reported to the RU Director;
+
+149.4 following a review by KPMG into POL's Whistleblowing & Investigations processes, the Whistleblowing team was restructured so that it sat with a new role of the Head of ACI now ACI Director reporting into the Group Legal Director, SG. The ACI is a different team from the POL Legal team but does report to the Group Legal Director;
+
+149.5 during the time that I was temporary sponsor of the RU and Inquiry, SG had oversight over the Compliance team in addition to the Legal team. SG was eager to increase her experience in the role. The previous Heads of Legal for Retail and IT have both left the organisation;
+
+Page 64 of 124
+
+
+
+=== Page 65 ===
+
+WITN09980600
+WITN09980600
+
+149.6 Christian Spelzini, Head of Legal – Corporate, is the current interim Group Legal Director whilst SG is interim GC.
+
+150. Although not part of the POL Legal team, my understanding is that the RU Legal team continues to be managed separately by the RU Legal Director, Nicola Munden, who now reports to Simon Recaldin, the RU Director. Simon Recaldin reports to John Dillon, Interim GC – Inquiry and RU. Since I have been out of the organisation, I understand DW has left POL.
+
+151. I exhibit to my statement two further structure charts, in case helpful, for the Inquiry Legal Team [POL00458049] and the RU Legal Team [POL00458048] (both as at 1 September 2024).
+
+152. I understand that as of 1 September 2024, Anshu Mathur has been appointed Group Director of Assurance and Risk. As such, he will continue to be responsible for Assurance but also Compliance and Risk reporting to the Interim CFO, Preetha McCann.
+
+153. I have been asked to describe the extent to which, if any, there has been a change in the process by which legal advice is given to (a) the POL Executive, (b) the POL Board, and (c) the organisation more generally.
+
+154. When I joined POL, I noted that there was very limited established legal operations. During my role as both Group Legal Director and GC, significant improvement had been made to the provision of legal advice. The starting point in effective provision of legal advice to the Executive and the Board is
+
+Page 65 of 124
+
+
+
+=== Page 66 ===
+
+WITN09980600
+WITN09980600
+
+legal risk management, a subset of which is legal operations, which in turn
+ensures that the provision of legal risk management is effective (i.e., that the
+Board gets consistent advice in terms of content and methodology). I
+therefore discuss these changes first, in order to give important context to my
+answer.
+
+155. In relation to legal operations, as part of my role as both the Group Legal
+Director and GC, I have assisted in or directed that the following changes be
+implemented (all of which, ultimately, have an impact on the developing way
+in which legal advice is being given to the Board and Executive):
+
+Documentary
+
+155.1 The creation of a precedent database for external legal advice.
+
+155.2 The creation of a central repository of contracts.
+
+155.3 Standardisation of legal risk notes (internal, individual advice – to include
+probability and impact RAG (red, amber, green statuses) and executive
+summaries).
+
+Policy and Process
+
+155.4 The creation of a Contract Management Framework (which was rolled out to
+the business).
+
+Page 66 of 124
+
+
+
+=== Page 67 ===
+
+WITN09980600
+WITN09980600
+
+155.5 I directed that the CIJ and HIJ needed to be operationalised and complied with on an ongoing basis through a Controls Framework (which incorporated assurance and audits). Specifically, I drafted a template to be completed by the former Operations Director, Julie Thomas, together with the Head of Legal – Retail, Zoe Brauer, under the supervision of the Group Legal Director.
+
+155.6 The introduction of a Law Enforcement and Cooperation Policy and Legal Policy. These require that only the Legal in-house team obtains legal advice from external lawyers (rather than individuals throughout the business, outside of the Legal team), to ensure that the advice obtained identified the correct issues and questions that needed to be answered and that legal costs were being controlled effectively and were coordinated across the business. Before any policy can be implemented, they are approved through the RCC and ARC.
+
+155.7 Designing and implementing (and directing that they remain up to date) legal manuals of each area of the business (to establish a corporate memory, business continuity planning and business overview of the various legal areas – the chapters within the manuals would cover the broad scope of role, the relevant pieces of legislation and cases). I impressed the need for the legal operations to be maintained and up to date.
+
+155.8 Establishing a new legal cost management process (managing the costs of external lawyers). This would also show the time of in-house lawyers and where their focus needed to be.
+
+Page 67 of 124
+
+
+
+=== Page 68 ===
+
+WITN09980600
+WITN09980600
+
+Reports to the Board and Executive Committee
+
+155.9 Not only does the Board get legal advice annexed to agenda items where necessary, but every six months they receive an overarching legal view of legal and regulatory risk within the business via the bi-annual Legal Risk Report (an overview of legal risk management), which continues to be managed by the Group Legal Director and myself and reported through to the RCC (Executive subcommittee) and ARC (Board subcommittee). The Board has also reviewed and approved the legal risk appetite statements. The Executive, including senior management with delegated authority, are required to make decisions having regard to the Board's risk appetite. For example, POL has an adverse risk appetite in relation to legal and regulatory risks.
+
+155.10 The template for Board or Executive business papers was amended to specifically put in a subheading of 'Risk Management' to allow for the accountable business owners, supported by the relevant lawyers, to outline the legal and other risks to the business in respect of that matter. I have personally challenged presenters if they have presented a paper to SEG and that section had not been completed. I would also ask the presenter about the engagement they had received from my teams.
+
+155.11 The SEG receives a monthly report on FOIA and Investigations including Speak Up issues (equivalent to the Dashboards I recommended for Retail and IT).
+
+Page 68 of 124
+
+
+
+=== Page 69 ===
+
+WITN09980600
+WITN09980600
+
+155.12 UKGI and its legal team also have received various Board documents and
+copies of legal advice through the Government Shareholder Representative
+but also Terms of Reference for particular investigations.
+
+Maintaining standards
+
+155.13 A law and trends forum was created, which is a cross-functional forum
+identifying upcoming legislation and regulatory changes which impact the
+business, and which might require the business to make operational changes
+as a result.
+
+155.14 Ethics training and GLO training (which sets out what happened at POL, what
+went wrong, Lord Justice Fraser's findings and new operational and cultural
+improvements) has been rolled out to the Legal team. As mentioned above,
+an Ethical Decision Making Framework has also been rolled out to the
+business with the support of my teams.
+
+155.15 Following a team talk to the inhouse lawyers on 2 August 2023, all
+employment law contracts of POL lawyers were amended to formalise the
+position in respect of confidentiality, in particular where disclosures can and
+should be made, and an acknowledgement that they are regulated by the SRA
+or Bar Standards Board.
+
+155.16 The Board has received training on Corporate Governance. The Head of Legal
+– Corporate, Christian Spelzini, and the Group Legal Director (SG) produced
+the materials, and I reviewed them.
+
+Page 69 of 124
+
+
+
+=== Page 70 ===
+
+WITN09980600
+WITN09980600
+
+Legal Management Information and Reporting
+
+155.17 A dashboard (from Retail and IT) for the Executive and the Board – to include current KELS, errors and bugs was created.
+
+155.18 Investigations and Speak Up management information is provided to the Executive and Board.
+
+155.19 FOIA management information is also provided to the Executive and, where appropriate, to the Board.
+
+155.20 During my time as Group Legal Director, we created a monthly legal report which includes all substantive litigation matters. SG has continued to advise me and the CEO (including the Board through the CEO Executive Report) of material legal matters which includes a summary of the relevant legal position.
+
+155.21 In addition, and as I have referred to above, a bi-annual legal risk review and report, which I sponsor, is provided by the Group Legal Director, to the RCC and ARC. The RCC and ARC also receive updates on Law & Trends so that they can see how POL is identifying legislative and regulatory changes and operationalising those changes.
+
+155.22 An LCASR intranet page has been developed setting out an overview of the role and remit of LCASR. This sets out the vision, mission, and strategic alignment of the team.
+
+Page 70 of 124
+
+
+
+=== Page 71 ===
+
+WITN09980600
+WITN09980600
+
+155.23 The LCASR Academy provides communications on legal and regulatory updates.
+
+External lawyers and Assurance
+
+156. On material matters (projects) there has been a greater use of external lawyers and, where there is significant external lawyer involvement, the relevant external lawyer will be asked to attend Board and/or SEG meetings and speak to the advice and give the update directly. The substantive legal advice is provided to the Board and Executive in advance, in the relevant papers. On occasion, there will also be briefings before the meeting with relevant Board and Executive members. Before it goes to the Board it goes via the Executive on which the GC sits, and I would input where necessary.
+
+157. We have established greater assurance over the external lawyers' advice by, at times, instructing another firm to have oversight over the advice being given (by way of example, HSF gave oversight during the GLO over WBD, and we have done the same in respect of barristers also). Moreover, it is the role of the inhouse lawyers within the POL Legal team or within other programs such as the RU and Inquiry (who have their own legal teams) to oversee and test external legal advice, accepting that sometimes external lawyers are appointed because of their specialisation.
+
+158. As a direct consequence of the GLO, I considered that it was necessary to engage a third party to undertake factual assurance for material legal matters
+
+Page 71 of 124
+
+
+
+=== Page 72 ===
+
+WITN09980600
+WITN09980600
+
+and litigation, for example, the previous Corporate Governance review
+conducted by Pinsent Masons and Deloitte. In these examples, we have had
+a third-party check that business instructions as provided to the internal or
+external lawyers and/or Executive and/or Board are factually accurate. We
+have also done this in respect of other litigation.
+
+159. Given the limitations on budget and resource, we have created efficient ways
+in which to quality assure the legal advice being given. For example, a
+checklist including what should be considered in respect of the CIJ has been
+put together and circulated to the inhouse Legal team so that there was some
+added support and guidance to the team. Increasingly, the Legal and other
+teams should strategically adopt and employ legal technologies but again
+budget has not yet permitted this.
+
+160. All of this has led to a more coordinated, effective and efficient provision of
+legal advice and legal risk management, to the Board, Executive and
+organisation more generally.
+
+161. In terms of the provision of that legal advice more generally, where it is
+necessary for the Board or Executive to consider a piece of advice, the
+accountable business owner will attend the Board or Executive having
+engaged (pursuant to the above Legal Policy which was approved by the RCC
+and ARC) the Legal Department will support that accountable business owner
+to set out that risk and the related advice. Should the accountable business
+
+Page 72 of 124
+
+
+
+=== Page 73 ===
+
+WITN09980600
+WITN09980600
+
+owner wish for the relevant inhouse or external lawyer to attend the Board
+then they would do so.
+
+162. I have been asked to summarise the extent to which, if any, there has been a
+change in how POL obtains advice from, and the role played by (a) external
+law firms and (b) Counsel in providing legal advice to POL.
+
+163. As above, there have been changes in how external law firms are engaged
+(i.e., always via the Legal Department), and increased assurance over the
+instructions sent to them and the advice we receive from them. We cannot test
+this in respect of every instruction and piece of advice, but where it is
+proportionate and advisable we do so. One of the primary roles of the inhouse
+lawyer is to test and challenge the external advice. Due to the multiple sectors
+within which POL operates, POL's legal environment is complex and varied.
+The inhouse legal team has therefore retained subject matter experts in a
+number of many areas in which POL operates. The breadth and volume of
+legal matters is significant, and the inhouse legal resource is limited, external
+legal advice is therefore obtained as set out above and below, and we conduct
+assurance over that to the extent we are able to, which is improved from
+previous practice.
+
+164. POL now utilises the public procurement frameworks for the provision of
+external legal services rather than the previous publicly procured panel.
+
+Page 73 of 124
+
+
+
+=== Page 74 ===
+
+WITN09980600
+WITN09980600
+
+165. I have been asked to describe the process by and extent to which legal functions are (a) insourced, and (b) outsourced by POL.
+
+166. POL's legal and regulatory environment is complex and varied for the reasons given above.
+
+167. Prior to my commencement at POL, no Legal Policy or legal team operating manual existed. There was also no central list of legal matters across POL including those from external law firms. As outlined above, a legal operating charter and legal manuals were drafted so that the context within which POL managed its legal risk was understood and documented. Precedents were stored and reutilised where appropriate and contracts had a central repository.
+
+168. As GC I directed that a Legal Policy be drafted which was approved by SEG and the Board. In most cases POL's Legal team manages the appointment and instructions of external lawyers, however, where the accountable business owner does not have the requisite authority under the Delegated Authorities, the Board may be required to make the appointment. By way of illustration, the Board appointed HSF to act for POL in respect of the RU and the Inquiry. The POL Legal team discusses the legal resourcing needs with the relevant accountable business owner or team and facilitates the instruction of the relevant external lawyer.
+
+169. The POL Legal team utilises an industry standard (good practice) to allocate or determine whether a matter should be delivered through existing in-house
+
+Page 74 of 124
+
+
+
+=== Page 75 ===
+
+WITN09980600
+WITN09980600
+
+provision or sent to external lawyers. The factors relevant to that analysis
+include; (i) the complexity of the work; (ii) how 'standard' the work is or its
+repetition; (iii) whether it is a specialist area already covered in the inhouse
+team; (iv) the volume of the work; and (v) the cost models. This resource
+model was introduced when I was Group Legal Director, and I consulted with
+Gartner (formerly CEB) and other industry forums and publications in adopting
+this approach.
+
+170. If it is determined that the work should be outsourced, it is then about ensuring
+which external legal team would be the right choice for the work required, in
+terms of the nature of the work, their specialisms, their experience, and also
+the cost of the work with reference to what is required. POL lawyers are
+expected to liaise with their internal client.
+
+171. On complex matters e.g., the appointment of both the RU external lawyers
+and Inquiry external lawyers, that would be a decision, ultimately, for the Board
+given POL's Delegated Authorities, as mentioned above. If a matter is non-
+BAU, i.e. run through a change program, a similar process occurs and the
+relevant accountable business owner is to engage the Legal team and factors
+the legal resource model into their planning and budget requirements. Any
+cover by existing inhouse lawyers is expected to be backfilled.
+
+172. In practical terms, the Legal Policy requires that the accountable business
+owner engages the in-house legal team on legal issues and the in-house legal
+
+Page 75 of 124
+
+
+
+=== Page 76 ===
+
+WITN09980600
+WITN09980600
+
+team will advise the accountable business owner on whether it should stay in-
+house or be outsourced, with reference to the above.
+
+173. If the matter is to remain in-house, the accountable business owner will liaise
+with the relevant lawyer in the in-house legal team, for the provision of that
+advice.
+
+174. If external lawyers are to be engaged, the accountable business owner goes
+to the relevant in-house lawyer who supports them. The in-house lawyer
+should either communicate directly with the external lawyers or be copied into
+correspondence with external lawyers if the accountable business owner is
+liaising with them directly. The in-house lawyer might take the lead on the
+communications, depending on a number of factors, taking into account all of
+the circumstances and the complexity. It remains the role of the inhouse legal
+advisor to check the external legal advice.
+
+175. I have been asked to explain the process by which POL ensures that
+appropriately qualified and experienced external lawyers advise in respect of
+the matters for which they are retained. I have been asked to provide any
+relevant policy or guidance documents on this.
+
+176. POL uses the Crown Commercial Service's Legal Services Panel to procure
+legal services. It was set up for certain Public Bodies to access appropriately
+qualified and experienced law firms. The POL Legal team will review and
+consider the experience of the relevant law firm and lawyers and a decision
+
+Page 76 of 124
+
+
+
+=== Page 77 ===
+
+WITN09980600
+WITN09980600
+
+will be taken in terms of who is best to appoint, in conjunction with the internal
+client i.e. the accountable business owner.
+
+177. Depending on the materiality of the issue, for example, if the advice is
+estimated to go over a certain amount of fees, the external lawyer's instruction
+will need to go to the Board for approval.
+
+178. The instructions will then be drafted using POL's instruction template, the
+content of which is considered by both the in-house lawyer and accountable
+business owner. This process is set out in the legal operating charter.
+
+Conduct of Litigation
+
+179. I have been asked to explain the extent to which, if any, there has been a
+change in how POL manages and oversees new litigation.
+
+180. At the outset, one of the primary changes I have recommended to relevant
+senior leaders has been the manner in which disputes are managed. I have
+sought to ensure that the correct manner and approach was adopted by my
+team and the relevant accountable business owners. The Ethical Decision
+Making Framework helps illustrate how the relevant decision-making forums
+or accountable business owners should manage decision-making, including
+in relation to a potential dispute.
+
+181. For extensive, significant or otherwise material litigation, the POL accountable
+business owner is likely to be the Board and/or Executive. The legal team is
+
+Page 77 of 124
+
+
+
+=== Page 78 ===
+
+WITN09980600
+WITN09980600
+
+responsible for the provision of legal advice in respect of the litigation to the
+accountable business owner. It is not the role of the lawyer to decide the
+approach to be taken, including in relation to settlement, although advice and
+recommendations would be provided by the Legal team on these topics.
+There is assurance over the provision of legal advice (as referred to above),
+in terms of additional lawyers overseeing or quality checking existing lawyers'
+work and third-party assurance in respect of the business's instructions. This
+cannot be done in respect of all litigation, given the cost involved, this has to
+be utilised in a proportionate manner. In addition to this, there have been
+changes which I have outlined above relating to the way in which instructions
+are given and lawyers themselves instructed.
+
+182. Inhouse litigation lawyers are required to review the external advice to assess
+and consider it, wherever it goes within the organisation. Had more resource
+and BAU funding been available, I would have directed more quality
+assurance. The constraints of resource in the LCSAR and ACI teams has
+been articulated at Executive and Board level.
+
+183. Decisions that need to be taken in respect of litigation must follow the correct
+governance process and be taken by the correct decision making forum(s)
+which, depending on the circumstances, might well be the Board or a Board
+subcommittee (having been through the relevant Executive forum).
+
+184. In that situation, the relevant decision maker should have regard to the Ethical
+Decision Making Framework (as noted above) when making a decision. This
+
+Page 78 of 124
+
+
+
+=== Page 79 ===
+
+WITN09980600
+WITN09980600
+
+includes an assessment of whether the decision is legal, and if the individual
+is acting with integrity, fairness, and thinking inclusively. This process is to be
+used in all decisions being made at POL, including in relation to litigation.
+
+185. There has been far greater oversight and intervention by UKGI and the
+Government Shareholder during my time at POL. This oversight and
+intervention has increased (and continued to increase) during my tenure as
+GC.
+
+186. During the course of the Group Litigation, but increasingly through the post-
+GLO period, I had meetings with the UKGI GC, Richard Watson and
+subsequently Lucie Lambert, and Government Shareholder Representative.
+They have their own teams conducting oversight and assurance in respect of
+POL's material litigation, including the establishment of the compensation
+schemes in the RU. Naturally they have asked lots of questions and made
+extensive requests for information as well as appointing external lawyers to
+assist them with this oversight.
+
+187. As I briefly highlighted above, in respect of other material litigation, enhanced
+legal assurance and advice was obtained. For example, we have sought an
+additional KC opinion in respect of significant litigation to provide comfort to
+the Board and the Government Shareholder, in respect of the advice of the
+existing KC. My rationale for this was; (a) to obtain assurance; and (b) avoid
+any potential group think or bias. UKGI and the Government Shareholder also
+
+Page 79 of 124
+
+
+
+=== Page 80 ===
+
+WITN09980600
+WITN09980600
+
+have their own requirements and assurance to perform in respect of POL in
+relation to such matters.
+
+188. There is also increased review and assessment of advice. As may be noted
+from the Board and Executive minutes, particularly in relation to the legal
+matters, greater challenge and oversight has been undertaken by the
+Executive and Board. The failings of the Group Litigation have enabled
+accountable business owners or relevant decision-making forums such as
+SEG and the Board to be more demanding and challenging of legal advice
+which is entirely understandable and appropriate. There is a new Head of
+Legal for Litigation, Kirsty O'Connor, overseeing the BAU litigation.
+
+189. As noted above, there is also increased reporting to the Board, through the bi-
+annual legal risk report (which includes an overview of material litigation risk).
+Disclosures made in the ARA are also reviewed and assured, as referred to
+above.
+
+190. I have been asked to describe the process by which I inform (about new
+litigation):
+
+a) the POL Executive;
+
+191. To give a practical example, if the business receives a claim form, this will go
+to the Legal team and then to the accountable business owner. As a result of
+claims not always being served on Head Office, a Service of Claims Protocol
+
+Page 80 of 124
+
+
+
+=== Page 81 ===
+
+WITN09980600
+WITN09980600
+
+was developed by the former Head of Legal – Dispute Resolution (Rodric Williams) under my supervision.
+
+192. Depending on the circumstances, including the claim’s potential implications and its anticipated value, it may then go to the SEG, through a SEG paper (which the accountable business owner would produce with input from the Legal Department). Updates will be given in the same way as the claim progresses. Internal advice and/or external advice would be included. The GC will see what goes to the SEG (but would also be aware of the matter from the monthly CEO report). Depending on the nature of the claim, it may well then be passed to the Board. What goes to the Board depends on materiality of the claim.
+
+193. Accountable business owners have delegated authority up to a certain amount. The CEO has delegated authority beyond that, and then it would be necessary for the Board to be informed. Whilst potential cost implications are a factor, there are other considerations too, such as potential reputational impact. It could be, therefore, that the claim may not be material from a financial perspective, but there are other material factors which mean it needs to be escalated.
+
+194. In terms of ongoing reporting and updates on the status of the litigation, it is for the accountable business owner and lawyer to keep the GE, or indeed the Board, as up to date as necessary.
+
+Page 81 of 124
+
+
+
+=== Page 82 ===
+
+WITN09980600
+WITN09980600
+
+b) the POL Board;
+
+195. I have considered this above. There is great consistency between what the SEG sees and what the Board ultimately sees. The Board report may be revised in light of the different audience and their different focus.
+
+196. the Department for Business and Trade; and
+
+197. UK Government Investments
+
+198. I have addressed the DBT and UKGI together, for reasons that will become apparent.
+
+199. The Government Shareholder Representative, who is a UKGI representative, sits on the Board. I refer to paragraph 59 of my Fourth Witness Statement about the role of the Government Shareholder. They become aware of material litigation matters by virtue of the Board reports which will include legal risk notes from the POL legal team. In addition, I would make myself available to discuss with the Government Shareholder Representative any legal, regulatory or governance issue if I am asked to do so. It is the role of the Government Shareholder Representative to keep the Government Shareholder updated on such matters.
+
+200. There is also a quarterly Government Shareholder meeting where POL reports on issues including material legal matters (such as key litigation). A report is prepared by POL in advance of this meeting, which is sent to the UKGI and
+
+Page 82 of 124
+
+
+
+=== Page 83 ===
+
+WITN09980600
+WITN09980600
+
+Government Shareholder. There are numerous representatives from UKGI
+and the Government Shareholder at that meeting and they would be aware
+and engaged in the issues prior to receipt of the report.
+
+201. On material matters, we also have frequent, separate meetings, where POL
+and UKGI and Government Shareholder representatives can discuss matters
+of strategic importance including, by way of example, assurance over litigation
+and oversight generally.
+
+202. Legal advisers instructed by the relevant parties may attend the above ad hoc
+meetings and the quarterly Government Shareholder meetings as necessary.
+
+203. I have had frequent contact with the UKGI GC. They would be invited to POL
+meetings as above to maintain oversight and I would also have one-to-one
+meetings with them. They would hear external legal advice directly, by virtue
+of those meetings. In addition, they would also receive legal advice as part of
+those meetings. We have put in place a litigation protocol so that POL can put
+controls around the use of that advice so that legal professional privilege is
+maintained where possible (through common interest privilege).
+
+204. Consequently, there was increasing oversight of the Group litigation and
+especially during the post-GLO program, which included an operating
+agreement between POL, UKGI and the Government Shareholder in respect
+of compensation issues.
+
+Page 83 of 124
+
+
+
+=== Page 84 ===
+
+WITN09980600
+WITN09980600
+
+205. I understand that UKGI and the Government Shareholder had a number of their own lawyers, including external lawyers, working on POL's key litigation, such as the GLO and the post-GLO program. An overview of investigations was provided to UKGI and the Department for Business and Trade (DBAT) but the ACI Director together with the Board Investigations Champion.
+
+206. I have been asked to set out POL's current document management protocols for obtaining, retaining and preserving material within its control when litigation is anticipated or ongoing relevant to the matters being investigated by the Inquiry.
+
+207. This process is contained within the Litigation Legal Manual and Document Retention Policy.
+
+208. The POL Head of Legal for Dispute Resolution maintains a register for all the active litigation holds in the business at any time.
+
+209. The Litigation Manual notes Paragraph 7 of Practice Direction 31B of the Civil Procedure Rules (the CPRs) requires that "As soon as litigation is contemplated, the parties' legal representatives must notify their clients of the need to preserve disclosable documents. The documents to be preserved include Electronic Documents which would otherwise by deleted in accordance with a document retention policy or otherwise deleted in the ordinary course of business." (a "A Litigation Hold Notice"). The Litigation manual also refers to the types of Electronic Documents as defined in
+
+Page 84 of 124
+
+
+
+=== Page 85 ===
+
+WITN09980600
+WITN09980600
+
+paragraph 5(3) of the Practice Direction 31B. The Litigation Manual sets out
+the rules in respect of document retention where litigation is in reasonable
+contemplation including that such documents must be retained and any
+automatic deleting/archiving systems should be suspended until further
+notice; also ensuring that any new joiners receive the notice of the documents,
+and any documents relevant to POL's case, including those which are
+potentially adverse, must be kept.
+
+210. The Documentation Retention Policy refers to the roles and responsibilities of
+the interim Data Director, Chris Russell (who reports into the CIO, Andy Nice)
+and others in respect of data retention, the risks around inappropriate or
+unauthorised deletion of data, the control environment and the Executive and
+Board committee responsibilities.
+
+211. In or around the time I became temporary sponsor of the Inquiry, it came to
+my attention that a legal hold notice had not been issued in respect of the
+Inquiry. In September 2021, a document preservation notice was issued
+across the organisation in my name. The GLO document preservation notice
+remains in place. Further communications reminding the business to continue
+to comply with the GLO, RU and Inquiry holds have been sent to the business.
+
+212. The work pertaining to the Inquiry revealed that the data universe at POL was
+unclear, and as a consequence this was raised through the RCC and ARC.
+
+Page 85 of 124
+
+
+
+=== Page 86 ===
+
+WITN09980600
+WITN09980600
+
+213. For context, each business area is accountable for the management of its own data and ensuring that it complies with POL's policies and controls (for example, POL's Document Retention Policy). It has not always been clear who owned data management at the SEG level, albeit generally it sat with the CIO and subsequently with the Strategy Director. It now sits with the Interim Data Management Director who has overall accountability to the Board for the design and implementation of controls to ensure that the Group complies with its legal obligations and business requirements.
+
+214. I formally raised several times that POL needed to effectively manage its historical data / data universe. This was flagged to the Board and Executive and specifically with the ARC chairs, CEO and the SID. This was also raised through the risk register at RCC and ARC.
+
+215. I supported the business, in particular the CIO function, in obtaining a better understanding of what POL's data universe is. This resulted in further disclosure to the Inquiry and a greater understanding of what data POL holds and where it is held so that in any future litigation POL can have proper regard to its data universe.
+
+216. I have been asked to provide the details of any policies, guidance, training or instructions given to those responsible for conducting litigation on behalf of POL relevant to the matters being investigated by the Inquiry.
+
+Page 86 of 124
+
+
+
+=== Page 87 ===
+
+WITN09980600
+WITN09980600
+
+217. It is the role of the Group Legal Director and Head of Legal – Dispute Resolution to support the business to manage litigation. There is a Legal Policy and Litigation Manual which I have directed that they keep up to date. I refer to this earlier in my statement. Training has also been provided on litigation issues through external law firms and the LCASR academy. FAQs were also developed by the Head of Legal – Dispute Resolution. As part of supporting our SRA obligations, each POL solicitor has a personal development plan which the Group Legal Director oversees.
+
+218. Whilst I was Group Legal Director, I established an LCASR Academy (which I have previously referred to) which provides training on legal and regulatory issues to both inhouse lawyers but also POL business colleagues. The Legal team also provides bespoke training to business colleagues and business decision making forums such as the Board. By way of example, the Board and Executive have been provided with various training. SG has maintained this legal control via the LCASR Academy.
+
+219. There are a number of other relevant policies and procedures:
+
+219.1 The Code of Business Policy which includes a number of controls such as the Ethical Decision Making Framework;
+
+219.2 The Investigations Policy, which details how matters are investigated at POL, including control measures;
+
+Page 87 of 124
+
+
+
+=== Page 88 ===
+
+WITN09980600
+WITN09980600
+
+219.3 The Law Enforcement and Cooperation Policy which introduces an internal prevention on POL undertaking private prosecutions without Government Shareholder Consent; and
+
+219.4 The Speak Up Policy.
+
+220. There is a significant amount of training undertaken at POL of relevance to the litigation lawyers, including GLO training on the lessons learnt from the Group Litigation and also training on ethics to the legal team as noted above. There is also:
+
+220.1 legal updates to inhouse lawyers;
+
+220.2 training from panel law firms; and
+
+220.3 the Legal team does legal newsletters through the LCASR Academy to the business.
+
+Organisational culture
+
+221. I have been asked to describe the current culture at POL Executive and POL Board level, identifying any key individuals who shape or influence that culture.
+
+222. I have been on leave since 10 June 2024 and cannot comment about events since that date.
+
+223. Generally speaking, the POL Board and Executive have a genuine desire to ensure that things are done right, pragmatically, and collaboratively. Since the
+
+Page 88 of 124
+
+
+
+=== Page 89 ===
+
+WITN09980600
+WITN09980600
+
+conclusion of the Group Litigation and the development of the GLO program,
+POL has sought to address the wrongs of the past. The culture at the POL
+Executive and Board level has been especially challenging over the last 18
+months. The organisation has been under intense strain for a protracted
+period, including in relation to the issues that the Inquiry is investigating, the
+ongoing management of one of Europe's largest retail networks, and the
+changes to consumer practices, as well as POL's position in the market and
+the need for further investment in technology. In addition, continuous turnover
+of personnel including at the Board and the Executive has made the work
+environment challenging. At times, the over personalisation of issues has
+distracted from objective problem solving and collaborative working.
+Sometimes I have been concerned that perspectives are not necessarily
+evidence or fact based or brought about by due process but rather
+assumptions, immediate reactions without reflection, or prioritising areas of
+focus when Board members should look at matters through a broader lens.
+Conversely (in contrast to immediate reactions), there have been times when
+decision making has become paralysed. I have felt at times that some decision
+makers who are empowered to make decisions have not taken responsibility
+for matters within their remit.
+
+224. The Board, including the Chairperson, Postmaster NEDs, SID/Investigation
+Board Champion & RU Chair, Speak Up Board Champion, Government
+Shareholder Representative and the CEO and CFO, in addition to senior
+
+Page 89 of 124
+
+
+
+=== Page 90 ===
+
+WITN09980600
+WITN09980600
+
+leaders, obviously play a critical role in how that culture develops, continues,
+changes or evolves. Some areas of the business have more influence on
+POL's culture than others. The Retail team is the largest team at POL and is
+responsible for the relationship with Postmasters and network operations. The
+People team lead the cultural reform at POL, but all employees (including
+LCASR) have a responsibility to shift the culture in the right direction. I hope
+that training in the GLO, Speak Up, and the Ethical Decision Making
+Framework helps support the cultural transformation across the POL
+business.
+
+225. In addition to running POL in a challenging commercial environment, the POL
+organisation has come under significant scrutiny and criticism which has had
+an impact on culture.
+
+226. Although there has been some improvement, there have been a number of
+Chief People Officers (CPOs) appointed over recent years, which has resulted
+in cultural change not happening at the pace it ought to. I am aware that it is
+a priority for the CPO, Karen McEwan.
+
+227. I have been asked what the POL Executive and POL Board's relationship with
+SPMs is like now. I have been asked to set out how the relationship has
+changed since I have been GC and to provide my reflections on (a) what has
+improved and (b) what could be better.
+
+Page 90 of 124
+
+
+
+=== Page 91 ===
+
+WITN09980600
+WITN09980600
+
+228. My view is that there has been improvement in understanding the issues that Postmasters face with a view to strengthening the relationship between POL and Postmasters. The appointment of Postmaster NEDs on the Board illustrates POL's desire to ensure that the Postmaster voice is heard by the Board, so that when it is addressing issues, it can do so with an understanding of what the concerns, issues and priorities of the Postmasters are. POL has rolled out mandatory GLO training for all employees so that everyone understands and appreciates the history of the matter, underscoring the importance of Postmasters to POL. There is separate training on the impact on Postmasters from the GLO, and root cause failures.
+
+229. There are various initiatives to support the cultural change through senior leaders engaging with Postmasters. A key part of this is asking Postmasters for feedback about what can be improved. Employees then report the feedback back to the Retail team and Area Managers who assess the themes flowing from that feedback such that this can inform the Board and Executive's decision making. There are also Postmaster engagement evenings, which I have attended, where questions can be asked by Postmasters directly to the Executives.
+
+230. My view is that the relationship has improved in some respects, but it requires ongoing focus and investment by POL. Postmaster remuneration remains the number one priority as it has been for several years. Tools such as the
+
+Page 91 of 124
+
+
+
+=== Page 92 ===
+
+WITN09980600
+WITN09980600
+
+Postmaster engagement survey help with the continued assessment of the
+relationship.
+
+231. In terms of improvement, POL should give thought to creating more
+Postmaster forums which represent the different types of Post Office
+branches, in addition to the Postmaster NEDs on the Board. This would assist
+the business in understanding the varying perspectives of different
+Postmasters. Involving Postmasters in existing decision-making forums would
+also be helpful. Accountable business owners also need to ensure that they
+are mindful of the Postmaster perspective when making decisions or
+recommendations to the Board and Executive. This is now embedded into the
+Ethical Decision Making Framework, but it would be beneficial to have
+Postmasters ‘in the room’ with accountable business owners giving direct
+feedback.
+
+232. The Retail team has demonstrated willingness but has found it challenging to
+make the changes required in a timely manner. Over the last 18 months, POL
+would have benefited from a COO to help the CEO – Retail, Martin Roberts,
+drive this forward.
+
+233. I have been asked to summarise my understanding and experience of the POL
+Executive and POL Board's relationship with key relevant external
+stakeholders, such as the National Federation of SubPostmasters (NFSP),
+Communications and Workers Union (CWU), Fujitsu, UK Government
+Investments (UKGI) and the Department for Business and Trade (DBT).
+
+Page 92 of 124
+
+
+
+=== Page 93 ===
+
+WITN09980600
+WITN09980600
+
+234. In relation to the NFSP, the relationship is governed by a long-term contract, which sets out the exclusivity of the relationship and the genuine desire of POL to communicate, collaborate and engage with the NFSP who represent Postmasters, to ensure it gains a better understanding of Postmaster issues and solutions. The Chairman, CEO and CEO - Retail are principally responsible for the relationship between POL and the NFSP. The POL Legal team and specifically the Head of Legal – Retail supports the CEO – Retail in this respect.
+
+235. In terms of the CWU, amongst other things, this relationship is focused on negotiations in relation to pay awards. My perception is that there is a genuine desire on the part of POL to do as much as can be done in relation to pay awards whilst having regard to the financial limits of the company. The CPO runs the negotiation in relation to pay awards and reports and updates the Executive and the Board on this matter and including in relation to other industrial matters. The POL Legal team and specifically the Head of Legal – HR & IR (Industrial Relations), Laurence O’Neil, has from time to time supported the CPO and Industrial Relations Director, Lee Kelly, in these discussions.
+
+236. Regarding Fujitsu, as one might expect given the history, I understand that the accountable Executives for the relationship with Fujitsu, the CIOs, have expressed concern about the strained relationship between POL and Fujitsu and have communicated this to the POL Board, UKGI and the Government
+
+Page 93 of 124
+
+
+
+=== Page 94 ===
+
+WITN09980600
+WITN09980600
+
+Shareholder. I would describe it as a formal relationship. The Head of Legal –
+IT & Procurement, Sarah Clayton, supports the CIO and IT team.
+
+237. In terms of UKGI, the relationship has developed over the last few years.
+There has been increased oversight as I have explained. This development in
+the relationship has, at times, impacted the speed at which things are
+delivered (as highlighted at paragraphs 63 and 64 of my Fourth Witness
+Statement in relation to compensation). In the post-GLO period, both the
+Government Shareholder and UKGI have not only significantly increased their
+oversight over POL but have also directly been involved in the management
+of the post-GLO program, particularly compensation, given the operational
+agreements and approvals regarding compensation principles were required
+from them. This additional oversight has contributed to the delay in
+compensation. Whilst I appreciate that the Government Shareholder and
+UKGI must follow their operational processes, concerns regarding delay were
+expressed on a number of occasions. POL advised DBT and UKGI that their
+approach was delaying compensation with the impact ultimately on the
+Postmasters.
+
+238. My understanding is that some of the Executive and the Board had at times a
+challenging relationship with UKGI and the Government Shareholder because
+of their perception that they were encroaching on the independence of the
+POL Board. This is a byproduct of the cross section of the Government
+process in relation to a Government owned company - which is different and
+
+Page 94 of 124
+
+
+
+=== Page 95 ===
+
+WITN09980600
+WITN09980600
+
+separate – to a commercially operating entity. The Shareholder Framework
+Agreement implemented after the Group Litigation formally sets out the nature
+of the relationship and roles and responsibilities of the three entities: POL,
+UKGI and the Government Shareholder. This was a helpful clarification but,
+as I understand the Grant Thornton review demonstrates, more work is
+required in this area.
+
+239. I have been asked to set out my reflections as to the ways in which the culture
+has or has not changed following the findings of Fraser LJ and/or following the
+evidence that has been heard in the Inquiry.
+
+240. There are a number of fundamental changes that speak to culture, following
+the findings of Lord Justice Fraser and the evidence that has been heard in
+the Inquiry, as I have set out above.
+
+241. I would emphasise that generally it is better understood that investigations
+need to be undertaken with regard to industry good practice and ethics, with
+reference to enhanced organisational controls such as the new Code of
+Business and the Speak Up Policy.
+
+242. Importantly, there has been a direction, in accordance with the Code of
+Business, to apply that ethical approach (as detailed above) to all decision
+making throughout the business.
+
+243. Also, there has been a general shift in encouraging greater reflection and
+applying scrutiny to decisions through assurance, although much further work
+
+Page 95 of 124
+
+
+
+=== Page 96 ===
+
+WITN09980600
+WITN09980600
+
+and resource is required in this area. The new leadership behaviours and
+values including specifically to "Be Curious" is also a helpful cultural
+development.
+
+244. In addition, there is a need to pay great care and attention to potential
+whistleblowing, in accordance with the new Speak Up Policy and
+whistleblowing procedures, which I cover in more detail below.
+
+244.1 There have been significant changes to operational processes to be CIJ
+compliant and working through the HIJ. Tracey Marshall (Retail Director), Mel
+Parker (Retail Director), and Simon Oldham (IT Director) are best placed as
+the accountable senior leaders to give further detail regarding these
+processes.
+
+244.2 I have referred previously in this statement to strategic prioritisation and other
+improvements which could be made.
+
+244.3 As temporary sponsor of the Inquiry program, and as outlined above, I
+recommended that POL senior leaders, including Board members attend the
+Inquiry from time to time, in addition to the communications they received from
+the Inquiry team, to better understand the issues arising from the Inquiry. I am
+aware of a number of those senior leaders reflecting and improving POL's
+controls, policies and/or processes as a result of what they heard at the
+Inquiry. In addition, and as also mentioned above, during my period as
+temporary sponsor of the Inquiry program, I required a response tracker that
+
+Page 96 of 124
+
+
+
+=== Page 97 ===
+
+WITN09980600
+WITN09980600
+
+listed all matters to be sent to the accountable business owners for reflection
+and action.
+
+245. I have been asked to explain the steps I have personally taken, if any, to
+influence and implement cultural change within: (a) the POL legal department,
+(b) the POL Executive and the POL Board, and (c) the organisation more
+generally.
+
+246. There are certain matters that I am not able to discuss given the reasons set
+out in paragraph 6 above.
+
+247. As part of my personal values regarding the importance of education and
+continuous improvement, I have encouraged a continuous improvement ethos
+and compliance with the law and due process in my own areas of responsibility
+but also across the business. In respect of myself, I have sought to
+continuously learn and improve my approach as evidenced through a number
+of undertakings including; (a) personal development coaching; (b) I undertook
+an ICSA Corporate Governance course; (c) I obtained, reviewed and
+considered EYR and Mid-Year Feedback; (d) I undertook the Oxford Strategic
+Management Executive Program; (e) I have attended various Postmaster
+engagement initiatives.
+
+248. In terms of the POL Legal department:
+
+248.1 I have covered a number of the changes above including changes to the
+operations of the team. I would also note, as referenced above, the provision
+
+Page 97 of 124
+
+
+
+=== Page 98 ===
+
+WITN09980600
+WITN09980600
+
+of feedback to key individuals including the Group Legal Director, ACI Director,
+RU Director and Inquiry Director.
+
+248.2 I have continuously advocated publicly and directly to the Legal team as well
+as my other teams of the need for POL to be compliant with Lord Justice
+Fraser's findings as well as in all respects of the law. I have directed my direct
+reports to ensure that this compliance with legal and regulatory requirements
+is seen as mandatory and as part of their SRA duties through multiple training
+sessions and personal development plans of lawyers in the POL Legal team.
+
+248.3 I have directed reviews and improvements to my areas of responsibility, as
+well as to other parts of the POL business. For example, the improvements
+made to the Speak Up process (considered below), assurance and
+investigations (considered above).
+
+248.4 I have encouraged that subject matter experts and/or individuals with specific
+specialisms are appointed to the correct roles, and be empowered to perform
+their roles with autonomy, with appropriate oversight.
+
+248.5 The corollary of the former, is that a dedicated whistleblowing champion and
+an ACI Director (who is experienced in conducting investigations) have been
+appointed, following the Board's approval.
+
+248.6 I have given extensive advice throughout the business in relation to CIJ and
+HIJ conformance, and general legal risk management.
+
+Page 98 of 124
+
+
+
+=== Page 99 ===
+
+WITN09980600
+WITN09980600
+
+248.7 For example, I have given directions to the CEO and Company Secretary on governance including the need for greater clarification on accountabilities and decision-making forums, Management Information and reporting. I have also tried to assist on governance issues (specifically reporting and oversight) including the provision of Dashboards from the Retail and IT teams (and the ACI team) as well as offering any support to the Chief of Staff if she requires support or advice.
+
+249. In terms of the POL Executive and Board:
+
+249.1 The changes I have implemented during my time in the Legal department have almost all had the direct or consequential impact of seeking to improve culture, in relation to the Executive and the Board.
+
+249.2 I have challenged the business, informing and encouraging my legal team to also challenge accountable business owners if they have concerns about the approach being taken, or if it potentially falls outside of the Board Risk Appetite.
+
+249.3 By way of illustrating the support I have given, I have participated in the development of leadership behaviours and sent the CEO and former CPO the Government report entitled "Leading in Practice" by the committee on Standards in Public Life, which focuses on the role of leadership in embedding an ethical culture in organisations, which I considered ought to be incorporated at POL.
+
+Page 99 of 124
+
+
+
+=== Page 100 ===
+
+WITN09980600
+WITN09980600
+
+249.4 I have challenged Board decisions, such as the decision to recover Outstanding Balances, which was inconsistent with Lord Justice Fraser's findings. The Board subsequently reversed the decision. I repeatedly raised concerns in respect of the delay in remediating compensation (with the Board and others including the Government Shareholder, UKGI and external lawyers (as well as the internal RU team)) and provided advice regarding the same, which I understand remains privileged. In addition I repeatedly challenged operational processes as a result of Lord Justice Fraser's findings.
+
+249.5 I have given feedback in the Board evaluation survey, particularly concerning matters of governance and the relationship between the Government Shareholder and the Board.
+
+250. In terms of the organisation more generally this is demonstrated through:
+
+250.1 my strong advocacy for compliance with the law generally, specifically, the need for CIJ and HIJ conformance both operationally and culturally and that conformance with the law should be seen as mandatory. A culture that enshrines Fraser J's findings;
+
+250.2 my direction for assurance over LCASR, the Inquiry, the RU and business functions;
+
+250.3 I have also directed and provided extensive advice and recommendations to improve the culture of POL in terms of improvements to policies and procedures (i.e., the controls) as referred to above (and several other
+
+Page 100 of 124
+
+
+
+=== Page 101 ===
+
+WITN09980600
+WITN09980600
+
+amendments to the legal approach generally as outlined) and emphasising
+leadership behaviours;
+
+250.4 I have also advocated, directed and advised on governance, RACI and
+resource but also putting in place the right structures (e.g the ACI);
+
+250.5 I have given honest challenge and constructive feedback to the Board, SEG,
+and senior leaders, including my direct reports on various topics including, by
+way of example, data, governance, risk management generally, legal and
+regulatory risks, need for assurance and controls framework, as well as for
+improvements to the way investigations are conducted (starting with the
+KPMG review I refer to above which I directed be undertaken);
+
+250.6 my advice in respect of issues which have been referenced in the recent Code
+of Business Conduct and Ethical Decision Making Framework is an example
+of how I have tried to implement cultural change. Likewise, the significant
+amendments I have made to the Speak Up Policy procedures including the
+report to SEG and Board through the Board Champion. I have been clear as
+to where our standards should be from an integrity perspective, in terms of
+how we conduct ourselves throughout the business;
+
+250.7 increased communications have been issued about various matters, including
+Speak Up;
+
+250.8 breaking down siloed working between Retail and IT but also within my own
+team and within other teams that we support;
+
+Page 101 of 124
+
+
+
+=== Page 102 ===
+
+WITN09980600
+WITN09980600
+
+250.9 furthermore, we have linked the undertaking of compliance training to employees' objectives and their performance reviews so that POL creates a culture of compliance with Lord Justice Fraser's findings and, I would hope in due course, the Inquiry's findings; and
+
+250.10 as noted above, through my and my team's personal encouragement to have the Board, Executive and other senior leaders attend the Inquiry and hear pertinent evidence, including the Human Impact phases, accountable business owners have made improvements to existing policies and procedures.
+
+251. I have been asked to summarise the extent to which (a) I, (b) the POL legal department, and (c) the POL Executive and the POL Board, evaluate their own culture and address any issues.
+
+252. I have reflected on my own values and culture throughout my time at POL. The value of embracing lifelong learning and continuous improvement is reflected in my leadership approach.
+
+253. I, like other SEG and senior leaders, all receive mid-year and annual 360 feedback. Even before this was introduced, I would obtain feedback from my direct reports.
+
+254. There is also an annual employee engagement survey. I have directed a LCASR response plan to the engagement survey which employees complete annually so that feedback can be acted upon.
+
+Page 102 of 124
+
+
+
+=== Page 103 ===
+
+WITN09980600
+WITN09980600
+
+255. I have also received coaching and engaged with other GCs as well as reflecting on industry, academic and media publications. I have reflected on external commentary, considered it and, where appropriate, implemented or recommended changes.
+
+256. Moreover, in respect of myself, I have sought to continuously develop and improve my approach as evidenced through a number of undertakings as referred to above.
+
+257. Whilst each of the directors of LCASR are responsible for the culture within their teams, I have obtained feedback from the business, Board and senior leaders regarding LCASR which I have discussed with them. This has been throughout the year but also in mid-year and end of year reviews.
+
+258. I have also supported my direct reports in relation to their personal development. To this end, I have facilitated external support e.g. coaching, where I considered it would be helpful.
+
+259. The POL Board has annual reviews coordinated through the Company Secretariat function which I have fed into. Every third year an external assessor evaluates the Board's effectiveness. I do not receive the board evaluation report.
+
+260. As referred to above, a review was undertaken by Grant Thornton, which I suggested be done and fed into.
+
+Page 103 of 124
+
+
+
+=== Page 104 ===
+
+WITN09980600
+WITN09980600
+
+Whistleblowing
+
+261. I have been asked to set out my reflections as to the adequacy and effectiveness of POL's current whistleblowing policies and procedures.
+
+262. In summary, significant improvements have been made over several years which have resulted in improving the adequacy and effectiveness of POL's Speak Up policies and procedures following Lord Justice Fraser's findings. I have continued to recommend that the ACI team (which encompasses Speak Up) should receive more resource to undertake their specialised work efficiently and build on the progress to date.
+
+263. For clarity, Speak Up matters as defined in the Speak Up Policy are currently managed by the Whistleblowing Officer, within the ACI team, led by the ACI Director, reporting into the Group Legal Director and ultimately me. Speak Up investigations are different from grievances or conduct investigations which are managed under two separate policies, namely the Dignity at Work Policy and Grievance Policy, which are sponsored by the People team. As noted above, the People team are responsible for the management of people issues and grievance investigations.
+
+264. The identification of Postmaster discrepancies are managed under separate policies including the Postmaster Accounting Dispute Resolution Policy and Postmaster Complaints Handling Policy, which are sponsored and managed by the Retail team.
+
+Page 104 of 124
+
+
+
+=== Page 105 ===
+
+WITN09980600
+WITN09980600
+
+265. The Legal team has provided legal advice and support to those teams in amending such policies as a second line of defence function. Assurance has also been conducted in some of these areas.
+
+266. Prior to becoming GC, whistleblowing in its formal sense (i.e., a protected disclosure under statute) sat within the Compliance function reporting to the Head of Financial Crime and was overseen by the former GC, Jane Macleod. Consequently, as Group Legal Director I had little involvement at that time. I subsequently learnt that although cases were triaged and assessed by a Whistleblowing team, cases may be investigated by a wide selection of POL employees.
+
+267. In May 2019, upon becoming GC I inherited the accountability for the Compliance team including the Whistleblowing team. Whistleblowing or Speak Up was governed by the Whistleblowing Policy which set out the minimum control standards and this was reviewed in 2019 by the RCC and ARC.
+
+268. In October 2020, as part of the Post-GLO program and IDG, I directed that POL review its policy and procedures and approach an industry body ("Protect", a whistleblowing charity) specialising in Whistleblowing to support POL to review the same. A whistleblowing manager with industry experience was appointed into the Financial Crime team. Part of the reason for SG's appointment as Group Legal Director was due to her experience at Santander in Whistleblowing and investigations.
+
+Page 105 of 124
+
+
+
+=== Page 106 ===
+
+WITN09980600
+WITN09980600
+
+269. As reported to RCC and ARC, one of the key recommendations made by Protect was in relation to POL's training and communications around whistleblowing.
+
+270. In or about December 2020, I intervened to ensure that sufficient progress was being made in a timely manner.
+
+271. In January 2021, a working group was set up to undertake a more comprehensive review of Speak Up investigations and Postmaster complaints. This working group looked at, amongst other things, the various ways in which Postmasters could raise complaints, which may include Speak Up concerns, and how those concerns could communicated to the Speak Up team. I was concerned that Postmasters may not be using POL's Speak Up hotline but raising concerns in other ways (given the varying ways available to them) which me or my team may not have awareness or oversight of.
+
+272. In or about August 2021, following the Hamilton judgment, POL received a KPMG report to assess the current status of investigation processes including whistleblowing and advise on a target operating model.
+
+273. In or about September 2021, a number of additional milestones had already been achieved:
+
+273.1 a training workshop was run by Protect in which some members of the SEG, senior leaders and the whistleblowing team attended;
+
+Page 106 of 124
+
+
+
+=== Page 107 ===
+
+WITN09980600
+WITN09980600
+
+273.2 a Speak Up Board Champion was appointed (previous NED Zarin Patel (who also sat on the RC), who was subsequently replaced by Amanda Burton) to oversee the whistleblowing procedures replacing myself as sponsor. This was formally approved at the ARC meeting on 30 March 2021;
+
+273.3 Meetings were held with the Whistleblowing Champion on at least a quarterly basis;
+
+273.4 the creation of a designated role as POL's "whistleblowing manager" to oversee POL's whistleblowing procedures and activities;
+
+273.5 there was a policy review by external lawyers, HSF (who were instructed with overseeing the GLO), of the Whistleblowing Policy, the Postmaster Complaints Policy (which the Retail team were accountable for), and the Investigations Policy to ensure better of triage and coordination of potential whistleblowing across the organisation. A centralised Postmaster Complaints dashboard which can be viewed alongside the whistleblowing dashboard to track any Postmaster complaints that should be captured was also created;
+
+273.6 training to all employees on whistleblowing with subsequent improved communications through a variety of channels internally and to Postmasters; and
+
+273.7 more communications to Postmasters was undertaken which was coordinated with the Retail and Communications team.
+
+Page 107 of 124
+
+
+
+=== Page 108 ===
+
+WITN09980600
+WITN09980600
+
+274. On 23 June 2021, to acknowledge World Whistleblowing Day, POL released a blog regarding whistleblowing in order to raise awareness throughout the company. It explained that whistleblowing helps POL find out about things that are not right. It noted that even where an allegation is not substantiated, it can help highlight an area POL can improve, for example, enhancements to culture, training or communication. A number of important points were highlighted:
+
+274.1 any person (Postmaster, branch teams, employees, customers, third parties), can raise a concern via the whistleblowing channel;
+
+274.2 a whistleblower does not need to have a raft of evidence to raise concerns – sometimes it may be that something is not right but there is little evidence to prove it;
+
+274.3 reassurance that nobody will get into trouble for using the Whistleblowing Process;
+
+274.4 a new external and independent Speak Up provider was appointed and a new website was launched with an additional FAQ section giving employees and Postmasters the opportunity to ask the whistleblowing team questions; and
+
+274.5 enhancements to existing MI covering whistleblowing reports to more easily track and monitor Postmaster reports received and outcomes achieved.
+
+Page 108 of 124
+
+
+
+=== Page 109 ===
+
+WITN09980600
+WITN09980600
+
+275. Although as GC I was not responsible for all investigations across the company as the conduct of investigations was and still remains decentralised sitting within relevant teams (Postmaster investigations in the Retail team and people investigations in People team), given the issues arising from the Hamilton judgment by the Court of Appeal and those in Fraser LJ's findings, as referred to above, I obtained approval for an external review of investigations across the organisation. The GE received a paper on the KPMG report's findings as did the Speak Up Board Champion. The review was also reported through the appropriate governance forums of the RCC and ARC.
+
+276. In summary, KPMG found that:
+
+276.1 POL should create a centralised investigation unit. This would assist in ensuring that investigations are delivered in line with minimum standards and protocols and that high-risk investigations are performed by independent investigators. The introduction of a centralised investigation unit could facilitate a more properly structured, planned and best practice approach to investigations with an understanding of themes and lessons learnt fed back to the business.
+
+276.2 Investigations were not conducted consistently across POL, with differing levels of expertise, oversight, reporting and quality assurance. Where investigations touch multiple teams, accountabilities are confused, and lessons learnt were rarely acted upon by the business.
+
+Page 109 of 124
+
+
+
+=== Page 110 ===
+
+WITN09980600
+WITN09980600
+
+277. As a result of discussions with RCC, ARC and the Speak Up Board Champion, with approvals obtained, a number of actions were taken:
+
+277.1 A new centralised investigations team was established with a primary focus on providing support to the business in relation to investigations (second line of defence). As outlined above, for specific, sensitive and / or complex investigations (generally not including employment matters and Postmasters investigation which had their own investigation teams), the ACI might be asked to conduct the investigation themselves or through an external investigator (first line of defence).
+
+277.2 Such a team would move from Compliance to Legal, reporting into the Group Legal Director (SG).
+
+277.3 Formal documentation and better investigation case management tools were produced, including more guidance on how investigations should be conducted or carried out;
+
+277.4 Training and guidance was given to those carrying out investigations; and
+
+277.5 Additional expertise resource would be obtained.
+
+278. At the end of 2021, POL re-ran the Protect assessment and it was clear that significant improvement had been made with the scores increasing from 46% to around 80%.
+
+Page 110 of 124
+
+
+
+=== Page 111 ===
+
+WITN09980600
+WITN09980600
+
+279. A recruitment process was undertaken at POL and JB, an experienced investigatory manager, was appointed as Head of the ACI team (which was the renamed the Central Investigation Unit referred to above) in February 2022. Since his appointment he has remained reporting to the Group Legal Director.
+
+280. As noted above, in addition to the Speak Up investigations, the newly established ACI's remit was to include complex investigations. There have been a number of material complex investigations of which I was made aware:
+
+280.1 Potential Speak Up matters arising from the Inquiry (including in relation to Postmaster investigations conducted by the Postmaster Retail investigations team). As noted above, as part of my role as temporary sponsor, I directed that an Inquiry Response Tracker identifying issues arising from the evidence from the Inquiry be drafted and reported to the ISC. This included a number of potential Speak Up matters which were raised throughout the course of the Inquiry. This was flagged to the Group Legal Director and the ACI Director who were responsible for managing the specific Speak Up issues. There were significant resource challenges given that ACI was a newly established small team and the volume of matters arising from the Inquiry and also across the business meant that substantial funding and further resource was required. However, I did direct SG to strategically prioritise this work.
+
+280.2 When it was escalated to me in March 2023 I confirmed to the Inquiry Director, SG, JB and the former CPO that this work was "absolutely critical" and that
+
+Page 111 of 124
+
+
+
+=== Page 112 ===
+
+WITN09980600
+WITN09980600
+
+"POL had promised the Inquiry to do this and we had an operational process".
+I did provide the team, by which I mean principally SG, an "honest challenge"
+(an internal POL term) which included that this matter was supposed to be
+addressed 9 months ago. I noted that it had not been escalated to me that it
+was not being progressed until recently, despite having repeatedly raised it at
+ISC. I received assurances that it was being worked on but was taking time.
+
+280.3 I have also said that the BAU business must reprioritise to address this. I
+acknowledged that it was not easy because the ACI had advised SEG that
+more resource and funding was required and that although that was a fair
+point, I asked that we reprioritise BAU to address it. I understand that the-then
+Inquiry Director, DW (who had previously been the RU Legal Director),
+subsequently directed a different timeline with the ACI Director directly,
+despite my request to the contrary.
+
+280.4 As above, when these suggestions of further delays were raised in May 2023,
+I responded to JB that I had not agreed that timetable and I requested that we
+review our resource models to accelerate this including external resource. I
+noted again that it had been outstanding for a year. Furthermore, in a separate
+email to SG entitled "Outstanding Inquiry Tracker issues" (on 12 June 2023),
+I again repeated my "honest challenge" to the Group Legal Director to
+strategically prioritise resource and to track all issues within her team and
+report them. Moreover, by way of example, I flagged again in June 2023 to
+SG and JB to further reflect on what sensitive or material investigations should
+
+Page 112 of 124
+
+
+
+=== Page 113 ===
+
+WITN09980600
+WITN09980600
+
+be reported to SEG and Board so that we are ensuring that such committees
+have appropriate oversight.
+
+280.5 The funding request by CIU was refused several times by the Executive and
+a strategic prioritisation exercise was ultimately undertaken. Following
+subsequent challenge, some additional resource was obtained in the matter.
+These issues was flagged to the Executive and the Board including the Board
+Investigations Champion/SID/RC Champion. ACI Monthly reports were
+provided.
+
+280.6 By October 2023, the Phoenix panel (CIO (Chris Brocklesby), CEO Retail
+(Martin Roberts), Group HR Director (Nicola Marriott)) sat and determined that
+the People team (the Group HR Director, who was the most senior people
+officer in the company at that time, and then subsequently the Chief People
+Officer, Karen McEwan) should continue the investigation into a particular
+person (who sat in the retail Postmaster investigation team and never sat
+within the LCASR). The People team continued conducting this matter and
+the program entitled Past Roles, which was a broader desktop review of
+people in the business who had past roles that touched upon Postmaster
+operations and investigations. This program of work was supported by the ACI
+team and the Head of Legal – Employee Relations and Industrial Relations,
+Laurence O’Neil, under the supervision of the Group Legal Director (SG) The
+Chief People Officer reported to the SEG and Board on this matter.
+
+Page 113 of 124
+
+
+
+=== Page 114 ===
+
+WITN09980600
+WITN09980600
+
+280.7 Both of the matters were discussed at the Executive and Board. I also gave further direction to JB, SG, the Head of Legal – Dispute Resolution (Kirsty O’Connor), Company Secretary (Rachel Scarrabelotti) and Deputy Company Secretary (Alison Hoyland) to further improve the governance around investigations (within their remit) and some lessons learnt.
+
+280.8 Postmaster NED investigation. Following the Retail team’s initial investigation into a Postmaster who was also a NED on the Board and a Speak Up pertaining to that NED, the former Chairman, HS, having consulted the SID, asked me to have the ACI team investigate the matter. An investigation was conducted by ACI and a report was subsequently produced.
+
+280.9 I provided feedback to JB and SG about concerns that the relevant Postmaster NED had during the course of the investigation. I had personally provided assurance to the Postmaster NED that POL was very mindful of the presumption of innocence, having made that position clear across the organisation consistently. That investigation was handed back to the relevant accountable business owner, the Retail team, who continued and finalised the investigation and made certain decisions regarding the established loss.
+
+280.10 Legal advice was subsequently obtained and provided to a limited subsection of the Board (as determined by the Chairman, HS) at or about the end of September 2023. A closure report was finalised in or around October 2023 with the approval of the relevant accountable business owner, namely Martin
+
+Page 114 of 124
+
+
+
+=== Page 115 ===
+
+WITN09980600
+WITN09980600
+
+Roberts CEO – Retail. The closure report was subject to particular issues as
+to the accounting treatment in the 22/23 ARA.
+
+280.11 During that time it only became known to those outside of the Retail team,
+(when Retail advised) that the other Postmaster NED had a different category
+of money owing to POL.
+
+280.12 The Chair took the decision regarding the established loss having regard to
+the recommendations from the Retail team, together with the legal advice, as
+well as having consulted the limited sub-group of the Board and also the
+Postmaster NED’s themselves. It was important that POL understood and
+considered the treatment of these monies in the ARA 22/23 in which the ARC
+and subsequently the Board were seeking to sign off in December 2023.
+Advice was taken and reference to the above was made in the ARA.
+
+280.13 Former CPO (Jane Davies). I would note that external investigations were
+undertaken in respect of various matters raised, external legal advice taken
+and reported to a limited Board Sub-Group on the direction of the former
+Chairman. The SID/Investigation Champion, Speak Up Board Champion, and
+Government Shareholder Representative were kept appraised of matters. The
+decisions as to the conduct of the investigation were made by the Speak Up
+Board Champion and the Government Shareholder Representative. In mid-
+January I became aware of a document entitled Project Pineapple. That letter
+contained a number of allegations which I deny. I subsequently received an
+apology from Sarfaraz Ismail and Elliot Jacobs, having discussed the factual
+
+Page 115 of 124
+
+
+
+=== Page 116 ===
+
+WITN09980600
+WITN09980600
+
+inaccuracies in their note, including that I had not been the sponsor of the
+Inquiry for at least six months and that the Postmaster investigators such as
+Stephen Bradshaw had never reported to me, amongst other things.
+
+281. Far from being complacent, I have continued to advocate for improvements in
+investigations across the business including Speak Up. In particular, I
+advocated for them to have more resource and also ensured that the CEO,
+Executive, Board Champion, RCC and ARC received management
+information regarding the status of investigations at POL.
+
+282. As noted above, I have provided feedback from Board Directors and the
+Executives, together with my own observations, as well as giving direction on
+areas for improvement and strategic prioritisation, to both the Group Legal
+Director and ACI Director. Moreover, I have challenged other directors who
+have overruled my strategic direction regarding the prioritisation of Past Roles
+and Phoenix.
+
+283. In June 2023, further external assurance was conducted by Ernst & Young
+(EY) reviewed POL's Speak Up Policy and procedures and their
+recommendations were subsequently incorporated in further amendments to
+the Speak Up Policy. Further recruitment was approved towards the end of
+2023 to support the vision and mission of the Speak Up function.
+
+284. Throughout 2022 and 2023, JB and his team continued to make improvements
+to investigations and, specifically, Speak Up. Improved Executive and Board
+
+Page 116 of 124
+
+
+
+=== Page 117 ===
+
+WITN09980600
+WITN09980600
+
+reporting was put in place including Monthly SEG reports which track the
+effectiveness of ACI reports (including numbers, themes and actions) as well
+as the length of time investigations may take and the outcome of the
+investigations. Annual reviews are conducted by the team, with support from
+an external reviewer, and are reported through the appropriate governance
+forums including the RCC and ARC.
+
+285. By; (a) bringing in Protect and external experts to review the whistleblowing
+function and investigations generally; (b) POL adopting most of the
+recommendations made; (c) investing more resource (and expertise) as well
+as better tools (claims system); and (d) ensuring better governance, the
+adequacy of the Speak Up process is vastly improved. Continuous monitoring
+and improvement will always be required. As noted above I have continued to
+relay my own observations as well as others feedback to the ACI director and
+the Group Legal Director. In SG's end of year review, I set out areas where I
+thought she could focus to improve the team - this included:
+
+285.1 the Speak Up team's understanding of governance and decision-making;
+
+285.2 continued development of Speak Up documentation to standardise processes
+and decision-making;
+
+285.3 developing better engagement with the Postmaster community directly; and
+
+285.4 continuing to increase communication with Postmasters.
+
+Page 117 of 124
+
+
+
+=== Page 118 ===
+
+WITN09980600
+WITN09980600
+
+286. In my view, ongoing conformance will be achieved through:
+
+286.1 the establishment of a controls framework of Speak Up to ensure continuous compliance of the control environment;
+
+286.2 POL's Assurance and Audit function providing internal Assurance and internal Audit;
+
+286.3 external assurance and / or audit and review should be conducted annually; and
+
+286.4 continued communications and training of Speak Up across the organisation.
+
+287. Overall, and in summary, for the reasons given above I consider POL's approach to Speak Up has been significantly improved but continuous improvements are required, together with and cultural embedding of this matter. I would continue to encourage the POL Board and SEG to ensure that the ACI team (responsible for looking into all Speak Up matters) receives adequate resource and guidance to continue the progress that has been made to date.
+
+Conclusions
+
+288. I have been asked to set out any other comments, reflections or concerns (if any) I may have about my experience as POL GC since the findings of Fraser LJ and/or following the evidence that has been heard in the Inquiry.
+
+Page 118 of 124
+
+
+
+=== Page 119 ===
+
+WITN09980600
+WITN09980600
+
+289. Anecdotally, compared to most organisations in the UK, the challenges faced by POL (which include but go well beyond the Terms of Reference of this Inquiry), are more complex, multifaceted and material than most other organisations in the UK.
+
+290. The failure to address foundational issues as a strategic priority created numerous issues and has undermined POL's ability to comply with Lord Justice Fraser's findings and the matters before this Inquiry at the pace in which it ought to have done.
+
+291. The decision not to take the compensation matters away from POL and to separate the RU program from POL BAU as a result, was based on a logical rationale, but it added to the complexity and increased siloed working. These challenges were repeatedly flagged to the CEO and SID.
+
+292. Through compensation, via the RU (former HMU; post-GLO program) and in the design and establishment of the compensation schemes, POL sought to take on the feedback from the original GLO Claimants in the Group Litigation, and as part of the settlement to establish a scheme where Postmasters would not have to be legally represented or go through a legal process. The HSS was well intentioned and incorporated feedback from external legal advisers. POL set up an external panel who determined the claims. However, the involvement of Government processes and ultimately control over the compensation scheme(s) significantly impacted the delivery of compensation, which is extremely regrettable and deeply disappointing.
+
+Page 119 of 124
+
+
+
+=== Page 120 ===
+
+WITN09980600
+WITN09980600
+
+293. Being the GC at POL during this period has been challenging. I am in a different position to the other SEG members, given my SRA obligations. Seeking to reform such an organisation with the above context has been equally challenging but I have committed myself fully to the role.
+
+294. In addition to the above, I have found that the high turnover of personnel in various areas of the business including the Board and Executive, as well as the capability and knowledge gaps across the organisation very challenging.
+
+295. In my role as GC and temporary Sponsor, I found that I was not always given the requisite information, control, or access to forums which made my role more difficult.
+
+296. Culturally, and in some respects understandably given past advice, some within the Executive and Board (but to a lesser extent the Executive), sought to blame or use Legal as a shield for matters that are in fact within the business's control and/or sit outside of the LCASR function. This is not to say that LCASR have always got everything right and when I have received feedback I have acted on it with my team. Moreover, some of the Board and Executive have complained about LCASR's timeliness in respect of certain matters despite the fact that limited resources in LCASR has been repeatedly raised and not sufficiently acted upon by the Executive and the Board. Whilst feedback is welcomed and I agree that matters could have been expedited, the lack of resource was one of the principal explanations for the lack of pace
+
+Page 120 of 124
+
+
+
+=== Page 121 ===
+
+WITN09980600
+WITN09980600
+
+particularly in respect of BAU legal and ACI matters as well as the foundational
+issues not being addressed.
+
+297. As GC, I spent a significant amount of time supporting LCASR directors and
+increasing the understanding of the Board and Executive regarding the
+rationale for the business to make changes in conformance with the law but
+specifically in relation to Lord Justice Fraser's findings.
+
+298. Whilst it has taken time to address and remediate the issues arising from Lord
+Justice Fraser's findings and other foundational issues generally, I do think
+there has been a genuine desire to get things right. However, ultimately, there
+was not sufficient prioritisation to see this as the fundamental focus and give
+it sufficient resource from the outset. Lessons have been learnt along the way.
+The Government Shareholder Representative, POL Board and SEG were
+focused on other strategic initiatives and costs management. As noted above,
+it took POL time to develop a compensation scheme which was appropriately
+encompassing and the increasing oversight and complexity of Government
+processes inevitably slowed the progress of remediation matters (specifically
+compensation).
+
+299. There is still a lot to continue to deliver and my hope is that the current
+Executive and Board, with pragmatic and efficient support from the
+Government Shareholder, prioritises the operationalisation and cultural
+enshrinement of Lord Justice Fraser's findings and in due course will address
+the recommendations of the Inquiry.
+
+Page 121 of 124
+
+
+
+=== Page 122 ===
+
+WITN09980600
+WITN09980600
+
+300. I have been asked to set out any other matters relevant to the Inquiry's Terms of Reference that I consider the Chair of the Inquiry should be aware of.
+
+301. I think it is important to note the necessary implication, although it will be obvious to Inquiry, that my evidence has been curtailed to an extent, such that the full facts and circumstances have not been able to be produced to the Inquiry to be weighed and or weighed against others' evidence. I am, as highlighted above, in a unique position as POL's GC given the extent of the advice I have given to the business over the years (privilege in respect of much of which has not been waived).
+
+302. I have answered these questions to the best of my knowledge and belief. If there are documents I have not addressed or matters I have not covered which the Inquiry would like me to, I am very happy to provide any such further assistance to the Inquiry should it required it. I will be guided by the Inquiry and POL should those matters stray into privilege, which has not been waived.
+
+Statement of Truth
+
+I believe the content of this statement to be true.
+
+GRO
+
+Benjamin Andrew Foat
+
+Page 122 of 124
+
+
+
+=== Page 123 ===
+
+WITN09980600
+WITN09980600
+
+Date: 8 October 2024
+
+Page 123 of 124
+
+
+
+=== Page 124 ===
+
+WITN09980600
+WITN09980600
+
+Index to Sixth Witness Statement of Benjamin Foat
+
+No. URN Document Description Control Number
+1. POL00458047 Legal team structure chart as at 1 September 2024 POL-BSFF-WITN-048-0000003
+2. POL00458049 Inquiry Legal team structure chart as at 1 September 2024 POL-BSFF-WITN-048-0000005
+3. POL00458048 RU Legal team structure chart as at 1 September 2024 POL-BSFF-WITN-048-0000004
+
+Page 124 of 124
+

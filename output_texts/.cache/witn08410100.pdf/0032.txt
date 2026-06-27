@@ -1,0 +1,12 @@
+WITN08410100
+WITN08410100
+
+c. 'Special request' audits (type 200): these audits would take place when an Area Manager or Contract Advisor had concerns about a branch; for example, following a branch visit. Royal Mail might also have contacted an Area Manager or Contract Advisor if they had concerns about their stock, and the POL manager may have requested a Special request audit. Special request audits have now ceased, as all decisions to audit a branch (with the exception of Transfer / Closure and Robberies / Burglaries audits) are based on a risk assessment of the branch which is based on data analysed by the Network Monitoring Team.
+
+d. 'Cash Centre' audits (type 1): these audits were specific to Cash Centres and did not relate to auditing branch accounts. I believe these audits have also been abolished.
+
+e. 'Risk-driven' audits from the Financial Branch Performance Profile ("FBPP") (type 100): these audits were scheduled based on risk assessments which was analysed by the Network Monitoring Team. For example, an audit might be triggered if the data suggested that a branch was carrying a high volume of cash, which had not been returned when requested. My understanding is that this is more akin to the current approach to scheduling branches for audit.
+
+f. 'Follow up activity' audits (type 475): I do not specifically recall these audits, but I recall that they may have taken place a short period of time after an earlier audit occurred, particularly if a discrepancy was identified at that earlier audit, to verify that the branch was now operating as expected.
+
+32

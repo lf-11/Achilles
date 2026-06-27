@@ -1,0 +1,28 @@
+WITN03920100
+WITN03920100
+
+were larger offices with multiple stock units, it was agreed that ICL Pathway
+would develop and automated solution to extract relevant data from the ECCO
+system and populate the Horizon system. As with MiMan, validation processes
+were required with office management to confirm successful migration of data.
+17. Whilst MiMan and MiECCO dealt with the process to migrate stock and account
+data to Horizon there were other potential challenges in offices. There were
+approximately 26 different 'systems', mostly counter but some back office that
+could be found in a Post Office. The 26 systems reflected the history of POCL in
+not having an integrated point of sale system and therefore, where there was a
+commercial benefit, implementing product specific solutions, for example an
+Automated Payment System. As part of the development of the in-office
+migration procedures a solution was developed for each of the 26 different
+systems; this solution led to processes that also formed part of the work of the
+HFSO. Whilst 26 systems may sound significant, the reality was that data had to
+be extracted from many of the systems to create the end of day or end of week
+account in offices and so the process was well understood. The multiple legacy
+systems became redundant.
+18. Pilot and Testing of the Horizon System
+
+(Referring to Exhibits WITN0392_01/5 - WITN0392_01/25, respectively:
+FUJ00058333, FUJ00058348, FUJ00078162, FUJ00078391, FUJ00078559,
+FUJ00078560, FUJ00078572, FUJ00078573, FUJ00078581, FUJ00078582,
+FUJ00078587, FUJ00078588, FUJ00078592, FUJ00078593, FUJ00078606,
+
+Page 7 of 32

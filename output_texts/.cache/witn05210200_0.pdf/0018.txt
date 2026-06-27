@@ -1,0 +1,18 @@
+WITN05210200
+WITN05210200
+
+PLEASE CONSIDER FUJ00079782.
+
+Question 39: Were you shown a copy of this audit report at or around the time it was produced in October 1999?
+
+58. No.
+
+Question 40: Were you aware, at the time, of the concerns expressed by ICL Pathway auditors within this report concerning the quality of the EPOSS application, code and design?
+
+59. No. I did not have any interaction with Pathway auditors.
+
+Question 41: What (if any) impact would knowledge of these concerns have had upon your handling of Acceptance Incident 376 had you been aware of them at the time?
+
+60. I did not receive this document but note that it does highlight a number of issues with the ICL Pathway system/code. As I do not have a technical/IT background it is difficult for me to comment on whether these issues, contained in a report which is a snapshot view from September 1999, are significant in terms of the subsequent Core System Release which took plan in January 2000. It is now 2023 and I feel that it is impossible for me to say, had I know about this over 23 years ago, whether this would have had any bearing on the process for resolving AI 376. It was Pathway and not POCL's responsibility to develop their system in accordance with the requirements of private finance.
+
+Page 18 of 21

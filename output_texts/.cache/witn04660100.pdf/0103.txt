@@ -1,0 +1,33 @@
+WITN04660100
+WITN04660100
+DocuSign Envelope ID: 0B8D9A6F-D117-40AC-B8CA-9EFEBC3C2B1D
+
+Callendar Square where we did have problems, we knew there were
+problems...
+
+(e) LC: this isn't Callendar square
+
+(f) AC: yes it is, Falkirk. They had this problem several weeks in a row, it's
+very rare for it to happen repeatedly. First week it gave them a payment
+mismatch, transfer problem only happens if you have a dual stock unity,
+second counter allowed it to be done a second time, you only have a
+single stock unit. It was also picked up because there was a flood of
+events from this unit. Second week and third week then I got a call about
+it which I passed on to development team and to P.O. Problem was this
+information didn't get sorted out at branch level, but they had a system
+error which we were very aware of. I saw no evidence of anything similar
+at your branch and I would have done.
+
+(g) LC: what?"
+
+244. (At this point, my handwritten note states "We knew of system error but not at
+your branch because I'd've seen it. 1. In your events log there'd be 100s of
+1000s logs 2. Message store would've given you confusing balance but
+would've sorted itself out.")
+
+245. My colleague's typed note states:
+
+"AC: in your system event log there would have been hundreds or thousands
+of notices...would have potentially only included transactions up to earlier point
+
+Page 103 of 194

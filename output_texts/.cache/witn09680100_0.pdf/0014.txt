@@ -1,0 +1,32 @@
+WITN09680100
+WITN09680100
+
+could be placed to the HSD. He went onto provide details of 4 calls which had
+been logged by the HSD and produced exhibit APD01 (POL00046047). It was
+his opinion that none of the calls related to faults which would have affected the
+integrity of the information held on the system as none of the calls raised
+problems that fell outside the normal operating parameters of the Horizon
+System.
+
+51. Mr. David Dixon in his statement of 22nd September 2011 (POL00057001)
+explained how the Post Office used a computer system known as SapADS to
+calculate and forecast the cash requirements for each branch. This analysis
+could result in cash being sent out to a branch or a request for a branch to return
+cash. He was able to identify branches which had returned less cash than
+requested. Mr. Dixon noted that he had requested the return of £30,000 by the
+Rowlands Castle Sub Post Office Branch on 7th March 2011. Only £14,000 was
+returned on 8th March. It would appear that he therefore triggered an audit at the
+branch on 9th March 2011.
+
+52. Mr. Graham Brander prepared a detailed statement on 25th November 2011
+(POL00044535) in which he explained that he had analysed Overnight Cash
+Holding (ONCH) Data going back as far as 27th December 2009. He concluded
+that there appeared to be a pattern in that the total value of the cash being held
+(usually the £50 notes) was being inflated and falsely declared by the Rowlands
+Castle Sub Post Office Branch at the end of each Trading Period before reducing
+again the following day. He noted that the amounts entered against 'unusable
+notes' on 1st, 2nd and 5th July 2010 (the day upon which the branch was migrated
+to Horizon Online) appeared to have 'jumped up' before dropping down and then
+up again. Mr. Brander also noted that he had requested, from Fujitsu, Horizon
+
+Page 14 of 42

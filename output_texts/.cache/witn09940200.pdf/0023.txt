@@ -1,0 +1,31 @@
+WITN09940200
+WITN09940200
+
+considered it to be helpful or necessary and responding to a few questions
+involved some consideration of family documents).
+
+De-duplication
+
+72 I have no detailed knowledge of or expertise in eDisclosure matters and de-
+duplication is very technical. However, the issues were explained to me at a
+high level to assist my understanding of the work needed to remediate and,
+based on this, I have tried to respond to the Inquiry's request as best I can. I
+have also been assisted by BSFf in understanding technical terms and
+concepts. I have set out in this section simple explanations of those terms and
+concepts as I understand them.
+
+73 De-duplication is a computer process used in eDisclosure to reduce the number
+of documents that fall to be manually reviewed or produced by excluding more
+than 1 copy of the same (or similar, depending on how de-duplication is
+implemented) document. I understand that forms of de-duplication are a
+common eDisclosure practice and are generally viewed as uncontroversial.
+
+74 Although it is a common process, I understand from POL's external advisers
+that de-duplication was not applied as standard in connection with the Inquiry's
+disclosure requests. However, POL's external advisers have applied de-
+duplication in connection with responding to some of the Inquiry's disclosure
+requests. I understand that the decision whether to de-duplicate or not would
+have been taken by POL's external advisers on a request-by-request basis with
+specific consideration of what was most appropriate in relation to each
+
+Page 23 of 38

@@ -1,0 +1,32 @@
+WITN04510100
+WITN04510100
+
+staff, ranging from DEV4 to DEV6, with DEV6 being the highest paid, most
+experienced and technically capable staff. Specifically, these were John
+Simpkins, Steve Parker, Anne Chambers, Patrick Carroll and Mark Wright.
+
+29. All SSC technicians were expected know the Riposte product (from Escher).
+This was the software which ran on the counters and the correspondence
+servers in the data centres. EPOSS interfaced to Riposte on the counters. SSC
+technicians were also expected to have an overall understanding of the system
+structure, but they would then specialise in specific areas of Horizon-for
+example, Database, Agent and Counter-dependent upon their skillset on
+joining the team, the areas I felt the unit was short of staff, and their own wishes.
+
+30. As a specialist in an area, the SSC technician would deal with incidents
+primarily, but not exclusively, in their area of specialty. For example, Counter
+specialists would concentrate on Riposte, EPOSS software and Escher Mails-
+any software running on the counters or in the correspondence servers. Other
+staff would concentrate on the systems which ran in the data centres.
+
+31. The SSC Coordinator's role was mainly administrative; ensuring that out-of-
+hours call rotas were maintained, handling phone calls coming into the unit and
+ordering stationery. The SSC Coordinator also allocated incoming incidents on
+Peak as per my comments above.
+
+32. During my time as SSC Manager, I recall reporting to Steven Muchow, Peter
+Burden, Carl Marx, David Baldwin, Naomi Elliot, Andy Hall and Wendy
+Warham. I cannot recall exactly when, and for how long, they were my
+managers.
+
+Page 14 of 54

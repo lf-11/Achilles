@@ -1,0 +1,39 @@
+WITN08420100
+WITN08420100
+
+Witness: Rodric David Alun Williams
+Statement Number: WITN08420100
+Exhibits: None
+Date: 11 March 2024
+
+which I came to deal with these bugs was the same as I have described above
+in respect of the Callendar Square bug, and my role was again to collate and
+distil information for use by others considering POL's response to the Interim
+Report. I was also involved in instructing WBD to help POL write to notify the
+affected (non-POL operated22) branches about these bugs,23 with the WBD
+draft letters appearing to have been finalised by others within POL.24
+
+47. Although I cannot now remember precisely what took place at this time, from
+re-reading the documents provided to me by the Inquiry it appears that Lesley
+Sewell (Chief Information Officer) wanted to see a timeline of the steps taken
+with respect to the 'local suspense bug'. I discussed the matter with the relevant
+subject matter expert within POL, Andy Winn. I then recorded that discussion
+in an email which I circulated to the appropriate people within POL, copying
+Andy Winn to make sure I had fairly reflected what he had told me. Hugh
+Flemington then forwarded this to Susan Crichton and Jarnail Singh, to ensure
+that the different parts of the POL legal team (who might be fielding enquiries
+from different parts of the business) remained up to date with developments.
+The letters were also shared with POL's external criminal lawyers Cartwright
+King for their input. Like the Callendar Square bug, the 'local suspense bug'
+seems to have been known to those responsible for managing Horizon, and
+Fujitsu seems to have confirmed that the issue had been resolved. As far as I
+was aware therefore, the focus in mid-2013 was on making sure the PMRs
+
+22 'Crown' branches were branches directly managed by POL.
+23 Email from Rodric Williams to Lesley Sewell and others dated 27 June 2013 at 18.51 (POL00144855);
+Draft letter to J Mistry 'Re Branch Discrepancies' (POL00144856); and Draft letter to D Cheape 'Re
+Branch Discrepancies at Dundas Post Office (POL00144857)
+24 Email from Rod Ismay to Rodric Williams and others dated 28 June 2013 at 14.01 (POL00029622);
+and 'Branch Accounting Incidents' (POL00029623)
+
+24

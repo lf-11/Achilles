@@ -1,0 +1,29 @@
+WITN05970200
+WITN05970200
+
+or on the official distribution myself for this. I believe Hilary may have worked with
+Pathway on development of the RFI (Request for Information) process at some
+level.
+
+26. I have also found mention of the Network Audit Team but cannot recollect
+meeting anyone from them.
+
+Other Matters to Assist the Chair
+
+27. In writing this statement a number of questions arose in my mind which may be
+worth exploring with those who worked in POCL or Fujitsu during the 2000s when
+Horizon was live. I hope these may be useful to the Inquiry:
+
+a. What training or procedures were Regional Auditors and Investigators
+given on Horizon, both in terms of operation of the applications (and
+specifically EPOSS) and in terms of retrieval of data etc? Who would
+have been responsible for such training or creation of such procedures
+and processes (national or regional)? Did such training cover "what
+could go wrong?" operationally with Horizon at the counter and how to
+locate the causes of errors or discrepancies?
+
+b. How was this training/processes updated as the system evolved (for
+instance, moving from the Cash Account to Branch Trading Statement
+in 2003/5 I believe)?
+
+Page 11 of 14

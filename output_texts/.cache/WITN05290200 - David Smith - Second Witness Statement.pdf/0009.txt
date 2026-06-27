@@ -1,0 +1,31 @@
+WITN05290200
+WITN05290200
+
+(mentioned at paragraph 6 above). I believe POL00032999 is evidence of
+this process being followed. A significant issue with the Acceptance
+process, which I would define as one that caused lack of confidence in the
+process, would have been a major issue. I can recall no such issue.
+
+24. I was asked to explain whether I felt that Fujitsu adequately disclosed the
+information the Post Office needed to evaluate the system. The evidence
+the Post Office needed to evaluate the system was laid out contractually
+as per the generic approach to Acceptance, FUJ00001889. Any deficiency
+in this evidence would have been disclosed in the Acceptance report –
+POL00032999. The question arises, however, as to whether there is
+evidence that lies outside POL's requirements and whether this was
+disclosed. The fact that such evidence exists is acknowledged at the foot
+of Page 9 of the Acceptance report. This note also discloses the
+mechanism by which this information would be shared. There was nothing
+to suggest, at the time I left, that Fujitsu had failed to disclose relevant
+information. I cannot, of course, comment on anything that may or may not
+have surfaced after I left the Post Office.
+
+PILOT OF HORIZON ONLINE
+
+25. I was asked to consider an email dated 32/03/2010 from Gavin Bounds to
+Dave Smith, Andy McLean, Nick Gittens and Mark Burley re HNGX data
+centre continuity [FUJ00095048]. I was asked to explain the issues that
+were encountered in the pilot of Horizon Online. As explained above I
+have little or no recollection of the issues that arose during pilot. The Joint
+
+Page 9 of 22

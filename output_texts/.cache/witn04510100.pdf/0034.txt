@@ -1,0 +1,32 @@
+WITN04510100
+WITN04510100
+
+shared the use of this test rig and therefore, whenever SSC staff were creating
+rectification for problems, or trying to recreate issues in a controlled
+environment, this is where such testing would take place.
+
+99. If a code fix was unsuccessful, Peaks would be raised based on the symptoms
+being experienced. Some fixes could be regressed, which means the fix could
+be removed from the live estate and replaced by the original state (i.e., the code
+that was in place before). If a code fix could not be regressed, there would need
+to be a fix for the fix, which would be handled in the same way as any other
+incident.
+
+100. Where workarounds were produced, they would be documented on the relevant
+Peak, and the steps necessary to apply the workaround would be documented
+in instructions to SSC staff. If the workaround was likely to be used on a
+consistent basis, scripts would be produced in cooperation with development
+staff.
+
+101. Test rigs outside the LST did not use "live keys" and so were not identical to
+the live system. Workarounds would be tested on the test rig which most closely
+aligned with the live estate. I cannot recall the processes by which POL was
+involved in the testing of code fixes.
+
+102. Workarounds would be implemented for any bug based on a number of criteria,
+the primary one being the impact of the bug to Post Office, by which I mean the
+whole business, including POL and postmasters (to the SSC they were all "the
+customer"). Other criteria would be discussed at the release management
+meetings. My recollections of this process are detailed above at paragraph 94.
+
+Page 34 of 54

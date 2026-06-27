@@ -1,0 +1,35 @@
+WITN09750100
+WITN09750100
+
+various iterations with differing titles. The final draft version (version 16)
+was dated 23 May 2014.
+
+ii. a 'contents and key extracts document' summarising the findings of the
+above-mentioned Deliverable for a discussion with the POL Board that
+occurred during the Board Meeting.
+
+iii. A Board Briefing document produced at the request of the POL Board
+following the Board Meeting which addressed five key matters.
+
+77. With reference to draft versions of the Board Briefing, I have been
+asked (with reference to the quote (POL00031391 and POL00029726) in
+question 18b of the Request) what I would consider a 'significant deficiency in the
+identified design features'.1 It would be a risk that does not have a suitably designed
+internal control response. For example, a risk of transactions being created, edited,
+or deleted by unauthorised individuals would be a significant deficiency unless
+internal controls such as system access controls were in place.
+
+78. Question 20 of the Request focuses on a document entitled 'Deloitte –
+Horizon Desktop Review of Assurance Sources and Key Control Features, Draft for
+Discussion, dated 23 May 2014' (POL00028062). This document is version 16 of
+the Deliverable (see paragraph 76 above for further details).
+
+79. Question 20c of the Request, asks that I consider a specific quote taken from
+the Deliverable2 and comment upon what it means for 'the Horizon system
+
+1 "nothing has come to our attention that suggests there are significant deficiencies in the identified design features..."
+2 The extensive Horizon system documentation is structured from a technical rather than a risk and controls perspective and
+provides an understanding of the Horizon Features. POL should conduct a formal assessment to identify a complete
+set of Horizon Features that respond to POL's control objectives.
+
+Page 23 of 39

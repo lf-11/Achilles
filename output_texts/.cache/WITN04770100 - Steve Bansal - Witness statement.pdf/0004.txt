@@ -1,0 +1,36 @@
+WITN04770100
+WITN04770100
+
+while migrating to Horizon. However, I do not recall having any experience of working
+with the "Cash Account" software.
+
+TESTING
+
+13. In relation to question 26, I understand that testing was conducted in Fujitsu's office
+in Feltham. There was a secured location dedicated to the Pathway project which had
+a number of test environments, such as functional and non-functional test rigs.
+Functional testing included doing things such as completing a basket, selling a stamp,
+or making sure the receipt printed out. Non-functional testing included making sure
+the data was stored properly and populated around the systems.
+
+14. As the training was being paused, I moved from being a trainer to the test environment
+in April 1998 as a trainee tester. I was not told why or for how long the training would
+be paused for. Testing was carried out by going through the end-to-end testing
+lifecycle, following documented processes and templates. The end-to-end testing
+lifecycle involved:
+
+a. test planning - covering who would run the test, what testing and when to
+run it;
+
+b. test design - covering the test specifications and generation of test plan;
+
+c. test execution - performing and recording results of the tests; and
+
+d. test result analysis - comparing the results of the tests with the expected
+results and further analysis.
+
+15. Teams were dedicated to the various types of testing and test environments. As I
+recall, there was development testing, which included the unit testing (software
+testing focused on components of the software) and then Component Integration
+
+Page 4 of 7

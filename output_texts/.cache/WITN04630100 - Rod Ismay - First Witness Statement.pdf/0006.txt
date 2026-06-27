@@ -1,0 +1,16 @@
+WITN04630100
+WITN04630100
+
+remember how it evolved over time.
+
+22. Based on the quoted document, POL00029732 (internal emails re Subpostmaster concerns), and the file issue raised that day, I do agree something needed to change at that time. In this incident it appeared there had been file duplication and omission. They needed to be sent on time and once only.
+
+23. Document POL00039228 (Branch Support Programme DRAID log) appears to be a programme action log covering a wide range of topics including training, compliance, customer complaints, new products, communications and project administration. The breadth of topics and number of actions suggests a strong commitment to advice and assistance, but with such a wide network, a wide product set and multiple programmes ongoing at any one time, I do not feel able to comment on the adequacy of advice and assistance based on this very detailed log.
+
+Function of Horizon
+
+24. The Ping Project was established to help sub-postmasters and to prevent the need for such large resource dedicated to administering the related errors in P&BA. I was an advocate for this project and believed it had clear benefits for branches and also for back office teams.
+
+25. As FUJ00091215 (Interfacing Client Data into POL Systems) and FUJ00091234 (Ping Project Requirements Catalogue) set out, Ping related to standalone product terminals and had an initial focus on Camelot. It was intended to reduce the number of differences by eliminating the need for manual input. Without Ping, branches had to get a report from the Camelot
+
+Page 6 of 24

@@ -1,0 +1,24 @@
+WITN08060100
+WITN08060100
+
+20. I don't know about the working relationship between the SSC and other teams. I was aware of other parts of the support services but I was not directly involved.
+
+21. I remember there being some contention about the proportion of service tickets being referred to the SSC and here being issue of calls being put through that shouldn't. However I cannot recall the detail.
+
+Identification and rectification of bugs, errors or defects
+
+22. I have looked through the bugs listed in Appendix 2 of Bates and others v Post Office Limited (No. 6) "Horizon Issues" [2019] EWHC 3408 (QB). However, I do not recall or remember any of the bugs listed.
+
+23. I never got on to any proper bugs fixing. There were bits and pieces people went through with me but it was too long ago to remember.
+
+24. I do not recall the process Fujitsu would follow when a bug, error or defect was identified.
+
+25. I have been asked in what circumstances a work around would be offered to an identified bug rather than implementing changes to the Horizon IT System code. In the first instance you would look for a work around to keep things running, but I can't remember the details.
+
+26. I can't remember much interaction with SPMs.
+
+27. I don't think there was pressure not to pass information to SPMs in relation to potential bugs, errors and defects as such, but we were told to keep things confidential.
+
+28. I don't know if the SSC investigated problems that were suspected to be related to third-party software.
+
+Page 4 of 6

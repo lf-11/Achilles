@@ -1,0 +1,32 @@
+WITN09840100
+WITN09840100
+DocuSign Envelope ID: 35848B78-14EA-4B48-AF01-6881BFF848DD
+
+421. Part of the reasoning for appointing IBM to complete the Front Office project
+was their proposed "collaborative and partnership approach to working with
+other suppliers...A stable and robust stock control and accounting platform that
+will mitigate against Sparrow scenarios in the future." (Memorandum for POL
+Board from Lesley Sewell, Kevin Gilliland and Alisdair Cameron - Front Office
+Contract Award to IBM UK Ltd and Fujitsu Horizon, 21 May 2015,
+POL00027278).
+
+422. In entering the new contract with IBM, we had acknowledged internally that
+Fujitsu had been difficult colleagues; concerns had been raised previously about
+their levels of service. Further, we could have managed shortfalls better with
+more accessible data on branch transactions and sought to achieve with this a
+new Front Office system. Finally, and as set out earlier in my statement, it was
+accepted that Horizon, and the infrastructure on which it was built, was
+vulnerable (see paragraph 94).
+
+423. Unfortunately, despite the clear motivations to implement a new Front Office
+system, over the next few months, the Interim CIO and I developed our
+assessment that the IBM replacement programme for Horizon was not credible,
+despite the enormous work that had gone into the procurement.
+
+424. I therefore asked the Interim CIO to engage Fujitsu and see whether there was
+a way in which we could evolve the relationship: I could not see any practical
+alternative to keeping the Front Office systems running.
+
+425. By November 2015, we had reached a consensus between Fujitsu (led by
+Regina Moran) and POL (led by me) to work together to reach an agreement for
+Page 110 of 137

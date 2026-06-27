@@ -1,0 +1,28 @@
+WITN04120100
+WITN04120100
+
+Index to First Witness Statement of Bruce McNiven WITN0412 01
+
+Exhibit No. Document Description Control Number URN
+1 WITN0412_01/01 PA Consulting Group: Review of POL-0024574 POL00028092
+BA-POCL Programme 1 Oct 1997
+and Outline of the Proposed End
+State and Transition Project for the
+Support of Automated Services,
+Post Office Counters Ltd, 29 June
+1998
+2 WITN0412_01/02 Letters between Bruce McNiven POL-0025612 POL00029130
+and John Dicks, and associated
+Acceptance Incident Forms
+3 WITN0413_01/03 Memo from Andrew Simpkins, POL-0024911 POL00028429
+Horizon Release Management
+re Horizon Testing &
+Programme Plan - Current
+Status, 4 December 1998
+4 WITN0412_01/04 Letter from John Dicks to Bruce POINQ0068747F FUJ00079159
+McNiven, 11 August 1999
+5 WITN0412_01/05 Horizon Programme, Management POL-0024814 POL00028332
+Resolution Meeting Minutes, 12
+August 1999
+
+Page 13 of 13

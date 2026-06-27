@@ -1,0 +1,16 @@
+WITN09890500
+WITN09890500
+
+c. The prosecution took place within the PCDE period, but the case did not rely in whole or in part on Horizon data (e.g. theft of mobile phone vouchers).
+d. The outcomes of a number of cases that were thought to have been potential convictions have now been identified, and these have been confirmed as not having resulted in a conviction.
+
+23. Cases have been added for one or more of the following reasons:
+
+a. A co-defendant's conviction was not previously identified largely owing to the way in which multiple defendant prosecutions were recorded on the casework spreadsheets.
+b. Horizon has been confirmed by available records as having been installed before the investigation was commenced, indicating that Horizon evidence may have been relied upon in the original prosecution.16
+c. The case was previously thought to be a non-Horizon case, but following a review of the underlying paperwork, it cannot be excluded that the case may have relied on data deriving from Horizon.
+d. Information contained in the comments of the casework spreadsheets suggests that the person was convicted. Whilst it is likely that these cases were not prosecuted by POL (given the way in which the data has been captured for these cases, which is not how POL would capture data regarding its own prosecutions), as it cannot be confirmed that they were prosecuted by another prosecutor, POL has counted them as having been prosecuted by POL.
+
+16 I understand that these are thought likely to be DWP prosecutions but there is no underlying material available to confirm the prosecutor and whether or not they are Horizon-related so they have been treated as possible POL prosecutions that may have relied on Horizon and therefore included on the PFA list.
+
+12

@@ -1,0 +1,30 @@
+WITN04790100
+WITN04790100
+
+by solution architects Gareth Jenkins (for Horizon) and Luxmi Selvarajah (for software
+designed by the company, SAP). My role was limited to assisting Post Office to
+identify and elaborate its requirements, which were documented, as described at
+paragraph [12] of my statement below. The consulting services that I provided are
+further described at paragraphs [14]–[17] of my statement below, and the changes
+that were delivered to Horizon, as far as I can recall, are described within paragraphs
+[24]–[36] of my statement below.
+
+10. Initial activities within the Programme, at this stage known as the ‘End to End Re-
+Architecting Programme’, included performing a series of workshops and analyses to
+produce a feasibility study document identifying a series of opportunities for Post
+Office to develop and implement. The document was titled, ‘End to End Re-
+Architecture Feasibility Study Business Requirements’ dated 21 February 2003
+(Feasibility Study) (WITN0479_01/1).
+
+11. I also assisted in preparing a proposal by Fujitsu to Post Office titled, ‘Fujitsu Services
+input to Feasibility Study for End to End re-Architecting of Post Office Systems’ dated
+24 March 2003 (Fujitsu Proposal) (WITN0479_01/2). This proposal was Fujitsu’s
+response to the requirements identified in the Feasibility Study, and it set out a
+number of transformation projects and ‘End to End releases’. My recollection is that I
+worked on an earlier draft of this proposal document, where I am named as an author.
+
+12. To progress these opportunities through the Programme, then re-labelled IMPACT,
+Post Office developed two conceptual designs, to my knowledge, which then became
+the drivers for the Programme:
+
+Page 3 of 13

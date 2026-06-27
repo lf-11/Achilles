@@ -1,0 +1,10 @@
+WITN09910100
+WITN09910100
+
+18. I have been asked to address the ability of Fujitsu employees to alter transaction data or data in branch accounts without the knowledge or consent of SPMs (known as "remote access"). After starting work on the Scheme I became aware of a case study in the Second Sight interim report - I believe this was 'spot review 5', which related to an allegation by a SPM who visited the Fujitsu offices in Bracknell and believed he had seen live transaction data being altered by employees working in the basement. Having reviewed (POL00151217) I now recall this SPM was Mr Michael Rudkin. It is my understanding, as far as I recall, that following the publication of their interim report, Second Sight was provided with a statement from the employee who was with Mr Rudkin during his visit to Bracknell, to the effect that what Mr Rudkin observed during his visit was a test environment and not connected to live data.
+
+19. I do remember Second Sight asking POL for email data from 2008 relating to matters concerning Spot Review 5. Having read (POL00151217), and from my recollection from my time working on the Scheme I think that this request was the subject of a number of exchanges between Second Sight and POL, and was discussed in detail in two meetings in 2015. I do not recall the specifics of these meetings, but having now reviewed the documents provided to me, I can see that the full positions of Second Sight and POL on this matter are found in the minutes of those meeting at (POL00022296) and (POL00063428).
+
+20. The issue of 'remote access' was was raised by Second Sight on a number of occasions during my time on the Scheme, but my understanding was that POL considered that the matter had been addressed in its response to Spot Review 5
+
+Page 7 of 68

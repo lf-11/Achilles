@@ -1,0 +1,32 @@
+WITN03920100
+WITN03920100
+
+central programme team and in the 4 national POCL IP implementation teams
+that the Horizon system was stable and operated with data integrity; that the
+major defects had been resolved; and, that the remaining known defects had fix
+resolution paths that were acceptable to business experts and stakeholders and
+taken either individually or collectively did not represent a risk to POCL
+operations, reputation or risk to any of the system users.
+
+45. Rollout
+
+(Reference FUJ00001284, FUJ00001327, FUJ00001514, FUJ00001515,
+FUJ00058358, FUJ00001516, FUJ00058267, FUJ00058272)
+
+The development of the ICL Pathway strategy for the rollout of the Horizon
+system, including the split implementation approach covering infrastructure and
+then installation / migration, was a joint effort between ICL Pathway and the
+POCL Horizon programme team. The strategy was designed to find an optimum
+balance between a number of conflicting requirements; for example the ability of
+POCL regional operations to cope with change volume; the ability of support
+services to support change volume; the requirements for Christmas and Bank
+Holiday cessation; the cost of maintaining field teams; the availability of
+hardware; etc. To reach an agreed and documented implementation strategy
+involved the engagement of multiple stakeholders across POCL and the iterative
+refinement of the strategy over a long period of time leading to an agreed
+position.
+
+46. Whilst, in isolation, every activity relating to the implementation of the Horizon
+system was relatively straightforward the complexity came with the logistical
+
+Page 17 of 32

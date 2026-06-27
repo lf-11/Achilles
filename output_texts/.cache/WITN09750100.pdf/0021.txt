@@ -1,0 +1,12 @@
+WITN09750100
+WITN09750100
+
+70. We were informed by Fujitsu that changes could only be made by a limited number of individuals with administrator access (not 'ordinary Fujitsu staff'), regardless of whether this was performed remotely or on-site. Any such access was logged by the system, which also had 'digital seal' arrangements in place on records, making editing detectable (with the exception of the unusual but technically feasible work-around set out below).
+
+71. The absence of remote management capabilities in the CE+ mode makes it marginally more secure, but as explained above we considered access rights, logging and digital seals (all included in Basic mode) the key controls to preserve data integrity.
+
+72. The reference to the 'delete and replace' scenario explores the technical feasibility that instead of 'editing' a transaction, an administrative user could 'delete and replace' a transaction in the Audit Store. Although we found this technically possible to do (by someone with access, who could also reinstate a formal digital seal), we were informed by Fujitsu staff that we interviewed that this was not done by Fujitsu administrators.
+
+73. Based on what we were told by Fujitsu staff, an ordinary Fujitsu employee would not have the requisite access rights to perform such transaction deletion and reinsertion in the Audit Store. I also recall my team reporting that Fujitsu staff had to investigate to see if it would actually be possible. The technical feasibility of this workaround and the lack of documentation was reported in our Board Briefing and Deliverable.
+
+Page 21 of 39

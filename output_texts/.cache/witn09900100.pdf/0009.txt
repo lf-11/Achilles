@@ -1,0 +1,31 @@
+WITN09900100
+WITN09900100
+
+a. Only "authorised" branch users could create or accept transactions in
+the system
+
+b. "all transactions and events are tagged and traceable to the user"
+
+c. "Sequential referencing of transactions, customer basket and
+associated IDS. Prevent gaps, duplications or anonymous
+transactions."
+
+d. "Audit file and read only control – transaction records securely sealed"
+
+16. Whilst I cannot recall receiving the report, I assume that I would have been
+reassured by its content at the time. However, knowing what I know now (as a
+result of the Group Litigation Order trials and what has been presented to the
+Inquiry), the report in my view was/is inaccurate on a number of points.
+Importantly, it seems that full investigations were not carried out at the time as
+Horizon was not considered as a possible or potential factor to the losses and
+notably the report states that there is an "absence of 'backdoors'" whereas I
+now understand the Fujitsu Super Users did have access to branch accounts.
+
+17. Documents POL00088956 and POL00088957 are two emails from John
+Breeden to me on 5 December 2010. I do not recall seeing these emails
+before and requested further disclosure on any response that I made to
+John's email, as well as any subsequent emails in this chain to help me
+understand what I did as a result of receiving these emails. However, POL
+has been unable to locate any response from me.
+
+Page 9 of 132

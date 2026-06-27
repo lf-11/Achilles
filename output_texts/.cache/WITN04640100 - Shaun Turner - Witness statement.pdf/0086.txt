@@ -1,0 +1,31 @@
+WITN04640100
+WITN04640100
+
+not recall this document prior to reviewing POL00043585, though I would have
+first seen the document shortly after it was issued in December 2018.
+
+284. My involvement in fixing the incident was in documenting the necessary
+requirements to drive the code fix in conjunction with business analysts who
+had worked on the project since its inception. Fujitsu had identified that a code
+fix would be required because the issue was affecting multiple branches, albeit
+in small numbers. My involvement was taking what Fujitsu had identified as the
+scenarios which triggered this problem in branches and ensuring these were
+covered in a requirements document on which Fujitsu could build.
+
+285. In the meantime, Esther Harvey in conjunction with Fujitsu set up a
+monitoring process to identify branches where the issue was occurring and for
+Fujitsu to provide the Smart ID team with daily reports listing the affected
+branches. In particular, these reports flagged any new branches affected by the
+mismatch issue. The next step was the FSC team contacting the branches
+where there had been an issue and advising them as to how to resolve it,
+though this was managed by Esther Harvey and I was not involved in this
+process element.
+
+286. I have been asked to consider the comment by Fujitsu's representatives
+that "We have alert[ed] the branch that raised the original ticket to the cause of
+their discrepancy but have not yet gone into the detail of the cause". As stated
+in paragraph 278, I reviewed the documents identified in respect of this Smart
+ID discrepancy issue and, in particular, POL00043585 which includes the
+comment in question.
+
+Page 86 of 95

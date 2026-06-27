@@ -1,0 +1,52 @@
+WITN08340100
+WITN08340100
+
+Index to First Witness Statement of David Posnett
+
+No. URN Document description Control Number
+1 POL00105190 Separation Project - Criminal Investigations POL-0080815
+Policy for POL
+2 POL00118096 Email from Andrew Wise to Michael VIS00012685
+Stanway forwarding an email re Casework
+Compliance
+3 POL00104747 Investigation Policy: Casework Management POL-0080387
+(England & Wales) v1.0
+4 POL00104777 Investigation Policy: Casework Management POL-0080417
+(England & Wales) v4.0
+5 POL00118101 Appendix 3 - Offender reports and Discipline VIS00012690
+reports: "Compliance Guide to the
+Preparation and Layout of Investigation Red
+Label Case Files" - undated (date taken
+from parent email)
+6 POL00118104 Appendix 6 - Identification codes (undated - VIS00012693
+date taken from parent email)
+7 POL00118128 Race Identification Codes, numbers 1-7. VIS00012717
+8 POL00118131 Identification Codes, numbers 1-7 VIS00012720
+9 POL00104806 Royal Mail Group Security – Procedures and POL-0080438
+Standards: Standards of behaviour and
+complaints procedure No.10-X v2
+10 POL00031005 Conduct of Criminal Investigation Policy for POL-0027487
+the Post Office. (Version 0.2)
+11 POL00120165 Post Office - Security Project Initiation POL-0125850
+Document (PID) - Product X Fraud Reductio.
+v.1
+12 POL00120166 Report of Project HNGX to support the POL-0125851
+migration of all branches to Horizon Online
+(HOL) from Dave Posnett
+13 POL00084813 Condensed Guide For Audit Attendance POL-0081871
+14 POL00031005 Conduct of Criminal Investigation Policy for POL-0027487
+the Post Office. (Version 0.2)
+15 FUJ00002033 Fujitsu Services Security Management POINQ0008204F
+Service: Service Description. Version 1.0
+16 FUJ00080107 Fujitsu's Guidance on Security management POINQ0086278F
+service: Service Description (v.2)
+17 FUJ00002264 Fujitsu and Post Office Document re: POINQ0008435F
+Security Management Service: Service
+Description v3
+18 FUJ00088868 Fujitsu/Post Office Security Management POINQ0095039F
+Service: Service Description (v3.5)
+19 FUJ00002555 Fujitsu Security Management Service: POINQ0008726F
+Service Description, HNG-X and HNG-X
+Application Roll Out Transitional Period,
+Version 4.0.
+Page 45 of 48

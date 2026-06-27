@@ -1,0 +1,8 @@
+WITN09900100
+WITN09900100
+
+33. When presented with this information, I took the experts at their word. To learn that this was incorrect shocked me deeply.
+
+34. In the midst of this messaging, there were genuine cases where SPMs complained about Horizon IT system causing issues but, when investigated, it was proved that they (or their assistants) caused the error. I remember distinctively a SPM writing to Paula Vennells that an error had occurred in his branch. He was extremely diligent and experienced and was confident that he had not caused the error and that therefore it must be the Horizon system. Paula asked me to investigate and so my team went to the branch. Unusually, the SPM had CCTV positioned so perfectly, you could see the counter transactions. The team honed in on a Saturday morning transaction, which was a £1k deposit into a bank account. In the CCTV footage you can see the SPM serve the customer and process the £1k deposit on Horizon, however rather than taking a £1k from the customer he mistakenly gave the customer a £1k as if the customer was making a withdrawal. This resulted in a £2k loss on balancing. It was instances such as this that leaned me more towards the thinking that discrepancies were more likely to be caused by user error rather than issues with Horizon, as even the best SPM could make mistakes.
+
+Page 20 of 132

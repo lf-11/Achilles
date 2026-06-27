@@ -1,0 +1,30 @@
+WITN05970200
+WITN05970200
+
+EPOSS, but these were championed by the relevant business groups in POCL
+rather than any specific Security or Investigations groups.
+
+6. Specifically, whereas BA had requirements for a FRMS (Fraud Risk Management
+Service), to attempt to proactively manage encashment fraud (detecting usual
+patterns of activity etc), there was no equivalent requirement specified by POCL.
+
+7. So, although accounting integrity was of course key to POCL, and EPOSS would
+automate the production of the Cash Account and financial reporting from
+branches (leading, in theory to tighter financial control), there did not appear to be
+a strong business priority for explicit functionality aimed at supporting
+investigations of staff or subpostmaster fraud.
+
+8. It is possible that there was an assumption by some that the presence of an
+automated system would in itself reduce the cases of fraud, as it would be harder
+to conceal compared to the previous slow, time-delayed and error-prone paper
+system – if every transaction was being reported daily to TIP and the Cash
+Account generated automatically, the opportunities for fraud would be reduced.
+However, this paragraph is speculation as I do not have any evidence to support
+this view.
+
+BA/POCL Fraud & Security Group
+
+9. BA seconded an experienced manager, Gareth Lewis, who I believe had
+background in BA Organised Fraud, to the Programme, and initially worked as a
+
+Page 3 of 14

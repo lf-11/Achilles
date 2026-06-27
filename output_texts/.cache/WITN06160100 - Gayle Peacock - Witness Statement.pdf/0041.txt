@@ -1,0 +1,29 @@
+WITN06160100
+WITN06160100
+
+the branch into the next accounting period. Feedback via the Outlet Intervention
+Team was that Transaction Corrections were being sent to branches on the day
+they were due to balance which forced them to accept the Transaction
+Correction and resolve the discrepancy, leaving them to dispute it afterwards.
+This was raised to the Product and Branch Accounting Teams in Chesterfield to
+put processes in place that prevented this from happening in order to give the
+branch longer to complete their own investigations before accepting it.
+
+122. There were improvements to the process which were identified and
+implemented as part of the Branch Support Program. The first was the
+workstream that reviewed the suspension policy, which changed the approach of
+suspending a postmaster and then investigating to one where the postmaster
+was able to continue running the branch whilst the financial discrepancies
+identified at audit were investigated fully.
+
+123. The second was the work that was undertaken to improve the accessibility
+to more detailed Horizon data. As part of the Program, I worked with colleagues
+in Fujitsu to understand how it would be possible to provide Post Office
+colleagues with access to a tool known as HORICe, which stood for the Horizon
+Information Centre. The data within this tool was all of the information generated
+by branch and had the level of granularity that was available as part of the ARQ
+process. Three months' worth of data could be accessed, and it worked on the
+basis of permission-based roles where a number of defined users could access
+the system at one time. The tool could also be used to run specific reports as
+
+Page 41 of 45

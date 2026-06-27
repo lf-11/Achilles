@@ -1,0 +1,31 @@
+WITN04800100
+WITN04800100
+
+those to the postmasters for entry on their counter. This process verified the
+authenticity of the counter and the postmaster's identity and enabled a secure key,
+unique to that post office, to be downloaded onto a spare blank key card held at the
+post office. At the end of the process, the blank key card would be loaded with a new
+secure key and the post master would be able to access the system.
+
+16. This was a really cumbersome and time-consuming process. A Post Office branch
+could not trade until this process was completed as the postmaster would not have
+access to their counter. The postmaster and service desk also had to do the exchange
+over the phone, so there were often miscommunications. This process took, at best,
+15 minutes to complete.
+
+17. This manual approach to key card recovery was demonstrated by the Horizon
+security team to Jeremy Fawkes (Head of IT Security at the Post Office) and Gareth
+Lewis (Director of Security, Benefits Agency) in March 1997. At a meeting that
+followed the demonstration, Jeremy raised that the manual approach was not a
+supportable solution or operationally fit for purpose at scale, and placed an action on
+the Horizon security team to look for a more sustainable solution.
+
+18. My understanding, which I think may have come from conversations with Jeremy
+Fawkes, was that the Post Office was concerned about the business impact of a
+postmaster losing their key card and the time it would take to recover the key card to
+enable the post office to trade. My understanding at the time was that if the system
+was not available to a postmaster, the Post Office would have had to pay
+compensation to the affected postmasters for loss of trade, and this was a big concern
+for them. In addition, ICL Pathway had the challenge of refreshing keys held on the
+
+Page 6 of 26

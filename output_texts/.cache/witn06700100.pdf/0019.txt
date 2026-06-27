@@ -1,0 +1,14 @@
+WITN06700100
+WITN06700100
+
+47. I also did author one document, Operators In Service Debt (POL00088579). My recollection is that the reason I took on the role of author of this particular iteration of the Postmasters' In Service Debt policy was because the previous owner and author were no longer with POL and the document needed to be updated to reflect working practices.
+
+48. I have also been asked to consider a range of policy and other documents relating to losses and the recovery of debts, and to explain what error notices, transaction corrections and transaction acknowledgements were, the circumstances in which they were issued and to describe related procedural matters (POL00083939, POL00088904, NFSP00000169, NFSP00000043, POL00085794, POL00030562, POL00083951, POL00083952, POL00039024, POL00039089, POL00113670 and POL00006011).
+
+49. To the best of my knowledge, my recollection is as follows:
+
+49.1 Error notice: an error notice detailed results of the balance along with the amount of the discrepancy to which the error notice relates. Details/evidence of the error should have accompanied the error notice, which was a paper document and was sent to the branch as a hard copy. An error notice could be for either a positive or negative amount, i.e. a gain or a loss.
+
+49.2 Transaction correction: a transaction correction replaced the error notice and was sent to the branch via the Horizon system. Again the transaction correction would be accompanied by supporting evidence of the error. A transaction correction could be for either a positive or negative amount, i.e. a gain or a loss.
+
+Page 19 of 53

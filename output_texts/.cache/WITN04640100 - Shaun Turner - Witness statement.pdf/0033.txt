@@ -1,0 +1,12 @@
+WITN04640100
+WITN04640100
+
+103. I have been asked whether there were any further investigations that were carried out to identify other branches affected by the Callendar Square Bug. As stated in paragraph 82 above, I have reviewed the documents identified in respect of the Callendar Square Bug. Before reviewing these documents, I remembered that more than one POL branch was affected by the Callendar Square bug. However, I was unable to recall the precise scope and scale of how many branches were affected until I read the documents.
+
+104. Looking at the documents, I emailed Sandra MacKay and Brian Trotter on 2 March 2006 to provide an update on the Callendar Square bug (page 4 of document POL00081928), in which I noted that "there is now recognition that [it] is a wider issue than just a software "quirk" at just one branch, which means it is now being actively managed as a cross domain problem with Fujitsu".
+
+105. I understand from having read POL00070134 that at least four branches were affected by the Callendar Square bug at this time. However, I was only in copy in this email and I do not recall the extent of the problem more widely. I should also note that the email from POL00070134 is identical to an email in POL00070131.
+
+106. As far as I can recall, I was not involved in any investigations in relation to any of the other branches affected by the Callendar Square bug. The investigation and resolution more widely across the different branches would be managed by the Problem Management Team in POL and the parallel team in Fujitsu. Looking into the cause of the issue or understanding the solution was outside of my remit.
+
+Page 33 of 95

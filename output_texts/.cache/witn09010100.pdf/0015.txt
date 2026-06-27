@@ -1,0 +1,30 @@
+WITN09010100
+WITN09010100
+
+used by subpostmasters to hold losses following a misbalance pending further
+investigation and to 'settle' transaction corrections the subpostmaster wished
+to query. I think that by using this facility the cash account could be completed
+without the error showing as a loss or gain. This was a short term measure (I
+think items should have remained in suspense for no longer than 8 weeks) to
+enable further investigations.
+
+43. I have been asked whether the only option available to a subpostmaster who
+received a transaction correction ("TC") they didn't understand or wished to
+challenge was to telephone NBSC Helpline. I do not understand this question
+as I have read the document "Debt Recovery Processes under Branch
+Trading" [POL 00085794] which clearly states that if a subpostmaster receives
+a TC they don't understand or they wish to challenge they should contact the
+telephone number given on the TC. Having looked at the example TC in the
+document I can say that I believe the telephone number on that example TC
+was not the NBSC Helpline number but a telephone number in what I knew to
+be the Product and Branch Accounting team in Chesterfield.
+
+44. The document indicates that "Accept and Settle Centrally" was a facility
+available if a subpostmaster was not able to identify the reason for the
+discrepancy identified in the TC to enable further investigations to take place.
+
+45. I cannot say with any certainty that the "Accept and Settle Centrally" facility
+was the only option available to a subpostmaster if they considered the error
+was a result of a systems error but from recollection I would have to say I
+
+Page 15 of 28

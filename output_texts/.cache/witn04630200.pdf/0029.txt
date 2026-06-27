@@ -1,0 +1,31 @@
+WITN04630200
+WITN04630200
+
+would have felt that Transaction Corrections and Transaction
+Acknowledgements needed referring to in that section as at some point in
+time there had been questions suggesting that people thought TCs and
+TAs were a mechanism to directly insert records into Horizon without the
+branch seeing them and being able to review and formally accept or reject
+them; a perspective that was not the case.
+
+63. My recollection is that I was involved at various times in providing input or
+identifying other relevant teams for input, in response to a wide range of
+questions and reviews. Some questions included reports related to the
+matters in this Inquiry but other questions would have related to reviews
+such as for strands of the Back Office Efficiency Programme, for lean
+process improvement work, for central system migration projects, for
+P&BA areas impacted by Horizon upgrades (including an aborted attempt
+to explore an alternative point of sale system), for process understanding
+related to tenders and new suppliers for cheque processing and card
+processing, for routine internal and external audit, for POL separation as
+part of Royal Mail privatisation and for process reviews linked to
+headcount reduction programmes. I think there were other reviews too,
+again not related to Horizon.
+
+64. Given the range of process reviews mentioned above, I am sorry that I
+cannot remember how to differentiate my involvement with considering
+and responding to Second Sight's interim report or to the establishment
+and running of the Mediation Scheme, but I would expect that my
+involvement would have been in just the same way as I have already
+explained in several sections above, wherein I or my team may have been
+Page 29 of 61

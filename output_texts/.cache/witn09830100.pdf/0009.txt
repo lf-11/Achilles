@@ -1,0 +1,12 @@
+WITN09830100
+WITN09830100
+
+KNOWLEDGE OF THE HORIZON IT SYSTEM
+
+20 By the time I arrived at POL in September 2014, it was clear that concerns about the Horizon IT system ("Horizon") had been expressed to POL for some time and a fair bit of work had already been done to try to get to the bottom of the issues and resolve them. At the time, Second Sight had already prepared its first report and found no systemic problems with the Horizon software; however, Second Sight reported several themes arising from the postmasters' complaints relating to Horizon, such as power outages that could potentially delay a transaction being processed and operational errors arising from the icons on the branch terminal screen being too close, potentially resulting in postmasters pressing the wrong keys. Relatively soon after I joined POL, I began to understand that at the heart of the complaints was the suggestion that Horizon was producing anomalies; it was not always the case that it was attributed to a bug; it could also be hardware or external factors such as power outages.
+
+21 I was not provided with any specific training relating to Horizon. I was employed to help facilitate a scheme where sub-postmasters' complaints could be ventilated, any points of difference with POL could be understood, and a mediated resolution might be achieved.
+
+22 However, I did take steps to improve my knowledge of Horizon as referred to in more detail below.
+
+Page 9 of 168

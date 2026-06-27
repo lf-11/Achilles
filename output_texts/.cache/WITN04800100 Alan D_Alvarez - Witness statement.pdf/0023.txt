@@ -1,0 +1,33 @@
+WITN04800100
+WITN04800100
+
+of the roles I held during the periods of time I held them (as listed at paragraph 6
+above).
+
+64. During my involvement, which included some time prior to the national rollout as well
+as and during the development and rollout of Horizon Online, I did not have concerns
+regarding the robustness of the Horizon IT system. As is typical of any large and
+complex IT system, defects did occur. However, in my experience, these were fully
+visible to the customer (whether Post Office or the Joint Authority) and, where
+required, agreed workarounds were put in place. I cannot comment on the matters
+that may have been communicated to the Government, as I would not have been
+involved in any such discussions
+
+Interaction between teams
+
+65. During the period of time prior to the national rollout of Horizon, I led the Security
+Delivery Team. This team was part of the Delivery Organisation that was headed up
+by Terry Austin. I reported into the Release Programme Managers for the deliveries
+appropriate to each of the releases (e.g. Releases 1A, 1B, 1C). I am unable to recall
+the Release Programme Managers, save that I recall reporting into Martyn Hughes
+for a period of time in relation to New Release 2.
+
+66. During my involvement with Horizon Online, I was the Programme Director
+accountable for all solution delivery team, including Applications, Infrastructure,
+Integration, Test & Validation and Deployment. I reported to the Post Office Business
+Unit Director, Gavin Bounds.
+
+67. I believe there was sufficient interaction between teams in both my assignments. In
+the period prior to the rollout of Horizon, and while I was working on the KMS, my
+
+Page 23 of 26
