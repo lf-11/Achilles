@@ -7,5 +7,7 @@ drive-download-*.zip
 extraction_results/
 page_results/
 
-# Claude internals
+# Claude internals — track only skills/, ignore everything else
+.claude/*
+!.claude/skills/
 memory.md
