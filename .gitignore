@@ -8,5 +8,4 @@ extraction_results/
 page_results/
 
 # Claude internals
-.claude/
 memory.md
