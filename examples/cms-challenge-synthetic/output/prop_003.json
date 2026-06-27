@@ -1,0 +1,129 @@
+{
+  "proposition_id": "prop_003",
+  "proposition_text": "It was an express term of the MSA and the SOW that the go-live date for the Platform was fixed at 1 October 2024, and that time was of the essence in respect of that date.",
+  "judgement": "adverse",
+  "confidence": 0.95,
+  "summary": "The proposition is contradicted by the very contracts it relies upon and by almost every other document in the bundle. The MSA (doc_003, cl 3.1) provides only that the Supplier 'shall use reasonable endeavours to achieve the target go-live date' and expressly states that 'the implementation timetable is a planning estimate and may be adjusted through the change control procedure'; it contains no fixed date and no time-of-the-essence clause. The SOW (doc_004) lists 1 October 2024 as the 'Go-live (target date)' and states in terms that 'The go-live date of 1 October 2024 is a target date... subject to the change control procedure.' That the date was movable rather than fixed is confirmed by the Deed of Variation No. 1 (doc_006, 'target go-live date'), by Change Order No. 3 (doc_007), which revised go-live from 1 October to 18 November 2024 by agreement, by the change-request emails (doc_010), by TechFlow's letter (doc_015, 'The go-live date was a target, not a fixed date'), and crucially by all three of Meridian's own witnesses (Vance doc_016, Okafor doc_017, Nair doc_018), who describe the date being revised by Change Order No. 3. The only material supporting the proposition is the self-serving pleading at paragraph 6 of the Particulars of Claim (doc_002), from which the proposition is drawn; it is directly contradicted by the contractual documents and the rest of the evidence. The proposition is therefore adverse on the bundle as a whole.",
+  "evidence": [
+    {
+      "doc_id": "doc_003",
+      "relevance": "adverse",
+      "reasoning": "This is the MSA, one of the two contracts said to contain the express term. Far from fixing the date or making time of the essence, clause 3.1 imposes only a reasonable-endeavours obligation toward a 'target go-live date stated in the SOW' and expressly characterises the timetable as a 'planning estimate' that 'may be adjusted through the change control procedure.' There is no fixed-date or time-of-the-essence provision anywhere in the MSA. This directly contradicts the proposition.",
+      "excerpt": "The Supplier shall use reasonable endeavours to achieve the target go-live date stated in the SOW. The parties acknowledge that the implementation timetable is a planning estimate and may be adjusted through the change control procedure."
+    },
+    {
+      "doc_id": "doc_004",
+      "relevance": "adverse",
+      "reasoning": "This is the SOW, the other contract said to contain the express term. The implementation timetable labels 1 October 2024 as 'Go-live (target date)', and clause 2.1 states in terms that the date is a target and subject to change control. This squarely contradicts the proposition that 1 October 2024 was 'fixed' with time of the essence; the contract says the opposite.",
+      "excerpt": "The go-live date of 1 October 2024 is a target date. The detailed implementation plan is a planning estimate and is subject to the change control procedure in clause 3 of the MSA."
+    },
+    {
+      "doc_id": "doc_002",
+      "relevance": "supported",
+      "reasoning": "This is the Particulars of Claim and the source of the proposition. Paragraph 6 pleads the allegation verbatim, so on its own it 'supports' the proposition as a pleaded assertion. However it is an unproven, self-serving allegation that is contradicted by the underlying contracts (doc_003, doc_004), the variation documents (doc_006, doc_007) and Meridian's own witnesses (doc_016 to doc_018), so it carries little evidential weight against those documents.",
+      "excerpt": "It was an express term of the MSA and the SOW that the go-live date for the Platform was fixed at 1 October 2024, and that time was of the essence in respect of that date."
+    },
+    {
+      "doc_id": "doc_001",
+      "relevance": "neutral",
+      "reasoning": "The Claim Form alleges 'defective and delayed' implementation under the MSA but says nothing about the go-live date being a fixed, time-of-the-essence term. The generic reference to delay neither establishes nor refutes the express-term/time-of-the-essence proposition.",
+      "excerpt": "damages for breach of contract and/or negligence and/or misrepresentation arising out of the Defendant's defective and delayed design, build and implementation of a cloud-based inventory and EPOS platform pursuant to a Master Services Agreement dated 14 March 2024"
+    },
+    {
+      "doc_id": "doc_005",
+      "relevance": "not_addressed",
+      "reasoning": "The Phase 1 Order Form records pricing and payment terms only. It does not address the go-live date, whether it was fixed, or whether time was of the essence.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_006",
+      "relevance": "adverse",
+      "reasoning": "The Deed of Variation No. 1 refers to the date as the 'target go-live date', consistent with the contracts and inconsistent with a fixed, time-of-the-essence date. It also demonstrates that the parties used the change-control/variation machinery to adjust the contract, underscoring that the timetable was variable rather than fixed.",
+      "excerpt": "This Deed does not vary the scope of the works or the target go-live date."
+    },
+    {
+      "doc_id": "doc_007",
+      "relevance": "adverse",
+      "reasoning": "Change Order No. 3 records that the parties agreed to revise the go-live date from 1 October 2024 to 18 November 2024 to accommodate the loyalty module. A date that could be, and was, revised by agreement under the change-control procedure is the antithesis of a date 'fixed' with time of the essence. This strongly contradicts the proposition.",
+      "excerpt": "The parties agree that, to accommodate the additional works, the go-live date is revised from 1 October 2024 to 18 November 2024. The revised date applies to the Platform as a whole."
+    },
+    {
+      "doc_id": "doc_008",
+      "relevance": "not_addressed",
+      "reasoning": "The Phase 1 UAT Acceptance Certificate concerns acceptance and snags. It does not address whether the go-live date was a fixed, time-of-the-essence express term.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_009",
+      "relevance": "somewhat_adverse",
+      "reasoning": "These go-live-decision emails show TechFlow recommending deferral to January 2025 and Meridian instructing it to proceed on 18 November, with both treating the date as a matter to be decided commercially rather than a fixed contractual deadline of 1 October. This is inconsistent with the proposition that 1 October 2024 was a fixed, time-of-the-essence date; by this stage the operative date was 18 November under Change Order No. 3.",
+      "excerpt": "Please proceed to go-live on 18 November 2024 as planned. I understand your team's reservations and I am content to take that risk on Meridian's side."
+    },
+    {
+      "doc_id": "doc_010",
+      "relevance": "adverse",
+      "reasoning": "These emails show Meridian (Helena Vance) requesting the loyalty module, accepting it was not in the SOW, and expressly accepting a knock-on to the go-live date ('we are willing to discuss a revised date'), with TechFlow responding that go-live would move from 1 October to 18 November. This contradicts any notion of a fixed/time-of-the-essence 1 October date and shows the date being moved by mutual agreement.",
+      "excerpt": "We accept there may be a knock-on to the go-live date and we are willing to discuss a revised date to accommodate it."
+    },
+    {
+      "doc_id": "doc_011",
+      "relevance": "not_addressed",
+      "reasoning": "This email concerns the root cause of the 25 November outage (network failure at Meridian's data-centre provider). It does not address the go-live date or whether time was of the essence.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_012",
+      "relevance": "not_addressed",
+      "reasoning": "This internal Meridian email concerns December trading, the Lutterworth flood and market conditions. It does not address the go-live date or whether it was a fixed, time-of-the-essence term.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_013",
+      "relevance": "not_addressed",
+      "reasoning": "The defect log records post-go-live defects and their causes. It does not address the go-live date or whether time was of the essence.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_014",
+      "relevance": "somewhat_adverse",
+      "reasoning": "Meridian's termination/letter before action asserts that TechFlow 'delivered the Platform late' but does not assert any fixed 1 October date or that time was of the essence; it treats go-live as having occurred on 18 November 2024 (the Change Order date). The absence of any reliance on a fixed/time-of-the-essence term, coupled with acceptance of the 18 November date, is mildly inconsistent with the proposition.",
+      "excerpt": "following go-live on 18 November 2024 the Platform suffered serious and repeated failures, including critical defects in the stock-synchronisation module"
+    },
+    {
+      "doc_id": "doc_015",
+      "relevance": "adverse",
+      "reasoning": "TechFlow's response to the letter before action directly addresses and denies the proposition: it states that the go-live date was a target, not a fixed date, and that it moved from 1 October to 18 November by reason of Change Order No. 3 signed by Meridian. This squarely contradicts the proposition.",
+      "excerpt": "The go-live date was a target, not a fixed date. It moved from 1 October to 18 November 2024 by reason of Change Order No. 3, signed by your client on 2 September 2024"
+    },
+    {
+      "doc_id": "doc_016",
+      "relevance": "adverse",
+      "reasoning": "Helena Vance, Meridian's own Programme Director, states that Change Order No. 3 'moved the go-live date to 18 November 2024' and that she decided to go live on 18 November despite TechFlow's recommendation to defer. Meridian's own witness thus treats the date as variable and revised by agreement, contradicting the proposition that 1 October 2024 was fixed with time of the essence.",
+      "excerpt": "It was documented in Change Order No. 3, which my colleague Priya Nair signed on 2 September 2024, and which also moved the go-live date to 18 November 2024."
+    },
+    {
+      "doc_id": "doc_017",
+      "relevance": "somewhat_adverse",
+      "reasoning": "Raymond Okafor, a Meridian witness, states that the platform 'went live on 18 November 2024' and does not refer to any fixed 1 October date or time being of the essence. His acceptance of the 18 November date as the operative go-live is inconsistent with the proposition, though he does not address the contractual characterisation directly.",
+      "excerpt": "The new platform went live on 18 November 2024, immediately before our peak trading period."
+    },
+    {
+      "doc_id": "doc_018",
+      "relevance": "adverse",
+      "reasoning": "Priya Nair, who signed the MSA, the SOW-related Order Form and Change Order No. 3 for Meridian, states that Change Order No. 3 'revised the go-live date from 1 October to 18 November 2024' and that she 'understood at the time that we were changing both the scope and the date.' Meridian's own contracting witness confirms the date was variable and was changed by agreement, directly contradicting the proposition.",
+      "excerpt": "it revised the go-live date from 1 October to 18 November 2024. I understood at the time that we were changing both the scope and the date."
+    },
+    {
+      "doc_id": "doc_019",
+      "relevance": "not_addressed",
+      "reasoning": "The IT expert report addresses Platform availability and defects only. It does not address the go-live date or whether it was a fixed, time-of-the-essence express term.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_020",
+      "relevance": "not_addressed",
+      "reasoning": "The quantum expert report addresses wasted expenditure, loss of profit and contractual limitation. It does not address the go-live date or whether time was of the essence.",
+      "excerpt": ""
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "proposition_id": "prop_013",
+  "proposition_text": "Meridian suffered loss of profit during the peak trading period of November and December 2024 of £4,200,000.",
+  "judgement": "adverse",
+  "confidence": 0.86,
+  "summary": "The £4,200,000 loss-of-profit figure appears only as a pleaded particular in the Particulars of Claim (doc_002) and is echoed at a high level in the pre-action correspondence (doc_014). It is squarely contradicted by the rest of the bundle. Meridian's own forensic accounting expert (doc_020, Greenhalgh) opines that the pleaded £4,200,000 is 'substantially overstated', that the supportable figure attributable to the Platform's defects is of the order of £1,300,000 before causation and contractual limitation, and that roughly £1,500,000 of the shortfall is attributable to non-Platform causes (the Lutterworth distribution-centre flood and a sector-wide downturn). Meridian's own witnesses (Okafor, doc_017; and the internal email doc_012) accept the December shortfall had multiple causes besides the Platform, and the IT expert (doc_019) finds Platform-attributable unavailability of only ~6.2% (not the pleaded 40%+), undermining the causal basis for the loss. The MSA (doc_003) also expressly excludes loss of profit and caps liability. On the whole bundle the precise £4.2m figure is not made out and is affirmatively contradicted by the claimant's own quantum evidence, making the proposition adverse.",
+  "evidence": [
+    {
+      "doc_id": "doc_001",
+      "relevance": "neutral",
+      "reasoning": "The Claim Form states the overall claim is for damages for breach/negligence/misrepresentation of approximately £6,000,000 but does not break out or quantify the loss of profit figure, so it neither supports nor contradicts the specific £4,200,000 head of loss.",
+      "excerpt": "The Claimant expects to recover more than £200,000. The amount claimed is approximately £6,000,000."
+    },
+    {
+      "doc_id": "doc_002",
+      "relevance": "supported",
+      "reasoning": "This is the pleading the proposition is drawn from. It expressly particularises loss of profit during the peak trading period of November and December 2024 at exactly £4,200,000, so on its face it asserts the proposition. It is, however, only an unproven allegation that the rest of the bundle must be tested against.",
+      "excerpt": "(b)Loss of profit during the peak trading period of November and December 2024: £4,200,000."
+    },
+    {
+      "doc_id": "doc_003",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The Master Services Agreement contains a limitation clause expressly excluding liability for loss of profit and capping liability at the charges paid. This does not disprove that a loss was suffered, but it bears adversely on the recoverability/validity of a £4.2m loss-of-profit claim and is relied on by TechFlow and noted by the quantum expert.",
+      "excerpt": "14.1  Subject to clause 14.3, the Supplier shall not be liable to the Customer, whether in contract, tort (including negligence) or otherwise, for any loss of profit, loss of revenue, loss of anticipated savings, or any indirect or consequential loss."
+    },
+    {
+      "doc_id": "doc_004",
+      "relevance": "not_addressed",
+      "reasoning": "The Statement of Work sets out scope, milestones and the target go-live date. It says nothing about loss of profit or the quantum of any loss, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_005",
+      "relevance": "not_addressed",
+      "reasoning": "The Order Form sets out the contract pricing (£2.4m) and line items. It does not address any loss of profit suffered by Meridian during peak trading.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_006",
+      "relevance": "not_addressed",
+      "reasoning": "The Deed of Variation varies only the payment milestone profile and does not address loss of profit or quantum.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_007",
+      "relevance": "not_addressed",
+      "reasoning": "Change Order No. 3 adds the loyalty module and revises the go-live date. It bears on liability/causation for delay but says nothing about the quantum of any loss of profit.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_008",
+      "relevance": "not_addressed",
+      "reasoning": "The UAT Acceptance Certificate confirms Phase 1 acceptance. It is relevant to liability but does not address the loss-of-profit quantum.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_009",
+      "relevance": "not_addressed",
+      "reasoning": "This go-live decision email concerns whether to defer go-live past peak trading; it goes to causation/contributory fault but does not address the amount of loss of profit suffered.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_010",
+      "relevance": "not_addressed",
+      "reasoning": "This email concerns the loyalty module change request and revised go-live date. It does not address loss of profit or its quantum.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_011",
+      "relevance": "somewhat_adverse",
+      "reasoning": "This email attributes the largest outage (25 November, ~5 hours) to a network failure at Meridian's data centre provider (Northgate Telecom) rather than the Platform. It undermines the causal link between Platform defects and the peak-trading sales shortfall, indirectly weakening the basis for attributing £4.2m of lost profit to TechFlow.",
+      "excerpt": "The root cause was a loss of wide-area network connectivity at your data centre provided by Northgate Telecom, not the Platform."
+    },
+    {
+      "doc_id": "doc_012",
+      "relevance": "adverse",
+      "reasoning": "This internal Meridian email is direct contemporaneous evidence that the poor December trading had multiple causes other than the Platform — the Lutterworth distribution-centre flood (~40 stores, ~10 days) and a soft market with declining footfall and competitor discounting, with like-for-likes already behind in October (before go-live). The author explicitly warns against attributing the whole shortfall to the platform, contradicting the premise that the full £4.2m loss of profit flows from TechFlow's breaches.",
+      "excerpt": "I'd be wary of attributing the whole shortfall to the platform when the DC flood and the wider market are doing a lot of the damage."
+    },
+    {
+      "doc_id": "doc_013",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The defect log records that Platform-attributable unavailability over the period was 'modest' and that the largest outage (D-003) and intermittent till freezes (D-006) were caused by Meridian's own network, not the Platform. This undercuts the causal foundation for a £4.2m peak-trading loss flowing from Platform defects.",
+      "excerpt": "Recorded Platform unavailability attributable to Platform defects over the period was modest; the single largest outage (D-003) and the intermittent till freezes (D-006) were attributable to network connectivity provided by Meridian, not to the Platform."
+    },
+    {
+      "doc_id": "doc_014",
+      "relevance": "somewhat_supported",
+      "reasoning": "Meridian's solicitors' termination/letter before action asserts that the failures occurred during the most important trading period and that the client will seek loss of profit during the peak trading period, described as 'substantial'. This echoes Meridian's case but does not put a figure on it or independently verify the £4,200,000, so it offers only weak, partisan support.",
+      "excerpt": "Our client will be seeking damages, including wasted expenditure and loss of profit during the peak trading period, which are substantial."
+    },
+    {
+      "doc_id": "doc_015",
+      "relevance": "adverse",
+      "reasoning": "TechFlow's solicitors' response expressly disputes quantum, states the pleaded loss of profit is grossly overstated, and points to the Lutterworth flood and the sector downturn as alternative causes, as well as the clause 14 exclusion/cap. It directly contradicts the £4,200,000 figure.",
+      "excerpt": "Your client's pleaded loss of profit is grossly overstated and ignores (a) the flooding of your client's Lutterworth distribution centre in December 2024 and (b) the well-documented downturn in the retail sector during that quarter."
+    },
+    {
+      "doc_id": "doc_016",
+      "relevance": "neutral",
+      "reasoning": "Helena Vance's statement confirms serious stock-sync disruption during the busiest period but acknowledges she could not quantify till downtime and that some connectivity problems were Meridian's own broadband. She does not address or support the £4,200,000 quantum, and her concessions on causation are mildly unhelpful to the figure.",
+      "excerpt": "These problems were serious and took several weeks to bring under control. They caused a great deal of disruption for store teams during our busiest period."
+    },
+    {
+      "doc_id": "doc_017",
+      "relevance": "adverse",
+      "reasoning": "Meridian's own Head of Retail Operations concedes December trading was poor for reasons beyond the Platform — the Lutterworth flood (~40 stores, ~10 days), a weak market with falling footfall and heavy discounting — and that some outages were network/broadband not Platform. He frames the Platform as 'one factor among several', directly undercutting attribution of the full £4.2m loss of profit to TechFlow.",
+      "excerpt": "Our trading in December 2024 was poor, but the platform was not the only reason... None of this is to say the platform problems did not hurt us — they did, especially the stock-sync issues — but they were one factor among several."
+    },
+    {
+      "doc_id": "doc_018",
+      "relevance": "neutral",
+      "reasoning": "Priya Nair addresses contract value, payments and acceptance, and expressly states she cannot comment on technical performance. She does not address the loss-of-profit quantum, so her statement is essentially neutral on the proposition.",
+      "excerpt": "I am not in a position to comment on the technical performance of the platform; that is a matter for my operational and technical colleagues."
+    },
+    {
+      "doc_id": "doc_019",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The IT expert finds Platform-attributable unavailability of only ~6.2% of trading hours (far below the pleaded 40%+), and that the largest outage and several till interruptions were due to Meridian's own network/broadband. While he confirms genuine Severity 1 stock-sync defects, his findings substantially narrow the causal basis on which any £4.2m peak-trading loss could rest, bearing adversely on the proposition's quantum.",
+      "excerpt": "the total Platform unavailability attributable to the Platform itself was approximately 6.2% of trading hours over the period. That figure is materially lower than the figure of \"more than 40% of trading hours\" referred to in the pleadings."
+    },
+    {
+      "doc_id": "doc_020",
+      "relevance": "adverse",
+      "reasoning": "This is the decisive document. Meridian's own instructed forensic accounting expert opines that the pleaded loss of profit of £4,200,000 is 'substantially overstated', that the supportable Platform-attributable figure is of the order of £1,300,000 (before causation and the contractual cap), and that around £1,500,000 of the decline is attributable to non-Platform factors (the DC flood and the market downturn evident before go-live), with the balance unsupported. The claimant's own quantum evidence directly refutes the £4.2m figure.",
+      "excerpt": "In my opinion the pleaded loss of profit of £4,200,000 is substantially overstated... On the most supportable basis, the incremental lost gross profit capable of being attributed to the Platform's defects is of the order of £1,300,000, not £4,200,000."
+    }
+  ]
+}

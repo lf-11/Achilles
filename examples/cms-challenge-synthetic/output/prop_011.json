@@ -1,0 +1,129 @@
+{
+  "proposition_id": "prop_011",
+  "proposition_text": "TechFlow failed to provide adequate training to Meridian's staff in the use of the Platform.",
+  "judgement": "adverse",
+  "confidence": 0.78,
+  "summary": "The proposition originates solely from paragraph 14 of Meridian's Particulars of Claim (doc_002), a bare pleaded allegation that is not corroborated anywhere else in the bundle. Decisively, the Statement of Work (doc_004) clause 3.2 expressly allocates training of Meridian's store and head-office staff to Meridian as Customer, and limits TechFlow's obligation to providing a train-the-trainer session and written user guides only. On that contractual footing, TechFlow had no obligation to train Meridian's staff generally, so the allegation that TechFlow 'failed to provide adequate training' is contradicted by the contract the parties signed. No other document - the witness statements of Vance, Okafor and Nair, the defect log, the go-live and outage correspondence, the termination/response letters, or either expert report - mentions any training shortfall; the IT expert (doc_019) confines TechFlow's failings to the stock-sync defects, and the termination letter (doc_014) and response (doc_015) do not raise training at all. The weight of the bundle therefore contradicts rather than supports the proposition, hence an adverse judgement; confidence is held below maximum because there is no positive evidence describing what training was actually delivered, leaving a residual factual gap as to whether the limited train-the-trainer/written-guide deliverables were in fact supplied.",
+  "evidence": [
+    {
+      "doc_id": "doc_001",
+      "relevance": "not_addressed",
+      "reasoning": "The Claim Form gives only brief details of the claim (defective and delayed design, build and implementation under the MSA). It does not mention training at all, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_002",
+      "relevance": "somewhat_supported",
+      "reasoning": "This is the source of the proposition. Paragraph 14 of the Particulars of Claim is the only place in the bundle where the training allegation is asserted. As a verified statement of case it puts the allegation in issue, but as a bare pleaded assertion (with no particulars of what training was lacking) it provides only weak self-supporting evidence, and it must be tested against the contract and the rest of the bundle.",
+      "excerpt": "Further, TechFlow failed to provide adequate training to Meridian's staff in the use of the Platform."
+    },
+    {
+      "doc_id": "doc_003",
+      "relevance": "neutral",
+      "reasoning": "The Master Services Agreement sets the general obligation to perform the Services with reasonable skill and care and incorporates the SOW at Schedule 1, but the MSA body itself does not address training; the specific training allocation is in the SOW (doc_004). Relevant as framing the contractual standard but neutral on the training point in isolation.",
+      "excerpt": "1.2  The Supplier shall perform the Services with reasonable skill and care and in accordance with good industry practice."
+    },
+    {
+      "doc_id": "doc_004",
+      "relevance": "adverse",
+      "reasoning": "Decisive document. SOW clause 3.2 expressly makes training of Meridian's store and head-office staff the Customer's responsibility, and limits TechFlow's obligation to a train-the-trainer session and written user guides only. This directly contradicts the proposition that TechFlow 'failed to provide adequate training', because TechFlow had no contractual duty to train Meridian's staff in general; the allegation as framed is inconsistent with the parties' agreed allocation of responsibility.",
+      "excerpt": "3.2  Training of the Customer's store and head-office staff in the use of the Platform is the responsibility of the Customer. The Supplier shall provide a train-the-trainer session and written user guides only."
+    },
+    {
+      "doc_id": "doc_005",
+      "relevance": "not_addressed",
+      "reasoning": "The Phase 1 Order Form lists licence/implementation, EPOS terminal configuration and reporting/analytics charges and payment terms. It says nothing about training and does not bear on the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_006",
+      "relevance": "not_addressed",
+      "reasoning": "The Deed of Variation No. 1 only varies the payment milestone profile and expressly does not vary scope or the go-live date. It does not mention training and does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_007",
+      "relevance": "not_addressed",
+      "reasoning": "Change Order No. 3 adds the customer loyalty module and revises the go-live date. It does not mention training and therefore does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_008",
+      "relevance": "not_addressed",
+      "reasoning": "The UAT Acceptance Certificate confirms Phase 1 passed user acceptance testing subject to minor snags. It records no training-related items and does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_009",
+      "relevance": "not_addressed",
+      "reasoning": "The go-live readiness email thread concerns TechFlow's recommendation to defer go-live and Meridian's decision to proceed on 18 November 2024. It does not mention training and does not bear on the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_010",
+      "relevance": "not_addressed",
+      "reasoning": "The loyalty-module change request email thread concerns scope, cost and the revised timetable for the loyalty module. It contains nothing about training and does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_011",
+      "relevance": "not_addressed",
+      "reasoning": "The 25 November outage root-cause email attributes that outage to network connectivity at Meridian's data-centre provider, not the Platform. It does not mention training and does not bear on the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_012",
+      "relevance": "not_addressed",
+      "reasoning": "The internal Meridian email on Q4 trading attributes the December shortfall largely to the Lutterworth DC flood and a soft market, with stock-sync as one factor. It says nothing about training and does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_013",
+      "relevance": "not_addressed",
+      "reasoning": "The defect/issue log records stock-sync defects and network/broadband-related outages. No entry relates to training or staff competence in using the Platform, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_014",
+      "relevance": "somewhat_adverse",
+      "reasoning": "Meridian's own Notice of Termination and Letter Before Action sets out the particular breaches it relies on as repudiatory - late delivery, post-go-live failures including stock-sync defects, and the Platform not being of satisfactory quality or fit for purpose. Training is conspicuously absent from this list. Meridian's failure to assert inadequate training in its own pre-action letter, where it itemised its complaints, tends to undercut the later pleaded allegation and is mildly adverse to the proposition.",
+      "excerpt": "In particular: (i) you delivered the Platform late; (ii) following go-live on 18 November 2024 the Platform suffered serious and repeated failures, including critical defects in the stock-synchronisation module; and (iii) the Platform was not of satisfactory quality nor fit for purpose."
+    },
+    {
+      "doc_id": "doc_015",
+      "relevance": "not_addressed",
+      "reasoning": "TechFlow's response letter denies the claim and addresses timetable/scope, the go-live decision, availability, acceptance, loss and outstanding sums. It does not specifically address training (because training was not raised against it), so it does not bear on the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_016",
+      "relevance": "somewhat_adverse",
+      "reasoning": "Helena Vance was Programme Director with overall responsibility for the implementation on Meridian's side and the main day-to-day contact with TechFlow. Her statement details the post-go-live problems she relies on (stock-sync defects, intermittent till outages) and her reasons for ending the relationship, but makes no complaint that TechFlow failed to provide training. The absence of any training grievance from the witness best placed to raise it tends to contradict the pleaded allegation, making this mildly adverse.",
+      "excerpt": "I considered that the platform we were given was not what we had paid for, and that is why Meridian decided to bring the relationship to an end."
+    },
+    {
+      "doc_id": "doc_017",
+      "relevance": "not_addressed",
+      "reasoning": "Raymond Okafor (Head of Retail Operations) describes the store-level impact of stock-sync issues and attributes much of the difficulty to network/broadband outages, the DC flood and a weak market. He does not mention training of staff, so his statement does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_018",
+      "relevance": "not_addressed",
+      "reasoning": "Priya Nair (Head of Procurement) addresses contractual administration - signing the MSA, Order Form, Change Order No. 3 and the Acceptance Certificate, and the withheld payments - and expressly defers technical/operational matters to colleagues. She does not mention training, so her statement does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_019",
+      "relevance": "somewhat_adverse",
+      "reasoning": "Dr Whitfield, the Claimant's own IT expert, was instructed to opine on availability and on whether the Platform contained defects falling below the expected standard. He confines TechFlow's failings to the Severity 1 stock-synchronisation defects and makes no finding of any training inadequacy. The absence of any expert support for a training failure, in the report addressing TechFlow's performance, is mildly adverse to the proposition.",
+      "excerpt": "In summary: (a) the Platform contained genuine and serious stock-synchronisation defects which fell below the expected standard; but (b) the pleaded allegation that the Platform was unavailable for more than 40% of trading hours is not supported by the evidence"
+    },
+    {
+      "doc_id": "doc_020",
+      "relevance": "not_addressed",
+      "reasoning": "Fiona Greenhalgh's report addresses quantum (wasted expenditure and loss of profit) and contractual limitation. It does not deal with training or any aspect of TechFlow's performance obligations, so it does not address the proposition.",
+      "excerpt": ""
+    }
+  ]
+}

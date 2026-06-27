@@ -1,0 +1,129 @@
+{
+  "proposition_id": "prop_008",
+  "proposition_text": "Following go-live, the Platform was unavailable for more than 40% of trading hours during November and December 2024.",
+  "judgement": "adverse",
+  "confidence": 0.9,
+  "summary": "The proposition is the pleaded allegation in the Particulars of Claim (doc_002, para 11), but the rest of the bundle decisively contradicts it. The contemporaneous defect log (doc_013) records only a handful of incidents and expressly notes that Platform-attributable unavailability was 'modest', with the largest outage (D-003, ~5 hours on 25 Nov) and the intermittent till freezes attributable to Meridian's own network, not the Platform. The 25 Nov root-cause email (doc_011) confirms that ~5-hour outage was a Northgate Telecom WAN failure while the Platform stayed healthy. Meridian's own internal email (doc_012) and its witnesses Okafor (doc_017) and Vance (doc_016) concede that many till outages were due to in-store broadband or the data-centre network and that Vance 'could not say for how long in total'. Most tellingly, the Claimant's own IT expert (doc_019) measured Platform-attributable unavailability at approximately 6.2% of trading hours and states he found no support for a figure of the order of 40%. TechFlow's solicitors expressly deny the 40% figure (doc_015). No document corroborates the >40% allegation; the weight of contract, correspondence, witness and expert evidence is strongly against it.",
+  "evidence": [
+    {
+      "doc_id": "doc_001",
+      "relevance": "not_addressed",
+      "reasoning": "The Claim Form gives only the brief details of the breach-of-contract/negligence/misrepresentation claim arising from a 'defective and delayed' platform. It does not mention availability percentages or trading-hour downtime, so it does not address the specific 40% unavailability proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_002",
+      "relevance": "supported",
+      "reasoning": "This is the document the proposition is drawn from: paragraph 11 of the Particulars of Claim pleads the 40% unavailability allegation verbatim. As a pleading it asserts the proposition but is untested; it is supported only in the sense that it is the source allegation, and must be weighed against the contradicting evidence elsewhere in the bundle.",
+      "excerpt": "Following go-live, the Platform was unavailable for more than 40% of trading hours during November and December 2024, causing widespread till failures and an inability to process sales across Meridian’s store estate."
+    },
+    {
+      "doc_id": "doc_003",
+      "relevance": "not_addressed",
+      "reasoning": "The Master Services Agreement sets out scope, charges, timetable, change control, limitation of liability and entire-agreement terms. It contains nothing about post-go-live availability or downtime figures, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_004",
+      "relevance": "not_addressed",
+      "reasoning": "The Statement of Work covers scope, the implementation timetable/milestones and customer responsibilities (including in-store network connectivity and training). It says nothing about post-go-live Platform availability percentages, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_005",
+      "relevance": "not_addressed",
+      "reasoning": "The Order Form is a commercial pricing/licensing document listing items and charges. It does not address Platform availability or downtime, so it is not relevant to the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_006",
+      "relevance": "not_addressed",
+      "reasoning": "The Deed of Variation No. 1 only re-profiles payment milestones and confirms scope and go-live date are unchanged. It contains nothing about post-go-live availability, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_007",
+      "relevance": "not_addressed",
+      "reasoning": "Change Order No. 3 adds the loyalty module and moves go-live from 1 October to 18 November 2024. It concerns scope and timetable, not post-go-live availability, so it does not address the 40% unavailability proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_008",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The Phase 1 UAT Acceptance Certificate (12 Nov 2024) records that Phase 1 passed UAT and was accepted with no outstanding Severity 1 or 2 items at that date. It does not measure post-go-live availability, but it weakly cuts against the picture of a wholesale unavailable platform: immediately before go-live the core EPOS/inventory functionality was tested and accepted as working, making a >40% downtime outcome less plausible.",
+      "excerpt": "Meridian confirms that Phase 1 has passed User Acceptance Testing and is accepted, subject to the resolution of the outstanding minor (Severity 3 and 4) items listed in the snag log appended to the UAT report. No outstanding Severity 1 or Severity 2 items were recorded at the date of this certificate."
+    },
+    {
+      "doc_id": "doc_009",
+      "relevance": "not_addressed",
+      "reasoning": "This go-live decision email thread concerns TechFlow's recommendation to defer go-live and Meridian's decision to proceed on 18 November. It is about the timing/risk of go-live, not about actual post-go-live availability figures, so it does not address the 40% proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_010",
+      "relevance": "not_addressed",
+      "reasoning": "This email thread concerns the request to add the loyalty module and the resulting cost and date change. It says nothing about post-go-live Platform availability, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_011",
+      "relevance": "adverse",
+      "reasoning": "The 25 November root-cause email directly undercuts the proposition's central factual support. The single largest outage in the period (~5 hours on 25 Nov) was caused by a loss of WAN connectivity at Meridian's own data-centre provider, Northgate Telecom, while the Platform application and database 'remained healthy'. This shows the biggest downtime event was not Platform unavailability at all, making a >40% Platform-attributable figure implausible.",
+      "excerpt": "We’ve completed the incident review for yesterday’s outage (approx. 13:10–18:05, around five hours). The root cause was a loss of wide-area network connectivity at your data centre provided by Northgate Telecom, not the Platform. During the window the Platform application and database remained healthy but could not be reached because the network link was down."
+    },
+    {
+      "doc_id": "doc_012",
+      "relevance": "somewhat_adverse",
+      "reasoning": "This internal Meridian email from Raymond Okafor attributes the December trading shortfall largely to the Lutterworth distribution-centre flood and a soft market, and states the platform stock-sync problems 'haven’t helped at the tills, though the teams have largely been working around them with manual checks.' This is adverse to the proposition: if teams were largely working around stock-sync issues, the Platform was not unavailable for over 40% of trading hours.",
+      "excerpt": "On top of that, the platform stock-sync problems haven’t helped at the tills, though the teams have largely been working around them with manual checks."
+    },
+    {
+      "doc_id": "doc_013",
+      "relevance": "adverse",
+      "reasoning": "The contemporaneous defect log is strongly adverse. It records only a small number of incidents over 18 Nov 2024–10 Jan 2025 and expressly notes that 'Recorded Platform unavailability attributable to Platform defects over the period was modest', with the single largest outage (D-003, total EPOS loss ~5 hours) and the intermittent till freezes (D-006) attributable to network connectivity provided by Meridian, not the Platform. This contemporaneous record directly contradicts a >40% Platform-unavailability claim.",
+      "excerpt": "Note: Recorded Platform unavailability attributable to Platform defects over the period was modest; the single largest outage (D-003) and the intermittent till freezes (D-006) were attributable to network connectivity provided by Meridian, not to the Platform."
+    },
+    {
+      "doc_id": "doc_014",
+      "relevance": "somewhat_supported",
+      "reasoning": "Meridian's solicitors' Notice of Termination asserts that following go-live the Platform 'suffered serious and repeated failures' during the peak trading period. This is consistent with Meridian's case and lends some support to the proposition's general thrust, but it is Meridian's own advocacy and does not assert a 40% unavailability figure, so its support is limited.",
+      "excerpt": "following go-live on 18 November 2024 the Platform suffered serious and repeated failures, including critical defects in the stock-synchronisation module; and (iii) the Platform was not of satisfactory quality nor fit for purpose."
+    },
+    {
+      "doc_id": "doc_015",
+      "relevance": "adverse",
+      "reasoning": "TechFlow's response to the letter before action expressly denies the proposition, stating the Platform was not 'unavailable for more than 40% of trading hours' and that the most significant outage (25 November) was caused by Meridian's own network provider, not the Platform. This is a direct rebuttal of the pleaded 40% figure.",
+      "excerpt": "The Platform was not \"unavailable for more than 40% of trading hours\". The most significant outage, on 25 November 2024, was caused by the failure of your client’s own network provider, Northgate Telecom, and not by the Platform."
+    },
+    {
+      "doc_id": "doc_016",
+      "relevance": "somewhat_adverse",
+      "reasoning": "Helena Vance's witness statement, for the Claimant, describes serious stock-sync problems and till outages but notably does not support the 40% figure: she concedes she 'could not say for how long in total' the tills were down and that some connectivity problems were her own store broadband rather than the Platform. Her impression that it 'felt constant' is expressly subjective and unquantified. From Meridian's own principal witness this falls well short of substantiating >40% Platform unavailability, making it adverse on balance.",
+      "excerpt": "There were also occasions when tills went down. I could not say for how long in total, and I understand some of the connectivity problems were to do with our own store broadband rather than the platform itself, but from where I sat it felt constant during the early weeks."
+    },
+    {
+      "doc_id": "doc_017",
+      "relevance": "adverse",
+      "reasoning": "Raymond Okafor's witness statement, for the Claimant, candidly concedes that many till outages were caused by in-store broadband dropping out rather than the Platform, and that the complete 25 November outage was a network failure at the data-centre provider, not the Platform. He frames the platform problems as 'one factor among several'. From Meridian's own operations head this directly undermines the proposition's claim of >40% Platform unavailability.",
+      "excerpt": "A number of the till outages in stores turned out to be caused by the broadband connections in the stores dropping out, rather than the platform itself. There was also a complete outage on 25 November that I am told was a network failure at our data centre provider, not the platform."
+    },
+    {
+      "doc_id": "doc_018",
+      "relevance": "not_addressed",
+      "reasoning": "Priya Nair's witness statement deals with contractual/commercial administration (signing the MSA, Change Order No. 3, the Acceptance Certificate, and the withheld payments) and expressly states she is not in a position to comment on technical performance. It does not address Platform availability figures, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_019",
+      "relevance": "adverse",
+      "reasoning": "The Claimant's own IT expert, Dr Whitfield, provides the most decisive contradiction: having analysed the application/database logs, network monitoring data and defect log, he opines that total Platform-attributable unavailability was approximately 6.2% of trading hours and that the 'more than 40%' pleaded figure is not supported by the evidence, with the largest outage caused by the Claimant's own network provider. This independent expert evidence, from Meridian's own side, directly refutes the proposition.",
+      "excerpt": "Having analysed the logs, my opinion is that the total Platform unavailability attributable to the Platform itself was approximately 6.2% of trading hours over the period. That figure is materially lower than the figure of \"more than 40% of trading hours\" referred to in the pleadings. I have found no support in the logs for a figure of that order."
+    },
+    {
+      "doc_id": "doc_020",
+      "relevance": "not_addressed",
+      "reasoning": "The quantum expert's report addresses the financial measure of wasted expenditure and loss of profit and the causation split between the Platform, the DC flood and the market downturn. It does not quantify or address Platform availability/downtime as a percentage of trading hours, so it does not directly address the proposition (although its causation analysis is consistent with the Platform being only one factor).",
+      "excerpt": ""
+    }
+  ]
+}

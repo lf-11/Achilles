@@ -1,0 +1,130 @@
+{
+  "proposition_id": "prop_006",
+  "proposition_text": "Meridian did not at any time request any change to the agreed scope of the works, and all delay was caused by TechFlow’s failure to allocate adequate and competent resources to the project.",
+  "judgement": "adverse",
+  "confidence": 0.97,
+  "summary": "The proposition is a two-limbed pleaded allegation taken verbatim from paragraph 9 of Meridian's own Particulars of Claim (doc_002), and the remainder of the bundle contradicts both limbs decisively. On scope: the original SOW (doc_004) expressly excluded a customer loyalty module, yet Meridian's Programme Director requested exactly such a module (doc_010), TechFlow scoped it, and the parties signed Change Order No. 3 adding it to scope (doc_007). Meridian's own witnesses Helena Vance (doc_016) and Priya Nair (doc_018) admit Meridian asked for the loyalty module and that it was not in the original SOW, and TechFlow's solicitors expressly say the no-change assertion is contradicted by Meridian's own signed Change Order (doc_015). On delay/causation: the go-live slip from 1 October to 18 November 2024 was caused by Meridian's own change order, not by any TechFlow under-resourcing (doc_007, doc_010); TechFlow actually recommended deferring go-live and Meridian insisted on proceeding (doc_009, doc_016, doc_015); and the post-go-live disruption was substantially attributable to non-TechFlow factors — a network outage at Meridian's own provider, in-store broadband, the Lutterworth DC flood and a soft retail market (doc_011, doc_012, doc_013, doc_017, doc_019, doc_020). No document anywhere evidences a TechFlow failure to allocate adequate or competent resources as a cause of delay. The only document supporting the proposition is the pleading from which it is drawn (doc_002); every other relevant document is adverse."
+,
+  "evidence": [
+    {
+      "doc_id": "doc_001",
+      "relevance": "not_addressed",
+      "reasoning": "The Claim Form gives only the brief details of claim (late and defective delivery under the MSA) and does not address scope changes or the cause of delay. It does not bear on either limb of the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_002",
+      "relevance": "supported",
+      "reasoning": "This is the document the proposition is drawn from: paragraph 9 of the Particulars of Claim states the proposition almost verbatim. As the pleaded assertion it 'supports' the proposition on its face, but it is a self-serving allegation and is contradicted by the rest of the bundle. Paragraph 6 also pleads that 1 October 2024 was a fixed go-live date with time of the essence, which the contract documents and change order undercut.",
+      "excerpt": "Meridian did not at any time request any change to the agreed scope of the works. All delay was caused by TechFlow’s failure to allocate adequate and competent resources to the project."
+    },
+    {
+      "doc_id": "doc_003",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The MSA's change-control regime undercuts the proposition's framing. Clause 3.1 makes the go-live date a planning estimate adjustable through change control, and clause 3.2 provides that any change to scope, deliverables or timetable is agreed by signed Change Order — the very mechanism Meridian later used to add the loyalty module. This contextualises the later change order as a Meridian-requested scope variation rather than a TechFlow resourcing failure.",
+      "excerpt": "Any change to the scope, deliverables or timetable shall be agreed in writing by both parties by means of a signed Change Order. A signed Change Order varies this Agreement to the extent stated in it."
+    },
+    {
+      "doc_id": "doc_004",
+      "relevance": "adverse",
+      "reasoning": "The Statement of Work defines the 'agreed scope' and expressly excludes a customer loyalty module, and states that the 1 October 2024 go-live is a target date subject to change control. This is the baseline against which Change Order No. 3's loyalty module is a Meridian-requested scope change — directly contradicting the first limb of the proposition. It also undercuts the suggestion that the date was fixed and that any slip must be a TechFlow resourcing failure.",
+      "excerpt": "The Supplier shall deliver the Platform in two phases: Phase 1 (core inventory and EPOS); Phase 2 (reporting and analytics). The agreed scope does not include a customer loyalty module."
+    },
+    {
+      "doc_id": "doc_005",
+      "relevance": "neutral",
+      "reasoning": "The Order Form records the Phase 1/Phase 2 line items and £2.4m total under the MSA. It confirms the original commercial scope (no loyalty module line) but does not itself address whether Meridian requested a scope change or the cause of delay, so its bearing on the proposition is marginal.",
+      "excerpt": "Platform licence & implementation (Phase 1 — core inventory & EPOS) ... Reporting & analytics (Phase 2) ... Total (excl. VAT) 2,400,000"
+    },
+    {
+      "doc_id": "doc_006",
+      "relevance": "neutral",
+      "reasoning": "Deed of Variation No. 1 varies only the payment milestone profile and expressly does not vary the scope of works or the go-live date. It neither supports nor contradicts the proposition directly, but it shows the parties distinguished carefully between payment-only variations and scope/timetable changes, which is context for the later loyalty-module change order.",
+      "excerpt": "The parties wish to vary the payment milestone profile to reflect cash-flow phasing. This Deed does not vary the scope of the works or the target go-live date."
+    },
+    {
+      "doc_id": "doc_007",
+      "relevance": "adverse",
+      "reasoning": "Change Order No. 3 directly contradicts both limbs. It records that, at the Customer's (Meridian's) request, TechFlow would build a loyalty module not in the original scope, signed by Meridian's Priya Nair, and that to accommodate the additional works the go-live date moved from 1 October to 18 November 2024. This shows Meridian did request a scope change and that the delay was caused by that Meridian-requested change — not by any TechFlow resourcing failure.",
+      "excerpt": "At the Customer’s request, the Supplier shall design, build and implement a customer loyalty module ... The Loyalty Module was not part of the original scope under SOW-01. ... the parties agree that, to accommodate the additional works, the go-live date is revised from 1 October 2024 to 18 November 2024."
+    },
+    {
+      "doc_id": "doc_008",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The UAT Acceptance Certificate (signed by Meridian on 12 November 2024) shows Phase 1 passed UAT with no outstanding Severity 1 or 2 items at that date. This undercuts the suggestion of a TechFlow performance/resourcing failure causing delay, and is inconsistent with the claim picture; it is mildly adverse to the proposition's resourcing-failure limb.",
+      "excerpt": "Meridian confirms that Phase 1 has passed User Acceptance Testing and is accepted ... No outstanding Severity 1 or Severity 2 items were recorded at the date of this certificate."
+    },
+    {
+      "doc_id": "doc_009",
+      "relevance": "adverse",
+      "reasoning": "This go-live email thread contradicts the delay-causation limb. TechFlow recommended in writing deferring go-live to January 2025 to avoid peak trading, but Meridian's Programme Director rejected that advice and instructed go-live on 18 November, expressly accepting the risk. The delay/timing and consequent disruption flow from Meridian's own decision, not from TechFlow under-resourcing.",
+      "excerpt": "Our clear recommendation is to defer go-live to mid-January 2025 ... Please proceed to go-live on 18 November 2024 as planned. I understand your team’s reservations and I am content to take that risk on Meridian’s side."
+    },
+    {
+      "doc_id": "doc_010",
+      "relevance": "adverse",
+      "reasoning": "This email is direct documentary contradiction of the first limb. Meridian's Programme Director Helena Vance asks TechFlow to add a customer loyalty capability before go-live, acknowledging it was not in the original SOW and accepting a possible knock-on to the go-live date. TechFlow replies it will move go-live from 1 October to 18 November. This is Meridian requesting a scope change that caused the timetable change.",
+      "excerpt": "the board wants a customer loyalty capability included in the platform before we go live ... I appreciate this was not in the original SOW ... we are willing to discuss a revised date to accommodate it."
+    },
+    {
+      "doc_id": "doc_011",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The 25 November outage root-cause email is adverse to the delay/disruption causation limb. TechFlow attributes the largest outage to loss of WAN connectivity at Meridian's data-centre provider (Northgate Telecom), not the Platform, while owning the stock-sync defects. This shows significant disruption was due to a non-TechFlow cause, contradicting the 'all caused by TechFlow' framing of the proposition.",
+      "excerpt": "The root cause was a loss of wide-area network connectivity at your data centre provided by Northgate Telecom, not the Platform."
+    },
+    {
+      "doc_id": "doc_012",
+      "relevance": "somewhat_adverse",
+      "reasoning": "This internal Meridian email is adverse to the causation limb. Meridian's own Head of Retail Operations attributes the poor December trading substantially to the Lutterworth distribution-centre flood and a soft market, warning against blaming the whole shortfall on the platform. It shows causes of loss/disruption unconnected with any TechFlow resourcing failure.",
+      "excerpt": "The Lutterworth distribution centre flooded on 3 December and was effectively out of action for around ten days ... This is unrelated to the platform. ... I’d be wary of attributing the whole shortfall to the platform when the DC flood and the wider market are doing a lot of the damage."
+    },
+    {
+      "doc_id": "doc_013",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The defect log is adverse to the causation limb. While it records genuine Platform stock-sync defects, it attributes the single largest outage (D-003) and intermittent till freezes (D-006) to network connectivity provided by Meridian, not the Platform, and notes Platform-attributable unavailability was modest. This contradicts the proposition that all delay/disruption was caused by TechFlow.",
+      "excerpt": "the single largest outage (D-003) and the intermittent till freezes (D-006) were attributable to network connectivity provided by Meridian, not to the Platform."
+    },
+    {
+      "doc_id": "doc_014",
+      "relevance": "neutral",
+      "reasoning": "Meridian's termination/letter before action asserts late and defective delivery but does not address whether Meridian requested a scope change, and does not attribute delay to a TechFlow resourcing failure. It restates Meridian's adverse position generally but does not itself advance either limb of the proposition, so it is essentially neutral.",
+      "excerpt": "you delivered the Platform late; (ii) following go-live on 18 November 2024 the Platform suffered serious and repeated failures, including critical defects in the stock-synchronisation module"
+    },
+    {
+      "doc_id": "doc_015",
+      "relevance": "adverse",
+      "reasoning": "TechFlow's response letter contradicts both limbs directly. It states the go-live moved by reason of Change Order No. 3, which added a loyalty module Meridian requested and which was not in the original scope, and that Meridian's no-change assertion is wrong and contradicted by its own signed Change Order. It also notes TechFlow recommended deferral which Meridian rejected, and that major outages were due to Meridian's own network provider — all adverse to the proposition.",
+      "excerpt": "Your client’s assertion that it requested no change to scope is wrong and is contradicted by its own signed Change Order. ... Our client expressly recommended, in writing on 24 October 2024, that go-live be deferred ... Your client’s Programme Director rejected that recommendation and instructed our client to proceed on 18 November 2024, accepting the associated risk."
+    },
+    {
+      "doc_id": "doc_016",
+      "relevance": "adverse",
+      "reasoning": "Meridian's own Programme Director's witness statement contradicts both limbs. She admits she asked TechFlow to add the loyalty module, accepting it was not in the original SOW, documented in Change Order No. 3 which also moved go-live to 18 November; and she states she decided to go live on 18 November despite TechFlow's written advice to delay. This destroys the no-scope-change limb and shows the timing decision was Meridian's, not a TechFlow resourcing failure.",
+      "excerpt": "I asked TechFlow to add a loyalty module. I accept this was not in the original Statement of Work. It was documented in Change Order No. 3 ... which also moved the go-live date to 18 November 2024. ... Marcus Reilly recommended in writing that we delay until January 2025 ... I took the decision to proceed despite TechFlow’s advice."
+    },
+    {
+      "doc_id": "doc_017",
+      "relevance": "somewhat_adverse",
+      "reasoning": "Meridian's Head of Retail Operations' witness statement is adverse to the causation limb. He concedes a number of till outages were caused by in-store broadband and that the 25 November total outage was a network failure at Meridian's data-centre provider, and that poor December trading owed much to the Lutterworth flood and a weak market. This contradicts the 'all delay/disruption caused by TechFlow' framing.",
+      "excerpt": "A number of the till outages in stores turned out to be caused by the broadband connections in the stores dropping out, rather than the platform itself. There was also a complete outage on 25 November that I am told was a network failure at our data centre provider, not the platform. ... the platform was not the only reason."
+    },
+    {
+      "doc_id": "doc_018",
+      "relevance": "adverse",
+      "reasoning": "Meridian's Head of Procurement's witness statement contradicts the first limb. She confirms she signed Change Order No. 3 adding the customer loyalty module which Helena Vance had asked TechFlow to provide and which was not in the original SOW, revising go-live from 1 October to 18 November, and that she understood Meridian was changing both scope and date. This is a direct admission that Meridian requested a scope change.",
+      "excerpt": "On 2 September 2024 I signed Change Order No. 3. This added the customer loyalty module, which Helena Vance had asked TechFlow to provide and which was not in the original Statement of Work, and it revised the go-live date from 1 October to 18 November 2024. I understood at the time that we were changing both the scope and the date."
+    },
+    {
+      "doc_id": "doc_019",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The IT expert (instructed by Meridian's own solicitors) is adverse to the causation limb. He finds Platform-attributable unavailability of only about 6.2%, the largest outage caused by Meridian's network provider, and shorter interruptions due to in-store broadband. Although he confirms genuine Severity 1 stock-sync defects fell below the expected standard, he attributes major disruption to non-Platform causes, contradicting the 'all caused by TechFlow' proposition. He does not identify any resourcing failure as a cause.",
+      "excerpt": "The single largest outage occurred on 25 November 2024 ... this outage was not caused by the Platform ... the cause was a loss of wide-area network connectivity at the Claimant’s data-centre provider (Northgate Telecom). A number of shorter in-store till interruptions were likewise attributable to in-store broadband, not to the Platform."
+    },
+    {
+      "doc_id": "doc_020",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The quantum expert is adverse to the causation limb. She attributes a material part of the Q4 shortfall to causes unconnected with the Platform — the Lutterworth DC flood and a sector-wide downturn evident before go-live — estimating roughly £1.5m of the claimed decline to non-Platform factors. This contradicts the proposition's assertion that all the relevant loss/delay was caused by TechFlow, and identifies no resourcing failure.",
+      "excerpt": "A material part of the Q4 sales shortfall is, in my opinion, attributable to causes unconnected with the Platform. In particular: (a) the flooding of the Claimant’s Lutterworth distribution centre ... and (b) a sector-wide downturn in retail trading ... evident ... before go-live."
+    }
+  ]
+}

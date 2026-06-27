@@ -1,0 +1,129 @@
+{
+  "proposition_id": "prop_002",
+  "proposition_text": "The total charges payable under the MSA were £2,400,000 (excluding VAT), payable against milestones.",
+  "judgement": "supported",
+  "confidence": 0.92,
+  "summary": "The proposition is strongly and directly supported by the contractual documents. Clause 2.1 of the Master Services Agreement (doc_003) states verbatim that the total charges are £2,400,000 (excluding VAT) payable against the milestones in the SOW, and the SOW (doc_004) sets out four milestones (M1–M4) with charges payable 25% on each. The Order Form (doc_005) itemises the works to a total of £2,400,000 (excl. VAT) with the same milestone payment terms, and Priya Nair's witness statement (doc_018) confirms the total contract value was £2.4 million. Two later documents qualify the detail without contradicting the proposition: the Deed of Variation No. 1 (doc_006) re-profiled the milestone percentages (20/20/30/30) but expressly left scope and go-live unchanged and confirmed the charges remained milestone-payable; Change Order No. 3 (doc_007) added a loyalty module for a further £180,000 payable on go-live, which is a separate add-on rather than a restatement of the MSA's original total. No document contradicts the £2,400,000 base figure or the milestone-based payment structure, so the proposition is supported, with the only minor caveat being that the total payable later grew by £180,000 via change control.",
+  "evidence": [
+    {
+      "doc_id": "doc_001",
+      "relevance": "not_addressed",
+      "reasoning": "The Claim Form gives only the brief details of the breach-of-contract claim and an approximate claim value of £6,000,000; it does not state the contract charges or payment structure under the MSA.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_002",
+      "relevance": "supported",
+      "reasoning": "The Particulars of Claim plead the proposition almost verbatim and are the pleaded source of it, so they support the proposition (though as a pleading they are tested against the rest of the bundle).",
+      "excerpt": "The total charges payable under the MSA were £2,400,000 (excluding VAT), payable against milestones."
+    },
+    {
+      "doc_id": "doc_003",
+      "relevance": "supported",
+      "reasoning": "The MSA is the contract itself and its charges clause states the total charges and the milestone-based payment mechanism in terms that match the proposition exactly, providing the primary documentary support.",
+      "excerpt": "2.1  The total charges for the Services are £2,400,000 (excluding VAT), payable against the milestones set out in the SOW and as may be varied by agreement in writing."
+    },
+    {
+      "doc_id": "doc_004",
+      "relevance": "supported",
+      "reasoning": "The SOW (Schedule 1 to the MSA) sets out the milestones M1–M4 referenced by the charges clause and confirms charges are payable 25% on each milestone, corroborating the 'payable against milestones' element of the proposition.",
+      "excerpt": "4.1  Charges are payable 25% on each of M1, M2, M3 and M4, subject to any variation agreed under the change control procedure."
+    },
+    {
+      "doc_id": "doc_005",
+      "relevance": "supported",
+      "reasoning": "The Order Form under the MSA itemises the works and gives a total of £2,400,000 (excl. VAT) with milestone-based payment terms, directly corroborating both the figure and the milestone structure.",
+      "excerpt": "Total (excl. VAT)\n\n2,400,000\n\nPayment terms: 25% on each milestone M1–M4 per the SOW."
+    },
+    {
+      "doc_id": "doc_006",
+      "relevance": "somewhat_supported",
+      "reasoning": "The Deed of Variation No. 1 re-profiled the milestone payment percentages (20/20/30/30 across M1–M4) but expressly did not vary scope or the target go-live date; it confirms that charges remained payable against milestones, supporting the milestone-payment element while showing the precise 25%-each split was later changed. It does not alter the £2,400,000 total.",
+      "excerpt": "1.  With effect from the date of this Deed, clause 4.1 of the SOW is varied so that the charges are payable: 20% on M1, 20% on M2, 30% on M3 and 30% on M4."
+    },
+    {
+      "doc_id": "doc_007",
+      "relevance": "somewhat_adverse",
+      "reasoning": "Change Order No. 3 added an additional £180,000 charge for the loyalty module payable on go-live, so the total amount payable to TechFlow ultimately exceeded £2,400,000. This is a separate change-control add-on rather than a restatement of the MSA's stated total charges, so it qualifies rather than contradicts the proposition about the MSA's original total, but it is mildly adverse to a literal reading of 'the total charges payable under the MSA'.",
+      "excerpt": "3.1  The additional charge for the Loyalty Module is £180,000, payable on go-live."
+    },
+    {
+      "doc_id": "doc_008",
+      "relevance": "not_addressed",
+      "reasoning": "The UAT Acceptance Certificate concerns acceptance of Phase 1 testing and outstanding snags; it says nothing about the total charges or payment milestones.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_009",
+      "relevance": "not_addressed",
+      "reasoning": "This email concerns the go-live timing decision and TechFlow's recommendation to defer; it does not address the contract charges or payment structure.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_010",
+      "relevance": "not_addressed",
+      "reasoning": "This email is the loyalty module change request and scoping; while it mentions an additional £180,000 cost, it concerns the change order add-on (see doc_007) rather than the MSA's total charges proposition, and is not directed at the £2,400,000 figure. Treated as not addressing the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_011",
+      "relevance": "not_addressed",
+      "reasoning": "This email concerns the root cause of the 25 November outage (network failure); it does not address charges or milestones.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_012",
+      "relevance": "not_addressed",
+      "reasoning": "This internal email concerns Q4 trading difficulties (distribution centre flood, soft market); it does not address the contract charges or payment structure.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_013",
+      "relevance": "not_addressed",
+      "reasoning": "The defect log records platform defects and their causes; it does not address the total charges or payment milestones.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_014",
+      "relevance": "not_addressed",
+      "reasoning": "The Notice of Termination letter addresses alleged repudiatory breaches and the intention to seek damages; it does not state the total charges or payment structure under the MSA.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_015",
+      "relevance": "somewhat_supported",
+      "reasoning": "TechFlow's response letter refers to the final two milestone payments totalling £600,000 having been withheld, confirming the contract's milestone-based payment structure and being consistent with a £2,400,000 total of which £1,800,000 was paid. It corroborates the milestone-payment element of the proposition.",
+      "excerpt": "Your client has wrongly withheld the final two milestone payments totalling £600,000, which remain due to our client."
+    },
+    {
+      "doc_id": "doc_016",
+      "relevance": "not_addressed",
+      "reasoning": "Helena Vance's witness statement addresses the loyalty module change, the go-live decision and platform performance; it does not address the total charges or payment milestones.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_017",
+      "relevance": "not_addressed",
+      "reasoning": "Raymond Okafor's witness statement addresses store operations, outages and Q4 trading factors; it does not address the total charges or payment structure.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_018",
+      "relevance": "supported",
+      "reasoning": "Priya Nair, who signed the MSA and Order Form for Meridian and administered the contract, confirms the total contract value was £2.4 million and refers to milestone payments (£1.8m paid, final two milestone payments of £300,000 each withheld), directly corroborating the £2,400,000 figure and the milestone-based structure.",
+      "excerpt": "The total contract value was £2.4 million."
+    },
+    {
+      "doc_id": "doc_019",
+      "relevance": "not_addressed",
+      "reasoning": "Dr Whitfield's IT expert report addresses platform availability and defects; it does not address the contract charges or payment milestones.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_020",
+      "relevance": "somewhat_supported",
+      "reasoning": "The quantum expert confirms wasted expenditure of £1,800,000 is consistent with the sums invoiced and paid under the MSA and notes the liability cap at charges paid (approximately £1,800,000). This is consistent with a £2,400,000 milestone-based contract under which £1.8m was paid, corroborating the proposition's figure and payment structure indirectly.",
+      "excerpt": "The pleaded wasted expenditure of £1,800,000 is consistent with the Claimant’s accounting records and the sums invoiced and paid under the Master Services Agreement."
+    }
+  ]
+}

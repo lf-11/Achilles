@@ -1,0 +1,129 @@
+{
+  "proposition_id": "prop_017",
+  "proposition_text": "A significant part of Meridian's Q4 2024 trading shortfall was attributable to the flooding of its Lutterworth distribution centre in early December 2024 and to a sector-wide retail downturn, rather than to the Platform.",
+  "judgement": "supported",
+  "confidence": 0.9,
+  "summary": "The proposition is strongly supported across multiple independent strands of the bundle, including evidence emanating from Meridian's own side. Meridian's Head of Retail Operations, Raymond Okafor, recorded in a contemporaneous internal email on 8 December 2024 (doc_012) that the Lutterworth DC flooded on 3 December and was out of action for around ten days, leaving about 40 stores short of stock, that the market was soft with sector-wide footfall down and heavy competitor discounting, and that he would be wary of attributing the whole shortfall to the platform; he repeats this in his witness statement (doc_017). TechFlow's solicitors raise the same two non-Platform causes (doc_015), and most significantly the Claimant's own quantum expert, Fiona Greenhalgh FCA (doc_020), opines that a material part of the Q4 sales shortfall is attributable to the flood and the sector-wide downturn (with the like-for-like decline already evident before go-live in October), estimating roughly £1,500,000 of the claimed decline as non-Platform. The proposition is carefully qualified ('a significant part', 'rather than to the Platform') and does not deny that the Platform's stock-sync defects also caused harm; the evidence that the Platform did cause some loss (doc_002, doc_016, doc_019, doc_020) is therefore consistent with, rather than adverse to, the proposition. Confidence is high; it is held just short of certainty only because the precise apportionment between causes remains a contested quantum issue for trial.",
+  "evidence": [
+    {
+      "doc_id": "doc_001",
+      "relevance": "not_addressed",
+      "reasoning": "The Claim Form gives only brief details of the claim (breach, late and defective delivery of the Platform) and the global value. It does not address the causes of the Q4 trading shortfall or the flooding/sector downturn.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_002",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The Particulars of Claim plead loss of profit of £4,200,000 during the peak trading period of November and December 2024 attributed entirely to TechFlow's breaches and the Platform's defects/unavailability, with no acknowledgement of any other cause. This pleaded position is to some extent in tension with the proposition that a significant part of the shortfall was attributable to non-Platform causes (the DC flood and sector downturn), though it does not itself address or deny those causes.",
+      "excerpt": "(b)Loss of profit during the peak trading period of November and December 2024: £4,200,000."
+    },
+    {
+      "doc_id": "doc_003",
+      "relevance": "not_addressed",
+      "reasoning": "The Master Services Agreement sets out the scope, charges and limitation of liability. It does not address the causes of any trading shortfall, the flooding or the retail downturn.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_004",
+      "relevance": "not_addressed",
+      "reasoning": "The Statement of Work sets out scope, milestones and customer responsibilities. It does not address the causes of the Q4 trading shortfall.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_005",
+      "relevance": "not_addressed",
+      "reasoning": "The Order Form records pricing and payment terms. It does not address the causes of the Q4 trading shortfall, the flooding or the sector downturn.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_006",
+      "relevance": "not_addressed",
+      "reasoning": "The Deed of Variation No. 1 varies only the payment milestone profile. It does not address the causes of the trading shortfall.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_007",
+      "relevance": "not_addressed",
+      "reasoning": "Change Order No. 3 adds the loyalty module and revises the go-live date. It does not address the causes of the Q4 trading shortfall.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_008",
+      "relevance": "not_addressed",
+      "reasoning": "The UAT Acceptance Certificate confirms Phase 1 passed acceptance testing. It does not address the causes of the trading shortfall, the flooding or the downturn.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_009",
+      "relevance": "not_addressed",
+      "reasoning": "The go-live decision email concerns whether to defer go-live and the associated commercial risk. It does not address the flooding or sector downturn, nor apportion any Q4 shortfall.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_010",
+      "relevance": "not_addressed",
+      "reasoning": "The loyalty module change request email concerns scope and timetable for the loyalty module. It does not address the causes of the Q4 trading shortfall.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_011",
+      "relevance": "somewhat_supported",
+      "reasoning": "This email attributes the 25 November outage to a loss of wide-area network connectivity at Meridian's data centre (Northgate Telecom), not the Platform. While it does not address the flooding or the sector downturn, it supports the broader thrust of the proposition that significant elements of the Q4 disruption were attributable to causes other than the Platform.",
+      "excerpt": "The root cause was a loss of wide-area network connectivity at your data centre provided by Northgate Telecom, not the Platform."
+    },
+    {
+      "doc_id": "doc_012",
+      "relevance": "supported",
+      "reasoning": "This contemporaneous internal Meridian email (from Raymond Okafor to Helena Vance, 8 December 2024) is the document the proposition appears drawn from and directly supports it. It records that the Lutterworth DC flooded on 3 December and was out of action for around ten days affecting about 40 stores, that the market was soft with sector-wide footfall down and competitor discounting, that like-for-likes were already tracking behind in October (i.e. before any peak-trading Platform impact), and expressly warns against attributing the whole shortfall to the platform.",
+      "excerpt": "The Lutterworth distribution centre flooded on 3 December and was effectively out of action for around ten days. Roughly 40 stores had gaps on key lines through the first half of the month as a result. This is unrelated to the platform. ... The market is soft — footfall is down across the sector and several competitors have gone early and deep on discounting. Our like-for-likes were already tracking behind in October. ... I'd be wary of attributing the whole shortfall to the platform when the DC flood and the wider market are doing a lot of the damage."
+    },
+    {
+      "doc_id": "doc_013",
+      "relevance": "somewhat_supported",
+      "reasoning": "The defect log shows that Platform-attributable unavailability was modest and that the largest outage (D-003, 25 November) and intermittent till freezes (D-006) were caused by network connectivity provided by Meridian, not the Platform. This corroborates the wider point that significant disruption had non-Platform causes, though the log addresses connectivity/network rather than the flooding or sector downturn specifically.",
+      "excerpt": "Recorded Platform unavailability attributable to Platform defects over the period was modest; the single largest outage (D-003) and the intermittent till freezes (D-006) were attributable to network connectivity provided by Meridian, not to the Platform."
+    },
+    {
+      "doc_id": "doc_014",
+      "relevance": "somewhat_adverse",
+      "reasoning": "Meridian's termination/letter before action attributes the substantial loss during its most important trading period solely to the Platform's failures, without acknowledging the DC flood or sector downturn. This sole-cause framing is in tension with the proposition, although it does not directly address or deny the non-Platform causes.",
+      "excerpt": "These failures occurred during our client's most important trading period and caused substantial loss."
+    },
+    {
+      "doc_id": "doc_015",
+      "relevance": "supported",
+      "reasoning": "TechFlow's solicitors' response expressly asserts the two non-Platform causes in the proposition — the flooding of the Lutterworth distribution centre in December 2024 and the well-documented retail-sector downturn that quarter — as reasons the pleaded loss of profit is overstated. This directly supports the proposition.",
+      "excerpt": "Your client's pleaded loss of profit is grossly overstated and ignores (a) the flooding of your client's Lutterworth distribution centre in December 2024 and (b) the well-documented downturn in the retail sector during that quarter."
+    },
+    {
+      "doc_id": "doc_016",
+      "relevance": "neutral",
+      "reasoning": "Helena Vance's witness statement (for Meridian) describes serious stock-sync problems causing disruption during the busiest period and acknowledges some connectivity issues were down to Meridian's own broadband. It confirms Platform problems caused real harm but does not deny the flood/downturn; it neither clearly supports nor contradicts the proposition that a significant part of the shortfall had non-Platform causes.",
+      "excerpt": "There were also occasions when tills went down. I could not say for how long in total, and I understand some of the connectivity problems were to do with our own store broadband rather than the platform itself"
+    },
+    {
+      "doc_id": "doc_017",
+      "relevance": "supported",
+      "reasoning": "Raymond Okafor's witness statement (for Meridian) directly supports the proposition: he states December trading was poor but the platform was not the only reason, that the Lutterworth DC flooded on 3 December and was out of action for about ten days leaving around 40 stores short of stock, that the market was weak with sector-wide footfall down and heavy competitor discounting, and that the platform problems were one factor among several.",
+      "excerpt": "Our trading in December 2024 was poor, but the platform was not the only reason. Our distribution centre at Lutterworth flooded on 3 December 2024 and was effectively out of action for about ten days, which left around 40 stores short of stock on key lines in the first half of December. The market was also weak that quarter, with footfall down across the sector and heavy discounting by competitors."
+    },
+    {
+      "doc_id": "doc_018",
+      "relevance": "not_addressed",
+      "reasoning": "Priya Nair's witness statement concerns contractual/commercial administration (signing the MSA, Change Order No. 3, the Acceptance Certificate and the withheld payments) and she expressly does not comment on operational or technical performance. It does not address the causes of the Q4 trading shortfall.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_019",
+      "relevance": "somewhat_supported",
+      "reasoning": "The IT expert finds the Platform contained genuine and serious stock-sync defects (so the Platform did cause some harm), but also finds Platform-attributable unavailability was only about 6.2% (far below the pleaded 40%) and that the largest outage and various till interruptions were caused by Meridian's network, not the Platform. This corroborates the wider point that significant disruption had non-Platform causes, though it does not address the flood or sector downturn.",
+      "excerpt": "The single largest outage occurred on 25 November 2024 and lasted approximately five hours. In my opinion this outage was not caused by the Platform. ... the cause was a loss of wide-area network connectivity at the Claimant's data-centre provider (Northgate Telecom). A number of shorter in-store till interruptions were likewise attributable to in-store broadband, not to the Platform."
+    },
+    {
+      "doc_id": "doc_020",
+      "relevance": "supported",
+      "reasoning": "The Claimant's own quantum expert directly and strongly supports the proposition. She opines that a material part of the Q4 sales shortfall is attributable to causes unconnected with the Platform — specifically the early-December Lutterworth flood (disrupting ~40 stores for ~ten days) and a sector-wide retail downturn evident in like-for-like data from October 2024 (before go-live) — estimating roughly £1,500,000 of the claimed decline as attributable to these non-Platform factors, with Platform-attributable lost gross profit only around £1,300,000 rather than the pleaded £4,200,000.",
+      "excerpt": "A material part of the Q4 sales shortfall is, in my opinion, attributable to causes unconnected with the Platform. In particular: (a) the flooding of the Claimant's Lutterworth distribution centre in early December 2024, which disrupted stock to approximately 40 stores for around ten days; and (b) a sector-wide downturn in retail trading in the relevant quarter, evident in the Claimant's own like-for-like data from October 2024 (i.e. before go-live). I estimate that approximately £1,500,000 of the claimed decline is attributable to these non-Platform factors"
+    }
+  ]
+}

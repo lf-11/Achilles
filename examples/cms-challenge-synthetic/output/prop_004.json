@@ -1,0 +1,129 @@
+{
+  "proposition_id": "prop_004",
+  "proposition_text": "At a meeting on or about 5 February 2024, prior to entering the MSA, TechFlow's Sales Director Mr Daniel Frost orally represented to Meridian that the Platform would reliably support at least 10,000 concurrent transactions; Meridian entered the MSA in reliance on that representation; and the representation was false because the Platform was incapable of supporting that volume.",
+  "judgement": "somewhat_adverse",
+  "confidence": 0.6,
+  "summary": "The proposition is a pleaded allegation that appears only in the Particulars of Claim (doc_002), which states it almost verbatim; the Claim Form (doc_001) lists misrepresentation generically as a head of claim but gives no detail of the meeting, of Mr Frost, or of any 10,000-concurrent-transactions figure. The rest of the bundle does not corroborate the allegation and in important respects undermines it. The MSA (doc_003) contains an entire-agreement clause (22.1) and an express non-reliance acknowledgement (22.2) under which each party agrees it has not relied on, and has no remedy for, any representation not set out in the contract (save for fraud) - directly cutting against the pleaded reliance element. TechFlow's pre-action response (doc_015) denies the claim in its entirety. Most tellingly, none of Meridian's three fact witnesses (Vance, Okafor, Nair), including the Head of Procurement who negotiated and signed the MSA, mentions the 5 February 2024 meeting, Mr Daniel Frost, or any concurrent-transactions representation at all; their evidence is confined to the loyalty-module change, the go-live decision and post-go-live stock-sync defects. The IT expert (doc_019) addresses availability and stock-sync defects but offers no opinion on platform capacity or any inability to handle 10,000 concurrent transactions, so the falsity element is also uncorroborated. On the whole bundle the allegation stands essentially unsupported and is contradicted on the reliance element, hence somewhat adverse.",
+  "evidence": [
+    {
+      "doc_id": "doc_001",
+      "relevance": "somewhat_supported",
+      "reasoning": "The Claim Form lists misrepresentation as one of the causes of action, which is consistent with the existence of the pleaded Representation, but it gives no particulars of the 5 February 2024 meeting, of Mr Frost, of the 10,000-concurrent-transactions figure, or of reliance. It supports only the general existence of a misrepresentation claim, not the specific facts asserted in the proposition.",
+      "excerpt": "The Claimant claims against the Defendant damages for breach of contract and/or negligence and/or misrepresentation arising out of the Defendant's defective and delayed design, build and implementation of a cloud-based inventory and EPOS platform pursuant to a Master Services Agreement dated 14 March 2024"
+    },
+    {
+      "doc_id": "doc_002",
+      "relevance": "supported",
+      "reasoning": "This is the document from which the proposition is drawn. Paragraph 7 pleads the Representation almost verbatim: the meeting on or about 5 February 2024, Mr Daniel Frost as Sales Director, the 10,000 concurrent transactions, reliance in entering the MSA, and falsity. As a pleading it asserts (but does not independently prove) every element of the proposition.",
+      "excerpt": "At a meeting on or about 5 February 2024, prior to entering into the MSA, TechFlow by its Sales Director Mr Daniel Frost orally represented to Meridian that the Platform would reliably support at least 10,000 concurrent transactions (\"the Representation\"). Meridian entered into the MSA in reliance upon the Representation. The Representation was false: the Platform was incapable of supporting that volume."
+    },
+    {
+      "doc_id": "doc_003",
+      "relevance": "adverse",
+      "reasoning": "The MSA contains an entire-agreement clause and, critically, an express non-reliance acknowledgement: each party acknowledges it has not relied on, and shall have no remedy for, any representation not set out in the Agreement, save in the case of fraud. This directly contradicts and undermines the pleaded reliance element of the proposition (the alleged oral capacity representation is not in the contract), and would bar any non-fraudulent misrepresentation remedy. The MSA nowhere records any 10,000-concurrent-transactions performance term.",
+      "excerpt": "22.1  This Agreement, together with its Schedules, constitutes the entire agreement between the parties and supersedes all prior representations, statements or agreements, whether written or oral. 22.2  Each party acknowledges that it has not relied on, and shall have no remedy in respect of, any representation or statement not expressly set out in this Agreement (save in the case of fraud)."
+    },
+    {
+      "doc_id": "doc_004",
+      "relevance": "not_addressed",
+      "reasoning": "The Statement of Work sets out scope, phases, milestones and customer responsibilities. It says nothing about any pre-contractual meeting, Mr Frost, or a 10,000-concurrent-transactions capacity representation, and contains no performance/capacity term of that kind. It does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_005",
+      "relevance": "not_addressed",
+      "reasoning": "The Order Form is a commercial pricing schedule for Phase 1/Phase 2 items. It does not mention the alleged representation, the 5 February meeting, Mr Frost, or platform concurrency capacity, and so does not bear on the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_006",
+      "relevance": "not_addressed",
+      "reasoning": "The Deed of Variation No. 1 only varies the payment milestone profile and expressly does not change scope or go-live date. It has no bearing on the alleged pre-contractual capacity representation.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_007",
+      "relevance": "not_addressed",
+      "reasoning": "Change Order No. 3 adds the loyalty module and revises the go-live date. It is unrelated to the alleged 5 February 2024 representation about concurrent-transaction capacity and does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_008",
+      "relevance": "not_addressed",
+      "reasoning": "The UAT Acceptance Certificate concerns acceptance of Phase 1 and outstanding snag items. It says nothing about the alleged representation, Mr Frost, or concurrency capacity, and does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_009",
+      "relevance": "not_addressed",
+      "reasoning": "This go-live decision email thread concerns whether to defer go-live and the stock-sync issues. It does not mention the alleged pre-contractual representation, Mr Frost, or any 10,000-concurrent-transactions figure, and so does not bear on the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_010",
+      "relevance": "not_addressed",
+      "reasoning": "This email thread concerns the request for and scoping of the loyalty module change. It has no connection to the alleged 5 February 2024 capacity representation and does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_011",
+      "relevance": "not_addressed",
+      "reasoning": "This email attributes the 25 November outage to a network failure at Meridian's provider, not the Platform. It concerns post-go-live availability, not the alleged pre-contractual concurrency representation, and does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_012",
+      "relevance": "not_addressed",
+      "reasoning": "This internal Meridian email discusses Q4 trading, the Lutterworth flood, and market softness, plus stock-sync issues. It does not mention the alleged representation, Mr Frost, or concurrency capacity, and does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_013",
+      "relevance": "not_addressed",
+      "reasoning": "The defect log records post-go-live defects centred on stock-synchronisation and network/connectivity issues. None of the logged defects concerns inability to support 10,000 concurrent transactions, and the log says nothing about the alleged pre-contractual representation, so it neither supports the falsity element nor otherwise addresses the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_014",
+      "relevance": "not_addressed",
+      "reasoning": "The Notice of Termination / letter before action grounds the claim on late delivery, post-go-live stock-sync failures and unsatisfactory quality. It does not mention any pre-contractual misrepresentation, Mr Frost, the 5 February meeting, or a concurrency figure, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_015",
+      "relevance": "somewhat_adverse",
+      "reasoning": "TechFlow's solicitors' response denies the claim in its entirety and disputes liability and quantum, and relies on clause 14 limitations. While it does not specifically rebut the 5 February representation, its blanket denial of the claim contradicts the proposition and is consistent with TechFlow disputing the alleged representation, weighing mildly against it.",
+      "excerpt": "We act for TechFlow Solutions Limited. Your client's claim is denied in its entirety. Liability and quantum are both disputed."
+    },
+    {
+      "doc_id": "doc_016",
+      "relevance": "somewhat_adverse",
+      "reasoning": "Helena Vance was Meridian's Programme Director and main day-to-day contact with TechFlow, yet her statement makes no mention of the 5 February 2024 meeting, Mr Daniel Frost, or any representation that the Platform would support 10,000 concurrent transactions. Her account of why Meridian ended the relationship rests on stock-sync defects, not on any pre-contractual capacity promise. The absence of any corroboration from a key Meridian witness weighs against the proposition.",
+      "excerpt": "I considered that the platform we were given was not what we had paid for, and that is why Meridian decided to bring the relationship to an end."
+    },
+    {
+      "doc_id": "doc_017",
+      "relevance": "not_addressed",
+      "reasoning": "Raymond Okafor's statement deals with post-go-live operational disruption, network/broadband outages, the Lutterworth flood and the weak market. He says nothing about the alleged pre-contractual representation, Mr Frost, or concurrency capacity, so his evidence does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_018",
+      "relevance": "somewhat_adverse",
+      "reasoning": "Priya Nair was Head of Procurement, responsible for the contractual and commercial administration of the TechFlow contract, and signed the MSA. Despite this central role she gives no evidence of any 5 February 2024 meeting, of Mr Frost, or of any representation about supporting 10,000 concurrent transactions, and expressly says technical performance is not a matter for her. The absence of any reference to the alleged representation by the very person who handled the contract weighs against the reliance and existence elements of the proposition.",
+      "excerpt": "I signed the Master Services Agreement on Meridian's behalf on 14 March 2024, and the related Order Form. The total contract value was £2.4 million."
+    },
+    {
+      "doc_id": "doc_019",
+      "relevance": "not_addressed",
+      "reasoning": "Dr Whitfield's IT expert report addresses Platform availability (approximately 6.2% unavailability) and stock-synchronisation defects. It offers no opinion on whether the Platform could support 10,000 concurrent transactions and does not mention any pre-contractual representation, so it neither corroborates the falsity element nor otherwise addresses the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_020",
+      "relevance": "not_addressed",
+      "reasoning": "Fiona Greenhalgh's quantum report addresses wasted expenditure, loss of profit and causation, and notes the clause 14 limitation. It does not address the alleged 5 February representation, Mr Frost, or platform concurrency, and so does not bear on the proposition.",
+      "excerpt": ""
+    }
+  ]
+}

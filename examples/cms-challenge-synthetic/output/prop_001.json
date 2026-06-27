@@ -1,0 +1,129 @@
+{
+  "proposition_id": "prop_001",
+  "proposition_text": "By a written Master Services Agreement dated 14 March 2024, TechFlow agreed to design, build, configure and implement for Meridian a cloud-based inventory management and EPOS platform.",
+  "judgement": "supported",
+  "confidence": 0.98,
+  "summary": "The proposition is a narrow, foundational fact about the existence and basic subject-matter of the contract, and it is strongly corroborated across the bundle. The Master Services Agreement itself (doc_003), dated 14 March 2024 and signed for both parties, expressly provides at clause 1.1 that 'The Supplier shall design, build, configure, test and implement the cloud-based inventory management and EPOS platform', matching the proposition almost verbatim (the proposition merely omits 'test', an immaterial subset). The Statement of Work (doc_004), Order Form (doc_005), Deed of Variation (doc_006) and Change Order No. 3 (doc_007) all reference the same MSA dated 14 March 2024 and the same Platform scope. The pleadings (doc_001, doc_002) plead the agreement in the same terms, and the contractual existence, date and subject-matter are confirmed by Priya Nair's witness statement (doc_018) and are not disputed by TechFlow's own letter of response (doc_015), which repeatedly refers to 'your design, build and implementation of the inventory and EPOS platform under the above Agreement.' The bundle's many disputes concern breach, causation, acceptance and quantum, not the existence or basic scope of the contract, so nothing contradicts this proposition. Confidence is very high.",
+  "evidence": [
+    {
+      "doc_id": "doc_001",
+      "relevance": "supported",
+      "reasoning": "The Claim Form pleads the very contract relied on in the proposition, identifying 'the Defendant's defective and delayed design, build and implementation of a cloud-based inventory and EPOS platform pursuant to a Master Services Agreement dated 14 March 2024.' This confirms the existence, date and subject-matter of the agreement asserted in the proposition (though it is a pleading rather than primary contract evidence).",
+      "excerpt": "design, build and implementation of a cloud-based inventory and EPOS platform pursuant to a Master Services Agreement dated 14 March 2024"
+    },
+    {
+      "doc_id": "doc_002",
+      "relevance": "supported",
+      "reasoning": "The Particulars of Claim plead the proposition in materially identical words; this is in fact the document the proposition is drawn from. It corroborates the date, parties and scope of the agreement, although as a pleaded allegation it must be tested against the primary evidence (which confirms it).",
+      "excerpt": "By a written Master Services Agreement dated 14 March 2024 (\"the MSA\"), TechFlow agreed to design, build, configure and implement for Meridian a cloud-based inventory management and electronic point-of-sale platform (\"the Platform\")."
+    },
+    {
+      "doc_id": "doc_003",
+      "relevance": "supported",
+      "reasoning": "This is the primary and conclusive evidence: the Master Services Agreement itself, dated 14 March 2024 and executed for both Meridian and TechFlow. Clause 1.1 obliges the Supplier (TechFlow) to design, build, configure, test and implement the cloud-based inventory management and EPOS platform. This matches the proposition almost verbatim; the proposition merely omits 'test', which is an immaterial subset, so the document fully supports it.",
+      "excerpt": "The Supplier shall design, build, configure, test and implement the cloud-based inventory management and EPOS platform (\"the Platform\") in accordance with the Statement of Work set out at Schedule 1 (the \"SOW\")."
+    },
+    {
+      "doc_id": "doc_004",
+      "relevance": "supported",
+      "reasoning": "The Statement of Work is Schedule 1 to the MSA dated 14 March 2024 and elaborates the scope of the Platform TechFlow agreed to deliver (Phase 1 core inventory and EPOS; Phase 2 reporting and analytics). It corroborates that the 14 March 2024 agreement obliged TechFlow to deliver the inventory/EPOS platform described in the proposition.",
+      "excerpt": "SCHEDULE 1 — STATEMENT OF WORK (SOW-01) to the Master Services Agreement dated 14 March 2024 ... The Supplier shall deliver the Platform in two phases: Phase 1 (core inventory and EPOS); Phase 2 (reporting and analytics)."
+    },
+    {
+      "doc_id": "doc_005",
+      "relevance": "supported",
+      "reasoning": "The Order Form is expressly placed 'Under: Master Services Agreement dated 14 March 2024' and itemises 'Platform licence & implementation (Phase 1 — core inventory & EPOS)' and EPOS terminal configuration, corroborating both the existence of the 14 March 2024 MSA and that its subject-matter was the inventory/EPOS platform described in the proposition.",
+      "excerpt": "Under: Master Services Agreement dated 14 March 2024 ... Platform licence & implementation (Phase 1 — core inventory & EPOS)"
+    },
+    {
+      "doc_id": "doc_006",
+      "relevance": "supported",
+      "reasoning": "The Deed of Variation recites that 'The parties entered into the Master Services Agreement dated 14 March 2024', confirming the existence and date of the agreement asserted in the proposition. It varies only the payment milestones, expressly not the scope, so it leaves the contracted Platform scope intact.",
+      "excerpt": "The parties entered into the Master Services Agreement dated 14 March 2024 (\"the MSA\")."
+    },
+    {
+      "doc_id": "doc_007",
+      "relevance": "supported",
+      "reasoning": "Change Order No. 3 is made 'under the change control procedure (clause 3, MSA dated 14 March 2024)' and again references the Supplier designing, building and implementing platform functionality. It confirms the existence and date of the MSA and that TechFlow was the supplier obliged to design/build/implement the Platform, corroborating the proposition (it adds a loyalty module beyond original scope but does not contradict the underlying agreement).",
+      "excerpt": "under the change control procedure (clause 3, MSA dated 14 March 2024)"
+    },
+    {
+      "doc_id": "doc_008",
+      "relevance": "supported",
+      "reasoning": "The UAT Acceptance Certificate identifies the 'Project: Meridian Platform implementation (MSA 14 March 2024)' and records acceptance of Phase 1 (core inventory and EPOS), corroborating that the 14 March 2024 MSA governed TechFlow's implementation of the inventory/EPOS Platform described in the proposition.",
+      "excerpt": "Project: Meridian Platform implementation (MSA 14 March 2024)"
+    },
+    {
+      "doc_id": "doc_009",
+      "relevance": "neutral",
+      "reasoning": "This go-live email thread concerns the timing of go-live and the recommendation to defer, not the existence or scope of the contract. It references the Platform and stock-sync issues but does not bear on whether the 14 March 2024 MSA created the design/build/configure/implement obligation, so it neither supports nor contradicts the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_010",
+      "relevance": "neutral",
+      "reasoning": "This email concerns the request for the loyalty module change and revised go-live date. It touches scope changes but does not address the existence or core subject-matter of the 14 March 2024 MSA, so it is not probative of the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_011",
+      "relevance": "not_addressed",
+      "reasoning": "This email is about the root cause of the 25 November 2024 outage (network failure at Meridian's data-centre provider). It addresses causation/availability, not the existence or scope of the MSA, and does not bear on the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_012",
+      "relevance": "not_addressed",
+      "reasoning": "This internal Meridian email concerns Q4 trading conditions, the Lutterworth DC flood and market softness. It is relevant to causation and quantum but says nothing about the existence or scope of the 14 March 2024 MSA, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_013",
+      "relevance": "not_addressed",
+      "reasoning": "The defect/issue log records post-go-live defects and their causes. It is relevant to breach and availability, not to whether the MSA dated 14 March 2024 created the design/build/configure/implement obligation, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_014",
+      "relevance": "supported",
+      "reasoning": "The termination/letter-before-action refers to 'your design, build and implementation of the inventory and EPOS platform under the above Agreement', the 'above Agreement' being the 'Master Services Agreement dated 14 March 2024' named in the subject line. While the letter alleges breach, it confirms the existence, date and subject-matter of the agreement in the proposition.",
+      "excerpt": "We write in connection with your design, build and implementation of the inventory and EPOS platform under the above Agreement (\"the MSA\")."
+    },
+    {
+      "doc_id": "doc_015",
+      "relevance": "supported",
+      "reasoning": "TechFlow's own solicitors' response, while denying the claim, is headed 'Master Services Agreement dated 14 March 2024' and addresses obligations under it (timetable, scope, acceptance). TechFlow nowhere disputes that the 14 March 2024 MSA exists or that it was the supplier engaged to design/build/implement the Platform; the disputes are about breach and quantum. This corroborates the proposition from the defendant's side.",
+      "excerpt": "TechFlow Solutions Limited – Master Services Agreement dated 14 March 2024 – RESPONSE TO LETTER BEFORE ACTION"
+    },
+    {
+      "doc_id": "doc_016",
+      "relevance": "supported",
+      "reasoning": "Helena Vance, Meridian's Programme Director, describes the 'Platform implementation programme', the loyalty module added by Change Order No. 3, and the original SOW. Her evidence presupposes and corroborates the existence of the 14 March 2024 MSA under which TechFlow implemented the Platform, supporting the proposition (though her statement focuses on later events rather than the contract's formation).",
+      "excerpt": "I had overall responsibility for the Platform implementation programme on Meridian's side."
+    },
+    {
+      "doc_id": "doc_017",
+      "relevance": "neutral",
+      "reasoning": "Raymond Okafor's statement addresses operational impact and causation (stock-sync issues, broadband outages, the DC flood, weak market). It assumes the Platform was supplied by TechFlow but does not specifically speak to the existence, date or contractual scope of the MSA, so it is at most weakly contextual and does not materially bear on the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_018",
+      "relevance": "supported",
+      "reasoning": "Priya Nair, who signed the contract for Meridian, directly confirms the core of the proposition: she signed the Master Services Agreement on Meridian's behalf on 14 March 2024 (and the related Order Form), with a total contract value of £2.4 million. This is first-hand witness corroboration of the existence and date of the written MSA under which TechFlow was engaged for the Platform.",
+      "excerpt": "I signed the Master Services Agreement on Meridian's behalf on 14 March 2024, and the related Order Form. The total contract value was £2.4 million."
+    },
+    {
+      "doc_id": "doc_019",
+      "relevance": "neutral",
+      "reasoning": "Dr Whitfield's IT expert report addresses Platform availability and defects (breach/causation), not contract formation. It presupposes the Platform was supplied by TechFlow but does not speak to the existence, date or scope obligations of the 14 March 2024 MSA, so it does not materially support or contradict the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_020",
+      "relevance": "neutral",
+      "reasoning": "The quantum expert report references the 'Master Services Agreement' and sums paid/invoiced under it but is directed at loss quantification and the clause 14 limitation, not the existence or design/build/configure/implement scope of the contract. It is at most weakly corroborative of the MSA's existence and does not materially bear on the proposition's specific assertions about scope.",
+      "excerpt": ""
+    }
+  ]
+}

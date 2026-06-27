@@ -1,0 +1,129 @@
+{
+  "proposition_id": "prop_012",
+  "proposition_text": "Meridian's wasted expenditure, being sums paid to TechFlow under the MSA, was £1,800,000.",
+  "judgement": "supported",
+  "confidence": 0.92,
+  "summary": "The proposition is strongly supported by the bundle. The figure originates in the pleaded Particulars of Claim (doc_002, para 15(a)) and is independently corroborated by the most directly relevant evidence: Priya Nair, Meridian's Head of Procurement who administered the contract, states in her witness statement that 'In total Meridian paid TechFlow £1.8 million' and that Meridian withheld the final two milestone payments of £300,000 each (£600,000 total) (doc_018). The forensic accounting (quantum) expert, Fiona Greenhalgh FCA, confirms the pleaded wasted expenditure of £1,800,000 is 'consistent with the Claimant's accounting records and the sums invoiced and paid under the' MSA and that she has 'no reason to challenge this element on a wasted-expenditure basis' (doc_020). The figure is also arithmetically coherent with the contract documents: the total charges were £2,400,000 (doc_003 cl 2.1; doc_005 Order Form; doc_018), and TechFlow's solicitors confirm Meridian withheld the final two milestone payments 'totalling £600,000' (doc_015), so £2,400,000 less £600,000 = £1,800,000 paid. (Note Change Order No. 3 added a further £180,000 loyalty-module charge payable on go-live (doc_007/doc_010), and whether that was paid is not separately quantified, but no source contradicts the £1.8m paid figure and the quantum expert ties it to actual accounting records.) The only contextual caveat — that clause 14 caps liability at the charges paid (doc_003 cl 14.2; doc_020 para 6) — bears on recoverability, not on the factual quantum of sums paid, which every source that addresses it puts at £1.8m. No document contradicts the figure; multiple independent sources confirm it.",
+  "evidence": [
+    {
+      "doc_id": "doc_001",
+      "relevance": "neutral",
+      "reasoning": "The Claim Form states the overall amount claimed is approximately £6,000,000 and the claim is for damages including wasted expenditure, but it does not itemise or quantify the wasted-expenditure component or the sums paid to TechFlow. It sets the headline figure consistent with the pleaded breakdown (£1.8m wasted expenditure + £4.2m loss of profit) but does not by itself confirm or contradict the specific £1,800,000 figure.",
+      "excerpt": "The Claimant expects to recover more than £200,000. The amount claimed is approximately £6,000,000."
+    },
+    {
+      "doc_id": "doc_002",
+      "relevance": "supported",
+      "reasoning": "This is the source pleading from which the proposition is drawn. The Particulars of Claim plead the wasted expenditure as £1,800,000, being sums paid to TechFlow under the MSA, and record the total contract charges as £2,400,000 payable against milestones. As a pleaded allegation verified by a statement of truth it directly asserts the proposition; its weight is then tested against the rest of the bundle, which corroborates rather than contradicts it.",
+      "excerpt": "(a)Wasted expenditure, being sums paid to TechFlow under the MSA: £1,800,000."
+    },
+    {
+      "doc_id": "doc_003",
+      "relevance": "somewhat_supported",
+      "reasoning": "The MSA fixes the total charges at £2,400,000 (excl. VAT) payable against milestones, which is the ceiling against which the £1,800,000 'paid' figure must be assessed. It does not record how much was actually paid, but it makes the £1.8m paid figure arithmetically plausible (£2.4m total less the £600k of withheld milestones evidenced elsewhere). Clause 14.2 also caps liability at 'the total charges actually paid', a concept the quantum expert ties to ~£1.8m.",
+      "excerpt": "2.1  The total charges for the Services are £2,400,000 (excluding VAT), payable against the milestones set out in the SOW"
+    },
+    {
+      "doc_id": "doc_004",
+      "relevance": "neutral",
+      "reasoning": "The Statement of Work sets out scope, milestones and a 25%-per-milestone payment profile, but it does not state any amount paid to TechFlow or quantify wasted expenditure. It provides background to the payment-by-milestone structure relevant to how much could have been paid, but does not itself confirm or contradict the £1,800,000 figure.",
+      "excerpt": "4.1  Charges are payable 25% on each of M1, M2, M3 and M4, subject to any variation agreed under the change control procedure."
+    },
+    {
+      "doc_id": "doc_005",
+      "relevance": "somewhat_supported",
+      "reasoning": "The Order Form itemises the total contract value as £2,400,000 (excl. VAT) with payment 25% on each milestone M1–M4. Like the MSA, it establishes the total contract sum from which the £1,800,000 paid figure is derived (total less the £600,000 of withheld milestone payments), making the proposition arithmetically consistent, though it does not itself record sums actually paid.",
+      "excerpt": "Total (excl. VAT)\n\n2,400,000\n\nPayment terms: 25% on each milestone M1–M4 per the SOW."
+    },
+    {
+      "doc_id": "doc_006",
+      "relevance": "neutral",
+      "reasoning": "Deed of Variation No. 1 re-profiles the milestone payment percentages (20/20/30/30) for cash-flow phasing without varying scope, go-live date or the total charges. It affects the timing/size of each milestone instalment but not the total payable and does not state any amount actually paid, so it neither confirms nor contradicts the £1,800,000 figure.",
+      "excerpt": "clause 4.1 of the SOW is varied so that the charges are payable: 20% on M1, 20% on M2, 30% on M3 and 30% on M4."
+    },
+    {
+      "doc_id": "doc_007",
+      "relevance": "neutral",
+      "reasoning": "Change Order No. 3 adds the loyalty module for an additional charge of £180,000 payable on go-live. This is a contract-value matter potentially bearing on total sums payable/paid, but the bundle does not separately quantify whether this £180,000 was paid, and no source treats it as altering the £1.8m 'sums paid' figure. It neither clearly confirms nor contradicts the proposition.",
+      "excerpt": "3.1  The additional charge for the Loyalty Module is £180,000, payable on go-live."
+    },
+    {
+      "doc_id": "doc_008",
+      "relevance": "not_addressed",
+      "reasoning": "The UAT Acceptance Certificate concerns acceptance of Phase 1 and outstanding snag items. It does not address sums paid to TechFlow or the quantum of wasted expenditure.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_009",
+      "relevance": "not_addressed",
+      "reasoning": "This go-live decision email concerns the timing of go-live and the parties' respective positions on deferral. It does not address payments made or wasted expenditure.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_010",
+      "relevance": "not_addressed",
+      "reasoning": "This email thread concerns the loyalty-module change request and its £180,000 cost/timetable impact. While it references the £180,000 additional charge, it does not address sums actually paid to TechFlow or the quantum of wasted expenditure, and is not relied on by any source as bearing on the £1.8m figure.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_011",
+      "relevance": "not_addressed",
+      "reasoning": "This email concerns the root cause of the 25 November outage (a network failure, not the Platform). It does not address payments or wasted expenditure.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_012",
+      "relevance": "not_addressed",
+      "reasoning": "This internal Meridian email concerns the causes of poor December trading (DC flood, soft market, stock-sync). It bears on the loss-of-profit head, not on sums paid or the quantum of wasted expenditure.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_013",
+      "relevance": "not_addressed",
+      "reasoning": "The defect/issue log records platform defects, their severity and causes. It does not address payments made to TechFlow or the quantum of wasted expenditure.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_014",
+      "relevance": "not_addressed",
+      "reasoning": "The Notice of Termination / letter before action asserts repudiatory breach and states Meridian will seek damages including 'wasted expenditure and loss of profit' that are 'substantial', but it does not quantify the wasted expenditure or the sums paid. It frames the claim but does not confirm or contradict the specific £1,800,000 figure.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_015",
+      "relevance": "supported",
+      "reasoning": "TechFlow's solicitors' response confirms the amount withheld by Meridian: 'Your client has wrongly withheld the final two milestone payments totalling £600,000.' Read against the £2,400,000 total charges (doc_003/doc_005), this corroborates that £1,800,000 was paid (£2.4m less £600k). Even the defendant's own quantum-disputing letter is consistent with the £1.8m paid figure on which the wasted-expenditure proposition rests.",
+      "excerpt": "Your client has wrongly withheld the final two milestone payments totalling £600,000, which remain due to our client."
+    },
+    {
+      "doc_id": "doc_016",
+      "relevance": "not_addressed",
+      "reasoning": "Helena Vance's witness statement addresses scope change, the go-live decision and platform problems, and says the platform 'was not what we had paid for', but does not quantify sums paid to TechFlow or the wasted-expenditure figure. It does not confirm or contradict the £1,800,000 amount.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_017",
+      "relevance": "not_addressed",
+      "reasoning": "Raymond Okafor's witness statement addresses operational disruption and the multiple causes of poor December trading. It bears on causation/loss of profit, not on sums paid or the quantum of wasted expenditure.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_018",
+      "relevance": "supported",
+      "reasoning": "Priya Nair, Meridian's Head of Procurement responsible for contractual and commercial administration, gives the most direct factual confirmation of the proposition: she states the total contract value was £2.4 million and that 'In total Meridian paid TechFlow £1.8 million', having withheld the final two milestone payments of £300,000 each (£600,000 in total). This directly establishes that the sums paid to TechFlow under the MSA were £1,800,000.",
+      "excerpt": "In total Meridian paid TechFlow £1.8 million. We withheld the final two milestone payments of £300,000 each — £600,000 in total — because of the problems we experienced after go-live."
+    },
+    {
+      "doc_id": "doc_019",
+      "relevance": "not_addressed",
+      "reasoning": "Dr Whitfield's IT expert report addresses Platform availability and defects. It does not address payments to TechFlow or the quantum of wasted expenditure.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_020",
+      "relevance": "supported",
+      "reasoning": "The forensic accounting (quantum) expert independently verifies the proposition against Meridian's accounting records: she confirms the pleaded wasted expenditure of £1,800,000 is 'consistent with the Claimant's accounting records and the sums invoiced and paid under the' MSA and that she has 'no reason to challenge this element on a wasted-expenditure basis'. She separately treats the charges paid as 'approximately £1,800,000' in the clause 14 cap discussion. This is the strongest independent corroboration that the sums paid to TechFlow were £1,800,000.",
+      "excerpt": "The pleaded wasted expenditure of £1,800,000 is consistent with the Claimant’s accounting records and the sums invoiced and paid under the Master Services Agreement. I have no reason to challenge this element on a wasted-expenditure basis."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "proposition_id": "prop_015",
+  "proposition_text": "The most significant outage following go-live, on 25 November 2024, was caused by the failure of Meridian's own network provider (Northgate Telecom) and not by the Platform.",
+  "judgement": "supported",
+  "confidence": 0.92,
+  "summary": "The proposition is strongly supported across the bundle, including by Meridian's own evidence. TechFlow's contemporaneous incident review (doc_011, 26 Nov 2024) attributes the c. five-hour outage on 25 November to loss of wide-area network connectivity at Meridian's data centre provided by Northgate Telecom, with the Platform application and database remaining healthy, citing Northgate's incident report NT-22841. The platform defect log (doc_013) independently records D-003 (25 Nov, total EPOS loss, ~5 hours) as 'Network (Northgate Telecom) — not Platform'. Meridian's own fact witness Raymond Okafor (doc_017) concedes there was a complete outage on 25 November that 'was a network failure at our data centre provider, not the platform.' Meridian's own IT expert, Dr Whitfield (doc_019), opines that the single largest outage on 25 November 2024 (~five hours) was not caused by the Platform but by loss of WAN connectivity at the Claimant's data-centre provider (Northgate Telecom). TechFlow's solicitors' response (doc_015) asserts the same proposition almost verbatim. The SOW (doc_004) places responsibility for in-store network connectivity on Meridian. The only countervailing material is the Particulars of Claim (doc_002), which makes a blanket >40% unavailability allegation attributing till failures to the Platform, but it does not specifically address the cause of the 25 November outage and is contradicted by Meridian's own witness and expert. Confidence is high but not absolute because the underlying Northgate report is not in the bundle and witness Vance gives only an impressionistic account.",
+  "evidence": [
+    {
+      "doc_id": "doc_001",
+      "relevance": "not_addressed",
+      "reasoning": "The Claim Form gives only brief, general details of a breach/negligence/misrepresentation claim arising from a defective and delayed platform. It says nothing about any specific outage on 25 November 2024 or its cause, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_002",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The Particulars of Claim plead generally that 'the Platform was unavailable for more than 40% of trading hours during November and December 2024, causing widespread till failures' and that the Platform contained numerous defects, framing all post-go-live unavailability as the Platform's fault. This pleaded case is in tension with the proposition that the single largest outage was a network (Northgate) failure rather than a Platform failure, although the Particulars do not specifically address the 25 November incident or attribute it to any particular cause. It is therefore only mildly adverse, and is itself contradicted by Meridian's own witness and expert elsewhere in the bundle.",
+      "excerpt": "Following go-live, the Platform was unavailable for more than 40% of trading hours during November and December 2024, causing widespread till failures and an inability to process sales across Meridian's store estate."
+    },
+    {
+      "doc_id": "doc_003",
+      "relevance": "not_addressed",
+      "reasoning": "The Master Services Agreement sets out scope, charges, timetable, change control and limitation of liability. It does not address any specific outage or its cause, so it does not bear on the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_004",
+      "relevance": "somewhat_supported",
+      "reasoning": "The Statement of Work allocates network connectivity to Meridian ('The Customer shall provide timely access to data, systems, and personnel, and shall procure and maintain adequate in-store network connectivity.'). This contractually supports the framing that network/connectivity failures are Meridian's responsibility rather than the Platform's, lending background support to the proposition that a network-provider failure was not a Platform failure, though it does not address the 25 November outage directly.",
+      "excerpt": "The Customer shall provide timely access to data, systems, and personnel, and shall procure and maintain adequate in-store network connectivity."
+    },
+    {
+      "doc_id": "doc_005",
+      "relevance": "not_addressed",
+      "reasoning": "The Order Form lists the phased charges and authorisation. It does not address any outage or its cause and is not relevant to the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_006",
+      "relevance": "not_addressed",
+      "reasoning": "The Deed of Variation No. 1 only varies the payment milestone profile and expressly leaves scope and go-live date unchanged. It does not address any outage and is irrelevant to the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_007",
+      "relevance": "not_addressed",
+      "reasoning": "Change Order No. 3 adds the loyalty module and revises the go-live date. It does not address any outage on 25 November 2024 or its cause and is not relevant to the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_008",
+      "relevance": "not_addressed",
+      "reasoning": "The UAT Acceptance Certificate confirms Phase 1 acceptance on 12 November 2024 with only minor snags. It predates and does not address the 25 November outage or its cause, so it is not relevant to the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_009",
+      "relevance": "not_addressed",
+      "reasoning": "This go-live decision email concerns whether to defer go-live past peak trading and the acceptance of risk; it does not address the 25 November outage or its cause, so it is not relevant to this proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_010",
+      "relevance": "not_addressed",
+      "reasoning": "This email concerns the request to add and scope the loyalty module and its timetable/cost impact. It does not address any outage or its cause and is not relevant to the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_011",
+      "relevance": "supported",
+      "reasoning": "This is the contemporaneous root-cause email of 26 November 2024 directly on point. TechFlow's Service Manager reports that the 25 November outage (approx. 13:10–18:05, around five hours) was caused by loss of WAN connectivity at Meridian's data centre provided by Northgate Telecom, with the Platform application and database remaining healthy throughout, corroborated by Northgate's incident report NT-22841. This directly supports the proposition that the most significant outage was caused by Meridian's network provider and not by the Platform.",
+      "excerpt": "The root cause was a loss of wide-area network connectivity at your data centre provided by Northgate Telecom, not the Platform. During the window the Platform application and database remained healthy but could not be reached because the network link was down. We have confirmed this with Northgate's incident report (ref NT-22841)."
+    },
+    {
+      "doc_id": "doc_012",
+      "relevance": "neutral",
+      "reasoning": "This internal Meridian email about poor December trading attributes the shortfall to the Lutterworth distribution-centre flood, a soft market, and (secondarily) stock-sync problems. It addresses causation of trading losses generally but does not address the 25 November outage or its specific cause, so it is at most tangential and neutral to the proposition.",
+      "excerpt": "I'd be wary of attributing the whole shortfall to the platform when the DC flood and the wider market are doing a lot of the damage."
+    },
+    {
+      "doc_id": "doc_013",
+      "relevance": "supported",
+      "reasoning": "The platform defect/issue log independently records the 25 November incident (D-003: 'Total loss of EPOS connectivity, all stores, ~5 hours') and classifies its cause as 'Network (Northgate Telecom) — not Platform'. A closing note states that the single largest outage (D-003) was attributable to network connectivity provided by Meridian, not to the Platform. This directly corroborates the proposition.",
+      "excerpt": "D-003 | 25 Nov 2024 | Sev 1 | Total loss of EPOS connectivity, all stores, ~5 hours | Network (Northgate Telecom) — not Platform ... the single largest outage (D-003) and the intermittent till freezes (D-006) were attributable to network connectivity provided by Meridian, not to the Platform."
+    },
+    {
+      "doc_id": "doc_014",
+      "relevance": "somewhat_adverse",
+      "reasoning": "Meridian's Notice of Termination/letter before action asserts that 'following go-live on 18 November 2024 the Platform suffered serious and repeated failures' and characterises the failures during peak trading as the Platform's fault, supporting termination. This generalised attribution of post-go-live failures to the Platform is in some tension with the proposition, though the letter does not specifically address the 25 November outage or identify its cause, so it is only mildly adverse.",
+      "excerpt": "following go-live on 18 November 2024 the Platform suffered serious and repeated failures, including critical defects in the stock-synchronisation module; and (iii) the Platform was not of satisfactory quality nor fit for purpose."
+    },
+    {
+      "doc_id": "doc_015",
+      "relevance": "supported",
+      "reasoning": "TechFlow's solicitors' response to the letter before action states the proposition almost verbatim, denying the >40% unavailability allegation and attributing the most significant outage of 25 November to Meridian's own network provider. As an assertion in correspondence it is corroborated by the contemporaneous documents (doc_011, doc_013) and by Meridian's own witness (doc_017) and expert (doc_019), so it supports the proposition.",
+      "excerpt": "The most significant outage, on 25 November 2024, was caused by the failure of your client's own network provider, Northgate Telecom, and not by the Platform."
+    },
+    {
+      "doc_id": "doc_016",
+      "relevance": "neutral",
+      "reasoning": "Helena Vance's witness statement acknowledges there were till outages and that some connectivity problems related to Meridian's own store broadband rather than the platform, but she gives only an impressionistic account ('it felt constant') and does not specifically address the 25 November outage or attribute it to Northgate. It neither clearly supports nor contradicts the specific proposition, so it is neutral.",
+      "excerpt": "There were also occasions when tills went down. I could not say for how long in total, and I understand some of the connectivity problems were to do with our own store broadband rather than the platform itself, but from where I sat it felt constant during the early weeks."
+    },
+    {
+      "doc_id": "doc_017",
+      "relevance": "supported",
+      "reasoning": "Raymond Okafor, one of Meridian's own fact witnesses (Head of Retail Operations), expressly concedes the 25 November outage was a network failure at the data centre provider, not the platform. This admission against the Claimant's own interest strongly supports the proposition.",
+      "excerpt": "There was also a complete outage on 25 November that I am told was a network failure at our data centre provider, not the platform."
+    },
+    {
+      "doc_id": "doc_018",
+      "relevance": "not_addressed",
+      "reasoning": "Priya Nair's statement covers contractual/commercial matters (signing the MSA, Change Order No. 3, the Acceptance Certificate, payments) and expressly disclaims comment on technical performance. It does not address the 25 November outage or its cause and is not relevant to the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_019",
+      "relevance": "supported",
+      "reasoning": "The Claimant's own independent IT expert, Dr Whitfield, opines that the single largest outage occurred on 25 November 2024, lasted approximately five hours, and was not caused by the Platform; the application and database remained healthy and the cause was loss of WAN connectivity at the Claimant's data-centre provider (Northgate Telecom). This independent expert opinion, instructed by the Claimant, directly and authoritatively supports the proposition.",
+      "excerpt": "The single largest outage occurred on 25 November 2024 and lasted approximately five hours. In my opinion this outage was not caused by the Platform. The application and database remained healthy throughout; the cause was a loss of wide-area network connectivity at the Claimant's data-centre provider (Northgate Telecom)."
+    },
+    {
+      "doc_id": "doc_020",
+      "relevance": "not_addressed",
+      "reasoning": "The quantum expert report addresses the financial value of the pleaded losses and causation of the Q4 trading shortfall (flood, market downturn). It does not address the cause of the 25 November outage and is not relevant to this proposition.",
+      "excerpt": ""
+    }
+  ]
+}

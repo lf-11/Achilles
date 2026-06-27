@@ -1,0 +1,96 @@
+{
+  "case": "Meridian Retail Group plc v TechFlow Solutions Limited (Claim No. HT-2025-000231)",
+  "note": "Propositions discovered dynamically from the content of the bundle. The Claimant's pleadings (doc_001/doc_002) are the spine of contested, checkable assertions; several affirmative factual assertions made across the contracts, correspondence, witness statements, defect log and expert reports are also surfaced. Each is tested against the WHOLE bundle.",
+  "propositions": [
+    {
+      "proposition_id": "prop_001",
+      "text": "By a written Master Services Agreement dated 14 March 2024, TechFlow agreed to design, build, configure and implement for Meridian a cloud-based inventory management and EPOS platform.",
+      "source": "doc_002 (Particulars of Claim, para 3)"
+    },
+    {
+      "proposition_id": "prop_002",
+      "text": "The total charges payable under the MSA were £2,400,000 (excluding VAT), payable against milestones.",
+      "source": "doc_002 (Particulars of Claim, para 5)"
+    },
+    {
+      "proposition_id": "prop_003",
+      "text": "It was an express term of the MSA and the SOW that the go-live date for the Platform was fixed at 1 October 2024, and that time was of the essence in respect of that date.",
+      "source": "doc_002 (Particulars of Claim, para 6)"
+    },
+    {
+      "proposition_id": "prop_004",
+      "text": "At a meeting on or about 5 February 2024, prior to entering the MSA, TechFlow's Sales Director Mr Daniel Frost orally represented to Meridian that the Platform would reliably support at least 10,000 concurrent transactions; Meridian entered the MSA in reliance on that representation; and the representation was false because the Platform was incapable of supporting that volume.",
+      "source": "doc_002 (Particulars of Claim, para 7)"
+    },
+    {
+      "proposition_id": "prop_005",
+      "text": "TechFlow delivered the Platform late, the Platform not going live until 18 November 2024, some seven weeks after the contractual go-live date.",
+      "source": "doc_002 (Particulars of Claim, para 8)"
+    },
+    {
+      "proposition_id": "prop_006",
+      "text": "Meridian did not at any time request any change to the agreed scope of the works, and all delay was caused by TechFlow's failure to allocate adequate and competent resources to the project.",
+      "source": "doc_002 (Particulars of Claim, para 9)"
+    },
+    {
+      "proposition_id": "prop_007",
+      "text": "On numerous occasions prior to go-live, Meridian warned TechFlow that the Platform was not ready and requested that go-live be deferred, and TechFlow ignored those warnings and proceeded to go-live on 18 November 2024.",
+      "source": "doc_002 (Particulars of Claim, para 10)"
+    },
+    {
+      "proposition_id": "prop_008",
+      "text": "Following go-live, the Platform was unavailable for more than 40% of trading hours during November and December 2024.",
+      "source": "doc_002 (Particulars of Claim, para 11)"
+    },
+    {
+      "proposition_id": "prop_009",
+      "text": "The Platform contained numerous defects, including critical (Severity 1) failures in the stock-synchronisation module which caused stores to display and sell against incorrect stock figures, such that the Platform was not of satisfactory quality and was not reasonably fit for its purpose.",
+      "source": "doc_002 (Particulars of Claim, para 12)"
+    },
+    {
+      "proposition_id": "prop_010",
+      "text": "Meridian did not accept the Platform or any part of it, and no acceptance or sign-off was given by Meridian at any time.",
+      "source": "doc_002 (Particulars of Claim, para 13)"
+    },
+    {
+      "proposition_id": "prop_011",
+      "text": "TechFlow failed to provide adequate training to Meridian's staff in the use of the Platform.",
+      "source": "doc_002 (Particulars of Claim, para 14)"
+    },
+    {
+      "proposition_id": "prop_012",
+      "text": "Meridian's wasted expenditure, being sums paid to TechFlow under the MSA, was £1,800,000.",
+      "source": "doc_002 (Particulars of Claim, para 15(a))"
+    },
+    {
+      "proposition_id": "prop_013",
+      "text": "Meridian suffered loss of profit during the peak trading period of November and December 2024 of £4,200,000.",
+      "source": "doc_002 (Particulars of Claim, para 15(b))"
+    },
+    {
+      "proposition_id": "prop_014",
+      "text": "The go-live date was revised from 1 October 2024 to 18 November 2024 by Change Order No. 3 (signed 2 September 2024), which added a customer loyalty module that Meridian had requested and which was not in the original scope under SOW-01.",
+      "source": "doc_007 (Change Order No. 3); doc_010 (loyalty module emails); doc_015 (TechFlow response); doc_016/doc_018 (witness statements)"
+    },
+    {
+      "proposition_id": "prop_015",
+      "text": "The most significant outage following go-live, on 25 November 2024, was caused by the failure of Meridian's own network provider (Northgate Telecom) and not by the Platform.",
+      "source": "doc_011 (root-cause email); doc_013 (defect log D-003); doc_019 (Whitfield expert report); doc_015 (TechFlow response)"
+    },
+    {
+      "proposition_id": "prop_016",
+      "text": "Clause 14 of the MSA excludes the Supplier's liability for loss of profit and caps its total aggregate liability at the charges actually paid by the Customer.",
+      "source": "doc_003 (MSA, clause 14); doc_015 (TechFlow response); doc_020 (Greenhalgh quantum report)"
+    },
+    {
+      "proposition_id": "prop_017",
+      "text": "A significant part of Meridian's Q4 2024 trading shortfall was attributable to the flooding of its Lutterworth distribution centre in early December 2024 and to a sector-wide retail downturn, rather than to the Platform.",
+      "source": "doc_012 (internal Q4 email); doc_017 (Okafor witness statement); doc_020 (Greenhalgh quantum report)"
+    },
+    {
+      "proposition_id": "prop_018",
+      "text": "Meridian withheld the final two milestone payments under the MSA, totalling £600,000.",
+      "source": "doc_018 (Nair witness statement); doc_015 (TechFlow response)"
+    }
+  ]
+}

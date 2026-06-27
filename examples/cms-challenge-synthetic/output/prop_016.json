@@ -1,0 +1,129 @@
+{
+  "proposition_id": "prop_016",
+  "proposition_text": "Clause 14 of the MSA excludes the Supplier's liability for loss of profit and caps its total aggregate liability at the charges actually paid by the Customer.",
+  "judgement": "supported",
+  "confidence": 0.9,
+  "summary": "The proposition is directly and verbatim supported by clause 14 of the MSA itself (doc_003): clause 14.1 excludes the Supplier's liability for, among other things, loss of profit, and clause 14.2 caps its total aggregate liability at the total charges actually paid by the Customer. The proposition is corroborated by TechFlow's solicitors' Letter Before Action response (doc_015), which asserts that 'clause 14 of the MSA excludes liability for loss of profit and caps our client's liability at the charges actually paid', and by the quantum expert (doc_020), who notes clause 14 'appears to exclude liability for loss of profit and to cap the Supplier's liability at the charges paid (approximately £1,800,000)'. The only qualification, which prevents a perfect match, is that clause 14.2 expresses the cap as the charges paid 'in the twelve months preceding the event giving rise to the claim' and both clauses are 'Subject to clause 14.3' (which preserves liability for death/personal injury, fraud and non-excludable liability). The proposition's paraphrase ('the charges actually paid by the Customer') omits the twelve-month window and the carve-outs, but accurately captures the substance of the clause. No document contradicts the existence or wording of the clause; its ultimate legal effectiveness is expressly left as a matter for the Court (doc_020). Overall the proposition is well supported by the contract text and the surrounding evidence.",
+  "evidence": [
+    {
+      "doc_id": "doc_001",
+      "relevance": "not_addressed",
+      "reasoning": "The Claim Form gives brief details of the breach/negligence/misrepresentation claim and the value (~£6m). It does not mention clause 14, limitation of liability, exclusion of loss of profit, or any liability cap. It does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_002",
+      "relevance": "not_addressed",
+      "reasoning": "The Particulars of Claim plead breach, late delivery, defects and loss (including loss of profit of £4,200,000 and wasted expenditure of £1,800,000), but they do not refer to clause 14 or any limitation/exclusion of liability. While they assert a loss-of-profit head that clause 14 would bear on, the pleading itself says nothing about the content or effect of clause 14, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_003",
+      "relevance": "supported",
+      "reasoning": "This is the MSA itself and contains clause 14, the very provision the proposition describes. Clause 14.1 excludes the Supplier's liability for loss of profit (among other heads), and clause 14.2 caps total aggregate liability at the total charges actually paid by the Customer. This directly supports the proposition. The only divergence from the proposition is that clause 14.2 qualifies the cap with 'in the twelve months preceding the event giving rise to the claim' and both sub-clauses are 'Subject to clause 14.3' (preserving non-excludable liability), nuances the proposition's summary omits but which do not undermine its substance.",
+      "excerpt": "14.1  Subject to clause 14.3, the Supplier shall not be liable to the Customer, whether in contract, tort (including negligence) or otherwise, for any loss of profit, loss of revenue, loss of anticipated savings, or any indirect or consequential loss.\n14.2  Subject to clause 14.3, the Supplier’s total aggregate liability arising under or in connection with this Agreement shall not exceed the total charges actually paid by the Customer under this Agreement in the twelve months preceding the event giving rise to the claim."
+    },
+    {
+      "doc_id": "doc_004",
+      "relevance": "not_addressed",
+      "reasoning": "The Statement of Work (Schedule 1) sets out scope, the implementation timetable, customer responsibilities and payment milestones. It does not mention clause 14 or any limitation/exclusion of liability, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_005",
+      "relevance": "not_addressed",
+      "reasoning": "The Order Form lists the priced items and payment terms (total £2,400,000 excl. VAT). It is relevant only to the quantum of charges generally, not to clause 14 or the exclusion/cap of liability, and does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_006",
+      "relevance": "not_addressed",
+      "reasoning": "The Deed of Variation No. 1 varies only the payment milestone profile and expressly leaves the rest of the MSA in full force. It does not vary, mention or affect clause 14. It is therefore not relevant to the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_007",
+      "relevance": "not_addressed",
+      "reasoning": "Change Order No. 3 adds the loyalty module and revises the go-live date and charges. It does not mention clause 14 or the limitation of liability, and does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_008",
+      "relevance": "not_addressed",
+      "reasoning": "The Phase 1 UAT Acceptance Certificate records acceptance of Phase 1. It says nothing about clause 14, exclusion of loss of profit or the liability cap, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_009",
+      "relevance": "not_addressed",
+      "reasoning": "This email thread concerns the go-live decision and TechFlow's recommendation to defer. It does not mention clause 14 or limitation of liability and does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_010",
+      "relevance": "not_addressed",
+      "reasoning": "This email thread concerns the loyalty module change request, cost and timetable. It does not mention clause 14 or any limitation/exclusion of liability and does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_011",
+      "relevance": "not_addressed",
+      "reasoning": "This email concerns the root cause of the 25 November outage (network failure). It does not mention clause 14 or limitation of liability and does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_012",
+      "relevance": "not_addressed",
+      "reasoning": "This internal Meridian email discusses Q4 trading factors (DC flood, soft market, stock-sync). It bears on causation/quantum of loss generally but says nothing about clause 14 or the exclusion/cap of liability, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_013",
+      "relevance": "not_addressed",
+      "reasoning": "The Platform defect log records defects and their causes. It does not mention clause 14 or any limitation/exclusion of liability and does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_014",
+      "relevance": "not_addressed",
+      "reasoning": "Meridian's Notice of Termination and Letter Before Action asserts repudiatory breach and that damages including loss of profit will be sought. It does not refer to clause 14 or its exclusion/cap; it is TechFlow's reply (doc_015) that invokes clause 14. This letter does not itself address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_015",
+      "relevance": "supported",
+      "reasoning": "TechFlow's solicitors' Response to the Letter Before Action expressly invokes clause 14 in the same terms as the proposition, asserting it excludes liability for loss of profit and caps liability at the charges actually paid. This corroborates the proposition (the reading of clause 14 contained in doc_003), albeit as an advocate's assertion rather than independent proof of effectiveness.",
+      "excerpt": "In any event, clause 14 of the MSA excludes liability for loss of profit and caps our client’s liability at the charges actually paid."
+    },
+    {
+      "doc_id": "doc_016",
+      "relevance": "not_addressed",
+      "reasoning": "Helena Vance's witness statement addresses the loyalty module, the go-live decision and the stock-sync problems. It does not mention clause 14 or limitation of liability and does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_017",
+      "relevance": "not_addressed",
+      "reasoning": "Raymond Okafor's witness statement addresses store operations, outages and the causes of the poor December trading. It does not mention clause 14 or limitation of liability and does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_018",
+      "relevance": "not_addressed",
+      "reasoning": "Priya Nair's witness statement covers contract execution, the change order, acceptance and the £1.8m paid / £600k withheld. It speaks to the amount of charges paid but does not mention clause 14 or any exclusion/cap of liability, so it does not address the proposition. (It does confirm £1.8m was paid, which is the figure others tie to the clause 14 cap, but the statement itself is silent on the clause.)",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_019",
+      "relevance": "not_addressed",
+      "reasoning": "Dr Whitfield's IT expert report addresses Platform availability and defects. It does not mention clause 14 or limitation of liability and does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_020",
+      "relevance": "supported",
+      "reasoning": "The quantum expert, Fiona Greenhalgh, expressly notes (as a matter for the Court) that clause 14 of the MSA appears to exclude liability for loss of profit and to cap the Supplier's liability at the charges paid (approximately £1,800,000). This independently corroborates the proposition's description of clause 14's effect, while properly reserving the question of the clause's legal effectiveness to the Court.",
+      "excerpt": "I note, as a matter for the Court rather than for me, that clause 14 of the Master Services Agreement appears to exclude liability for loss of profit and to cap the Supplier’s liability at the charges paid (approximately £1,800,000)."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "proposition_id": "prop_014",
+  "proposition_text": "The go-live date was revised from 1 October 2024 to 18 November 2024 by Change Order No. 3 (signed 2 September 2024), which added a customer loyalty module that Meridian had requested and which was not in the original scope under SOW-01.",
+  "judgement": "supported",
+  "confidence": 0.95,
+  "summary": "The proposition is strongly and directly supported by the documentary and witness evidence. Change Order No. 3 (doc_007), dated and signed 2 September 2024, expressly adds a customer loyalty module 'At the Customer's request', states the module 'was not part of the original scope under SOW-01', and provides that 'the go-live date is revised from 1 October 2024 to 18 November 2024' — matching every element of the proposition. SOW-01 (doc_004) confirms the original go-live target of 1 October 2024 and that 'The agreed scope does not include a customer loyalty module', establishing the baseline that the Change Order varied. The contemporaneous emails (doc_010) show Helena Vance requesting the loyalty module on 21 August 2024 and Marcus Reilly responding on 27 August 2024 that the module would cost £180,000 and require moving go-live from 1 October to 18 November via Change Order 3. Three Meridian witnesses corroborate each element: Helena Vance (doc_016), Priya Nair (doc_018, the signatory), and the defendant's solicitors' letter (doc_015). The only contradiction is the Particulars of Claim (doc_002) para 9, which pleads that Meridian 'did not at any time request any change to the agreed scope' and (para 6) that the date was 'fixed' with time of the essence; but this pleaded allegation is directly contradicted by Meridian's own signed Change Order and by its own witnesses, so it does not undermine the proposition. Confidence is very high given the signed contractual instrument and multi-source corroboration.",
+  "evidence": [
+    {
+      "doc_id": "doc_001",
+      "relevance": "not_addressed",
+      "reasoning": "The Claim Form gives only brief details of the claim for breach of contract, negligence and misrepresentation arising from defective and delayed implementation under the MSA. It does not mention Change Order No. 3, the loyalty module, the go-live date revision or the SOW scope, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_002",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The Particulars of Claim are partly adverse to the proposition. Para 6 pleads the go-live date 'was fixed at 1 October 2024, and that time was of the essence', and para 9 pleads that 'Meridian did not at any time request any change to the agreed scope of the works' and that all delay was caused by TechFlow's resourcing failures. This contradicts the proposition's central elements (a customer-requested scope change moving the date by Change Order). However, this is an untested pleaded allegation that is directly contradicted by Meridian's own signed Change Order No. 3 (doc_007) and by its own witnesses (doc_016, doc_018), so it is only somewhat adverse rather than decisive.",
+      "excerpt": "Meridian did not at any time request any change to the agreed scope of the works. All delay was caused by TechFlow’s failure to allocate adequate and competent resources to the project."
+    },
+    {
+      "doc_id": "doc_003",
+      "relevance": "somewhat_supported",
+      "reasoning": "The Master Services Agreement is relevant because it establishes the change control mechanism on which the proposition relies. Clause 3.2 provides that any change to scope, deliverables or timetable is agreed by a signed Change Order which 'varies this Agreement to the extent stated in it', and clause 3.1 treats the SOW go-live date as a target/planning estimate that may be adjusted through change control. This supports the proposition's premise that a signed Change Order could lawfully revise the go-live date, though the MSA itself does not mention CO3 or the loyalty module.",
+      "excerpt": "Any change to the scope, deliverables or timetable shall be agreed in writing by both parties by means of a signed Change Order. A signed Change Order varies this Agreement to the extent stated in it."
+    },
+    {
+      "doc_id": "doc_004",
+      "relevance": "supported",
+      "reasoning": "SOW-01 establishes the original baseline that the proposition says Change Order No. 3 varied. It confirms the original go-live target of 1 October 2024 (Milestone M4) and expressly states that the agreed scope 'does not include a customer loyalty module'. This corroborates both the original 1 October date and that the loyalty module was outside the original SOW scope, directly supporting two elements of the proposition.",
+      "excerpt": "The Supplier shall deliver the Platform in two phases: Phase 1 (core inventory and EPOS); Phase 2 (reporting and analytics). The agreed scope does not include a customer loyalty module."
+    },
+    {
+      "doc_id": "doc_005",
+      "relevance": "not_addressed",
+      "reasoning": "The Phase 1 Order Form sets out the line items and charges (£2.4m total) under the MSA. It does not mention Change Order No. 3, the loyalty module, the go-live date or any scope change, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_006",
+      "relevance": "somewhat_supported",
+      "reasoning": "Deed of Variation No. 1 (28 June 2024) varied only the payment milestone profile and expressly recites that it 'does not vary the scope of the works or the target go-live date'. It is relevant because it confirms that, as at late June 2024, the target go-live date and scope were still unchanged, leaving Change Order No. 3 (September 2024) as the instrument that later revised the date and added the loyalty module. This is mildly corroborative of the proposition's chronology and of the 1 October 2024 starting point.",
+      "excerpt": "This Deed does not vary the scope of the works or the target go-live date."
+    },
+    {
+      "doc_id": "doc_007",
+      "relevance": "supported",
+      "reasoning": "This is the Change Order No. 3 itself and is the primary direct evidence for the proposition. It is dated and signed 2 September 2024 (by Priya Nair for the Customer and Marcus Reilly for the Supplier), is requested by Helena Vance of Meridian, adds the customer loyalty module 'At the Customer's request', records that the module 'was not part of the original scope under SOW-01', and provides that the go-live date 'is revised from 1 October 2024 to 18 November 2024'. Every element of the proposition is established by this document.",
+      "excerpt": "At the Customer’s request, the Supplier shall design, build and implement a customer loyalty module (\"the Loyalty Module\")... The Loyalty Module was not part of the original scope under SOW-01... The parties agree that, to accommodate the additional works, the go-live date is revised from 1 October 2024 to 18 November 2024."
+    },
+    {
+      "doc_id": "doc_008",
+      "relevance": "not_addressed",
+      "reasoning": "The Phase 1 UAT Acceptance Certificate (12 November 2024) confirms Phase 1 passed user acceptance testing. It concerns acceptance and outstanding snags, not the revision of the go-live date, the loyalty module or the SOW scope, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_009",
+      "relevance": "somewhat_supported",
+      "reasoning": "This go-live decision email thread (24 October 2024) is mildly corroborative. It refers to 'the loyalty module added under Change Order 3' and treats 18 November 2024 as the scheduled go-live date that Meridian instructed TechFlow to proceed with despite TechFlow's recommendation to defer. This confirms both the existence of Change Order 3 adding the loyalty module and that 18 November was the operative revised go-live date, supporting the proposition's facts (though its main focus is the go-live timing decision).",
+      "excerpt": "the loyalty module added under Change Order 3 is still being hardened"
+    },
+    {
+      "doc_id": "doc_010",
+      "relevance": "supported",
+      "reasoning": "This email thread is direct contemporaneous support for the proposition. On 21 August 2024 Helena Vance of Meridian requests a customer loyalty capability (points accrual, redemption, member database), acknowledging 'this was not in the original SOW' and that Meridian was 'willing to discuss a revised date'. On 27 August 2024 Marcus Reilly replies that the additional cost is £180,000, that 'we will need to move go-live from 1 October to 18 November 2024', and that he will issue Change Order 3 for Priya's signature 'to confirm both the scope and the revised date'. This corroborates that Meridian requested the module, it was outside the original scope, and the date moved to 18 November via Change Order 3.",
+      "excerpt": "We’ve scoped the loyalty module. The additional cost is £180,000 and, given the additional build and test, we will need to move go-live from 1 October to 18 November 2024. I’ll issue Change Order 3 for Priya’s signature to confirm both the scope and the revised date."
+    },
+    {
+      "doc_id": "doc_011",
+      "relevance": "not_addressed",
+      "reasoning": "This email concerns the root cause of the 25 November 2024 outage (a Northgate Telecom network failure, not the Platform). It does not address Change Order No. 3, the loyalty module, the go-live date revision or the SOW scope, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_012",
+      "relevance": "not_addressed",
+      "reasoning": "This internal Meridian email addresses causes of poor December 2024 trading (Lutterworth distribution centre flood, weak market, stock-sync issues). It does not address the Change Order, the loyalty module, the go-live date revision or the SOW scope, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_013",
+      "relevance": "not_addressed",
+      "reasoning": "The defect/issue log covers post-go-live defects from 18 November 2024 onwards and their causes. While it references loyalty redemptions in one Sev 3 item (D-004), it does not address the revision of the go-live date, the scope change effected by Change Order No. 3, or whether the loyalty module was within the original SOW scope, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_014",
+      "relevance": "neutral",
+      "reasoning": "The Notice of Termination/letter before action asserts repudiatory breach including that TechFlow 'delivered the Platform late' and refers to 'go-live on 18 November 2024'. It thus acknowledges 18 November 2024 as the go-live date (consistent with the proposition) but says nothing about Change Order No. 3, the loyalty module or the cause of the date moving, and frames the date as late delivery. On balance it neither materially supports nor contradicts the specific proposition, so it is neutral.",
+      "excerpt": "you delivered the Platform late; (ii) following go-live on 18 November 2024 the Platform suffered serious and repeated failures"
+    },
+    {
+      "doc_id": "doc_015",
+      "relevance": "supported",
+      "reasoning": "TechFlow's solicitors' response letter (7 February 2025) directly asserts the proposition. It states that the go-live date 'moved from 1 October to 18 November 2024 by reason of Change Order No. 3, signed by your client on 2 September 2024, which added a customer loyalty module that your client requested and which was not in the original scope', and that Meridian's assertion of requesting no scope change 'is contradicted by its own signed Change Order'. This squarely supports every element of the proposition.",
+      "excerpt": "It moved from 1 October to 18 November 2024 by reason of Change Order No. 3, signed by your client on 2 September 2024, which added a customer loyalty module that your client requested and which was not in the original scope."
+    },
+    {
+      "doc_id": "doc_016",
+      "relevance": "supported",
+      "reasoning": "Helena Vance's witness statement strongly supports the proposition. As Meridian's Programme Director she states that in around August 2024 Meridian decided it wanted a loyalty capability, she 'asked TechFlow to add a loyalty module', accepts 'this was not in the original Statement of Work', and that it 'was documented in Change Order No. 3, which my colleague Priya Nair signed on 2 September 2024, and which also moved the go-live date to 18 November 2024'. This corroborates every element from the requester's own evidence.",
+      "excerpt": "I asked TechFlow to add a loyalty module. I accept this was not in the original Statement of Work. It was documented in Change Order No. 3, which my colleague Priya Nair signed on 2 September 2024, and which also moved the go-live date to 18 November 2024."
+    },
+    {
+      "doc_id": "doc_017",
+      "relevance": "somewhat_supported",
+      "reasoning": "Raymond Okafor's witness statement confirms that 'The new platform went live on 18 November 2024', corroborating the revised go-live date in the proposition. He does not address Change Order No. 3, the loyalty module or the original SOW scope, so he supports only one element of the proposition (the 18 November date), making this somewhat supportive.",
+      "excerpt": "The new platform went live on 18 November 2024, immediately before our peak trading period."
+    },
+    {
+      "doc_id": "doc_018",
+      "relevance": "supported",
+      "reasoning": "Priya Nair's witness statement is direct support from the signatory of Change Order No. 3. She states that on 2 September 2024 she signed Change Order No. 3, which 'added the customer loyalty module, which Helena Vance had asked TechFlow to provide and which was not in the original Statement of Work, and it revised the go-live date from 1 October to 18 November 2024', understanding that both scope and date were being changed. This corroborates every element of the proposition.",
+      "excerpt": "On 2 September 2024 I signed Change Order No. 3. This added the customer loyalty module, which Helena Vance had asked TechFlow to provide and which was not in the original Statement of Work, and it revised the go-live date from 1 October to 18 November 2024."
+    },
+    {
+      "doc_id": "doc_019",
+      "relevance": "not_addressed",
+      "reasoning": "Dr Whitfield's IT expert report addresses Platform availability and the existence/severity of stock-synchronisation defects following go-live. It does not address Change Order No. 3, the loyalty module, the revision of the go-live date or the original SOW scope, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "doc_id": "doc_020",
+      "relevance": "not_addressed",
+      "reasoning": "Ms Greenhalgh's quantum expert report addresses wasted expenditure, loss of profit and causation of the Q4 shortfall. It does not address Change Order No. 3, the loyalty module, the go-live date revision or the original SOW scope, so it does not address the proposition.",
+      "excerpt": ""
+    }
+  ]
+}
