@@ -1,5 +1,5 @@
 ---
-name: case-proposition-orchestrator
+name: orchestrator
 description: Orchestrates matching of legal propositions against case documents. Use when a user uploads a bundle of case files and a set of propositions to evaluate. Coordinates proposition extraction and dispatches per-proposition subagents that judge whether each proposition is supported or contradicted by the evidence.
 ---
 
@@ -104,7 +104,7 @@ const INPUT = {
   documentIndexPath: '/abs/path/to/work/document_index.json',
   uploadsDir: '/abs/path/to/uploads',
   outputDir: '/abs/path/to/output',
-  skillPath: '/abs/path/to/.claude/skills/proposition-evidence-evaluation/SKILL.md',
+  skillPath: '/abs/path/to/.claude/skills/evidence-evaluation/SKILL.md',
 }
 // ============================================================================
 
@@ -127,7 +127,7 @@ const results = await parallel(INPUT.propositions.map((p) => () =>
   agent(
     [
       `You are evaluating ONE legal proposition against a case bundle.`,
-      `Follow the procedure in the proposition-evidence-evaluation skill exactly`,
+      `Follow the procedure in the evidence-evaluation skill exactly`,
       `(read it at: ${INPUT.skillPath}).`,
       ``,
       `proposition_id: ${p.proposition_id}`,
@@ -149,13 +149,13 @@ return results.filter(Boolean)
 ```
 
 Notes:
-- Each subagent independently reads the document index and uploads, judges every document, verifies excerpts, reaches a judgement on the scale above, and **writes `output/<proposition_id>.json` itself** — exactly as the **proposition-evidence-evaluation** skill specifies.
+- Each subagent independently reads the document index and uploads, judges every document, verifies excerpts, reaches a judgement on the scale above, and **writes `output/<proposition_id>.json` itself** — exactly as the **evidence-evaluation** skill specifies.
 - `parallel()` is a barrier that runs all proposition evaluations concurrently (the runtime caps how many execute at once and queues the rest), so passing all propositions at once is safe even for large bundles — no manual batching needed.
 - The workflow returns the per-proposition summaries; use them for the final report, but treat the written `output/*.json` files as the authoritative artifact.
 
 ## Output contract
 
-Each subagent produces one file at `output/<proposition_id>.json`. The exact shape — the overall `judgement`, `confidence`, `summary`, and the per-document `evidence` list with verified excerpts — is defined and enforced by the **proposition-evidence-evaluation** skill. See that skill for the authoritative output schema.
+Each subagent produces one file at `output/<proposition_id>.json`. The exact shape — the overall `judgement`, `confidence`, `summary`, and the per-document `evidence` list with verified excerpts — is defined and enforced by the **evidence-evaluation** skill. See that skill for the authoritative output schema.
 
 The `output/` directory of per-proposition JSON files is the final artifact. These are consumed by the frontend.
 

@@ -1,11 +1,11 @@
 ---
-name: proposition-evidence-evaluation
+name: evidence-evaluation
 description: For a single proposition, evaluate every document in the bundle and produce a consolidated per-proposition JSON of relevant evidence, with each excerpt verified against its source.
 ---
 
 # Proposition Evidence Evaluation
 
-Runs once per proposition (one subagent per proposition). Takes the pleaded fact and the case bundle, and outputs a single JSON file capturing which evidence is relevant, how it bears on the proposition, and an overall judgement. This skill owns the per-proposition output contract that the case-proposition-orchestrator skill delegates to.
+Runs once per proposition (one subagent per proposition). Takes the pleaded fact and the case bundle, and outputs a single JSON file capturing which evidence is relevant, how it bears on the proposition, and an overall judgement. This skill owns the per-proposition output contract that the orchestrator skill delegates to.
 
 ## Input
 
