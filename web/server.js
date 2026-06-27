@@ -17,9 +17,9 @@ const fs = require("fs");
 const { spawn, execFile } = require("child_process");
 
 const PORT = 8080;
-const PROJECT_DIR = "/home/sprite/propCheck";
+const PROJECT_DIR = process.env.PROPCHECK_DIR || path.resolve(__dirname, "..");
 const JOBS_DIR = path.join(PROJECT_DIR, "jobs");
-const CLAUDE = "/home/sprite/.local/bin/claude";
+const CLAUDE = process.env.CLAUDE_BIN || "claude";
 const MAX_UPLOAD = 200 * 1024 * 1024; // 200 MB
 
 fs.mkdirSync(JOBS_DIR, { recursive: true });
@@ -206,6 +206,154 @@ function collectResults(jobDir) {
   return results;
 }
 
+// ---------------------------------------------------------------------------
+// Achilles view adapter — maps backend output (prop_<NNN>.json + document_index
+// + propositions.json) into the shape the Achilles dashboard consumes:
+//   { jobId, issues:[{id,title}], props:[{id,issue,text,src,status,frag,ev:[...]}] }
+// Done server-side so it is testable with curl and keeps the bundled frontend
+// edits minimal.
+// ---------------------------------------------------------------------------
+
+function readJSONSafe(p, fallback) {
+  try {
+    return JSON.parse(fs.readFileSync(p, "utf8"));
+  } catch {
+    return fallback;
+  }
+}
+
+function analysisDirs(jobId) {
+  const base =
+    jobId === "sample"
+      ? path.join(PROJECT_DIR, "examples", "cms-challenge-synthetic")
+      : path.join(JOBS_DIR, jobId);
+  return { outDir: path.join(base, "output"), workDir: path.join(base, "work") };
+}
+
+// proposition_id "prop_007" -> "P07" for compact display
+function shortPropId(pid) {
+  const m = /(\d+)/.exec(pid || "");
+  return m ? "P" + m[1].slice(-2).padStart(2, "0") : pid || "P?";
+}
+
+// document_index category -> Achilles evidence-type key (must be a valid ET key)
+function categoryToType(cat) {
+  const c = (cat || "").toLowerCase();
+  if (c.includes("expert")) return "witness_expert";
+  if (c.includes("witness") || c.includes("statement")) return "witness_fact";
+  if (c.includes("contract") || c.includes("agreement") || c.includes("deed") || c.includes("order") || c.includes("certificate"))
+    return "contract";
+  if (c.includes("email") || c.includes("letter") || c.includes("correspond")) return "correspondence";
+  if (c.includes("log") || c.includes("minute") || c.includes("internal") || c.includes("memo")) return "internal_record";
+  return "record";
+}
+
+// "doc_002 (Particulars of Claim, para 3)" -> { doc:"Particulars of Claim", ref:"para 3" }
+function parseSource(src) {
+  if (!src) return { doc: "", ref: "" };
+  const m = /\(([^)]*)\)/.exec(src);
+  if (m) {
+    const parts = m[1].split(",");
+    return { doc: (parts[0] || "").trim(), ref: parts.slice(1).join(",").trim() };
+  }
+  return { doc: String(src).trim(), ref: "" };
+}
+
+function buildView(jobId) {
+  const { outDir, workDir } = analysisDirs(jobId);
+  let files = [];
+  try {
+    files = fs.readdirSync(outDir).filter((f) => /^prop_.*\.json$/.test(f)).sort();
+  } catch {
+    /* no output yet */
+  }
+  const docIndex = readJSONSafe(path.join(workDir, "document_index.json"), { documents: [] });
+  const propsFile = readJSONSafe(path.join(workDir, "propositions.json"), { propositions: [], groups: [] });
+
+  const docMap = {};
+  for (const d of docIndex.documents || []) docMap[d.doc_id] = d;
+  const propMeta = {};
+  for (const p of propsFile.propositions || []) propMeta[p.proposition_id] = p;
+
+  const order = [];
+  const titles = {};
+  const seenGroup = (id, title) => {
+    if (!id) return;
+    if (!(id in titles)) {
+      titles[id] = title || id;
+      order.push(id);
+    } else if (title) {
+      titles[id] = title;
+    }
+  };
+  for (const g of propsFile.groups || []) seenGroup(g.group_id, g.title);
+
+  const props = [];
+  for (const f of files) {
+    const r = readJSONSafe(path.join(outDir, f), null);
+    if (!r) continue;
+    const meta = propMeta[r.proposition_id] || {};
+    const groupId = (r.group && r.group.group_id) || meta.group_id || "all";
+    const groupTitle = (r.group && r.group.title) || titles[groupId] || (groupId === "all" ? "Propositions" : groupId);
+    seenGroup(groupId, groupTitle);
+
+    const ev = (r.evidence || [])
+      .filter((e) => e.relevance && e.relevance !== "not_addressed")
+      .map((e) => {
+        const d = docMap[e.doc_id] || {};
+        return {
+          id: e.evidence_id || r.proposition_id + "__" + e.doc_id,
+          rel: e.relevance,
+          type: categoryToType(d.category),
+          doc: d.title || e.doc_id,
+          docId: e.doc_id,
+          ref: "",
+          quote: e.excerpt || "",
+          conf: typeof r.confidence === "number" ? r.confidence : 0,
+          url: "",
+        };
+      });
+    const supporting = ev.filter((e) => e.rel === "supported" || e.rel === "somewhat_supported").length;
+    props.push({
+      id: shortPropId(r.proposition_id),
+      issue: groupId,
+      text: r.proposition_text || meta.text || "",
+      src: parseSource(meta.source),
+      status: r.judgement || "not_addressed",
+      frag: { score: 0, single: supporting === 1, note: "" },
+      summary: r.summary || "",
+      ev,
+    });
+  }
+  if (!order.length) {
+    order.push("all");
+    titles.all = "Propositions";
+  }
+  return { jobId, issues: order.map((id) => ({ id, title: titles[id] })), props };
+}
+
+// newest job that has produced output; falls back to the bundled sample
+function latestJobId() {
+  let dirs = [];
+  try {
+    dirs = fs.readdirSync(JOBS_DIR).filter((d) => /^job-/.test(d));
+  } catch {
+    /* none */
+  }
+  const ready = dirs
+    .filter((d) => {
+      const st = readStatus(path.join(JOBS_DIR, d));
+      if (st.state === "done") return true;
+      try {
+        return fs.readdirSync(path.join(JOBS_DIR, d, "output")).some((f) => /^prop_.*\.json$/.test(f));
+      } catch {
+        return false;
+      }
+    })
+    .sort();
+  return ready.length ? ready[ready.length - 1] : "sample";
+}
+
 // safe: only allow our own job-id pattern, never arbitrary paths
 function safeJobDir(id) {
   if (!/^job-[A-Za-z0-9-]+$/.test(id)) return null;
@@ -329,6 +477,18 @@ const server = http.createServer((req, res) => {
   const url = new URL(req.url, "http://localhost");
 
   if (req.method === "GET" && url.pathname === "/") {
+    let html;
+    try {
+      html = fs.readFileSync(path.join(PROJECT_DIR, "Achilles.html"));
+    } catch {
+      return sendJSON(res, 500, { error: "Achilles.html not found" });
+    }
+    res.writeHead(200, { "Content-Type": "text/html; charset=utf-8" });
+    return res.end(html);
+  }
+
+  // legacy upload-form frontend, kept for debugging
+  if (req.method === "GET" && url.pathname === "/classic") {
     const html = fs.readFileSync(path.join(__dirname, "index.html"));
     res.writeHead(200, { "Content-Type": "text/html; charset=utf-8" });
     return res.end(html);
@@ -336,6 +496,21 @@ const server = http.createServer((req, res) => {
 
   if (req.method === "POST" && url.pathname === "/api/upload") {
     return handleUpload(req, res);
+  }
+
+  // newest job that has results (or "sample")
+  if (req.method === "GET" && url.pathname === "/api/latest") {
+    return sendJSON(res, 200, { jobId: latestJobId() });
+  }
+
+  // adapted, dashboard-shaped view of a job's analysis
+  const viewMatch = /^\/api\/view\/([^/]+)$/.exec(url.pathname);
+  if (req.method === "GET" && viewMatch) {
+    const id = decodeURIComponent(viewMatch[1]);
+    if (id !== "sample" && !safeJobDir(id)) {
+      return sendJSON(res, 404, { error: "unknown job" });
+    }
+    return sendJSON(res, 200, buildView(id));
   }
 
   const jobMatch = /^\/api\/jobs\/([^/]+)$/.exec(url.pathname);

@@ -10,6 +10,7 @@ Runs once per proposition (one subagent per proposition). Takes the pleaded fact
 ## Input
 
 - **proposition** — the `proposition_id` and verbatim `text` of the pleaded fact being tested.
+- **group** — the `group_id` and `group_title` of the proposition group this proposition belongs to (assigned by the orchestrator). Record both verbatim in the output; do not re-derive or rename them.
 - **document index** — path to `work/document_index.json`; use it to identify documents by `doc_id` and to decide which files are worth opening.
 - **uploads directory** — where the case files live.
 - **output path** — `output/<proposition_id>.json`.
@@ -42,18 +43,21 @@ Write **one JSON file per proposition** to `output/<proposition_id>.json`. One o
 ```json
 {
   "proposition_id": "prop_001",
+  "group": { "group_id": "grp_001", "title": "The platform was fit for purpose" },
   "proposition_text": "The defendant signed the contract on 3 March 2021.",
   "judgement": "supported",
   "confidence": 0.0,
   "summary": "One-paragraph explanation of the judgement.",
   "evidence": [
     {
+      "evidence_id": "prop_001__doc_004",
       "doc_id": "doc_004",
       "relevance": "supported",
       "reasoning": "Why the document is relevant and how it bears on the proposition.",
       "excerpt": "short supporting/contradicting passage"
     },
     {
+      "evidence_id": "prop_001__doc_001",
       "doc_id": "doc_001",
       "relevance": "not_addressed",
       "reasoning": "Does not address the proposition.",
@@ -65,8 +69,10 @@ Write **one JSON file per proposition** to `output/<proposition_id>.json`. One o
 
 Field reference:
 
+- `group` — the proposition group this proposition belongs to, copied verbatim from the input: `group_id` plus its `title`. This lets the frontend reconstruct the groups directly from the per-proposition files.
 - `judgement` — overall judgement on the proposition: `supported | somewhat_supported | neutral | somewhat_adverse | adverse | not_addressed`.
 - `confidence` — 0.0–1.0.
+- `evidence[].evidence_id` — a stable identifier for this evidence item, formed as `"<proposition_id>__<doc_id>"` (e.g. `prop_001__doc_004`). There is exactly one evidence object per document per proposition, so this id is deterministic and stable across re-runs — do not use a running counter.
 - `evidence[].relevance` — the single per-document criterion, on the same scale: `supported | somewhat_supported | neutral | somewhat_adverse | adverse | not_addressed`.
 - `evidence[].reasoning` — the one free-text field; folds whether/why the document is relevant and how it bears on the proposition (including any earlier document it responds to). For `not_addressed`, state that it is not relevant here.
 - `evidence[].excerpt` — the verified passage; empty when `relevance` is `not_addressed`.

@@ -57,14 +57,20 @@ Procedure:
 1. Read each document in the bundle (use the `work/document_index.json` order). For large bundles, you may delegate this reading/extraction across documents — e.g. a first Workflow pass with one subagent per document that returns the candidate assertions it makes — then consolidate.
 2. From the assertions found, build a clean, **de-duplicated** set of propositions. Merge restatements of the same claim into one proposition; split a compound sentence into separate propositions only when each part is independently checkable. Keep contested or load-bearing claims; drop boilerplate, formatting, and trivia.
 3. Phrase each proposition as a single self-contained declarative statement. Quote the document's own wording where it is already a clean assertion; otherwise phrase it faithfully without editorialising. Record where it came from in `source`.
+4. **Group the propositions.** Cluster the propositions into a small number of **proposition groups** — the distinct legal issues or themes the case actually turns on (e.g. liability / breach / causation / quantum), each phrased as the case-specific question that group decides. Give every group a stable `group_id` and a short `title`, and tag each proposition with the one `group_id` it belongs to (exactly one group per proposition). Derive the groups from the propositions you actually found — do **not** impose a fixed taxonomy. The frontend renders propositions grouped under these, so every proposition must reference a real `group_id`.
 
 Write the result to `work/propositions.json`:
 
 ```json
 {
+  "groups": [
+    { "group_id": "grp_001", "title": "The platform was fit for purpose" },
+    { "group_id": "grp_002", "title": "Delivery was on time" }
+  ],
   "propositions": [
     {
       "proposition_id": "prop_001",
+      "group_id": "grp_001",
       "text": "The defendant signed the contract on 3 March 2021.",
       "source": "doc_001 (memo, J. Smith, 2 March 2021)"
     }
@@ -72,7 +78,7 @@ Write the result to `work/propositions.json`:
 }
 ```
 
-Assign each proposition a stable `proposition_id`. Each proposition is then tested in Step 3 against **the whole bundle** — including the documents it was drawn from — so the judgement reflects whether the rest of the evidence corroborates or contradicts it, not merely that one document asserted it.
+Assign each proposition a stable `proposition_id` and a `group_id` that references one of the entries in `groups`. Each proposition is then tested in Step 3 against **the whole bundle** — including the documents it was drawn from — so the judgement reflects whether the rest of the evidence corroborates or contradicts it, not merely that one document asserted it.
 
 **Override (optional, secondary).** If — and only if — the caller has explicitly supplied a propositions list (a path given in the prompt, or propositions stated directly in the prompt), use that list verbatim instead of discovering them. This is an escape hatch; the default and normal mode is dynamic discovery from the documents.
 
@@ -98,8 +104,8 @@ export const meta = {
 // === Inputs — the orchestrator fills these in as literals before submitting ===
 const INPUT = {
   propositions: [
-    { proposition_id: 'prop_001', text: 'The defendant signed the contract on 3 March 2021.' },
-    // ...one entry per proposition, copied verbatim from work/propositions.json...
+    { proposition_id: 'prop_001', group_id: 'grp_001', group_title: 'The platform was fit for purpose', text: 'The defendant signed the contract on 3 March 2021.' },
+    // ...one entry per proposition; copy proposition_id/group_id/text verbatim from work/propositions.json, and look up group_title from groups[] by group_id...
   ],
   documentIndexPath: '/abs/path/to/work/document_index.json',
   uploadsDir: '/abs/path/to/uploads',
@@ -131,12 +137,15 @@ const results = await parallel(INPUT.propositions.map((p) => () =>
       `(read it at: ${INPUT.skillPath}).`,
       ``,
       `proposition_id: ${p.proposition_id}`,
+      `group_id: ${p.group_id}`,
+      `group_title: ${p.group_title}`,
       `proposition text (verbatim): ${p.text}`,
       `document index JSON: ${INPUT.documentIndexPath}`,
       `uploads directory: ${INPUT.uploadsDir}`,
       ``,
       `Go through EVERY document in the index, grade each one's relevance,`,
       `verify every excerpt against its source, reach an overall judgement,`,
+      `record the proposition group (group_id + group_title) in the output,`,
       `and WRITE the result JSON to: ${INPUT.outputDir}/${p.proposition_id}.json`,
       `(create the file yourself; the schema is defined by the skill).`,
       `Then return the summary object.`,
@@ -155,7 +164,7 @@ Notes:
 
 ## Output contract
 
-Each subagent produces one file at `output/<proposition_id>.json`. The exact shape — the overall `judgement`, `confidence`, `summary`, and the per-document `evidence` list with verified excerpts — is defined and enforced by the **evidence-evaluation** skill. See that skill for the authoritative output schema.
+Each subagent produces one file at `output/<proposition_id>.json`. The exact shape — the proposition `group`, the overall `judgement`, `confidence`, `summary`, and the per-document `evidence` list (each item carrying a stable `evidence_id` and a verified excerpt) — is defined and enforced by the **evidence-evaluation** skill. See that skill for the authoritative output schema.
 
 The `output/` directory of per-proposition JSON files is the final artifact. These are consumed by the frontend.
 
