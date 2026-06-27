@@ -1,0 +1,153 @@
+{
+  "proposition_id": "prop_006",
+  "group": {
+    "group_id": "grp_002",
+    "title": "Platform quality, defects and availability"
+  },
+  "proposition_text": "Following go-live the Platform caused widespread till failures and was unavailable for more than 40% of trading hours during November and December 2024.",
+  "judgement": "somewhat_supported",
+  "confidence": 0.55,
+  "summary": "The proposition is the pleaded allegation in the Particulars of Claim (doc_002) and is genuinely two-sided. Its first limb - that following go-live the Platform caused real till disruption during peak trading - is made out: the contemporaneous defect log (doc_013) records two Severity 1 stock-synchronisation Platform defects (D-001, D-002) that left tills showing incorrect stock and overselling and persisted for roughly six weeks; the Meridian witnesses Vance (doc_016) and Okafor (doc_017) describe stock figures being wrong at the tills, which the findings note records as having 'caused a great deal of disruption for store teams during our busiest period'; and the Claimant's own IT expert Dr Whitfield (doc_019) confirms those defects were genuine, serious and correctly categorised Severity 1. The second limb - that the Platform was 'unavailable for more than 40% of trading hours' - collapses. Whitfield measured Platform-attributable unavailability at approximately 6.2% of trading hours and found no support in the logs for a figure of that order (doc_019); the defect log's own note records Platform-attributable unavailability as 'modest', with the largest outage (D-003) and the intermittent till freezes attributable to Meridian's own network rather than the Platform (doc_013); the 25 November root-cause email shows the single biggest outage was a Northgate Telecom WAN failure while the Platform stayed healthy (doc_011); Okafor concedes the till outages were caused by in-store broadband dropping out 'rather than the platform itself' (doc_017); and TechFlow's solicitors expressly deny the 40% figure (doc_015). The disruption that is proven is real but an order of magnitude below the pleaded 40%, and the single biggest outage was Meridian's own network; the genuine harm is better captured by the Severity 1 stock-sync defect case (prop_005). Net: real till disruption is established, but the headline '>40% unavailable' does not survive the evidence, so the proposition is somewhat_supported.",
+  "evidence": [
+    {
+      "evidence_id": "prop_006__doc_001",
+      "doc_id": "doc_001",
+      "relevance": "somewhat_supported",
+      "reasoning": "The Claim Form is the originating pleading and frames the action as one for the Defendant's 'defective and delayed design, build and implementation' of the Platform, so it puts the existence of post-go-live defects in issue and weakly supports the till-disruption limb of this proposition. It does not particularise the 'widespread till failures' or quantify the alleged >40% unavailability - those come in the Particulars (doc_002) - so its support is only general and indirect.",
+      "excerpt": "The Claimant claims against the Defendant damages for breach of contract and/or negligence and/or misrepresentation arising out of the Defendant’s defective and delayed design, build and implementation of a cloud-based inventory and EPOS platform pursuant to a Master Services Agreement dated 14 March 2024"
+    },
+    {
+      "evidence_id": "prop_006__doc_002",
+      "doc_id": "doc_002",
+      "relevance": "somewhat_supported",
+      "reasoning": "This is the source pleading for the proposition: paragraph 11 of the Particulars of Claim pleads both limbs almost verbatim - that following go-live the Platform was unavailable for more than 40% of trading hours and caused widespread till failures and an inability to process sales. As the Claimant's own pleaded allegation it asserts the proposition, but it is untested advocacy whose weight depends on corroboration elsewhere in the bundle; that corroboration establishes the till disruption but not the 40% figure, so it is treated as somewhat_supported.",
+      "excerpt": "Following go-live, the Platform was unavailable for more than 40% of trading hours during November and December 2024, causing widespread till failures and an inability to process sales across Meridian’s store estate."
+    },
+    {
+      "evidence_id": "prop_006__doc_003",
+      "doc_id": "doc_003",
+      "relevance": "not_addressed",
+      "reasoning": "The Master Services Agreement sets the contractual standard (clause 1.2 - reasonable skill and care) but contains nothing about post-go-live availability percentages or till failures, so it does not address either limb of this proposition.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_006__doc_004",
+      "doc_id": "doc_004",
+      "relevance": "not_addressed",
+      "reasoning": "The Statement of Work covers scope, the implementation timetable/milestones and customer responsibilities (including in-store network connectivity and training). It says nothing about post-go-live availability figures or till failures, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_006__doc_005",
+      "doc_id": "doc_005",
+      "relevance": "not_addressed",
+      "reasoning": "The Order Form is a commercial pricing/licensing document listing items and charges. It does not address Platform availability or till failures, so it is not relevant to the proposition.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_006__doc_006",
+      "doc_id": "doc_006",
+      "relevance": "not_addressed",
+      "reasoning": "The Deed of Variation No. 1 only re-profiles payment milestones and confirms scope and go-live date are unchanged. It contains nothing about post-go-live availability or till failures, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_006__doc_007",
+      "doc_id": "doc_007",
+      "relevance": "not_addressed",
+      "reasoning": "Change Order No. 3 adds the loyalty module and moves go-live to 18 November 2024. It concerns scope and timetable, not post-go-live availability or till failures, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_006__doc_008",
+      "doc_id": "doc_008",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The Phase 1 UAT Acceptance Certificate records that Phase 1 passed UAT and was accepted on 12 November 2024 with no outstanding Severity 1 or Severity 2 items at that date. It does not measure post-go-live availability, but it weakly cuts against the picture of a wholesale unavailable platform causing widespread till failures: immediately before go-live the core EPOS/inventory functionality was tested and accepted as working, making a >40% downtime outcome less plausible (the Severity 1 stock-sync defects in the defect log at doc_013 emerged after acceptance).",
+      "excerpt": "Meridian confirms that Phase 1 has passed User Acceptance Testing and is accepted, subject to the resolution of the outstanding minor (Severity 3 and 4) items listed in the snag log appended to the UAT report. No outstanding Severity 1 or Severity 2 items were recorded at the date of this certificate."
+    },
+    {
+      "evidence_id": "prop_006__doc_009",
+      "doc_id": "doc_009",
+      "relevance": "somewhat_supported",
+      "reasoning": "The go-live readiness email is a contemporaneous admission by TechFlow's own Project Director, before go-live, of 'a handful of stock-sync issues' still to be closed out - the seeds of the post-go-live stock-sync defects that later disrupted the tills (see doc_013 and doc_016). It lends some support to the till-disruption limb but says nothing about availability, so it does not touch the 40% allegation.",
+      "excerpt": "the loyalty module added under Change Order 3 is still being hardened and we have a handful of stock-sync issues we would like to close out under controlled conditions."
+    },
+    {
+      "evidence_id": "prop_006__doc_010",
+      "doc_id": "doc_010",
+      "relevance": "not_addressed",
+      "reasoning": "This email thread concerns the request to add the loyalty module and the resulting cost and date change. It says nothing about post-go-live availability or till failures, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_006__doc_011",
+      "doc_id": "doc_011",
+      "relevance": "adverse",
+      "reasoning": "The 25 November root-cause email directly undercuts the proposition's causation: the single largest outage in the period (~5 hours on 25 Nov) was caused by a loss of WAN connectivity at Meridian's own data-centre provider, Northgate Telecom, while the Platform application and database 'remained healthy'. This shows the biggest downtime event was not Platform unavailability at all, undermining both the 'widespread till failures' and the >40%-unavailable limbs (consistent with the defect log at doc_013 and Whitfield at doc_019). The same email separately confirms TechFlow owned the stock-sync defects, which goes to the genuine disruption limb rather than the availability figure.",
+      "excerpt": "We’ve completed the incident review for yesterday’s outage (approx. 13:10–18:05, around five hours). The root cause was a loss of wide-area network connectivity at your data centre provided by Northgate Telecom, not the Platform. During the window the Platform application and database remained healthy but could not be reached because the network link was down."
+    },
+    {
+      "evidence_id": "prop_006__doc_012",
+      "doc_id": "doc_012",
+      "relevance": "somewhat_adverse",
+      "reasoning": "This internal Meridian email from Raymond Okafor confirms the stock-sync problems affected the tills but minimises their scale, recording that store teams 'have largely been working around them with manual checks' and attributing most of the December shortfall to the Lutterworth DC flood and a soft market. If teams were largely working around the issues, the Platform was not unavailable for over 40% of trading hours, so on balance this cuts against the pleaded scale of widespread till failures and unavailability.",
+      "excerpt": "On top of that, the platform stock-sync problems haven’t helped at the tills, though the teams have largely been working around them with manual checks."
+    },
+    {
+      "evidence_id": "prop_006__doc_013",
+      "doc_id": "doc_013",
+      "relevance": "somewhat_supported",
+      "reasoning": "The contemporaneous defect log is the pivotal two-sided document. It supports the disruption limb by recording two Severity 1 stock-sync Platform defects - D-001 (tills show incorrect stock counts; oversell on promotional lines) and D-002 (overnight reconciliation job fails) - which establish genuine till disruption during peak trading. But it strongly qualifies the availability limb: its closing note records that Platform-attributable unavailability over the period was 'modest', and that the single largest outage (D-003, ~5 hours) and the intermittent till freezes (D-006) were attributable to network connectivity provided by Meridian, not the Platform - which is why the pleaded >40% figure collapses. On balance it proves real disruption but not the headline unavailability, so it is somewhat_supported.",
+      "excerpt": "D-001 ... Sev 1 ... Stock-sync: tills show incorrect stock counts; oversell on promotional lines ... Platform defect — fixed 31 Dec 2024"
+    },
+    {
+      "evidence_id": "prop_006__doc_014",
+      "doc_id": "doc_014",
+      "relevance": "somewhat_supported",
+      "reasoning": "The Notice of Termination asserts that following go-live the Platform 'suffered serious and repeated failures, including critical defects in the stock-synchronisation module'. This is consistent with the proven till-disruption limb and with Meridian's case, lending some support, but it is the Claimant's own advocacy and does not assert or substantiate the >40%-unavailability figure, so its support is confined to the disruption limb.",
+      "excerpt": "following go-live on 18 November 2024 the Platform suffered serious and repeated failures, including critical defects in the stock-synchronisation module; and (iii) the Platform was not of satisfactory quality nor fit for purpose."
+    },
+    {
+      "evidence_id": "prop_006__doc_015",
+      "doc_id": "doc_015",
+      "relevance": "adverse",
+      "reasoning": "TechFlow's solicitors' response expressly denies the proposition's quantified limb, stating the Platform was not 'unavailable for more than 40% of trading hours' and that the most significant outage (25 November) was caused by Meridian's own network provider, Northgate Telecom, not the Platform. This is a direct rebuttal of the pleaded 40% figure and of the till-failure causation, echoing the root-cause email at doc_011.",
+      "excerpt": "The Platform was not \"unavailable for more than 40% of trading hours\". The most significant outage, on 25 November 2024, was caused by the failure of your client’s own network provider, Northgate Telecom, and not by the Platform."
+    },
+    {
+      "evidence_id": "prop_006__doc_016",
+      "doc_id": "doc_016",
+      "relevance": "somewhat_supported",
+      "reasoning": "Helena Vance's witness statement (Programme Director, Meridian) supports the disruption limb: she confirms that after go-live there were real problems with the stock-synchronisation module, that tills in some stores showed the wrong stock numbers, that on promotional lines they oversold, and that the problems were serious and took several weeks to control - the findings note records her evidence that this 'caused a great deal of disruption for store teams during our busiest period'. But she does not support the 40% limb: she conceded she could not say for how long in total the tills were down and that some of the connectivity problems were her own store broadband rather than the Platform, so her account is of real but unquantified disruption rather than substantiation of >40% Platform unavailability.",
+      "excerpt": "After go-live there were real problems with the stock-synchronisation module. Tills in some stores showed the wrong stock numbers, and on promotional lines we oversold in places. These problems were serious and took several weeks to bring under control."
+    },
+    {
+      "evidence_id": "prop_006__doc_017",
+      "doc_id": "doc_017",
+      "relevance": "somewhat_adverse",
+      "reasoning": "Raymond Okafor's witness statement (Head of Retail Operations, Meridian) is genuinely two-sided. It supports the disruption limb, in that the first weeks were very difficult 'because of stock figures being wrong at the tills' (corroborating Vance at doc_016 and the defect log at doc_013). But on the headline allegation it is adverse: he candidly concedes that a number of the till outages were 'caused by the broadband connections in the stores dropping out, rather than the platform itself', and that the complete 25 November outage was a network failure at the data-centre provider, not the Platform. Because his distinctive evidence attributes the till failures and the biggest outage to Meridian's own network rather than the Platform, on balance it undercuts the pleaded 'widespread till failures ... unavailable >40%' causation.",
+      "excerpt": "A number of the till outages in stores turned out to be caused by the broadband connections in the stores dropping out, rather than the platform itself. There was also a complete outage on 25 November that I am told was a network failure at our data centre provider, not the platform."
+    },
+    {
+      "evidence_id": "prop_006__doc_018",
+      "doc_id": "doc_018",
+      "relevance": "not_addressed",
+      "reasoning": "Priya Nair's witness statement deals with contractual and commercial administration (signing the MSA, Change Order No. 3 and the Acceptance Certificate, and the withheld payments) and expressly states she is not in a position to comment on the Platform's technical performance. It does not address availability figures or till failures, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_006__doc_019",
+      "doc_id": "doc_019",
+      "relevance": "adverse",
+      "reasoning": "The Claimant's own IT expert, Dr Whitfield, is decisive on the headline limb. Having analysed the application/database logs, network monitoring data and defect log, he opines that total Platform-attributable unavailability was approximately 6.2% of trading hours and that he found no support in the logs for a figure of the order of 'more than 40%'. That directly refutes the central quantified allegation. His report does, however, confirm the disruption limb - that the Severity 1 stock-sync defects (D-001, D-002) were genuine, serious and persisted for about six weeks - so his evidence establishes the real harm while collapsing the >40% figure; on the proposition as pleaded he is, on balance, adverse.",
+      "excerpt": "Having analysed the logs, my opinion is that the total Platform unavailability attributable to the Platform itself was approximately 6.2% of trading hours over the period. That figure is materially lower than the figure of \"more than 40% of trading hours\" referred to in the pleadings. I have found no support in the logs for a figure of that order."
+    },
+    {
+      "evidence_id": "prop_006__doc_020",
+      "doc_id": "doc_020",
+      "relevance": "neutral",
+      "reasoning": "The quantum expert's report addresses the financial measure of loss and the causation split between the Platform, the Lutterworth DC flood and the market downturn, rather than availability or till-failure counts. It implicitly accepts that some incremental lost profit (~£1.3m, not the £4.2m claimed) is attributable to the Platform's defects, which is consistent with real-but-limited Platform disruption and with the Platform being only one factor, but it does not quantify availability or substantiate the 40% figure, so it is broadly neutral on this proposition.",
+      "excerpt": "On the most supportable basis, the incremental lost gross profit capable of being attributed to the Platform’s defects is of the order of £1,300,000, not £4,200,000."
+    }
+  ]
+}

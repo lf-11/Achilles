@@ -16,7 +16,7 @@ const path = require("path");
 const fs = require("fs");
 const { spawn, execFile } = require("child_process");
 
-const PORT = 8080;
+const PORT = Number(process.env.PORT) || 8080;
 const PROJECT_DIR = process.env.PROPCHECK_DIR || path.resolve(__dirname, "..");
 const JOBS_DIR = path.join(PROJECT_DIR, "jobs");
 const CLAUDE = process.env.CLAUDE_BIN || "claude";
@@ -47,6 +47,9 @@ function newJobId() {
 function parseMultipart(buf, boundary) {
   const fields = {};
   const files = {};
+  // every file part in order, so a single field name can carry many files
+  // (the /api/update drop accepts multiple documents at once)
+  const fileList = [];
   const delim = Buffer.from("--" + boundary);
   const parts = [];
 
@@ -81,12 +84,14 @@ function parseMultipart(buf, boundary) {
     const fileMatch = /filename="([^"]*)"/.exec(header);
 
     if (fileMatch && fileMatch[1]) {
-      files[name] = { filename: fileMatch[1], data: body };
+      const file = { field: name, filename: fileMatch[1], data: body };
+      files[name] = file; // last-wins, kept for single-file callers (bundle)
+      fileList.push(file);
     } else {
       fields[name] = body.toString("utf8");
     }
   }
-  return { fields, files };
+  return { fields, files, fileList };
 }
 
 // ---------------------------------------------------------------------------
@@ -173,6 +178,88 @@ function startAnalysis(jobDir) {
   child.on("error", (err) => {
     writeStatus(jobDir, {
       state: "error",
+      finishedAt: new Date().toISOString(),
+      error: String(err.message || err),
+    });
+  });
+}
+
+// Fold newly added documents into an already-analysed job. The new files are
+// already sitting in the job's uploads/ dir; this drives the update-orchestrator
+// skill, which (1) re-tests every existing proposition against the new documents
+// and (2) discovers any new propositions the documents raise — extending the
+// existing output/ + work/propositions.json in place rather than replacing them.
+function startUpdate(jobDir) {
+  const uploadsDir = path.join(jobDir, "uploads");
+  const workDir = path.join(jobDir, "work");
+  const outputDir = path.join(jobDir, "output");
+  const skillsDir = path.join(PROJECT_DIR, ".claude", "skills");
+
+  const prompt = [
+    "Use the update-orchestrator skill to fold newly added documents into this already-analysed case.",
+    "",
+    "Use these ABSOLUTE paths (ignore the relative work/ and output/ paths in the skill text):",
+    `- Case documents (uploads directory, now containing the new files): ${uploadsDir}`,
+    `- Existing intermediate state (document_index.json + propositions.json live here): ${workDir}`,
+    `- Existing per-proposition results directory (extend these in place): ${outputDir}`,
+    `- Skills directory (resolve update-evidence-evaluation and evidence-evaluation SKILL.md here): ${skillsDir}`,
+    "",
+    "This is an INCREMENTAL UPDATE of an existing analysis, not a fresh run. Follow the",
+    "update-orchestrator workflow end to end:",
+    "1. Detect which uploaded files are NEW (not already in document_index.json) and index them.",
+    "2. Discover any genuinely NEW propositions the new documents raise (de-duplicated against the",
+    "   propositions already in propositions.json) and append them, with new non-colliding ids.",
+    "3. Fan out ONE Claude Code Workflow that does both at once: update each EXISTING proposition",
+    "   against the new documents only (update-evidence-evaluation), and fully evaluate each NEW",
+    "   proposition against the whole bundle (evidence-evaluation). Each subagent writes",
+    "   output/<proposition_id>.json itself.",
+    "",
+    "Preserve everything from the first run: never re-extract or renumber existing propositions and",
+    "never re-evaluate already-judged documents. The result must be the previous analysis EXTENDED —",
+    "added propositions plus changed judgements on the existing ones.",
+    "When finished, report: new documents added, existing propositions whose judgement changed",
+    "(before→after), and new propositions added (with their judgements).",
+  ].join("\n");
+
+  const args = [
+    "-p",
+    prompt,
+    "--permission-mode",
+    "bypassPermissions",
+    "--output-format",
+    "json",
+    "--add-dir",
+    jobDir,
+  ];
+
+  writeStatus(jobDir, {
+    state: "running",
+    mode: "update",
+    startedAt: new Date().toISOString(),
+  });
+
+  const logStream = fs.createWriteStream(path.join(jobDir, "update.log"));
+  const child = spawn(CLAUDE, args, {
+    cwd: PROJECT_DIR,
+    env: process.env,
+    stdio: ["ignore", "pipe", "pipe"],
+  });
+  child.stdout.pipe(logStream);
+  child.stderr.pipe(logStream);
+
+  child.on("close", (code) => {
+    writeStatus(jobDir, {
+      state: code === 0 ? "done" : "error",
+      mode: "update",
+      startedAt: readStatus(jobDir).startedAt,
+      finishedAt: new Date().toISOString(),
+      exitCode: code,
+    });
+  });
+  child.on("error", (err) => {
+    writeStatus(jobDir, {
+      state: "error",
+      mode: "update",
       finishedAt: new Date().toISOString(),
       error: String(err.message || err),
     });
@@ -363,6 +450,42 @@ function safeJobDir(id) {
   return dir;
 }
 
+// The drop-in-document update needs a real, writable job to extend. When the UI
+// is still showing the bundled read-only "sample", seed a fresh job from it
+// (copy its output/ + work/) so the new documents can be folded in non-destructively.
+function seedJobFromSample() {
+  const sampleBase = path.join(PROJECT_DIR, "examples", "cms-challenge-synthetic");
+  const jobId = newJobId();
+  const jobDir = path.join(JOBS_DIR, jobId);
+  fs.mkdirSync(path.join(jobDir, "uploads"), { recursive: true });
+  for (const sub of ["output", "work"]) {
+    const src = path.join(sampleBase, sub);
+    const dst = path.join(jobDir, sub);
+    if (fs.existsSync(src)) {
+      fs.cpSync(src, dst, { recursive: true });
+    } else {
+      fs.mkdirSync(dst, { recursive: true });
+    }
+  }
+  writeStatus(jobDir, { state: "seeded", seededFrom: "sample" });
+  return { jobId, jobDir };
+}
+
+// turn an uploaded filename into a safe, non-colliding path inside uploadsDir
+function uniqueUploadPath(uploadsDir, rawName) {
+  let base = path.basename(String(rawName || "document"));
+  base = base.replace(/[/\\]/g, "").replace(/[\u0000-\u001f]/g, "").replace(/^\.+/, "").trim() || "document";
+  const ext = path.extname(base);
+  const stem = base.slice(0, base.length - ext.length) || "document";
+  let candidate = base;
+  let n = 1;
+  while (fs.existsSync(path.join(uploadsDir, candidate))) {
+    candidate = `${stem} (${n})${ext}`;
+    n++;
+  }
+  return path.join(uploadsDir, candidate);
+}
+
 // ---------------------------------------------------------------------------
 // request handling
 // ---------------------------------------------------------------------------
@@ -437,6 +560,109 @@ function handleUpload(req, res) {
   });
 }
 
+// Fold newly added documents into an existing analysis. Accepts one or more
+// document files (the "drop in document" gesture) plus the jobId being viewed,
+// drops them into that job's uploads/, and runs the update-orchestrator skill so
+// the existing output/ is EXTENDED (existing propositions re-tested, new ones added).
+function handleUpdate(req, res) {
+  const ct = req.headers["content-type"] || "";
+  const m = /boundary=(?:"([^"]+)"|([^;]+))/.exec(ct);
+  if (!ct.startsWith("multipart/form-data") || !m) {
+    return sendJSON(res, 400, { error: "expected multipart/form-data" });
+  }
+  const boundary = (m[1] || m[2]).trim();
+
+  const chunks = [];
+  let size = 0;
+  req.on("data", (c) => {
+    size += c.length;
+    if (size > MAX_UPLOAD) {
+      req.destroy();
+      return;
+    }
+    chunks.push(c);
+  });
+  req.on("end", () => {
+    let parsed;
+    try {
+      parsed = parseMultipart(Buffer.concat(chunks), boundary);
+    } catch (e) {
+      return sendJSON(res, 400, { error: "could not parse upload" });
+    }
+    const docs = (parsed.fileList || []).filter((f) => f && f.data && f.data.length);
+    if (!docs.length) {
+      return sendJSON(res, 400, { error: "no documents to add" });
+    }
+
+    // resolve a real, writable job to extend; seed from the sample when the UI is
+    // still showing the read-only sample (or the id is blank/unknown).
+    const reqJobId = (parsed.fields.jobId || "").trim();
+    let jobId, jobDir;
+    const existing = safeJobDir(reqJobId);
+    if (existing) {
+      jobId = reqJobId;
+      jobDir = existing;
+    } else {
+      try {
+        ({ jobId, jobDir } = seedJobFromSample());
+      } catch (e) {
+        return sendJSON(res, 500, {
+          error: "could not seed job from sample: " + String(e.message || e),
+        });
+      }
+    }
+
+    const uploadsDir = path.join(jobDir, "uploads");
+    fs.mkdirSync(uploadsDir, { recursive: true });
+
+    // write plain documents straight into uploads/; unzip any dropped .zip there too
+    const zips = [];
+    docs.forEach((f, i) => {
+      if (/\.zip$/i.test(f.filename || "")) {
+        const zp = path.join(jobDir, `drop-${i}.zip`);
+        fs.writeFileSync(zp, f.data);
+        zips.push(zp);
+      } else {
+        fs.writeFileSync(uniqueUploadPath(uploadsDir, f.filename), f.data);
+      }
+    });
+
+    const begin = () => {
+      try {
+        startUpdate(jobDir);
+      } catch (e) {
+        writeStatus(jobDir, { state: "error", mode: "update", error: String(e) });
+      }
+      sendJSON(res, 200, { jobId });
+    };
+
+    if (!zips.length) return begin();
+    let pending = zips.length;
+    let failed = false;
+    for (const zp of zips) {
+      execFile(
+        "/usr/bin/unzip",
+        ["-o", "-qq", zp, "-d", uploadsDir],
+        { maxBuffer: 10 * 1024 * 1024 },
+        (err) => {
+          if (err) failed = true;
+          if (--pending === 0) {
+            if (failed) {
+              writeStatus(jobDir, {
+                state: "error",
+                mode: "update",
+                error: "failed to unzip dropped bundle",
+              });
+              return sendJSON(res, 400, { error: "could not unzip dropped bundle" });
+            }
+            begin();
+          }
+        }
+      );
+    }
+  });
+}
+
 function handleJobStatus(res, id) {
   const jobDir = safeJobDir(id);
   if (!jobDir) return sendJSON(res, 404, { error: "unknown job" });
@@ -496,6 +722,11 @@ const server = http.createServer((req, res) => {
 
   if (req.method === "POST" && url.pathname === "/api/upload") {
     return handleUpload(req, res);
+  }
+
+  // fold newly added documents into an existing analysis (drop-in-document)
+  if (req.method === "POST" && url.pathname === "/api/update") {
+    return handleUpdate(req, res);
   }
 
   // newest job that has results (or "sample")

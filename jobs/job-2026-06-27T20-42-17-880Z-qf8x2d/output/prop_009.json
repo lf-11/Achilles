@@ -1,0 +1,153 @@
+{
+  "proposition_id": "prop_009",
+  "group": {
+    "group_id": "grp_003",
+    "title": "The go-live decision and warnings of unreadiness"
+  },
+  "proposition_text": "TechFlow recommended in writing that go-live be deferred (to mid-January 2025); Meridian rejected that advice, instructed go-live on 18 November 2024 to be live for peak trading, and expressly accepted the risk of doing so.",
+  "judgement": "supported",
+  "confidence": 0.9,
+  "summary": "This denial is strongly supported by the contemporaneous correspondence, the contractual record, and Meridian's own witness evidence. The 24 October 2024 email thread (doc_009) shows TechFlow's Marcus Reilly recommending in writing that go-live be deferred to mid-January 2025 to avoid the peak trading period, with the thread recording that Meridian's Programme Director, Helena Vance, rejected that advice, instructed TechFlow to proceed on 18 November 2024, and was content to take the risk on Meridian's side. Vance's own witness statement (doc_016) confirms she decided to go live on 18 November despite TechFlow's advice, and TechFlow's solicitors' letter (doc_015) records the same sequence: a written recommendation to defer, rejected by Meridian, who instructed go-live accepting the associated risk. The surrounding record reinforces that the go-live timing was Meridian's to decide: the 18 November date arose from Meridian's own loyalty-module change order (doc_007, doc_010, doc_018), the MSA treated the timetable as adjustable by change control (doc_003), and Meridian signed the Phase 1 UAT acceptance certificate on 12 November 2024 with no Severity 1/2 items (doc_008), consistent with it being content to proceed. The only material adverse to this denial is the Particulars of Claim (doc_002), which pleads the reverse, but that self-serving allegation is contradicted by the email thread and Meridian's own Programme Director, so it is somewhat_adverse rather than decisive.",
+  "evidence": [
+    {
+      "evidence_id": "prop_009__doc_001",
+      "doc_id": "doc_001",
+      "relevance": "not_addressed",
+      "reasoning": "The Claim Form gives only brief details of a breach/negligence/misrepresentation claim and its value; it does not address TechFlow's written recommendation to defer go-live, Meridian's instruction to proceed on 18 November 2024, or Meridian's acceptance of the risk.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_009__doc_002",
+      "doc_id": "doc_002",
+      "relevance": "somewhat_adverse",
+      "reasoning": "Paragraph 10 of the Particulars of Claim pleads the reverse of this denial — that Meridian warned TechFlow the Platform was not ready and requested deferral, and that TechFlow ignored those warnings and proceeded. It is the only material adverse to this denial, but it is a self-serving statement of case rather than independent evidence and is directly contradicted by the contemporaneous email thread (doc_009), TechFlow's response letter (doc_015) and Meridian's own Programme Director (doc_016). It is therefore somewhat_adverse, not decisive.",
+      "excerpt": "10.On numerous occasions prior to go-live, Meridian warned TechFlow that the Platform was not ready and requested that go-live be deferred. TechFlow ignored those warnings and proceeded to go-live on 18 November 2024."
+    },
+    {
+      "evidence_id": "prop_009__doc_003",
+      "doc_id": "doc_003",
+      "relevance": "somewhat_supported",
+      "reasoning": "The Master Services Agreement (14 March 2024) frames go-live and timetable, providing that the supplier shall use reasonable endeavours to achieve the target go-live date and that the implementation timetable is a planning estimate that may be adjusted through change control. This is mildly supportive of the denial because it shows the go-live date was always a matter for the parties' decision and adjustment, consistent with TechFlow recommending deferral while the decision to proceed (and the risk of doing so) rested with Meridian.",
+      "excerpt": "3.1  The Supplier shall use reasonable endeavours to achieve the target go-live date stated in the SOW. The parties acknowledge that the implementation timetable is a planning estimate and may be adjusted through the change control procedure."
+    },
+    {
+      "evidence_id": "prop_009__doc_004",
+      "doc_id": "doc_004",
+      "relevance": "neutral",
+      "reasoning": "The Statement of Work sets the original go-live target of 1 October 2024 and describes it as a target date subject to change control. It is contextual background to the timetable but says nothing about TechFlow recommending deferral or Meridian instructing go-live and accepting risk, so it neither supports nor contradicts the denial.",
+      "excerpt": "2.1  The go-live date of 1 October 2024 is a target date. The detailed implementation plan is a planning estimate and is subject to the change control procedure in clause 3 of the MSA."
+    },
+    {
+      "evidence_id": "prop_009__doc_005",
+      "doc_id": "doc_005",
+      "relevance": "not_addressed",
+      "reasoning": "The Phase 1 Order Form sets out items, charges and payment terms; it says nothing about any recommendation to defer go-live, the decision to proceed on 18 November 2024, or any acceptance of risk.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_009__doc_006",
+      "doc_id": "doc_006",
+      "relevance": "not_addressed",
+      "reasoning": "The Deed of Variation No. 1 varies only the payment milestone profile and expressly does not vary scope or the target go-live date; it does not address the go-live recommendation, instruction or risk acceptance in this denial.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_009__doc_007",
+      "doc_id": "doc_007",
+      "relevance": "supported",
+      "reasoning": "Change Order No. 3 (2 September 2024), signed by Meridian's Head of Procurement, records that to accommodate the Meridian-requested loyalty module the go-live date was revised from 1 October to 18 November 2024. It supports the denial by showing the 18 November go-live date was the product of Meridian's own change request and that the go-live timing was Meridian's to set, consistent with Meridian instructing go-live for peak trading.",
+      "excerpt": "2.1  The parties agree that, to accommodate the additional works, the go-live date is revised from 1 October 2024 to 18 November 2024. The revised date applies to the Platform as a whole."
+    },
+    {
+      "evidence_id": "prop_009__doc_008",
+      "doc_id": "doc_008",
+      "relevance": "supported",
+      "reasoning": "The Phase 1 UAT Acceptance Certificate (12 November 2024), signed by Meridian's Priya Nair just six days before go-live, confirms Phase 1 passed UAT and is accepted with no outstanding Severity 1 or 2 items. This supports the denial: shortly before go-live Meridian was formally accepting the Platform and content to proceed, consistent with it instructing go-live on 18 November and accepting the associated risk rather than seeking deferral.",
+      "excerpt": "Meridian confirms that Phase 1 has passed User Acceptance Testing and is accepted, subject to the resolution of the outstanding minor (Severity 3 and 4) items listed in the snag log appended to the UAT report. No outstanding Severity 1 or Severity 2 items were recorded at the date of this certificate."
+    },
+    {
+      "evidence_id": "prop_009__doc_009",
+      "doc_id": "doc_009",
+      "relevance": "supported",
+      "reasoning": "This 24 October 2024 email thread is the single most directly supportive document and the heart of the denial. TechFlow's Marcus Reilly recommended in writing that go-live be deferred to mid-January 2025 because going live on 18 November, immediately before Black Friday and Christmas, carried real risk, expressly noting that holding the date would be against TechFlow's advice; the thread records that Meridian's Helena Vance rejected that recommendation, instructed TechFlow to proceed on 18 November and was content to take the risk on Meridian's side. It establishes every element of the denial and directly defeats the contrary pleading in doc_002.",
+      "excerpt": "Our clear recommendation is to defer go-live to mid-January 2025, after the peak trading period. Going live on 18 November, immediately before Black Friday and Christmas, carries real risk and removes our contingency. We can hold the 18 November date if Meridian instructs us to, but we would be doing so against our advice."
+    },
+    {
+      "evidence_id": "prop_009__doc_010",
+      "doc_id": "doc_010",
+      "relevance": "supported",
+      "reasoning": "This 21-27 August 2024 email thread shows Meridian (Helena Vance) requesting the loyalty module and accepting there may be a knock-on to the go-live date, with TechFlow responding that go-live would move to 18 November 2024. It supports the denial by establishing that Meridian itself drove the change that produced the 18 November date and was the party deciding the revised go-live timing.",
+      "excerpt": "We accept there may be a knock-on to the go-live date and we are willing to discuss a revised date to accommodate it."
+    },
+    {
+      "evidence_id": "prop_009__doc_011",
+      "doc_id": "doc_011",
+      "relevance": "not_addressed",
+      "reasoning": "This email concerns the root cause of the 25 November 2024 outage (a Northgate Telecom network failure, after go-live). It does not address the pre-go-live recommendation to defer, Meridian's instruction to proceed, or its acceptance of risk.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_009__doc_012",
+      "doc_id": "doc_012",
+      "relevance": "not_addressed",
+      "reasoning": "This internal Meridian email concerns causes of poor December trading (DC flood, weak market, stock-sync issues) after go-live. It does not address TechFlow's deferral recommendation, Meridian's instruction to go live, or its acceptance of the risk of doing so.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_009__doc_013",
+      "doc_id": "doc_013",
+      "relevance": "not_addressed",
+      "reasoning": "The defect log records defects raised from 19 November 2024 onward (after go-live). It bears on defect and quality issues but does not address the go-live decision, the written recommendation to defer, or Meridian's acceptance of risk.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_009__doc_014",
+      "doc_id": "doc_014",
+      "relevance": "not_addressed",
+      "reasoning": "The Notice of Termination letter asserts late delivery, post go-live failures and unfitness for purpose, but does not address TechFlow's written recommendation to defer, Meridian's instruction to proceed on 18 November 2024, or its acceptance of the associated risk.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_009__doc_015",
+      "doc_id": "doc_015",
+      "relevance": "supported",
+      "reasoning": "TechFlow's solicitors' response (7 February 2025) corroborates the denial point for point, recording that TechFlow expressly recommended in writing on 24 October 2024 that go-live be deferred to January 2025 to avoid the peak trading period, and that Meridian's Programme Director rejected that recommendation and instructed TechFlow to proceed on 18 November 2024, accepting the associated risk. This contemporaneous statement of TechFlow's case directly supports the denial and reinforces doc_009.",
+      "excerpt": "Our client expressly recommended, in writing on 24 October 2024, that go-live be deferred to January 2025 to avoid the peak trading period. Your client’s Programme Director rejected that recommendation and instructed our client to proceed on 18 November 2024, accepting the associated risk."
+    },
+    {
+      "evidence_id": "prop_009__doc_016",
+      "doc_id": "doc_016",
+      "relevance": "supported",
+      "reasoning": "Helena Vance is Meridian's own Programme Director and the decision-maker on go-live. Her witness statement confirms that, as go-live approached, TechFlow's Marcus Reilly recommended in writing delaying to January 2025, and that she decided Meridian should go live on 18 November 2024 despite TechFlow's advice, conceding that doing so just before Black Friday was optimistic. This is decisive admission evidence from Meridian's own side that supports the denial: the deferral recommendation came from TechFlow and Meridian made the decision to proceed, taking the risk.",
+      "excerpt": "As we approached go-live, Marcus Reilly recommended in writing that we delay until January 2025, after the Christmas period. I decided that we should go live on 18 November 2024. ... I took the decision to proceed despite TechFlow’s advice. With hindsight, going live just before Black Friday was optimistic."
+    },
+    {
+      "evidence_id": "prop_009__doc_017",
+      "doc_id": "doc_017",
+      "relevance": "not_addressed",
+      "reasoning": "Raymond Okafor's witness statement addresses post go-live operational difficulties and the various non-Platform causes of poor December trading. It does not address TechFlow's written recommendation to defer, Meridian's instruction to go live, or its acceptance of the risk.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_009__doc_018",
+      "doc_id": "doc_018",
+      "relevance": "somewhat_supported",
+      "reasoning": "Priya Nair (Meridian's Head of Procurement) confirms she signed Change Order No. 3 which added the Meridian-requested loyalty module and revised go-live to 18 November 2024, and that she signed the Phase 1 Acceptance Certificate on 12 November 2024 with no critical items outstanding. This is mildly supportive of the denial because it confirms the 18 November date stemmed from Meridian's own change and that Meridian was accepting the Platform shortly before go-live, consistent with Meridian instructing go-live for peak trading.",
+      "excerpt": "On 2 September 2024 I signed Change Order No. 3. This added the customer loyalty module, which Helena Vance had asked TechFlow to provide ... and it revised the go-live date from 1 October to 18 November 2024. ... On 12 November 2024 I signed the Phase 1 Acceptance Certificate, confirming that Phase 1 of the platform had passed user acceptance testing. There were some minor snags listed, but no critical items were outstanding at that point."
+    },
+    {
+      "evidence_id": "prop_009__doc_019",
+      "doc_id": "doc_019",
+      "relevance": "not_addressed",
+      "reasoning": "Dr Whitfield's IT expert report addresses Platform availability and defects after go-live; it does not address the written recommendation to defer go-live, Meridian's instruction to proceed, or its acceptance of risk.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_009__doc_020",
+      "doc_id": "doc_020",
+      "relevance": "not_addressed",
+      "reasoning": "Ms Greenhalgh's quantum expert report addresses wasted expenditure and loss of profit; it does not address the go-live recommendation, instruction or risk acceptance in this denial.",
+      "excerpt": ""
+    }
+  ]
+}

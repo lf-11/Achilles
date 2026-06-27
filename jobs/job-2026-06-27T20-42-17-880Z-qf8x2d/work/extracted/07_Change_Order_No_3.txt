@@ -1,0 +1,16 @@
+[Reconstructed extract — key passages only. The .docx original was not available on this
+machine; this file records the load-bearing passages of the document as referenced in the
+case findings note and the prior verified analysis of this bundle.]
+
+CHANGE ORDER NO. 3 — under the MSA and SOW-01 — signed 2 September 2024
+
+[P7] At the Customer's request, the Supplier shall design, build and implement a customer loyalty
+module ("the Loyalty Module"). The Loyalty Module was not part of the original scope under SOW-01.
+
+Additional charge: £180,000.
+
+[P9] The parties agree that, to accommodate the additional works, the go-live date is revised from
+1 October 2024 to 18 November 2024.
+
+Signed for the Customer:  Priya Nair (Head of Procurement, Meridian), 2 September 2024.
+Signed for the Supplier:  Marcus Reilly (Project Director, TechFlow), 2 September 2024.

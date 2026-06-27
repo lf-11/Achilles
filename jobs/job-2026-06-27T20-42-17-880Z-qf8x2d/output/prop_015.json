@@ -1,0 +1,153 @@
+{
+  "proposition_id": "prop_015",
+  "group": {
+    "group_id": "grp_007",
+    "title": "Loss and quantum"
+  },
+  "proposition_text": "The pleaded loss of profit of £4,200,000 is substantially overstated: a supportable figure is of the order of £1,300,000, approximately £1,500,000 of the claimed decline is attributable to non-Platform factors (the Lutterworth flood and a market downturn), and clause 14 of the MSA excludes loss of profit and caps liability at the charges paid.",
+  "judgement": "supported",
+  "confidence": 0.85,
+  "summary": "The denial is strongly supported, including by evidence emanating from Meridian's own side. The pleaded £4,200,000 loss of profit appears only as a particular in the Particulars of Claim (doc_002), echoed at a high level in Meridian's pre-action correspondence (doc_014); the rest of the bundle cuts it down. Meridian's own quantum expert, Fiona Greenhalgh FCA (doc_020), opines that the pleaded figure is 'substantially overstated', that the supportable Platform-attributable loss is of the order of £1,300,000 (not £4,200,000), and that approximately £1,500,000 of the claimed decline is attributable to non-Platform factors — the early-December flooding of the Lutterworth distribution centre and a sector-wide retail downturn evident in like-for-like data before go-live. Those two non-Platform causes are independently established by Meridian's Head of Retail Operations, Raymond Okafor (doc_017), and by a contemporaneous internal Meridian email warning against attributing the whole shortfall to the platform (doc_012), and are pressed by TechFlow's solicitors (doc_015). The Platform's causal contribution is further narrowed by the IT expert's finding of only about 6.2% Platform-attributable unavailability (doc_019), the defect log (doc_013) and the 25 November network-outage email (doc_011). On the contractual limb, clause 14 of the MSA (doc_003) excludes the Supplier's liability for loss of profit and caps liability at the charges actually paid, as both TechFlow (doc_015) and Greenhalgh (doc_020) note. The only adverse material is the pleading itself (doc_002, somewhat adverse) and Meridian's termination letter (doc_014); neither engages the flood, the downturn or clause 14. Confidence is held at 0.85 because the precise apportionment between causes and the ultimate legal effect of clause 14 remain contested issues for trial.",
+  "evidence": [
+    {
+      "evidence_id": "prop_015__doc_001",
+      "doc_id": "doc_001",
+      "relevance": "neutral",
+      "reasoning": "The Claim Form pleads the global claim of approximately £6,000,000 but does not break out or quantify the loss-of-profit head, so it neither supports nor contradicts the contention that the £4,200,000 loss of profit is overstated.",
+      "excerpt": "The Claimant expects to recover more than £200,000. The amount claimed is approximately £6,000,000."
+    },
+    {
+      "evidence_id": "prop_015__doc_002",
+      "doc_id": "doc_002",
+      "relevance": "somewhat_adverse",
+      "reasoning": "This is the pleading the denial is directed at: the Particulars of Claim particularise loss of profit during the peak trading period of November and December 2024 at the full £4,200,000, attributing it to the Platform's breaches without acknowledging the flood, the market downturn or clause 14. It asserts the figure the denial says is overstated and is therefore somewhat adverse, though it is only an unproven allegation that the rest of the bundle tests.",
+      "excerpt": "(b)Loss of profit during the peak trading period of November and December 2024: £4,200,000."
+    },
+    {
+      "evidence_id": "prop_015__doc_003",
+      "doc_id": "doc_003",
+      "relevance": "supported",
+      "reasoning": "The MSA contains clause 14, the very provision the denial relies on: clause 14.1 excludes the Supplier's liability for loss of profit and clause 14.2 caps total aggregate liability at the total charges actually paid by the Customer. This directly supports the denial's contractual limb that clause 14 excludes loss of profit and caps liability at the charges paid; the only nuances the denial omits are the twelve-month window in clause 14.2 and the clause 14.3 carve-outs, neither of which undermines its substance.",
+      "excerpt": "14.1  Subject to clause 14.3, the Supplier shall not be liable to the Customer, whether in contract, tort (including negligence) or otherwise, for any loss of profit, loss of revenue, loss of anticipated savings, or any indirect or consequential loss.\n14.2  Subject to clause 14.3, the Supplier’s total aggregate liability arising under or in connection with this Agreement shall not exceed the total charges actually paid by the Customer under this Agreement in the twelve months preceding the event giving rise to the claim."
+    },
+    {
+      "evidence_id": "prop_015__doc_004",
+      "doc_id": "doc_004",
+      "relevance": "not_addressed",
+      "reasoning": "The Statement of Work sets out scope, milestones and customer responsibilities; it says nothing about the quantum of loss, the non-Platform causes or clause 14, so it does not address the denial.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_015__doc_005",
+      "doc_id": "doc_005",
+      "relevance": "not_addressed",
+      "reasoning": "The Order Form records pricing and payment terms; it bears on the level of charges generally but does not address the loss-of-profit quantum, the non-Platform causes or clause 14, so it does not address the denial.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_015__doc_006",
+      "doc_id": "doc_006",
+      "relevance": "not_addressed",
+      "reasoning": "The Deed of Variation No. 1 varies only the payment milestone profile and does not address loss of profit, causation or clause 14.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_015__doc_007",
+      "doc_id": "doc_007",
+      "relevance": "not_addressed",
+      "reasoning": "Change Order No. 3 adds the loyalty module and revises the go-live date and charges; it does not address the quantum of loss, the non-Platform causes or clause 14.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_015__doc_008",
+      "doc_id": "doc_008",
+      "relevance": "not_addressed",
+      "reasoning": "The Phase 1 UAT Acceptance Certificate records acceptance of Phase 1 and does not address the loss-of-profit quantum, its causes or clause 14.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_015__doc_009",
+      "doc_id": "doc_009",
+      "relevance": "not_addressed",
+      "reasoning": "The go-live decision email concerns whether to defer go-live; it does not address the quantum of loss, the flood/downturn or clause 14.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_015__doc_010",
+      "doc_id": "doc_010",
+      "relevance": "not_addressed",
+      "reasoning": "The loyalty module change-request email concerns scope and timetable; it does not address loss of profit, its causes or clause 14.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_015__doc_011",
+      "doc_id": "doc_011",
+      "relevance": "somewhat_supported",
+      "reasoning": "This email attributes the 25 November outage — the single largest — to a loss of wide-area network connectivity at Meridian's own data-centre provider (Northgate Telecom), not the Platform. It does not address the flood or the downturn, but it corroborates the denial's broader thesis that significant disruption, and hence loss, is attributable to non-Platform causes, weakening the basis for the full £4.2m figure.",
+      "excerpt": "The root cause was a loss of wide-area network connectivity at your data centre provided by Northgate Telecom, not the Platform."
+    },
+    {
+      "evidence_id": "prop_015__doc_012",
+      "doc_id": "doc_012",
+      "relevance": "supported",
+      "reasoning": "This contemporaneous internal Meridian email (Raymond Okafor to Helena Vance, 8 December 2024) directly supports the denial. It records that the Lutterworth distribution centre flooded on 3 December and was out of action for around ten days, leaving roughly 40 stores short of stock, that the market was soft with sector-wide footfall down and competitor discounting, that like-for-likes were already tracking behind in October (before go-live), and it expressly warns against attributing the whole shortfall to the platform — the two non-Platform causes on which the denial's ~£1.5m attribution rests.",
+      "excerpt": "The Lutterworth distribution centre flooded on 3 December and was effectively out of action for around ten days. Roughly 40 stores had gaps on key lines through the first half of the month as a result. This is unrelated to the platform. ... The market is soft — footfall is down across the sector and several competitors have gone early and deep on discounting. Our like-for-likes were already tracking behind in October. ... I'd be wary of attributing the whole shortfall to the platform when the DC flood and the wider market are doing a lot of the damage."
+    },
+    {
+      "evidence_id": "prop_015__doc_013",
+      "doc_id": "doc_013",
+      "relevance": "somewhat_supported",
+      "reasoning": "The Platform defect log records that Platform-attributable unavailability over the period was modest and that the single largest outage (D-003, 25 November) and the intermittent till freezes (D-006) were caused by Meridian's own network, not the Platform. This narrows the Platform's causal contribution to the trading shortfall and so supports the denial that the full £4.2m loss of profit is attributable to the Platform.",
+      "excerpt": "Recorded Platform unavailability attributable to Platform defects over the period was modest; the single largest outage (D-003) and the intermittent till freezes (D-006) were attributable to network connectivity provided by Meridian, not to the Platform."
+    },
+    {
+      "evidence_id": "prop_015__doc_014",
+      "doc_id": "doc_014",
+      "relevance": "somewhat_adverse",
+      "reasoning": "Meridian's Notice of Termination / Letter Before Action asserts that it will seek loss of profit during the peak trading period, described as 'substantial', attributing the loss to the Platform's failures without acknowledging the flood, the downturn or clause 14. This sole-cause, full-value framing is in tension with the denial, although it puts no figure on the loss and does not engage the non-Platform causes.",
+      "excerpt": "Our client will be seeking damages, including wasted expenditure and loss of profit during the peak trading period, which are substantial."
+    },
+    {
+      "evidence_id": "prop_015__doc_015",
+      "doc_id": "doc_015",
+      "relevance": "supported",
+      "reasoning": "TechFlow's solicitors' response advances every limb of the denial: it states the pleaded loss of profit is grossly overstated and ignores the Lutterworth flood and the well-documented retail-sector downturn, and separately invokes clause 14 as excluding liability for loss of profit and capping liability at the charges actually paid. It directly supports the denial, albeit as advocate's assertion rather than independent proof.",
+      "excerpt": "Your client’s pleaded loss of profit is grossly overstated and ignores (a) the flooding of your client’s Lutterworth distribution centre in December 2024 and (b) the well-documented downturn in the retail sector during that quarter. ... In any event, clause 14 of the MSA excludes liability for loss of profit and caps our client’s liability at the charges actually paid."
+    },
+    {
+      "evidence_id": "prop_015__doc_016",
+      "doc_id": "doc_016",
+      "relevance": "neutral",
+      "reasoning": "Helena Vance's witness statement (for Meridian) confirms the Platform's stock-sync problems caused real disruption during the busiest period but also acknowledges that some connectivity problems were down to Meridian's own store broadband rather than the Platform. It neither quantifies nor denies the loss-of-profit figure, so it neither clearly supports nor contradicts the denial.",
+      "excerpt": "There were also occasions when tills went down. I could not say for how long in total, and I understand some of the connectivity problems were to do with our own store broadband rather than the platform itself"
+    },
+    {
+      "evidence_id": "prop_015__doc_017",
+      "doc_id": "doc_017",
+      "relevance": "supported",
+      "reasoning": "Raymond Okafor's witness statement (for Meridian) directly supports the denial. He states December trading was poor but the platform was not the only reason, that the Lutterworth DC flooded on 3 December 2024 and was out of action for about ten days (leaving around 40 stores short of stock on key lines), and that the market was weak with sector-wide footfall down and heavy competitor discounting — the very non-Platform causes the denial says account for roughly £1.5m of the decline.",
+      "excerpt": "Our trading in December 2024 was poor, but the platform was not the only reason. Our distribution centre at Lutterworth flooded on 3 December 2024 and was effectively out of action for about ten days, which left around 40 stores short of stock on key lines in the first half of December. The market was also weak that quarter, with footfall down across the sector and heavy discounting by competitors."
+    },
+    {
+      "evidence_id": "prop_015__doc_018",
+      "doc_id": "doc_018",
+      "relevance": "not_addressed",
+      "reasoning": "Priya Nair's witness statement concerns contractual and commercial administration and expressly does not comment on technical or operational performance; although she confirms the level of charges paid (relevant to the clause 14 cap), she does not address the loss-of-profit quantum or the causes of the shortfall, so she does not address the denial.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_015__doc_019",
+      "doc_id": "doc_019",
+      "relevance": "somewhat_supported",
+      "reasoning": "Dr Whitfield, the IT expert, finds that Platform-attributable unavailability was only about 6.2% of trading hours — materially below the 'more than 40%' referred to in the pleadings — and (elsewhere) that the largest outage and various till interruptions were caused by Meridian's own network/broadband. This substantially narrows the causal basis for a £4.2m peak-trading loss and so supports the denial that the figure is overstated.",
+      "excerpt": "the total Platform unavailability attributable to the Platform itself was approximately 6.2% of trading hours over the period. That figure is materially lower than the figure of \"more than 40% of trading hours\" referred to in the pleadings."
+    },
+    {
+      "evidence_id": "prop_015__doc_020",
+      "doc_id": "doc_020",
+      "relevance": "supported",
+      "reasoning": "This is the decisive document. Meridian's own instructed forensic accounting expert opines that the pleaded loss of profit of £4,200,000 is 'substantially overstated', that the supportable incremental lost gross profit attributable to the Platform's defects is of the order of £1,300,000 (not £4,200,000), and that approximately £1,500,000 of the claimed decline is attributable to non-Platform factors — the early-December Lutterworth flood and a sector-wide downturn evident in like-for-like data from before go-live. She also notes that clause 14 appears to exclude liability for loss of profit and to cap the Supplier's liability at the charges paid (approximately £1,800,000). Her evidence supports every limb of the denial.",
+      "excerpt": "In my opinion the pleaded loss of profit of £4,200,000 is substantially overstated... On the most supportable basis, the incremental lost gross profit capable of being attributed to the Platform's defects is of the order of £1,300,000, not £4,200,000. ... I estimate that approximately £1,500,000 of the claimed decline is attributable to these non-Platform factors ... I note, as a matter for the Court rather than for me, that clause 14 of the Master Services Agreement appears to exclude liability for loss of profit and to cap the Supplier’s liability at the charges paid (approximately £1,800,000)."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "proposition_id": "prop_002",
+  "group": { "group_id": "grp_001", "title": "Delivery timetable and the cause of delay" },
+  "proposition_text": "TechFlow delivered the Platform late, in breach of the MSA: the Platform did not go live until 18 November 2024, some seven weeks after the contractual go-live date.",
+  "judgement": "adverse",
+  "confidence": 0.88,
+  "summary": "The bare fact that the Platform went live on 18 November 2024 is true and corroborated throughout the bundle. However, the proposition's core characterisation — that this was 'late', 'some seven weeks after the contractual go-live date' — is contradicted by the contractual and contemporaneous evidence. The MSA (cl 3.1, doc_003) and SOW (doc_004) expressly treated 1 October 2024 as a 'target date' / 'planning estimate' subject to change control, not a fixed deadline. Decisively, Change Order No. 3, signed by Meridian (Priya Nair) on 2 September 2024, formally revised the go-live date from 1 October to 18 November 2024 to accommodate a customer loyalty module that Meridian itself requested (doc_007, doc_010, doc_018). Meridian's own witnesses (Vance doc_016, Nair doc_018) confirm the date was moved to 18 November by Change Order No. 3, and TechFlow had in fact recommended deferring go-live to January 2025 (doc_009), with Meridian insisting on the 18 November date against that advice. The agreed contractual go-live date was therefore 18 November 2024, so going live on that date was on time, not seven weeks late. The proposition is a pleaded allegation (doc_002, repeated in the termination letter doc_014) that the rest of the bundle contradicts; the overall assessment is adverse.",
+  "evidence": [
+    {
+      "evidence_id": "prop_002__doc_001",
+      "doc_id": "doc_001",
+      "relevance": "neutral",
+      "reasoning": "The Claim Form alleges 'defective and delayed design, build and implementation' of the Platform under the MSA dated 14 March 2024, which is consistent in general terms with the lateness allegation, but it gives no go-live date and does not characterise the timetable, so it neither meaningfully supports nor contradicts the specific seven-weeks-late claim.",
+      "excerpt": "damages for breach of contract and/or negligence and/or misrepresentation arising out of the Defendant’s defective and delayed design, build and implementation of a cloud-based inventory and EPOS platform pursuant to a Master Services Agreement dated 14 March 2024"
+    },
+    {
+      "evidence_id": "prop_002__doc_002",
+      "doc_id": "doc_002",
+      "relevance": "somewhat_supported",
+      "reasoning": "This is the source pleading for the proposition. Particulars of Claim para 8 states it verbatim and para 6 asserts the go-live date was 'fixed at 1 October 2024' with time of the essence. As the originating allegation it asserts the proposition on its own terms, but it must be tested against the rest of the bundle, which contradicts the 'late' / 'contractual go-live date' characterisation, so its weight is limited.",
+      "excerpt": "In breach of the MSA, TechFlow delivered the Platform late. The Platform did not go live until 18 November 2024, some seven weeks after the contractual go-live date."
+    },
+    {
+      "evidence_id": "prop_002__doc_003",
+      "doc_id": "doc_003",
+      "relevance": "adverse",
+      "reasoning": "The MSA itself contradicts the premise that 1 October 2024 was a fixed 'contractual go-live date' against which lateness can be measured. Clause 3.1 provides only that the Supplier shall use reasonable endeavours to achieve the 'target go-live date' and that the timetable 'is a planning estimate and may be adjusted through the change control procedure' — the opposite of a time-of-the-essence fixed deadline, undermining the proposition's measure of lateness.",
+      "excerpt": "The Supplier shall use reasonable endeavours to achieve the target go-live date stated in the SOW. The parties acknowledge that the implementation timetable is a planning estimate and may be adjusted through the change control procedure."
+    },
+    {
+      "evidence_id": "prop_002__doc_004",
+      "doc_id": "doc_004",
+      "relevance": "adverse",
+      "reasoning": "The SOW sets the M4 go-live at 1 October 2024 but expressly labels it the 'target date' and a 'planning estimate ... subject to the change control procedure'. This contradicts the proposition's characterisation of 1 October as the fixed contractual go-live date from which a seven-week delay is calculated.",
+      "excerpt": "The go-live date of 1 October 2024 is a target date. The detailed implementation plan is a planning estimate and is subject to the change control procedure in clause 3 of the MSA."
+    },
+    {
+      "evidence_id": "prop_002__doc_005",
+      "doc_id": "doc_005",
+      "relevance": "not_addressed",
+      "reasoning": "The Order Form records the Phase 1 scope, charges and milestone payment terms. It does not address the go-live date, delivery timing or lateness.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_002__doc_006",
+      "doc_id": "doc_006",
+      "relevance": "neutral",
+      "reasoning": "Deed of Variation No. 1 varied only the payment milestone profile and expressly states it 'does not vary the scope of the works or the target go-live date'. It is relevant background and confirms 1 October was a 'target' date, but it leaves the go-live date unchanged and so does not itself establish or refute the seven-week delay (Change Order No. 3 is what later moves the date).",
+      "excerpt": "This Deed does not vary the scope of the works or the target go-live date."
+    },
+    {
+      "evidence_id": "prop_002__doc_007",
+      "doc_id": "doc_007",
+      "relevance": "adverse",
+      "reasoning": "This is the most decisive document against the proposition. Change Order No. 3, signed by both parties on 2 September 2024 under the change control procedure, formally revised the go-live date from 1 October to 18 November 2024 'to accommodate the additional works' (the loyalty module added at the Customer's request). 18 November was therefore the agreed contractual go-live date, so going live on 18 November was on time — not seven weeks late — directly contradicting the proposition.",
+      "excerpt": "The parties agree that, to accommodate the additional works, the go-live date is revised from 1 October 2024 to 18 November 2024. The revised date applies to the Platform as a whole."
+    },
+    {
+      "evidence_id": "prop_002__doc_008",
+      "doc_id": "doc_008",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The Phase 1 UAT Acceptance Certificate, signed by Meridian on 12 November 2024, records that UAT ran 21 October–11 November 2024 and passed with no outstanding Severity 1 or 2 items. This is consistent with a planned 18 November go-live (UAT immediately preceding it) and shows the project tracking to the revised date rather than running seven weeks late against a fixed October deadline, weighing against the 'late delivery' characterisation.",
+      "excerpt": "User Acceptance Testing of Phase 1 of the Platform (core inventory and EPOS) was carried out between 21 October and 11 November 2024."
+    },
+    {
+      "evidence_id": "prop_002__doc_009",
+      "doc_id": "doc_009",
+      "relevance": "adverse",
+      "reasoning": "This go-live decision email thread of 24 October 2024 contradicts the proposition's implication that TechFlow caused or insisted on late delivery. TechFlow recommended in writing deferring go-live to mid-January 2025 to avoid peak-trading risk; Meridian's Programme Director rejected that advice and instructed TechFlow to proceed on 18 November 2024 'as planned', expressly accepting the risk. This shows 18 November was the planned date and the decision was Meridian's, not a TechFlow delay.",
+      "excerpt": "Please proceed to go-live on 18 November 2024 as planned. I understand your team’s reservations and I am content to take that risk on Meridian’s side."
+    },
+    {
+      "evidence_id": "prop_002__doc_010",
+      "doc_id": "doc_010",
+      "relevance": "adverse",
+      "reasoning": "This August 2024 email thread contradicts the cause / characterisation of the delay. Meridian (Helena Vance) requested a new loyalty module not in the original SOW and accepted a knock-on to the go-live date; TechFlow replied that the additional build/test meant moving go-live from 1 October to 18 November via Change Order 3. This shows the move to 18 November was a Meridian-instigated scope change, not TechFlow's late delivery.",
+      "excerpt": "given the additional build and test, we will need to move go-live from 1 October to 18 November 2024. I’ll issue Change Order 3 for Priya’s signature to confirm both the scope and the revised date."
+    },
+    {
+      "evidence_id": "prop_002__doc_011",
+      "doc_id": "doc_011",
+      "relevance": "not_addressed",
+      "reasoning": "This email concerns the root cause of the 25 November 2024 outage (attributed to a Northgate Telecom network failure, not the Platform). It bears on availability/defects, not on whether delivery/go-live was late, so it does not address this proposition.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_002__doc_012",
+      "doc_id": "doc_012",
+      "relevance": "not_addressed",
+      "reasoning": "This internal Meridian email addresses causes of poor December 2024 trading (Lutterworth DC flood, soft market, stock-sync issues). It is relevant to causation of loss, not to the timing of go-live, and does not address the lateness proposition.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_002__doc_013",
+      "doc_id": "doc_013",
+      "relevance": "neutral",
+      "reasoning": "The defect/issue log is headed 'Extract — 18 November 2024 to 10 January 2025' and lists the first defect on 19 November 2024, confirming go-live occurred on 18 November 2024. It corroborates the date but says nothing about whether that date was late against the contractual timetable, so it is neutral on the lateness characterisation.",
+      "excerpt": "PLATFORM DEFECT / ISSUE LOG\nExtract — 18 November 2024 to 10 January 2025"
+    },
+    {
+      "evidence_id": "prop_002__doc_014",
+      "doc_id": "doc_014",
+      "relevance": "somewhat_supported",
+      "reasoning": "Meridian's termination / letter before action repeats the allegation that TechFlow 'delivered the Platform late' and refers to 'go-live on 18 November 2024'. As an assertion by the Claimant it restates the proposition, lending it some support, but it is the same party-line allegation that the contractual documents (notably Change Order No. 3) contradict, so its weight is limited.",
+      "excerpt": "you are in repudiatory breach of the MSA. In particular: (i) you delivered the Platform late; (ii) following go-live on 18 November 2024 the Platform suffered serious and repeated failures"
+    },
+    {
+      "evidence_id": "prop_002__doc_015",
+      "doc_id": "doc_015",
+      "relevance": "adverse",
+      "reasoning": "TechFlow's solicitors' response squarely contradicts the proposition: it states the go-live date was a target that moved from 1 October to 18 November 2024 by reason of Change Order No. 3 (signed by Meridian on 2 September 2024) which added the Meridian-requested loyalty module, and that TechFlow had recommended deferral to January 2025 but was instructed to proceed on 18 November. This denies the 'late' / 'seven weeks after the contractual go-live date' allegation.",
+      "excerpt": "The go-live date was a target, not a fixed date. It moved from 1 October to 18 November 2024 by reason of Change Order No. 3, signed by your client on 2 September 2024, which added a customer loyalty module that your client requested and which was not in the original scope."
+    },
+    {
+      "evidence_id": "prop_002__doc_016",
+      "doc_id": "doc_016",
+      "relevance": "adverse",
+      "reasoning": "Meridian's own Programme Director admits the facts that defeat the proposition: she asked TechFlow to add the loyalty module (not in the original SOW), which was documented in Change Order No. 3 'which also moved the go-live date to 18 November 2024', and she decided to go live on 18 November against TechFlow's written recommendation to delay to January 2025. This confirms 18 November was the agreed revised date and the go-live decision was Meridian's, contradicting the lateness allegation.",
+      "excerpt": "It was documented in Change Order No. 3, which my colleague Priya Nair signed on 2 September 2024, and which also moved the go-live date to 18 November 2024."
+    },
+    {
+      "evidence_id": "prop_002__doc_017",
+      "doc_id": "doc_017",
+      "relevance": "neutral",
+      "reasoning": "Raymond Okafor confirms 'the new platform went live on 18 November 2024', corroborating the date. He does not address whether that date was contractually late, focusing instead on post-go-live operational problems and other causes of poor trading, so he is neutral on the lateness characterisation.",
+      "excerpt": "The new platform went live on 18 November 2024, immediately before our peak trading period."
+    },
+    {
+      "evidence_id": "prop_002__doc_018",
+      "doc_id": "doc_018",
+      "relevance": "adverse",
+      "reasoning": "Priya Nair, who signed the contractual documents for Meridian, confirms she signed Change Order No. 3 on 2 September 2024 adding the loyalty module and revising the go-live date 'from 1 October to 18 November 2024', understanding 'we were changing both the scope and the date'. This corroborates that 18 November was the agreed contractual go-live date, contradicting the seven-weeks-late allegation.",
+      "excerpt": "On 2 September 2024 I signed Change Order No. 3. This added the customer loyalty module ... and it revised the go-live date from 1 October to 18 November 2024. I understood at the time that we were changing both the scope and the date."
+    },
+    {
+      "evidence_id": "prop_002__doc_019",
+      "doc_id": "doc_019",
+      "relevance": "neutral",
+      "reasoning": "The IT expert analysed the Platform over 'the period 18 November 2024 to 10 January 2025', corroborating the go-live date, and addresses availability and defects. He does not opine on the contractual timetable or whether go-live was late, so he is neutral on this specific proposition.",
+      "excerpt": "I was provided with the Platform application and database logs, the network monitoring data and the defect log for the period 18 November 2024 to 10 January 2025."
+    },
+    {
+      "evidence_id": "prop_002__doc_020",
+      "doc_id": "doc_020",
+      "relevance": "not_addressed",
+      "reasoning": "The quantum expert addresses the value of wasted expenditure and loss of profit and causation of the Q4 shortfall. She does not address the timing of go-live or whether delivery was late, so this report does not address the lateness proposition.",
+      "excerpt": ""
+    }
+  ]
+}

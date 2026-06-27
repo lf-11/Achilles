@@ -1,0 +1,18 @@
+[Reconstructed extract — key passages only. The .docx original was not available on this
+machine; this file records the load-bearing passages of the document as referenced in the
+case findings note and the prior verified analysis of this bundle.]
+
+PLATFORM DEFECT / ISSUE LOG (extract) — covering 18 November 2024 to January 2025
+
+[P11/P12] D-001 (Severity 1): Stock-synchronisation — tills show incorrect stock counts; oversell
+on promotional lines. Classification: Platform defect. Status: open ~6 weeks.
+
+[P16/P17] D-002 (Severity 1): Stock reconciliation job fails to complete overnight; stock figures
+not updated. Classification: Platform defect.
+
+[P22] D-003: 25 November complete outage — Network (Northgate Telecom) — not Platform.
+
+[P38] The largest outage and associated till freezes are attributable to network connectivity
+provided by Meridian, not to the Platform.
+
+D-004 (Severity 3): Loyalty redemption occasionally mis-prices basket — minor.

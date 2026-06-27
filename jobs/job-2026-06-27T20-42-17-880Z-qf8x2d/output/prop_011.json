@@ -1,0 +1,153 @@
+{
+  "proposition_id": "prop_011",
+  "group": {
+    "group_id": "grp_004",
+    "title": "Acceptance and sign-off of the Platform"
+  },
+  "proposition_text": "Meridian accepted Phase 1 by a signed Acceptance Certificate dated 12 November 2024, which recorded that Phase 1 had passed user acceptance testing with no outstanding Severity 1 or Severity 2 items.",
+  "judgement": "supported",
+  "confidence": 0.92,
+  "summary": "This denial is strongly supported by the contemporaneous documentary record and by Meridian's own witness evidence. On 12 November 2024 Meridian, through its Head of Procurement Priya Nair, signed a Phase 1 UAT Acceptance Certificate (doc_008) expressly confirming that Phase 1 of the Platform had passed user acceptance testing and 'is accepted', subject only to minor Severity 3/4 snags, and recording that no outstanding Severity 1 or Severity 2 items existed at the date of the certificate, which matches the proposition's terms precisely. Priya Nair confirms signing that certificate in her witness statement (doc_018), and TechFlow's pre-action response (doc_015) relies on the same fact ('Your client accepted Phase 1 by a signed Acceptance Certificate dated 12 November 2024'). The only material running the other way is paragraph 13 of the Particulars of Claim (doc_002), which pleads that no acceptance was ever given; that blanket pleading is somewhat adverse but not decisive, being itself contradicted by the signed certificate and by Meridian's own witness. The acceptance was of Phase 1 only and pre-dates the later go-live defects, so it does not by itself answer the broader quality case, but the fact of a signed Phase 1 acceptance is firmly established. The denial is therefore supported, with high confidence.",
+  "evidence": [
+    {
+      "evidence_id": "prop_011__doc_001",
+      "doc_id": "doc_001",
+      "relevance": "not_addressed",
+      "reasoning": "The Claim Form gives the brief details of the claim (breach, defective/delayed delivery) but does not mention the Phase 1 Acceptance Certificate or whether Meridian accepted Phase 1, so it does not address this denial.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_011__doc_002",
+      "doc_id": "doc_002",
+      "relevance": "somewhat_adverse",
+      "reasoning": "Paragraph 13 of the Particulars of Claim pleads that Meridian did not accept the Platform or any part of it and that no acceptance or sign-off was given at any time. That blanket pleading cuts against this denial, so it is somewhat adverse; it is not decisive, however, because the categorical assertion is itself contradicted by the signed Phase 1 Acceptance Certificate (doc_008), TechFlow's reliance on it (doc_015) and Meridian's own witness Priya Nair (doc_018).",
+      "excerpt": "13.Meridian did not accept the Platform or any part of it, and no acceptance or sign-off was given by Meridian at any time."
+    },
+    {
+      "evidence_id": "prop_011__doc_003",
+      "doc_id": "doc_003",
+      "relevance": "neutral",
+      "reasoning": "The Master Services Agreement defines the Platform and provides the contractual framework (scope, change control, limitation), but it records no acceptance or sign-off event. It is background to, rather than evidence of, the Phase 1 acceptance asserted in this denial.",
+      "excerpt": "1.1  The Supplier shall design, build, configure, test and implement the cloud-based inventory management and EPOS platform (\"the Platform\") in accordance with the Statement of Work set out at Schedule 1 (the \"SOW\")."
+    },
+    {
+      "evidence_id": "prop_011__doc_004",
+      "doc_id": "doc_004",
+      "relevance": "neutral",
+      "reasoning": "The Statement of Work sets out the two-phase scope and a User Acceptance Testing milestone (M3), which is context for what the Phase 1 acceptance relates to, but it records no actual acceptance and does not itself establish the 12 November 2024 sign-off.",
+      "excerpt": "M3\nUser acceptance testing\n13 September 2024"
+    },
+    {
+      "evidence_id": "prop_011__doc_005",
+      "doc_id": "doc_005",
+      "relevance": "not_addressed",
+      "reasoning": "The Order Form records the commercial line items and authorising signatures at contract formation. It does not address acceptance or sign-off of the delivered Platform.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_011__doc_006",
+      "doc_id": "doc_006",
+      "relevance": "not_addressed",
+      "reasoning": "The Deed of Variation No. 1 only re-profiles the payment milestones and expressly does not vary scope or go-live date. It says nothing about acceptance or sign-off of the Platform.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_011__doc_007",
+      "doc_id": "doc_007",
+      "relevance": "not_addressed",
+      "reasoning": "Change Order No. 3 adds the loyalty module and revises the go-live date. It concerns scope and timetable, not acceptance or sign-off of Phase 1, so it does not address this denial.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_011__doc_008",
+      "doc_id": "doc_008",
+      "relevance": "supported",
+      "reasoning": "This is the central document and directly supports the denial. The Phase 1 UAT Acceptance Certificate, signed for Meridian by Priya Nair on 12 November 2024, expressly confirms that Phase 1 passed User Acceptance Testing and 'is accepted', subject only to minor Severity 3/4 snags, and records that no outstanding Severity 1 or Severity 2 items existed at the date of the certificate. This matches the proposition word for word: a signed Acceptance Certificate dated 12 November 2024 recording that Phase 1 had passed UAT with no outstanding Severity 1 or Severity 2 items.",
+      "excerpt": "Meridian confirms that Phase 1 has passed User Acceptance Testing and is accepted, subject to the resolution of the outstanding minor (Severity 3 and 4) items listed in the snag log appended to the UAT report. No outstanding Severity 1 or Severity 2 items were recorded at the date of this certificate.\n\nAccepted for Meridian\n\n....................................\nPriya Nair\nHead of Procurement\n12 November 2024"
+    },
+    {
+      "evidence_id": "prop_011__doc_009",
+      "doc_id": "doc_009",
+      "relevance": "neutral",
+      "reasoning": "This go-live decision email shows Meridian instructing TechFlow to proceed to go-live on 18 November 2024 despite TechFlow's recommendation to defer. It is consistent with Meridian taking the Phase 1 Platform into use but is not itself the acceptance sign-off; it is more probative of the go-live timing dispute than of the Phase 1 acceptance.",
+      "excerpt": "Please proceed to go-live on 18 November 2024 as planned. I understand your team’s reservations and I am content to take that risk on Meridian’s side."
+    },
+    {
+      "evidence_id": "prop_011__doc_010",
+      "doc_id": "doc_010",
+      "relevance": "not_addressed",
+      "reasoning": "The loyalty module change-request email concerns scope and the revised go-live date. It does not address acceptance or sign-off of Phase 1.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_011__doc_011",
+      "doc_id": "doc_011",
+      "relevance": "not_addressed",
+      "reasoning": "This email concerns the root cause of the 25 November outage (network failure, not the Platform). It is relevant to availability/causation, not to whether Meridian accepted Phase 1.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_011__doc_012",
+      "doc_id": "doc_012",
+      "relevance": "not_addressed",
+      "reasoning": "This internal Meridian email addresses the causes of poor December trading (DC flood, weak market, stock-sync issues). It does not address acceptance or sign-off of Phase 1.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_011__doc_013",
+      "doc_id": "doc_013",
+      "relevance": "not_addressed",
+      "reasoning": "The defect/issue log records post-go-live defects and their causes. It is relevant to quality and availability but does not address whether Meridian signed off Phase 1 acceptance.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_011__doc_014",
+      "doc_id": "doc_014",
+      "relevance": "neutral",
+      "reasoning": "Meridian's termination/letter before action asserts repudiatory breach and that the Platform was not of satisfactory quality, and Meridian accepts the conduct as terminating the MSA. It concerns Meridian's later rejection of the Platform and neither denies nor addresses the earlier Phase 1 acceptance certificate, so it is neutral on this denial.",
+      "excerpt": "Our client accepts your conduct as terminating the MSA with immediate effect and reserves all of its rights."
+    },
+    {
+      "evidence_id": "prop_011__doc_015",
+      "doc_id": "doc_015",
+      "relevance": "supported",
+      "reasoning": "TechFlow's response to the letter before action expressly relies on the signed Phase 1 Acceptance Certificate, stating that Meridian accepted Phase 1 by a signed Acceptance Certificate dated 12 November 2024. This corroborates doc_008 and directly supports the denial.",
+      "excerpt": "Acceptance. Your client accepted Phase 1 by a signed Acceptance Certificate dated 12 November 2024."
+    },
+    {
+      "evidence_id": "prop_011__doc_016",
+      "doc_id": "doc_016",
+      "relevance": "neutral",
+      "reasoning": "Helena Vance's witness statement explains why Meridian ended the relationship ('not what we had paid for') but does not address the Phase 1 acceptance certificate and does not deny it. It supports Meridian's dissatisfaction narrative but is neutral on this denial.",
+      "excerpt": "I considered that the platform we were given was not what we had paid for, and that is why Meridian decided to bring the relationship to an end."
+    },
+    {
+      "evidence_id": "prop_011__doc_017",
+      "doc_id": "doc_017",
+      "relevance": "not_addressed",
+      "reasoning": "Raymond Okafor's statement addresses store operations, the causes of till outages and the poor December trading. It does not address acceptance or sign-off of Phase 1.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_011__doc_018",
+      "doc_id": "doc_018",
+      "relevance": "supported",
+      "reasoning": "Priya Nair, Meridian's own Head of Procurement and a Claimant witness, confirms in her witness statement that on 12 November 2024 she signed the Phase 1 Acceptance Certificate confirming that Phase 1 had passed user acceptance testing, with only minor snags listed and no critical items outstanding at that point. This is direct admission evidence from Meridian itself supporting the denial and corroborating doc_008.",
+      "excerpt": "On 12 November 2024 I signed the Phase 1 Acceptance Certificate, confirming that Phase 1 of the platform had passed user acceptance testing. There were some minor snags listed, but no critical items were outstanding at that point."
+    },
+    {
+      "evidence_id": "prop_011__doc_019",
+      "doc_id": "doc_019",
+      "relevance": "not_addressed",
+      "reasoning": "Dr Whitfield's IT expert report addresses Platform availability and defects. It does not address whether Meridian accepted or signed off Phase 1, so it is not relevant to this denial.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_011__doc_020",
+      "doc_id": "doc_020",
+      "relevance": "not_addressed",
+      "reasoning": "Greenhalgh's quantum report addresses wasted expenditure and loss of profit. It does not address acceptance or sign-off of Phase 1.",
+      "excerpt": ""
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+[Reconstructed extract — key passages only. The .docx original was not available on this
+machine; this file records the load-bearing passages of the document as referenced in the
+case findings note and the prior verified analysis of this bundle.]
+
+EMAIL — "25 November outage — root cause" — 26 November 2024
+
+From: Anita Patel (Service Delivery Manager, TechFlow)
+To: Helena Vance (Programme Director, Meridian)
+[P14] The root cause was a loss of wide-area network connectivity at your data-centre provider; it
+was not the Platform. I have confirmed this with Northgate's incident report (ref NT-22841). The
+Platform itself remained available throughout; the tills could not reach it because the network
+link was down.

@@ -1,0 +1,18 @@
+[Reconstructed extract — key passages only. The .docx original was not available on this
+machine; this file records the load-bearing passages of the document as referenced in the
+case findings note and the prior verified analysis of this bundle.]
+
+STATEMENT OF WORK (SOW-01) — dated 14 March 2024, incorporated into the MSA
+
+Scope: The Supplier shall deliver the Platform in two phases: Phase 1 (core inventory and EPOS);
+Phase 2 (reporting and analytics). The agreed scope does not include a customer loyalty module.
+
+Milestones: [P19] Milestone M4 — Go-live (target date).
+
+[P21] The go-live date of 1 October 2024 is a target date.
+
+Clause 3.2 [P24] — Training of the Customer's store and head-office staff in the use of the
+Platform is the responsibility of the Customer. The Supplier shall provide a train-the-trainer
+session and written user guides only.
+
+[P26] Payment: charges are payable against the completion of the milestones set out above.

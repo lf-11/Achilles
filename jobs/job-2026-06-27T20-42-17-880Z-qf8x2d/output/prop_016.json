@@ -1,0 +1,153 @@
+{
+  "proposition_id": "prop_016",
+  "group": {
+    "group_id": "grp_008",
+    "title": "Withheld milestone payments (TechFlow's money claim)"
+  },
+  "proposition_text": "Meridian wrongly withheld the final two milestone payments totalling £600,000, which remain due to TechFlow.",
+  "judgement": "somewhat_supported",
+  "confidence": 0.6,
+  "summary": "This denial splits into two parts that resolve differently. The FACT that Meridian withheld the final two milestone payments totalling £600,000 is certain: it is admitted in terms by Meridian's own Head of Procurement, Priya Nair, who says Meridian paid £1.8 million and 'withheld the final two milestone payments of £300,000 each — £600,000 in total' (doc_018), and the £600,000 figure is corroborated by the contractual and accounting record (total charges of £2,400,000 less £1,800,000 paid: doc_002, doc_003, doc_005, doc_020). TechFlow's ENTITLEMENT to that £600,000 — the assertion that it was 'wrongly' withheld and 'remains due' — is not established and is genuinely contested. Payment under the contract is milestone-linked (doc_004, and the milestone profile in doc_003/doc_006/doc_008), so entitlement turns on whether the relevant milestone and acceptance obligations were met; and the IT expert finds the Platform contained genuine, correctly categorised Severity 1 defects in the stock-synchronisation module (doc_019, corroborated by the defect log doc_013), which give Meridian at least arguable grounds for set-off or abatement against the unpaid sums. The proposition itself originates as TechFlow's own contention in its solicitors' response (doc_015), which is self-serving on the entitlement question. The withholding fact is therefore proven but the 'wrongly withheld / remain due' entitlement is unresolved and a matter for trial, so the proposition is somewhat_supported overall.",
+  "evidence": [
+    {
+      "evidence_id": "prop_016__doc_001",
+      "doc_id": "doc_001",
+      "relevance": "not_addressed",
+      "reasoning": "The Claim Form pleads breach, delay and defective implementation and a damages figure of approximately £6,000,000 for Meridian. It says nothing about Meridian withholding the final two milestone payments or any sum remaining due to TechFlow, so it does not bear on this denial.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_016__doc_002",
+      "doc_id": "doc_002",
+      "relevance": "somewhat_supported",
+      "reasoning": "The Particulars of Claim establish that total charges were £2,400,000 payable against milestones and plead £1,800,000 as 'sums paid to TechFlow under the MSA'. Total £2.4m less £1.8m paid leaves exactly £600,000 unpaid, which corroborates the quantum and the FACT element of this denial (that £600,000 was withheld), even though the pleading is Meridian's and does not concede that the sum is due to TechFlow.",
+      "excerpt": "The total charges payable under the MSA were £2,400,000 (excluding VAT), payable against milestones. ... Wasted expenditure, being sums paid to TechFlow under the MSA: £1,800,000."
+    },
+    {
+      "evidence_id": "prop_016__doc_003",
+      "doc_id": "doc_003",
+      "relevance": "somewhat_supported",
+      "reasoning": "The Master Services Agreement fixes the total charges at £2,400,000 payable against the milestones in the SOW. It corroborates the quantum baseline against which the withheld £600,000 is computed (supporting the FACT side), but it also confirms that payment is milestone-linked, which is the very feature that makes TechFlow's entitlement to the £600,000 conditional rather than automatic (see doc_004, doc_008).",
+      "excerpt": "The total charges for the Services are £2,400,000 (excluding VAT), payable against the milestones set out in the SOW and as may be varied by agreement in writing."
+    },
+    {
+      "evidence_id": "prop_016__doc_004",
+      "doc_id": "doc_004",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The Statement of Work makes charges payable as a percentage on each of the milestones M1–M4. This is somewhat adverse to the entitlement element of the denial: because payment is milestone-linked, TechFlow's right to the final two payments turns on whether the relevant milestone obligations were actually met, which is contested (see the acceptance position in doc_008 and the defect findings in doc_019). It does not undermine the admitted fact of withholding.",
+      "excerpt": "Charges are payable 25% on each of M1, M2, M3 and M4, subject to any variation agreed under the change control procedure."
+    },
+    {
+      "evidence_id": "prop_016__doc_005",
+      "doc_id": "doc_005",
+      "relevance": "somewhat_supported",
+      "reasoning": "The Phase 1 Order Form confirms the total contract value of £2,400,000 and payment 25% on each milestone M1–M4. It corroborates the total against which the £600,000 withheld is computed, supporting the quantum/FACT side of the denial, while again confirming the milestone-linkage that conditions entitlement.",
+      "excerpt": "Total (excl. VAT) ... 2,400,000 ... Payment terms: 25% on each milestone M1–M4 per the SOW."
+    },
+    {
+      "evidence_id": "prop_016__doc_006",
+      "doc_id": "doc_006",
+      "relevance": "neutral",
+      "reasoning": "Deed of Variation No. 1 varies the payment milestone profile to 20% on M1, 20% on M2, 30% on M3 and 30% on M4. It is relevant to what each milestone payment is worth and reinforces that payment is milestone-linked, but it neither confirms nor refutes the £600,000 total withheld nor whether that sum is due, so it is treated as neutral on this denial.",
+      "excerpt": "clause 4.1 of the SOW is varied so that the charges are payable: 20% on M1, 20% on M2, 30% on M3 and 30% on M4."
+    },
+    {
+      "evidence_id": "prop_016__doc_007",
+      "doc_id": "doc_007",
+      "relevance": "not_addressed",
+      "reasoning": "Change Order No. 3 adds the loyalty module for £180,000 payable on go-live and revises the go-live date. It does not address whether Meridian withheld the final two milestone payments or whether they remain due, so it does not bear on this denial.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_016__doc_008",
+      "doc_id": "doc_008",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The Phase 1 UAT Acceptance Certificate (12 November 2024) records only that Phase 1 passed acceptance testing with no Severity 1 or 2 items at that date. Because payment is milestone/acceptance-linked (doc_004), entitlement to the final two milestone payments turns on whether the corresponding later milestone and acceptance obligations were met — and this certificate evidences only Phase 1, leaving the final-milestone position unproven. It is somewhat adverse to the 'remains due' entitlement claim rather than to the admitted fact of withholding.",
+      "excerpt": "Meridian confirms that Phase 1 has passed User Acceptance Testing and is accepted, subject to the resolution of the outstanding minor (Severity 3 and 4) items listed in the snag log appended to the UAT report. No outstanding Severity 1 or Severity 2 items were recorded at the date of this certificate."
+    },
+    {
+      "evidence_id": "prop_016__doc_009",
+      "doc_id": "doc_009",
+      "relevance": "not_addressed",
+      "reasoning": "This 24 October 2024 email thread concerns the go-live decision and TechFlow's recommendation to defer go-live. It does not address the milestone payments or whether £600,000 was withheld or remains due, so it does not bear on this denial.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_016__doc_010",
+      "doc_id": "doc_010",
+      "relevance": "not_addressed",
+      "reasoning": "This email concerns the loyalty module change request and its cost and timetable impact. It does not address the withholding of the final two milestone payments or any sum due to TechFlow.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_016__doc_011",
+      "doc_id": "doc_011",
+      "relevance": "not_addressed",
+      "reasoning": "This email concerns the root cause of the 25 November 2024 outage (a network failure at Meridian's data-centre provider). It does not address the withheld milestone payments or whether they remain due.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_016__doc_012",
+      "doc_id": "doc_012",
+      "relevance": "not_addressed",
+      "reasoning": "This internal Meridian email concerns the causes of poor Q4 trading (distribution-centre flood, soft market, stock-sync). It does not address the withholding of the £600,000 or whether that sum is due to TechFlow.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_016__doc_013",
+      "doc_id": "doc_013",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The platform defect log records D-001 as a Severity 1 stock-synchronisation defect causing incorrect stock counts and overselling, classified as a Platform defect (fixed 31 December 2024). This is somewhat adverse to the entitlement element of the denial: it evidences genuine, serious Platform defects that give Meridian at least arguable grounds for set-off or abatement against the unpaid milestone sums (corroborating the expert finding in doc_019). It does not contradict the admitted fact that the payments were withheld.",
+      "excerpt": "D-001 ... Sev 1 ... Stock-sync: tills show incorrect stock counts; oversell on promotional lines ... Platform defect — fixed 31 Dec 2024"
+    },
+    {
+      "evidence_id": "prop_016__doc_014",
+      "doc_id": "doc_014",
+      "relevance": "not_addressed",
+      "reasoning": "The Notice of Termination / Letter Before Action asserts repudiatory breach and that Meridian will seek damages. It does not mention the withholding of the final two milestone payments or assert that any sum is due to TechFlow, so it does not bear on this denial.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_016__doc_015",
+      "doc_id": "doc_015",
+      "relevance": "somewhat_supported",
+      "reasoning": "TechFlow's solicitors' response is the source of this denial: it asserts, in the same words as the proposition, that Meridian has 'wrongly withheld the final two milestone payments totalling £600,000, which remain due'. It confirms the FACT of the withholding and squarely advances the entitlement claim, but it is TechFlow's own self-serving contention on the contested entitlement question rather than independent proof that the sum is due, so it lends some but not decisive support.",
+      "excerpt": "Your client has wrongly withheld the final two milestone payments totalling £600,000, which remain due to our client."
+    },
+    {
+      "evidence_id": "prop_016__doc_016",
+      "doc_id": "doc_016",
+      "relevance": "not_addressed",
+      "reasoning": "Helena Vance's witness statement (Meridian's Programme Director) addresses the scope change, the go-live decision and the post-go-live platform problems and the decision to end the relationship. It does not address the withholding of the final two milestone payments or whether they remain due, so it does not bear on this denial.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_016__doc_017",
+      "doc_id": "doc_017",
+      "relevance": "not_addressed",
+      "reasoning": "Raymond Okafor's witness statement addresses operational difficulties and the various non-Platform causes of the December trading shortfall. It does not address the withheld milestone payments or whether any sum is due to TechFlow.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_016__doc_018",
+      "doc_id": "doc_018",
+      "relevance": "supported",
+      "reasoning": "Priya Nair, Meridian's Head of Procurement, admits in terms that Meridian paid £1.8 million and withheld the final two milestone payments of £300,000 each — £600,000 in total. This directly establishes the FACT element of the denial (that the £600,000 was withheld). The same passage records Meridian's reason ('because of the problems we experienced after go-live'), which is consistent with Meridian disputing that the sum is due and underpins the contested-entitlement side; but on the fact of withholding it is the strongest support.",
+      "excerpt": "In total Meridian paid TechFlow £1.8 million. We withheld the final two milestone payments of £300,000 each — £600,000 in total — because of the problems we experienced after go-live."
+    },
+    {
+      "evidence_id": "prop_016__doc_019",
+      "doc_id": "doc_019",
+      "relevance": "somewhat_adverse",
+      "reasoning": "Dr Whitfield's IT expert report finds that the Platform did contain genuine and serious Severity 1 defects in the stock-synchronisation module, correctly categorised, which caused incorrect stock figures and overselling and persisted for roughly six weeks. This is somewhat adverse to the entitlement element of the denial: it shows the Platform fell below the expected standard, giving Meridian at least arguable grounds for set-off or abatement against the unpaid milestone payments (corroborating doc_013). It does not undermine the admitted fact that the payments were withheld, but it makes the 'wrongly withheld / remain due' entitlement genuinely contested.",
+      "excerpt": "my opinion is that the Platform did contain genuine and serious defects in the stock-synchronisation module (defects D-001 and D-002 in the log). These were correctly categorised as Severity 1. They caused incorrect stock figures at the point of sale and overselling on certain lines, and persisted for approximately six weeks before being resolved."
+    },
+    {
+      "evidence_id": "prop_016__doc_020",
+      "doc_id": "doc_020",
+      "relevance": "somewhat_supported",
+      "reasoning": "The quantum expert confirms that the pleaded £1,800,000 is consistent with the accounting records and the sums invoiced and paid under the MSA. Set against the £2,400,000 total charges (doc_002, doc_003, doc_005), this corroborates that £600,000 was not paid (i.e. withheld), supporting the quantum/FACT side of the denial, though it does not address whether that £600,000 is due to TechFlow.",
+      "excerpt": "The pleaded wasted expenditure of £1,800,000 is consistent with the Claimant’s accounting records and the sums invoiced and paid under the Master Services Agreement."
+    }
+  ]
+}

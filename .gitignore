@@ -7,9 +7,6 @@ drive-download-*.zip
 extraction_results/
 page_results/
 
-# Web service runtime job data (uploads, work, output, logs)
-jobs/
-
 # macOS junk
 .DS_Store
 

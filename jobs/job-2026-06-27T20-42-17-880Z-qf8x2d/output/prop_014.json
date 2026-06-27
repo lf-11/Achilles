@@ -1,0 +1,150 @@
+{
+  "proposition_id": "prop_014",
+  "group": { "group_id": "grp_007", "title": "Loss and quantum" },
+  "proposition_text": "Meridian suffered loss and damage comprising wasted expenditure of £1,800,000 (sums paid to TechFlow under the MSA) and a loss of profit of £4,200,000 during the peak trading period of November and December 2024.",
+  "judgement": "somewhat_supported",
+  "confidence": 0.6,
+  "summary": "On the whole bundle the combined loss claim is only partly made out, so the proposition is somewhat_supported because its two limbs fare very differently. The wasted-expenditure limb of £1,800,000 (sums paid to TechFlow under the MSA) is strong and independently verified: Meridian's Head of Procurement confirms 'In total Meridian paid TechFlow £1.8 million' (doc_018), the figure is arithmetically coherent with the £2.4m total charges less the £600k withheld milestones (doc_003/doc_005/doc_015), and Meridian's own forensic accounting expert finds it consistent with the Claimant's accounting records with no reason to challenge it (doc_020) — though even this limb is subject to the clause 14.2 cap of approximately £1.8m. The loss-of-profit limb of £4,200,000 is weak: it appears only as a pleaded particular (doc_002) echoed in pre-action correspondence (doc_014), and is contradicted by the claimant's own quantum expert, who calls it 'substantially overstated' and puts at most about £1,300,000 as Platform-attributable before causation (doc_020), by the causation evidence (doc_011, doc_012, doc_013, doc_017 and doc_019, showing the December shortfall flowed largely from the Lutterworth distribution-centre flood, a soft market and Meridian's own network), and by clause 14.1 of the MSA, which excludes loss of profit and may reduce recovery on that limb to nil (doc_003). Strong on one limb and weak and capped/excluded on the other, the combined proposition is somewhat_supported.",
+  "evidence": [
+    {
+      "evidence_id": "prop_014__doc_001",
+      "doc_id": "doc_001",
+      "relevance": "neutral",
+      "reasoning": "The Claim Form states the overall amount claimed is approximately £6,000,000, which is arithmetically consistent with the pleaded breakdown of £1,800,000 wasted expenditure plus £4,200,000 loss of profit, but it does not itemise or quantify either limb. It sets the headline figure without independently confirming or contradicting the £1.8m or £4.2m components.",
+      "excerpt": "The Claimant expects to recover more than £200,000. The amount claimed is approximately £6,000,000."
+    },
+    {
+      "evidence_id": "prop_014__doc_002",
+      "doc_id": "doc_002",
+      "relevance": "somewhat_supported",
+      "reasoning": "This is the source pleading from which the proposition is drawn. The Particulars of Claim plead both limbs of the combined loss: wasted expenditure of £1,800,000 (sums paid to TechFlow under the MSA) and loss of profit of £4,200,000 during the peak trading period of November and December 2024. As a pleaded allegation verified by a statement of truth it directly asserts the proposition, but it is an unproven assertion whose two limbs the rest of the bundle tests and which fare very differently — strong on the wasted expenditure, weak on the loss of profit.",
+      "excerpt": "(a)Wasted expenditure, being sums paid to TechFlow under the MSA: £1,800,000.\n(b)Loss of profit during the peak trading period of November and December 2024: £4,200,000."
+    },
+    {
+      "evidence_id": "prop_014__doc_003",
+      "doc_id": "doc_003",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The Master Services Agreement bears adversely on the recoverability of both limbs. Clause 14.1 expressly excludes liability for loss of profit, which (if effective) may reduce the recoverable £4,200,000 loss-of-profit limb to nil; clause 14.2 caps total liability at the charges actually paid (approximately £1.8m), which constrains even the well-evidenced wasted-expenditure limb. It does not disprove that loss was suffered, but it materially limits recovery and is relied on by TechFlow (doc_015) and noted by the quantum expert (doc_020).",
+      "excerpt": "14.1  Subject to clause 14.3, the Supplier shall not be liable to the Customer, whether in contract, tort (including negligence) or otherwise, for any loss of profit, loss of revenue, loss of anticipated savings, or any indirect or consequential loss."
+    },
+    {
+      "evidence_id": "prop_014__doc_004",
+      "doc_id": "doc_004",
+      "relevance": "neutral",
+      "reasoning": "The Statement of Work sets out the 25%-per-milestone payment profile, which provides background to how much could have been paid to TechFlow under the wasted-expenditure limb, but it states no amount actually paid and says nothing about loss of profit. It neither confirms nor contradicts the £1.8m or £4.2m figures.",
+      "excerpt": "4.1  Charges are payable 25% on each of M1, M2, M3 and M4, subject to any variation agreed under the change control procedure."
+    },
+    {
+      "evidence_id": "prop_014__doc_005",
+      "doc_id": "doc_005",
+      "relevance": "somewhat_supported",
+      "reasoning": "The Order Form itemises the total contract value as £2,400,000 (excl. VAT) with payment 25% on each milestone M1–M4. It establishes the contract ceiling from which the £1,800,000 wasted-expenditure figure is derived (total less the £600,000 of withheld milestone payments evidenced in doc_015 and doc_018), giving mild arithmetic support to that limb; it does not address the loss-of-profit limb.",
+      "excerpt": "Total (excl. VAT)\n\n2,400,000\n\nPayment terms: 25% on each milestone M1–M4 per the SOW."
+    },
+    {
+      "evidence_id": "prop_014__doc_006",
+      "doc_id": "doc_006",
+      "relevance": "neutral",
+      "reasoning": "Deed of Variation No. 1 re-profiles the milestone payment percentages (20/20/30/30) without varying total charges, go-live date or scope. It affects the timing of instalments relevant to the wasted-expenditure limb but states no amount paid and says nothing about loss of profit, so it neither confirms nor contradicts either figure.",
+      "excerpt": "clause 4.1 of the SOW is varied so that the charges are payable: 20% on M1, 20% on M2, 30% on M3 and 30% on M4."
+    },
+    {
+      "evidence_id": "prop_014__doc_007",
+      "doc_id": "doc_007",
+      "relevance": "neutral",
+      "reasoning": "Change Order No. 3 adds the loyalty module for an additional £180,000 payable on go-live, a contract-value matter potentially bearing on total sums payable under the wasted-expenditure limb, but the bundle does not separately quantify whether this £180,000 was paid and no source treats it as altering the £1.8m figure. It does not address loss of profit.",
+      "excerpt": "3.1  The additional charge for the Loyalty Module is £180,000, payable on go-live."
+    },
+    {
+      "evidence_id": "prop_014__doc_008",
+      "doc_id": "doc_008",
+      "relevance": "not_addressed",
+      "reasoning": "The UAT Acceptance Certificate concerns acceptance of Phase 1 and outstanding snag items. It addresses neither the sums paid to TechFlow nor the quantum of loss of profit.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_014__doc_009",
+      "doc_id": "doc_009",
+      "relevance": "not_addressed",
+      "reasoning": "This go-live decision email concerns the timing of go-live; it may bear on causation or contributory fault for any loss but does not address the quantum of either the wasted expenditure or the loss of profit.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_014__doc_010",
+      "doc_id": "doc_010",
+      "relevance": "not_addressed",
+      "reasoning": "This email concerns the loyalty-module change request and its £180,000 cost/timetable impact; it does not address sums actually paid or the quantum of loss of profit, and no source relies on it for the £1.8m or £4.2m figures.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_014__doc_011",
+      "doc_id": "doc_011",
+      "relevance": "somewhat_adverse",
+      "reasoning": "This email attributes the largest outage (25 November, approximately 5 hours) to a network failure at Meridian's data centre provider (Northgate Telecom) rather than the Platform. It undermines the causal link between Platform defects and the peak-trading sales shortfall, weakening the basis for the £4,200,000 loss-of-profit limb; it does not bear on the wasted-expenditure limb.",
+      "excerpt": "The root cause was a loss of wide-area network connectivity at your data centre provided by Northgate Telecom, not the Platform."
+    },
+    {
+      "evidence_id": "prop_014__doc_012",
+      "doc_id": "doc_012",
+      "relevance": "adverse",
+      "reasoning": "This internal Meridian email is contemporaneous evidence that the poor December trading had multiple causes other than the Platform — the Lutterworth distribution-centre flood and a soft market with declining footfall and competitor discounting — and the author expressly warns against attributing the whole shortfall to the platform. It directly undercuts the causal premise of the £4,200,000 loss-of-profit limb (consistent with doc_017 and doc_020); it does not bear on the wasted-expenditure limb.",
+      "excerpt": "I'd be wary of attributing the whole shortfall to the platform when the DC flood and the wider market are doing a lot of the damage."
+    },
+    {
+      "evidence_id": "prop_014__doc_013",
+      "doc_id": "doc_013",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The defect log records that Platform-attributable unavailability over the period was modest and that the single largest outage (D-003) and the intermittent till freezes (D-006) were attributable to Meridian's own network, not the Platform. This undercuts the causal foundation for the £4,200,000 loss-of-profit limb but does not address the wasted-expenditure limb.",
+      "excerpt": "Recorded Platform unavailability attributable to Platform defects over the period was modest; the single largest outage (D-003) and the intermittent till freezes (D-006) were attributable to network connectivity provided by Meridian, not to the Platform."
+    },
+    {
+      "evidence_id": "prop_014__doc_014",
+      "doc_id": "doc_014",
+      "relevance": "somewhat_supported",
+      "reasoning": "Meridian's solicitors' termination / letter before action asserts that the failures occurred during the most important trading period and that the client will seek both wasted expenditure and loss of profit during the peak trading period, described as 'substantial'. It echoes both limbs of Meridian's case but puts no figure on either and independently verifies neither the £1.8m nor the £4.2m, so it offers only weak, partisan support.",
+      "excerpt": "Our client will be seeking damages, including wasted expenditure and loss of profit during the peak trading period, which are substantial."
+    },
+    {
+      "evidence_id": "prop_014__doc_015",
+      "doc_id": "doc_015",
+      "relevance": "somewhat_adverse",
+      "reasoning": "TechFlow's solicitors' response is two-sided but predominantly adverse to the combined claim. It confirms Meridian wrongly withheld the final two milestone payments 'totalling £600,000', which read against the £2.4m total charges (doc_003/doc_005) is consistent with the £1,800,000 wasted-expenditure limb; but it expressly disputes quantum, stating the pleaded loss of profit is grossly overstated and pointing to the Lutterworth flood and the sector downturn as alternative causes, and relies on the clause 14 exclusion/cap (doc_003). Its dominant thrust contradicts the larger £4,200,000 loss-of-profit limb.",
+      "excerpt": "Your client's pleaded loss of profit is grossly overstated and ignores (a) the flooding of your client's Lutterworth distribution centre in December 2024 and (b) the well-documented downturn in the retail sector during that quarter."
+    },
+    {
+      "evidence_id": "prop_014__doc_016",
+      "doc_id": "doc_016",
+      "relevance": "neutral",
+      "reasoning": "Helena Vance's statement confirms serious stock-sync disruption during the busiest period but acknowledges she could not quantify till downtime and that some connectivity problems were Meridian's own broadband. She does not quantify either the sums paid or the loss of profit, so she is broadly neutral on both limbs, with her causation concessions mildly unhelpful to the £4.2m limb.",
+      "excerpt": "These problems were serious and took several weeks to bring under control. They caused a great deal of disruption for store teams during our busiest period."
+    },
+    {
+      "evidence_id": "prop_014__doc_017",
+      "doc_id": "doc_017",
+      "relevance": "adverse",
+      "reasoning": "Meridian's own Head of Retail Operations concedes December trading was poor for reasons beyond the Platform — the Lutterworth flood (around 40 stores, around 10 days), a weak market with falling footfall and heavy discounting — and that some outages were network/broadband, framing the Platform as 'one factor among several'. This directly undercuts attribution of the full £4,200,000 loss of profit to TechFlow (consistent with doc_012); it does not bear on the wasted-expenditure limb.",
+      "excerpt": "Our trading in December 2024 was poor, but the platform was not the only reason... None of this is to say the platform problems did not hurt us — they did, especially the stock-sync issues — but they were one factor among several."
+    },
+    {
+      "evidence_id": "prop_014__doc_018",
+      "doc_id": "doc_018",
+      "relevance": "supported",
+      "reasoning": "Priya Nair, Meridian's Head of Procurement responsible for contractual and commercial administration, gives the most direct factual confirmation of the wasted-expenditure limb: the total contract value was £2.4 million and 'In total Meridian paid TechFlow £1.8 million', having withheld the final two milestone payments of £300,000 each (£600,000 total). This establishes the £1,800,000 sums-paid limb; she expressly does not address the loss-of-profit limb.",
+      "excerpt": "In total Meridian paid TechFlow £1.8 million. We withheld the final two milestone payments of £300,000 each — £600,000 in total — because of the problems we experienced after go-live."
+    },
+    {
+      "evidence_id": "prop_014__doc_019",
+      "doc_id": "doc_019",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The IT expert finds Platform-attributable unavailability of only about 6.2% of trading hours (far below the pleaded 40%+), with the largest outage and several till interruptions due to Meridian's own network/broadband. While he confirms genuine Severity 1 stock-sync defects, his findings substantially narrow the causal basis for the £4,200,000 loss-of-profit limb; he does not address the wasted-expenditure limb.",
+      "excerpt": "the total Platform unavailability attributable to the Platform itself was approximately 6.2% of trading hours over the period. That figure is materially lower than the figure of \"more than 40% of trading hours\" referred to in the pleadings."
+    },
+    {
+      "evidence_id": "prop_014__doc_020",
+      "doc_id": "doc_020",
+      "relevance": "somewhat_supported",
+      "reasoning": "This is the decisive quantum document and is two-sided. Meridian's own instructed forensic accounting expert verifies the wasted-expenditure limb — the pleaded £1,800,000 is consistent with the Claimant's accounting records and she has no reason to challenge it (though she also treats the clause 14.2 cap as pegging recoverable charges at about £1.8m) — but she opines that the pleaded loss of profit of £4,200,000 is 'substantially overstated', with at most about £1,300,000 attributable to the Platform before causation, around £1,500,000 attributable to the flood and market, and the balance unsupported. Net, she strongly supports one limb and substantially deflates the other, which is the dominant driver of the somewhat_supported overall judgement.",
+      "excerpt": "The pleaded wasted expenditure of £1,800,000 is consistent with the Claimant’s accounting records and the sums invoiced and paid under the Master Services Agreement. I have no reason to challenge this element on a wasted-expenditure basis.\nIn my opinion the pleaded loss of profit of £4,200,000 is substantially overstated... On the most supportable basis, the incremental lost gross profit capable of being attributed to the Platform's defects is of the order of £1,300,000, not £4,200,000."
+    }
+  ]
+}

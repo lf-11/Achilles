@@ -1,0 +1,19 @@
+[Reconstructed extract — key passages only. The .docx original was not available on this
+machine; this file records the load-bearing passages of the document as referenced in the
+case findings note and the prior verified analysis of this bundle.]
+
+WITNESS STATEMENT OF HELENA VANCE
+(Programme Director, Meridian Retail Group plc) — dated 13 March 2026
+
+I had overall responsibility for the Platform implementation programme on Meridian's side.
+
+[P16] Around August 2024 the board decided it wanted a customer loyalty capability. I asked TechFlow
+to add a loyalty module. I accept this was not in the original Statement of Work. It was documented in
+Change Order No. 3, which my colleague Priya Nair signed on 2 September 2024, and which also moved the
+go-live date to 18 November 2024.
+
+[P17] TechFlow recommended that we defer go-live. I took the decision to proceed despite TechFlow's
+advice, because we needed to be live for peak trading.
+
+[P18] The stock-synchronisation problems after go-live caused a great deal of disruption for store
+teams during our busiest period.

@@ -1,0 +1,153 @@
+{
+  "proposition_id": "prop_013",
+  "group": {
+    "group_id": "grp_006",
+    "title": "Pre-contract misrepresentation (transaction capacity)"
+  },
+  "proposition_text": "At a meeting on or about 5 February 2024, prior to entering the MSA, TechFlow's Sales Director Mr Daniel Frost orally represented to Meridian that the Platform would reliably support at least 10,000 concurrent transactions; the representation was false because the Platform was incapable of supporting that volume; and Meridian relied on it in entering the MSA.",
+  "judgement": "not_addressed",
+  "confidence": 0.9,
+  "summary": "This proposition is a freestanding pre-contractual misrepresentation allegation that is pleaded only in the Particulars of Claim (doc_002 para 7), which asserts it almost verbatim, and is referenced only generically (as a head of claim) in the Claim Form (doc_001). Beyond those pleadings, no document in the bundle records the alleged 5 February 2024 meeting, Mr Daniel Frost, or any representation that the Platform would support at least 10,000 concurrent transactions: none of the contractual documents, correspondence, internal records or defect logs mentions it; none of Meridian's three fact witnesses (Vance, Okafor, Nair) refers to it; and the IT expert (doc_019) offers no opinion on transaction-throughput capacity, so the falsity element is neither proved nor disproved. The allegation therefore finds no corroboration and is nowhere contradicted on its facts - a genuine evidential gap on every element (representation made / falsity / reliance). Separately, the MSA's entire-agreement and non-reliance clauses (doc_003, cl 22.1-22.2) would present a legal obstacle to any non-fraudulent misrepresentation remedy, but that bears on the available remedy, not on whether the words were spoken, so it is treated as neutral and does not convert the gap into contrary evidence. On the bundle as a whole the proposition is not addressed.",
+  "evidence": [
+    {
+      "evidence_id": "prop_013__doc_001",
+      "doc_id": "doc_001",
+      "relevance": "somewhat_supported",
+      "reasoning": "The Claim Form lists misrepresentation generically as one of the heads of claim, which is weakly consistent with the existence of a misrepresentation claim, but it gives no particulars of the alleged 5 February 2024 meeting, of Mr Frost, of the 10,000-concurrent-transactions figure, or of reliance. It does not record the specific representation asserted in the proposition.",
+      "excerpt": "The Claimant claims against the Defendant damages for breach of contract and/or negligence and/or misrepresentation arising out of the Defendant's defective and delayed design, build and implementation of a cloud-based inventory and EPOS platform pursuant to a Master Services Agreement dated 14 March 2024"
+    },
+    {
+      "evidence_id": "prop_013__doc_002",
+      "doc_id": "doc_002",
+      "relevance": "somewhat_supported",
+      "reasoning": "This is the pleading from which the proposition is drawn. Paragraph 7 asserts the Representation almost verbatim - the meeting on or about 5 February 2024, Mr Daniel Frost as Sales Director, the at-least-10,000 concurrent transactions, reliance in entering the MSA, and falsity - but as a pleading it merely asserts the allegation and does not independently prove any element.",
+      "excerpt": "At a meeting on or about 5 February 2024, prior to entering into the MSA, TechFlow by its Sales Director Mr Daniel Frost orally represented to Meridian that the Platform would reliably support at least 10,000 concurrent transactions (\"the Representation\"). Meridian entered into the MSA in reliance upon the Representation. The Representation was false: the Platform was incapable of supporting that volume."
+    },
+    {
+      "evidence_id": "prop_013__doc_003",
+      "doc_id": "doc_003",
+      "relevance": "not_addressed",
+      "reasoning": "The MSA's entire-agreement clause (22.1) and express non-reliance acknowledgement (22.2) would, as a matter of law, present an obstacle to any non-fraudulent misrepresentation remedy. However, this is a legal bar going to remedy, not evidence about whether the alleged oral representation was in fact made; the MSA neither records nor rebuts the 5 February 2024 representation, Mr Frost, or any 10,000-transaction figure, and so is neutral on the factual question.",
+      "excerpt": "22.1  This Agreement, together with its Schedules, constitutes the entire agreement between the parties and supersedes all prior representations, statements or agreements, whether written or oral. 22.2  Each party acknowledges that it has not relied on, and shall have no remedy in respect of, any representation or statement not expressly set out in this Agreement (save in the case of fraud)."
+    },
+    {
+      "evidence_id": "prop_013__doc_004",
+      "doc_id": "doc_004",
+      "relevance": "not_addressed",
+      "reasoning": "The Statement of Work sets out scope, phases and milestones; it does not record the alleged 5 February 2024 representation, Mr Frost, or any 10,000-concurrent-transactions figure, and contains no capacity term of that kind.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_013__doc_005",
+      "doc_id": "doc_005",
+      "relevance": "not_addressed",
+      "reasoning": "The Order Form is a commercial pricing schedule; it does not record the alleged representation, the 5 February meeting, Mr Frost, or any concurrent-transactions figure.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_013__doc_006",
+      "doc_id": "doc_006",
+      "relevance": "not_addressed",
+      "reasoning": "The Deed of Variation No. 1 only varies the payment milestone profile; it does not record the alleged representation, Mr Frost, or any 10,000-transaction figure.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_013__doc_007",
+      "doc_id": "doc_007",
+      "relevance": "not_addressed",
+      "reasoning": "Change Order No. 3 adds the loyalty module and revises the go-live date; it does not record the alleged 5 February 2024 representation, Mr Frost, or any 10,000-transaction figure.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_013__doc_008",
+      "doc_id": "doc_008",
+      "relevance": "not_addressed",
+      "reasoning": "The UAT Acceptance Certificate concerns Phase 1 acceptance and outstanding snag items; it does not record the alleged representation, Mr Frost, or any 10,000-concurrent-transactions figure.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_013__doc_009",
+      "doc_id": "doc_009",
+      "relevance": "not_addressed",
+      "reasoning": "This go-live decision email thread concerns deferral of go-live and stock-sync issues; it does not record the alleged representation, Mr Frost, or any 10,000-transaction figure.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_013__doc_010",
+      "doc_id": "doc_010",
+      "relevance": "not_addressed",
+      "reasoning": "This email thread concerns the loyalty module change request; it does not record the alleged 5 February 2024 representation, Mr Frost, or any 10,000-transaction figure.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_013__doc_011",
+      "doc_id": "doc_011",
+      "relevance": "not_addressed",
+      "reasoning": "This email attributes the 25 November outage to a third-party network failure; it does not record the alleged pre-contractual representation, Mr Frost, or any 10,000-transaction figure.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_013__doc_012",
+      "doc_id": "doc_012",
+      "relevance": "not_addressed",
+      "reasoning": "This internal Meridian email discusses Q4 trading, the Lutterworth flood and stock-sync issues; it does not record the alleged representation, Mr Frost, or any concurrent-transactions figure.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_013__doc_013",
+      "doc_id": "doc_013",
+      "relevance": "not_addressed",
+      "reasoning": "The defect log records post-go-live stock-synchronisation and connectivity defects; none concerns transaction-throughput capacity, and it does not record the alleged representation, Mr Frost, or any 10,000-transaction figure.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_013__doc_014",
+      "doc_id": "doc_014",
+      "relevance": "not_addressed",
+      "reasoning": "The Notice of Termination grounds the claim on late delivery and post-go-live stock-sync failures; it does not record any pre-contractual misrepresentation, the 5 February meeting, Mr Frost, or any 10,000-transaction figure.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_013__doc_015",
+      "doc_id": "doc_015",
+      "relevance": "not_addressed",
+      "reasoning": "TechFlow's solicitors' response denies the claim generally but does not specifically address or rebut the alleged 5 February 2024 representation, Mr Frost, or any 10,000-transaction figure; it neither records nor disproves the representation and so leaves the factual allegation unaddressed.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_013__doc_016",
+      "doc_id": "doc_016",
+      "relevance": "not_addressed",
+      "reasoning": "Helena Vance's statement, though she was Meridian's Programme Director, makes no mention of the alleged 5 February 2024 meeting, Mr Frost, or any representation about supporting 10,000 concurrent transactions; her silence leaves the allegation simply unaddressed rather than contradicted.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_013__doc_017",
+      "doc_id": "doc_017",
+      "relevance": "not_addressed",
+      "reasoning": "Raymond Okafor's statement deals with post-go-live operational disruption; it does not record the alleged representation, Mr Frost, or any 10,000-transaction figure.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_013__doc_018",
+      "doc_id": "doc_018",
+      "relevance": "not_addressed",
+      "reasoning": "Priya Nair's statement, though she negotiated and signed the MSA, makes no mention of the alleged 5 February 2024 meeting, Mr Frost, or any 10,000-concurrent-transactions representation; her silence leaves the allegation unaddressed rather than contradicted.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_013__doc_019",
+      "doc_id": "doc_019",
+      "relevance": "not_addressed",
+      "reasoning": "Dr Whitfield's IT report addresses Platform availability and stock-synchronisation defects; it offers no opinion on whether the Platform could support 10,000 concurrent transactions and does not record the alleged representation, so the falsity element is not addressed.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_013__doc_020",
+      "doc_id": "doc_020",
+      "relevance": "not_addressed",
+      "reasoning": "Fiona Greenhalgh's quantum report addresses wasted expenditure, loss of profit and causation; it does not record the alleged representation, Mr Frost, or any 10,000-transaction figure.",
+      "excerpt": ""
+    }
+  ]
+}

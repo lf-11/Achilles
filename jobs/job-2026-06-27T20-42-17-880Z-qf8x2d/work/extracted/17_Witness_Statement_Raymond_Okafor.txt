@@ -1,0 +1,17 @@
+[Reconstructed extract — key passages only. The .docx original was not available on this
+machine; this file records the load-bearing passages of the document as referenced in the
+case findings note and the prior verified analysis of this bundle.]
+
+WITNESS STATEMENT OF RAYMOND OKAFOR
+(Head of Retail Operations, Meridian Retail Group plc) — dated 13 March 2026
+
+[P15] After go-live I saw the impact in stores first hand, with stock figures being wrong at the
+tills on the new system. The new platform went live on 18 November 2024, immediately before our
+peak trading period.
+
+[P16] There was a complete outage on 25 November that I am told was a network failure at our data
+centre provider, not the platform. Some of the till outages in stores were caused by the broadband
+connections in the stores dropping out, rather than the platform itself.
+
+[P17] Our distribution centre at Lutterworth flooded on 3 December 2024, which badly disrupted
+fulfilment. The market was also weak that quarter.

@@ -1,0 +1,50 @@
+[Reconstructed extract — key passages only. The .docx original was not available on this
+machine; this file records the load-bearing passages of the document as referenced in the
+case findings note and the prior verified analysis of this bundle.]
+
+IN THE HIGH COURT OF JUSTICE — TECHNOLOGY AND CONSTRUCTION COURT (TCC)
+Claim No. HT-2025-000231
+Meridian Retail Group plc (Claimant) v TechFlow Solutions Limited (Defendant)
+
+PARTICULARS OF CLAIM — dated 5 June 2025
+
+3. By a written Master Services Agreement dated 14 March 2024 ("the MSA"), TechFlow agreed to
+design, build, configure and implement for Meridian a cloud-based inventory management and
+electronic point-of-sale platform ("the Platform").
+
+5. The total charges payable under the MSA were £2,400,000 excluding VAT, payable against milestones.
+
+6. It was an express term of the MSA and the SOW that the go-live date for the Platform was fixed at
+1 October 2024, and that time was of the essence in respect of that date.
+
+7. At a meeting on or about 5 February 2024, prior to entering the MSA, TechFlow by its Sales
+Director Mr Daniel Frost orally represented to Meridian that the Platform would reliably support at
+least 10,000 concurrent transactions. The representation was false, the Platform being incapable of
+supporting that volume, and Meridian entered the MSA in reliance upon it.
+
+8. In breach of the MSA, TechFlow delivered the Platform late. The Platform did not go live until
+18 November 2024, some seven weeks after the contractual go-live date.
+
+9. Meridian did not at any time request any change to the agreed scope of the works. All delay was
+caused by TechFlow's failure to allocate adequate and competent resources to the project.
+
+10. On numerous occasions prior to go-live, Meridian warned TechFlow that the Platform was not ready
+and requested that go-live be deferred. TechFlow ignored those warnings and proceeded to go-live on
+18 November 2024.
+
+11. Following go-live, the Platform was unavailable for more than 40% of trading hours during
+November and December 2024, causing widespread till failures and an inability to process sales across
+Meridian's store estate.
+
+12. The Platform contained numerous defects, including critical (Severity 1) failures in the
+stock-synchronisation module which caused stores to display and sell against incorrect stock figures,
+such that the Platform was not of satisfactory quality and was not reasonably fit for its purpose.
+
+13. Meridian did not accept the Platform or any part of it, and no acceptance or sign-off was given
+by Meridian at any time.
+
+14. TechFlow failed to provide adequate training to Meridian's staff in the use of the Platform.
+
+15. By reason of the matters aforesaid Meridian has suffered loss and damage, namely (a) wasted
+expenditure, being sums paid to TechFlow under the MSA, of £1,800,000; and (b) loss of profit during
+the peak trading period of November and December 2024 of £4,200,000.

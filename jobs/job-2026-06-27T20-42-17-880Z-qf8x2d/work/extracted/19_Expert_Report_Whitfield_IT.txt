@@ -1,0 +1,21 @@
+[Reconstructed extract — key passages only. The .docx original was not available on this
+machine; this file records the load-bearing passages of the document as referenced in the
+case findings note and the prior verified analysis of this bundle.]
+
+EXPERT REPORT — DR ALAN WHITFIELD (IT / Software) — dated 24 April 2026
+(Independent expert instructed by the Claimant)
+
+[P18] On my analysis, Platform-attributable unavailability over the relevant period was
+approximately 6.2% of trading hours.
+
+[P19] I find no support in the logs for a figure of that order — i.e. nothing approaching the
+pleaded 40%.
+
+[P20] The most significant outage, on 25 November 2024, was caused by a loss of wide-area network
+connectivity at the Claimant's data-centre provider (Northgate Telecom), not by the Platform.
+
+[P22] The Platform did contain genuine and serious defects in the stock-synchronisation module
+(defects D-001 and D-002 in the log). These were correctly categorised as Severity 1.
+
+[P23] Their persistence over approximately six weeks falls below the standard reasonably to be
+expected of a competent supplier exercising reasonable skill and care.

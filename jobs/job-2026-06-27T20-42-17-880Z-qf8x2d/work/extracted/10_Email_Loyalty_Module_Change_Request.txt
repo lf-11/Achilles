@@ -1,0 +1,16 @@
+[Reconstructed extract — key passages only. The .docx original was not available on this
+machine; this file records the load-bearing passages of the document as referenced in the
+case findings note and the prior verified analysis of this bundle.]
+
+EMAIL — "Customer loyalty capability" — 21 August 2024
+
+From: Helena Vance (Programme Director, Meridian)
+To: Marcus Reilly (Project Director, TechFlow)
+[P14] The board wants a customer loyalty capability included — points accrual, redemption and a
+member database. I appreciate this was not in the original SOW, and we are willing to discuss a
+revised date.
+
+[Reply, 27 August 2024 — Marcus Reilly (TechFlow) to Helena Vance:] We've scoped the loyalty
+module. The additional cost is £180,000 and, given the additional build and test, we will need to
+move go-live from 1 October to 18 November 2024. I'll issue Change Order 3 for Priya's signature to
+confirm both the scope and the revised date.

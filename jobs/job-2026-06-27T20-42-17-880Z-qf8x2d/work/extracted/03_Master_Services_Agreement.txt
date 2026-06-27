@@ -1,0 +1,31 @@
+[Reconstructed extract — key passages only. The .docx original was not available on this
+machine; this file records the load-bearing passages of the document as referenced in the
+case findings note and the prior verified analysis of this bundle.]
+
+MASTER SERVICES AGREEMENT ("the MSA") — dated 14 March 2024
+between Meridian Retail Group plc ("the Customer") and TechFlow Solutions Limited ("the Supplier")
+
+Clause 1.2 — The Supplier shall perform the Services with reasonable skill and care.
+
+Clause 3.1 [P13] — The Supplier shall use reasonable endeavours to achieve the target go-live
+date set out in the Statement of Work. The implementation timetable is a planning estimate and
+may be adjusted through the change control procedure.
+
+Clause 3.2 [P14] — Any change to the scope, deliverables or timetable shall be agreed in writing
+by both parties by means of a signed Change Order. A signed Change Order varies this Agreement to
+the extent stated in it.
+
+Clause 14.1 [P16] — Subject to clause 14.3, the Supplier shall not be liable, whether in contract,
+tort (including negligence) or otherwise, for any loss of profit, loss of revenue or loss of
+anticipated savings.
+
+Clause 14.2 [P17] — The Supplier's total aggregate liability under or in connection with this
+Agreement shall not exceed the total charges actually paid by the Customer under this Agreement.
+
+Clause 22.1 [P20] — This Agreement constitutes the entire agreement between the parties and
+supersedes all prior representations, arrangements, understandings and agreements between them,
+whether written or oral.
+
+Clause 22.2 [P21] — The Customer acknowledges that it has not relied on, and shall have no remedy
+in respect of, any statement, representation, assurance or warranty (whether made innocently or
+negligently) that is not expressly set out in this Agreement (save in the case of fraud).

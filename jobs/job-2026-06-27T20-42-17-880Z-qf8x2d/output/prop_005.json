@@ -1,0 +1,153 @@
+{
+  "proposition_id": "prop_005",
+  "group": {
+    "group_id": "grp_002",
+    "title": "Platform quality, defects and availability"
+  },
+  "proposition_text": "The Platform contained critical (Severity 1) defects in the stock-synchronisation module which caused stores to display and sell against incorrect stock figures, such that the Platform was not of satisfactory quality and not reasonably fit for its purpose.",
+  "judgement": "supported",
+  "confidence": 0.9,
+  "summary": "The proposition's core allegation - that the Platform contained critical (Severity 1) defects in the stock-synchronisation module which caused stores to display and sell against incorrect stock figures, such that the Platform was not of satisfactory quality and not reasonably fit for its purpose - is strongly and independently corroborated across the bundle, and is the Claimant's strongest cause of action. The contemporaneous defect log (doc_013) records two Severity 1 stock-sync Platform defects, D-001 (tills showing incorrect stock counts and overselling on promotional lines) and D-002 (failed overnight reconciliation job). The Meridian fact witnesses Vance (doc_016) and Okafor (doc_017) describe the resulting disruption at the tills during peak trading; TechFlow itself admitted before and after go-live that the stock-sync defects were a Platform issue it owned (doc_009, doc_011); and, most importantly, the Claimant's own independent IT expert Dr Whitfield (doc_019) confirms the defects were genuine and serious, correctly categorised Severity 1, caused incorrect stock figures and overselling, persisted for about six weeks, and fell below the standard reasonably to be expected of a competent supplier exercising reasonable skill and care - the very standard engaged by MSA clause 1.2 (doc_003). The allegation is pleaded in the Particulars of Claim (doc_002) and repeated in the Notice of Termination (doc_014). The only countervailing material is the signed Phase 1 UAT Acceptance Certificate (doc_008, doc_018) recording no outstanding Severity 1/2 items as at 12 November 2024, which shows the defects emerged after acceptance/go-live rather than disproving them, together with TechFlow's solicitors' denial (doc_015). The separate availability allegations (the 25 November outage and the >40% unavailability) are network-caused and form a distinct proposition; they do not undermine the Severity 1 stock-sync defect case made out here. On balance the proposition is clearly supported.",
+  "evidence": [
+    {
+      "evidence_id": "prop_005__doc_001",
+      "doc_id": "doc_001",
+      "relevance": "somewhat_supported",
+      "reasoning": "The Claim Form is the originating pleading and frames the action as one for the Defendant's 'defective and delayed design, build and implementation' of the Platform, so it puts the existence of defects in issue and is on point. It does not, however, particularise the Severity 1 stock-sync failures or the satisfactory-quality/fitness conclusion (those come in the Particulars at doc_002), so it only weakly supports this specific proposition.",
+      "excerpt": "The Claimant claims against the Defendant damages for breach of contract and/or negligence and/or misrepresentation arising out of the Defendant’s defective and delayed design, build and implementation of a cloud-based inventory and EPOS platform pursuant to a Master Services Agreement dated 14 March 2024"
+    },
+    {
+      "evidence_id": "prop_005__doc_002",
+      "doc_id": "doc_002",
+      "relevance": "somewhat_supported",
+      "reasoning": "This is the source pleading for the proposition (paragraph 12 of the Particulars of Claim), pleading critical Severity 1 stock-synchronisation failures causing incorrect stock figures and the conclusion that the Platform was not of satisfactory quality nor reasonably fit for purpose. As the Claimant's own pleaded allegation it is on point and supportive, but as a pleading its weight depends on the corroboration found elsewhere in the bundle (the defect log, the fact witnesses and Whitfield), so it is treated as somewhat_supported rather than independently decisive. Note its 'numerous defects' wording is broader than this narrower proposition, which is confined to the Severity 1 stock-sync defects.",
+      "excerpt": "The Platform contained numerous defects, including critical (Severity 1) failures in the stock-synchronisation module which caused stores to display and sell against incorrect stock figures. By reason of those defects the Platform was not of satisfactory quality and was not reasonably fit for its purpose."
+    },
+    {
+      "evidence_id": "prop_005__doc_003",
+      "doc_id": "doc_003",
+      "relevance": "neutral",
+      "reasoning": "The MSA sets the contractual standard against which quality and fitness fall to be judged - the Supplier 'shall perform the Services with reasonable skill and care and in accordance with good industry practice'. This is the very clause 1.2 benchmark that Dr Whitfield (doc_019) applies and finds was breached by the six-week persistence of the Severity 1 stock-sync defects, so it is relevant supporting context for the breach analysis. At the same time it frames the obligation as an effort standard rather than an absolute warranty of satisfactory quality or fitness for purpose, so it does not itself establish the statutory labels in the proposition (ultimately a question for the Court). On balance it is neutral.",
+      "excerpt": "1.2  The Supplier shall perform the Services with reasonable skill and care and in accordance with good industry practice."
+    },
+    {
+      "evidence_id": "prop_005__doc_004",
+      "doc_id": "doc_004",
+      "relevance": "not_addressed",
+      "reasoning": "The Statement of Work sets out scope, milestones and customer responsibilities. It does not address whether the Platform contained Severity 1 stock-sync defects or whether it was of satisfactory quality or fit for purpose, so it is not relevant to this proposition.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_005__doc_005",
+      "doc_id": "doc_005",
+      "relevance": "not_addressed",
+      "reasoning": "The Order Form is a commercial/pricing document listing licence, EPOS configuration and reporting charges. It says nothing about defects, stock-synchronisation, quality or fitness for purpose, so it does not address the proposition.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_005__doc_006",
+      "doc_id": "doc_006",
+      "relevance": "not_addressed",
+      "reasoning": "The Deed of Variation No. 1 only varies the payment milestone profile and expressly does not vary scope or go-live date. It has no bearing on the existence of stock-sync defects or the quality/fitness of the Platform, so it is not relevant.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_005__doc_007",
+      "doc_id": "doc_007",
+      "relevance": "not_addressed",
+      "reasoning": "Change Order No. 3 adds the loyalty module and moves the go-live date. It is relevant to the delay/scope dispute but does not address the Severity 1 stock-sync defects or the satisfactory-quality/fitness question, so it is not relevant to this proposition.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_005__doc_008",
+      "doc_id": "doc_008",
+      "relevance": "somewhat_adverse",
+      "reasoning": "The Phase 1 UAT Acceptance Certificate records that Meridian accepted Phase 1 on 12 November 2024 with no outstanding Severity 1 or Severity 2 items at that date. This is mildly adverse to the satisfactory-quality framing in that it shows the Platform passed UAT, but it does not disprove the proposition: it confirms instead that the Severity 1 stock-sync defects emerged after acceptance and go-live (consistent with the defect log at doc_013 and Whitfield at doc_019), rather than that they never existed.",
+      "excerpt": "Meridian confirms that Phase 1 has passed User Acceptance Testing and is accepted, subject to the resolution of the outstanding minor (Severity 3 and 4) items listed in the snag log appended to the UAT report. No outstanding Severity 1 or Severity 2 items were recorded at the date of this certificate."
+    },
+    {
+      "evidence_id": "prop_005__doc_009",
+      "doc_id": "doc_009",
+      "relevance": "somewhat_supported",
+      "reasoning": "The go-live decision email is a contemporaneous admission by TechFlow's own Project Director, before go-live, that there were 'a handful of stock-sync issues' still to be closed out, lending early support to the existence of the stock-synchronisation defects later categorised Severity 1. It is only somewhat supportive because at this date they are described as a handful of issues to be hardened, not yet the post-go-live Severity 1 failures recorded in the defect log (doc_013).",
+      "excerpt": "the loyalty module added under Change Order 3 is still being hardened and we have a handful of stock-sync issues we would like to close out under controlled conditions."
+    },
+    {
+      "evidence_id": "prop_005__doc_010",
+      "doc_id": "doc_010",
+      "relevance": "not_addressed",
+      "reasoning": "The loyalty module change-request email thread concerns scope and the revised go-live date for the loyalty module. It does not address stock-synchronisation defects, the existence of Severity 1 failures, or the quality/fitness of the Platform, so it is not relevant to this proposition.",
+      "excerpt": ""
+    },
+    {
+      "evidence_id": "prop_005__doc_011",
+      "doc_id": "doc_011",
+      "relevance": "supported",
+      "reasoning": "This root-cause email contains a contemporaneous admission by TechFlow's Service Manager that the stock-sync defects 'are a Platform issue and which we own', directly supporting the defect limb of this proposition. The 25 November outage discussed in the same email is attributed to Meridian's network and concerns the separate availability allegation; that network point does not bear on, and does not undermine, the Severity 1 stock-sync defect case made out here.",
+      "excerpt": "Separately, we are continuing to work the stock-sync defects, which are a Platform issue and which we own."
+    },
+    {
+      "evidence_id": "prop_005__doc_012",
+      "doc_id": "doc_012",
+      "relevance": "somewhat_supported",
+      "reasoning": "This internal Meridian email confirms the stock-sync problems existed and affected the tills, corroborating the defect limb. It is only somewhat supportive because it records that store teams 'have largely been working around them with manual checks' and attributes most of the December shortfall to the DC flood and a soft market - points going to causation/impact severity rather than the existence of the defects.",
+      "excerpt": "On top of that, the platform stock-sync problems haven’t helped at the tills, though the teams have largely been working around them with manual checks."
+    },
+    {
+      "evidence_id": "prop_005__doc_013",
+      "doc_id": "doc_013",
+      "relevance": "supported",
+      "reasoning": "The contemporaneous defect log is highly probative and directly establishes the defect limb of the proposition: it records two Severity 1 stock-sync Platform defects - D-001 (tills show incorrect stock counts; oversell on promotional lines) and D-002 (overnight reconciliation job fails) - both confirmed as Platform defects. This corroborates the precise factual content of the proposition. The log's separate entries attributing the largest outage (D-003) and certain till freezes to network/broadband issues go only to the distinct availability allegation and do not detract from the Severity 1 stock-sync defects.",
+      "excerpt": "D-001 ... Sev 1 ... Stock-sync: tills show incorrect stock counts; oversell on promotional lines ... Platform defect — fixed 31 Dec 2024"
+    },
+    {
+      "evidence_id": "prop_005__doc_014",
+      "doc_id": "doc_014",
+      "relevance": "supported",
+      "reasoning": "The Notice of Termination / letter before action is directly on point: it asserts that following go-live the Platform suffered serious and repeated failures 'including critical defects in the stock-synchronisation module' and that the Platform 'was not of satisfactory quality nor fit for purpose' - essentially the wording of this proposition. As the Claimant's pre-action assertion it supports the allegation, with its weight reinforced by the corroborating defect log, witnesses and expert evidence.",
+      "excerpt": "following go-live on 18 November 2024 the Platform suffered serious and repeated failures, including critical defects in the stock-synchronisation module; and (iii) the Platform was not of satisfactory quality nor fit for purpose."
+    },
+    {
+      "evidence_id": "prop_005__doc_015",
+      "doc_id": "doc_015",
+      "relevance": "somewhat_adverse",
+      "reasoning": "TechFlow's solicitors' response denies the claim in its entirety, disputes liability and quantum, and relies on Meridian's signed Acceptance Certificate of 12 November 2024. It is partly adverse to the proposition's overall quality/fitness conclusion, but it does not specifically deny the existence of the stock-sync defects (which TechFlow elsewhere admitted at doc_011), and the acceptance point goes to timing rather than to whether the Severity 1 defects later occurred.",
+      "excerpt": "Your client’s claim is denied in its entirety. Liability and quantum are both disputed. ... Acceptance. Your client accepted Phase 1 by a signed Acceptance Certificate dated 12 November 2024."
+    },
+    {
+      "evidence_id": "prop_005__doc_016",
+      "doc_id": "doc_016",
+      "relevance": "supported",
+      "reasoning": "Helena Vance's witness statement (Programme Director, Meridian) gives first-hand support to the defect limb: she confirms that after go-live there were real problems with the stock-synchronisation module, that tills in some stores showed the wrong stock numbers, that on promotional lines they oversold, and that these problems were serious and took several weeks to bring under control - corroborating that the Severity 1 stock-sync defects caused stores to display and sell against incorrect stock figures. The findings note records her evidence that these problems 'caused a great deal of disruption for store teams during our busiest period'.",
+      "excerpt": "After go-live there were real problems with the stock-synchronisation module. Tills in some stores showed the wrong stock numbers, and on promotional lines we oversold in places. These problems were serious and took several weeks to bring under control."
+    },
+    {
+      "evidence_id": "prop_005__doc_017",
+      "doc_id": "doc_017",
+      "relevance": "supported",
+      "reasoning": "Raymond Okafor's witness statement (Head of Retail Operations, Meridian) supports the defect limb, confirming that the first weeks were very difficult 'particularly because of stock figures being wrong at the tills on the new system'. This corroborates Vance (doc_016) and the defect log (doc_013) on the stock-sync defects. His candid attribution of certain till outages to in-store broadband and the 25 November outage to the data-centre network relates to the separate availability allegation and does not undermine the stock-sync defect case.",
+      "excerpt": "The first few weeks were very difficult for store teams, particularly because of stock figures being wrong at the tills on the new system."
+    },
+    {
+      "evidence_id": "prop_005__doc_018",
+      "doc_id": "doc_018",
+      "relevance": "somewhat_adverse",
+      "reasoning": "Priya Nair's witness statement (Head of Procurement) is relevant chiefly on acceptance: she confirms she signed the Phase 1 Acceptance Certificate on 12 November 2024 with 'no critical items ... outstanding at that point'. That is mildly adverse to the satisfactory-quality framing but, as with doc_008, it goes to timing and is consistent with the Severity 1 stock-sync defects emerging after acceptance/go-live. She expressly disclaims any view on the platform's technical performance, so she neither confirms nor denies the post-go-live defects.",
+      "excerpt": "On 12 November 2024 I signed the Phase 1 Acceptance Certificate, confirming that Phase 1 of the platform had passed user acceptance testing. There were some minor snags listed, but no critical items were outstanding at that point."
+    },
+    {
+      "evidence_id": "prop_005__doc_019",
+      "doc_id": "doc_019",
+      "relevance": "supported",
+      "reasoning": "Dr Whitfield's independent IT expert report is the strongest corroboration of the proposition. He opines that the Platform did contain genuine and serious stock-synchronisation defects (D-001 and D-002), correctly categorised Severity 1, which caused incorrect stock figures at the point of sale and overselling, and persisted for about six weeks. The findings note records his conclusion that their persistence 'falls below the standard reasonably to be expected of a competent supplier exercising reasonable skill and care' - independently supporting both the Severity 1 defects and a quality shortfall against the MSA clause 1.2 standard (doc_003). His rebuttal of the related unavailability allegation (largest outage caused by the customer's network) concerns the separate availability proposition.",
+      "excerpt": "my opinion is that the Platform did contain genuine and serious defects in the stock-synchronisation module (defects D-001 and D-002 in the log). These were correctly categorised as Severity 1. They caused incorrect stock figures at the point of sale and overselling on certain lines, and persisted for approximately six weeks before being resolved."
+    },
+    {
+      "evidence_id": "prop_005__doc_020",
+      "doc_id": "doc_020",
+      "relevance": "neutral",
+      "reasoning": "The quantum expert report addresses the value of the pleaded losses, not whether the Platform contained Severity 1 defects or was of satisfactory quality and fit for purpose. It accepts that some incremental lost profit (~£1.3m) is attributable to the Platform's defects, which implicitly assumes defects existed, but it is directed at quantum and causation rather than the existence or quality characterisation of the defects, so it is broadly neutral on this proposition.",
+      "excerpt": "On the most supportable basis, the incremental lost gross profit capable of being attributed to the Platform’s defects is of the order of £1,300,000, not £4,200,000."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[Reconstructed extract — key passages only. The .docx original was not available on this
+machine; this file records the load-bearing passages of the document as referenced in the
+case findings note and the prior verified analysis of this bundle.]
+
+WITNESS STATEMENT OF PRIYA NAIR
+(Head of Procurement, Meridian Retail Group plc) — dated 13 March 2026
+
+[P16] On 2 September 2024 I signed Change Order No. 3. This added the customer loyalty module, which
+Helena Vance had asked TechFlow to provide and which was not in the original Statement of Work, and
+it revised the go-live date from 1 October to 18 November 2024. I understood we were changing both
+the scope and the date.
+
+[P17] On 12 November 2024 I signed the Phase 1 Acceptance Certificate, confirming that Phase 1 of
+the Platform had passed user acceptance testing.
+
+[P18] In total Meridian paid TechFlow £1.8 million. We withheld the final two milestone payments of
+£300,000 each — £600,000 in total — because of the problems we experienced after go-live.

@@ -1,0 +1,26 @@
+[Reconstructed extract — key passages only. The .docx original was not available on this
+machine; this file records the load-bearing passages of the document as referenced in the
+case findings note and the prior verified analysis of this bundle. This solicitors' response
+letter is the only statement of TechFlow's positive case (the bundle's pleadings are the
+Claimant's only).]
+
+LETTER — TECHFLOW'S SOLICITORS' RESPONSE — 7 February 2025
+From Hartwell & Pryce LLP (for TechFlow Solutions Limited) to Meridian Retail Group plc
+
+The go-live date was a target, not a fixed date. It moved from 1 October to 18 November 2024 by
+reason of Change Order No. 3, signed by your client on 2 September 2024, which added a customer
+loyalty module that your client requested and which was not in the original scope. Your client's
+assertion that it requested no change to scope is contradicted by its own signed Change Order.
+
+Your client was advised in writing to defer go-live and chose to proceed and to accept the risk.
+
+Your client accepted Phase 1 by a signed Acceptance Certificate dated 12 November 2024.
+
+The Platform was not unavailable for anything approaching 40% of trading hours; the largest outage
+(25 November 2024) was caused by your client's own network provider, not the Platform.
+
+The pleaded loss of profit is substantially overstated and is in any event excluded and capped by
+clause 14 of the MSA.
+
+Your client has wrongly withheld the final two milestone payments totalling £600,000, which remain
+due to our client.

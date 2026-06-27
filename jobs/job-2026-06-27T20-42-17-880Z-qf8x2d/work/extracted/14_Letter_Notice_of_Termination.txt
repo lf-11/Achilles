@@ -1,0 +1,12 @@
+[Reconstructed extract — key passages only. The .docx original was not available on this
+machine; this file records the load-bearing passages of the document as referenced in the
+case findings note and the prior verified analysis of this bundle.]
+
+LETTER — NOTICE OF TERMINATION / LETTER BEFORE ACTION — 20 January 2025
+From Meridian Retail Group plc to TechFlow Solutions Limited
+
+We hereby give notice of termination of the MSA for repudiatory breach. In summary: (i) you
+delivered the Platform late; (ii) following go-live on 18 November 2024 the Platform suffered serious
+and repeated failures, including critical stock-synchronisation defects and prolonged unavailability;
+and (iii) the Platform was not of satisfactory quality and was not fit for purpose. Meridian reserves
+all its rights and will pursue damages.

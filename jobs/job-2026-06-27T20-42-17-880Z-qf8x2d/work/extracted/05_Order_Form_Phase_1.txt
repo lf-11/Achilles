@@ -1,0 +1,14 @@
+[Reconstructed extract — key passages only. The .docx original was not available on this
+machine; this file records the load-bearing passages of the document as referenced in the
+case findings note and the prior verified analysis of this bundle.]
+
+ORDER FORM (Ref MRG-TF-OF-001) — Phase 1 — dated 20 March 2024
+Under: Master Services Agreement dated 14 March 2024
+
+Item                                                              Qty      Charge (£)
+Platform licence & implementation (Phase 1 — core inventory & EPOS)  1     1,500,000
+EPOS terminal configuration (180 stores)                          180       540,000
+Reporting & analytics (Phase 2)                                      1       360,000
+                                                                  Total   2,400,000
+
+Charges are payable against the completion of the milestones set out in the SOW.

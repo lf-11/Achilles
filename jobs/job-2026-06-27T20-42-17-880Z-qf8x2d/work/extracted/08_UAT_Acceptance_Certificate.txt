@@ -1,0 +1,11 @@
+[Reconstructed extract — key passages only. The .docx original was not available on this
+machine; this file records the load-bearing passages of the document as referenced in the
+case findings note and the prior verified analysis of this bundle.]
+
+PHASE 1 — USER ACCEPTANCE TESTING (UAT) ACCEPTANCE CERTIFICATE — dated 12 November 2024
+
+[P7] Meridian confirms that Phase 1 has passed User Acceptance Testing and is accepted, subject to
+the resolution of the outstanding minor (Severity 3 and 4) items listed in the appendix. No
+outstanding Severity 1 or Severity 2 items were recorded at the date of this certificate.
+
+Signed: Priya Nair (Head of Procurement, Meridian), 12 November 2024.
