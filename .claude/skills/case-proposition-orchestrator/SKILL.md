@@ -68,7 +68,7 @@ Assign each proposition a stable `proposition_id`. Do not paraphrase the proposi
 
 ### Step 3 — Launch one subagent per proposition
 
-For each proposition in `work/propositions.json`, launch a subagent (using the proposition-evaluator skill). Pass each subagent:
+For each proposition in `work/propositions.json`, launch a subagent (using the **proposition-evidence-evaluation** skill). Pass each subagent:
 
 - the single `proposition_id` and its `text`
 - the path to `work/document_index.json`
@@ -81,25 +81,7 @@ Subagents are independent and can run in parallel — one proposition's evaluati
 
 ## Output contract
 
-Each subagent must produce a file matching this shape (the subagent skill enforces the details):
-
-```json
-{
-  "proposition_id": "prop_001",
-  "proposition_text": "...",
-  "judgement": "supported",
-  "confidence": 0.0,
-  "summary": "One-paragraph explanation of the judgement.",
-  "evidence": [
-    {
-      "doc_id": "doc_004",
-      "relevance": "supports",
-      "excerpt": "short supporting/contradicting passage",
-      "note": "why this bears on the proposition"
-    }
-  ]
-}
-```
+Each subagent produces one file at `output/<proposition_id>.json`. The exact shape — the overall `judgement`, `confidence`, `summary`, and the per-document `evidence` list with verified excerpts — is defined and enforced by the **proposition-evidence-evaluation** skill. See that skill for the authoritative output schema.
 
 The `output/` directory of per-proposition JSON files is the final artifact. These are consumed by the frontend.
 
