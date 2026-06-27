@@ -10,6 +10,9 @@ page_results/
 # Web service runtime job data (uploads, work, output, logs)
 jobs/
 
+# macOS junk
+.DS_Store
+
 # Claude internals — track only skills/, ignore everything else
 .claude/*
 !.claude/skills/
